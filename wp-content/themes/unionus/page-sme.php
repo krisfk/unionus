@@ -222,7 +222,7 @@ get_header();
 
             </div>
 
-            <div class="text-start mt-4 inner-container2 mx-auto">*此日期參考2020/21年度，每年安排或會有不同，須以稅務局刊登為準 <br>
+            <div class="text-start mt-4 inner-container mx-auto">*此日期參考2020/21年度，每年安排或會有不同，須以稅務局刊登為準 <br>
 
                 另外首年檔案號碼中字首的”23”亦會更改為相應行業類別的編號，例如05(進出口)、13(印刷)、22 (覆查個案) 等等
 
