@@ -48,6 +48,11 @@ get_header();
 
             <img class="w-100" src="https://unionus.com.hk/wp-content/uploads/2021/06/sem-graph.png" alt="">
 
+
+            <div>
+                <img class="flo-icon" src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
+                    alt="">
+            </div>
             <div class="mt-4">
                 首次報稅： <br>
                 公司開業1.5年後會收到第一份報稅表(BIR51)，並且有較長報稅期限，可以於三個月內遞交。<br>
