@@ -1569,6 +1569,9 @@ a.normal:hover {
     .pt-const2 {
         padding: 125px 0 0 0;
     }
+    .mt-const {
+        margin: 100px 0 0 0;
+    }
 }
 
 @media only screen and (max-width: 768px) {}
