@@ -241,7 +241,7 @@ get_header();
     </div>
 </section>
 
-<section class="sec5 pt-const">
+<section class="sec5 mt-6">
 
 
     <div class="sep mx-auto"> <img class="sep-flo"
