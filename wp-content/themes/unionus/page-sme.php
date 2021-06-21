@@ -314,13 +314,14 @@ get_header();
                     <option value="12:00am-1:00pm">12:00am-1:00pm</option>
                 </select>
             </div>
+            <div class="col-12 mb-4">
+                <button type="button" class="btn submit-btn float-end mt-4">確定</button>
+
+
+            </div>
         </div>
 
-        <div class="col-12 mb-4">
-            <button type="button" class="btn submit-btn float-end mt-4">確定</button>
 
-
-        </div>
 
 
 
