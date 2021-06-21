@@ -1575,7 +1575,14 @@ a.normal:hover {
 
 @media only screen and (max-width: 640px) {}
 
-@media only screen and (max-width: 480px) {}
+@media only screen and (max-width: 480px) {
+    h1 {
+        font-size: 32px !important;
+    }
+    h2 {
+        font-size: 27px !important;
+    }
+}
 
 
 /* .gold-table-div-wrapper-col {} */
