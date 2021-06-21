@@ -362,6 +362,10 @@ get_header();
 .top-menu-div {
     display: none;
 }
+
+.top-menu-logo-a {
+    display: none;
+}
 </style>
 
 
