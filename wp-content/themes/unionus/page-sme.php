@@ -324,7 +324,12 @@ get_header();
                     </td>
                 </tr>
                 <tr>
-                    <td colspan="2"></td>
+                    <td colspan="2">
+
+                        <!-- <input type="submit" class="submit-btn btn"> -->
+                        <button type="button" class="btn submit-btn">確定</button>
+
+                    </td>
                 </tr>
             </table>
         </form>
