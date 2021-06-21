@@ -323,6 +323,9 @@ get_header();
                         </select>
                     </td>
                 </tr>
+                <tr>
+                    <td colspan="2"></td>
+                </tr>
             </table>
         </form>
 
