@@ -36,7 +36,7 @@ get_header();
         </div>
 
 
-        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-3 mt-3  text-center">
+        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">
 
             <h2 class="gold">百分百擔保特惠貸款詳情</h2><br>
 
@@ -62,10 +62,10 @@ get_header();
                     為我提供多少資金？
                 </h2>
 
-                <div class="mt-lg-5 mt-md-5 mt-sm-3 mt-3  text-center">
+                <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">
                     百分百擔保特惠貸款的申請最高金額為600萬港元，或者公司員工的每月薪金加每月租金乘以18的總和，以數值最低者為準。
 
-                    <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-3 mt-3 ">例子一：</h2>
+                    <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">例子一：</h2>
 
                     X公司是一間中小企業，員工有15人，平均月薪為$20,000港元；而每月租金為$30,000港元，A公司成功申請SFGS100時，能獲取的金額為
                     <br>
@@ -73,7 +73,7 @@ get_header();
 
 
 
-                    <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-3 mt-3 ">例子二：</h2>
+                    <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">例子二：</h2>
                     Y公司也是一間中小企業，員工有20人，平均月薪為$20,000港元；而每月租金為$30,000港元，B公司成功申請SFGS100時，能獲取的金額為
 
                     <br>
@@ -83,7 +83,7 @@ get_header();
 
 
 
-                    <div class="gold-table-div-wrapper mt-lg-5 mt-md-5 mt-sm-3 mt-3 ">
+                    <div class="gold-table-div-wrapper mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
 
                         <img class="table-head-th-img"
                             src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
@@ -101,7 +101,7 @@ get_header();
                                                 申請「百分百擔保特惠貸款」？
                                             </h2>
 
-                                            <div class="mt-lg-5 mt-md-5 mt-sm-3 mt-3   text-start">
+                                            <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4   text-start">
                                                 <ul>
                                                     <li>2019年底前已最少營運3個月，並在香港營運及註冊</li>
                                                     <li>2020年2月份起，任何一個月的營業額較2019年任何一個季度的平均每月營業額，下跌3成或以上</li>
@@ -147,10 +147,10 @@ get_header();
                             銀行亦拒絕了不少文件不齊全的申請案例，令到老闆們擔心申請不易。近期經濟下行，銀行審批貸款的要求比以前更高，不少中小企老闆心中會存上問號「我是否真的可以成功申請銀行貸款？」</div>
                     </div>
 
-                    <div class="mt-lg-5 mt-md-5 mt-sm-3 mt-3 ">事實上，香港有很多中小企業申請「百分百擔保特惠貸款」時，即使符合申請條件，他們還是很容易遇上各種困難，例如：
+                    <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">事實上，香港有很多中小企業申請「百分百擔保特惠貸款」時，即使符合申請條件，他們還是很容易遇上各種困難，例如：
                     </div>
 
-                    <ul class="mt-lg-5 mt-md-5 mt-sm-3 mt-3  gold">
+                    <ul class="mt-lg-5 mt-md-5 mt-sm-4 mt-4  gold">
 
                         <li class="d-inline-block me-4">．不擅長處理文書工作</li>
                         <li class="d-inline-block me-4">．害怕申請失敗、怕麻煩 </li>
@@ -176,17 +176,17 @@ get_header();
 
                     </h2>
 
-                    <div class="mt-lg-5 mt-md-5 mt-sm-3 mt-3 ">
+                    <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
                         放心，我們和各大銀行合作，並在短短數月成功協助數百個中小企老闆的申請，立即預約我們的融資顧問，幫你立即解決生意上的煩惱！成為成功申請嘅一份子啦！
                     </div>
                 </div>
 
 
-                <div class="mt-lg-5 mt-md-5 mt-sm-3 mt-3 ">
-                    <h2 class="gold mt-lg-5 mt-md-5 mt-sm-3 mt-3  text-center">我們的服務
+                <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+                    <h2 class="gold mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">我們的服務
                     </h2>
 
-                    <div class="row mt-lg-5 mt-md-5 mt-sm-3 mt-3 ">
+                    <div class="row mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
                         <div class="col-4 text-center">
                             <img class="sme-icon"
                                 src="<?php echo get_template_directory_uri();?>/assets/images/sme-icon-1.png" alt="">
@@ -211,7 +211,7 @@ get_header();
                         </div>
                     </div>
 
-                    <div class="mt-lg-5 mt-md-5 mt-sm-3 mt-3 ">
+                    <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
                         我們會安排專人協助準備所需文件如商業登記、營運證明、營業數據等資料，並可快速為客戶配對合適銀行，提高申請成功率，加快整個申請過程，順利完成申請。
 
                     </div>
@@ -248,7 +248,7 @@ get_header();
             src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
 
-    <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-3 mt-3 ">聯絡我們</h2>
+    <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">聯絡我們</h2>
 
 
     <div class="contact-form-div container">
@@ -337,7 +337,7 @@ get_header();
     </div>
 
 
-    <div class="sep2 mx-auto mt-lg-5 mt-md-5 mt-sm-3 mt-3 ">
+    <div class="sep2 mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
     </div>
 
 
