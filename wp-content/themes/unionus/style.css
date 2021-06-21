@@ -1576,6 +1576,13 @@ a.normal:hover {
     color: #d09337;
 }
 
+.wpcf7 form.sent .wpcf7-response-output {
+    border-color: transparent;
+    color: #debc89;
+    /* background: #debc89; */
+    padding: 0;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
