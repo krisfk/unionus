@@ -1548,6 +1548,10 @@ a.normal:hover {
     padding: 6px 50px;
 }
 
+.contact-form-div .submit-btn:hover {
+    color: #ddbd8a;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 40px !important;
