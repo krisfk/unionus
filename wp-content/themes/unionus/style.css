@@ -1566,6 +1566,9 @@ a.normal:hover {
         font-size: 17px;
         line-height: 1.5;
     }
+    .pt-const2 {
+        padding: 125px 0 0 0;
+    }
 }
 
 @media only screen and (max-width: 768px) {}
