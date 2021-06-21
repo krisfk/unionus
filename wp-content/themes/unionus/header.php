@@ -87,7 +87,8 @@
     <?php wp_body_open(); ?>
 
 
-    <img class="bg-shape" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape.png" alt="">
+    <img class="bg-shape-1" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-1.png" alt="">
+    <img class="bg-shape-2" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-2.png" alt="">
 
 
     <a href="https://api.whatsapp.com/send?phone=85298888135" target="_blank" class="wts-icon-a"><img
