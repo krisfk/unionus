@@ -77,7 +77,7 @@ get_header();
 
 
 
-                    <div class="gold-table-div-wrapper">
+                    <div class="gold-table-div-wrapper mt-5">
 
                         <img class="table-head-th-img"
                             src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
