@@ -266,9 +266,23 @@ get_header();
                 <tr>
                     <td>查詢項目：
                         <select class="form-select" aria-label="查詢項目：">
-                            <option value="" disabled selected>是否支援whatsapp？</option>
-                            <option value="是">是</option>
-                            <option value="否">否</option>
+                            <option value="DRP債務重組">DRP債務重組</option>
+                            <option value="IDRP 牽頭式債務舒緩">IDRP 牽頭式債務舒緩</option>
+                            <option value="破產">破產</option>
+                            <option value="TU（個人環聯信貸報告）改善方案">TU（個人環聯信貸報告）改善方案</option>
+                            <option value="大額清數方案">大額清數方案</option>
+
+                            <option value="開立有限/無限公司">開立有限/無限公司</option>
+
+                            <option value="公司/私人報稅">公司/私人報稅</option>
+
+                            <option value="會計審核">會計審核</option>
+
+
+
+
+
+
                         </select>
                     </td>
                     <td>
