@@ -110,8 +110,7 @@
 
 
     <a href="<?php echo get_site_url();?>" class="top-menu-logo-a">
-        <img class="top-menu-logo" src="http://localhost:8888/unionus/wp-content/themes/unionus/assets/images/logo.png"
-            alt="">
+        <img class="top-menu-logo" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
     </a>
 
     <div class="top-menu-div">
