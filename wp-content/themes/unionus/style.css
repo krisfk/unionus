@@ -1498,7 +1498,7 @@ a.normal:hover {
 .contact-form-div input::placeholder {
     /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: #ddbd8a;
-    opacity: 0.6;
+    opacity: 1;
     /* Firefox */
 }
 
