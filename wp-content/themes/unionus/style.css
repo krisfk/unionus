@@ -1542,5 +1542,15 @@ a.normal:hover {
     padding: 6px 50px;
 }
 
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 991px) {}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 640px) {}
+
+@media only screen and (max-width: 480px) {}
+
 
 /* .gold-table-div-wrapper-col {} */
