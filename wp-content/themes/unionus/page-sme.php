@@ -110,6 +110,10 @@ get_header();
 
                             </table>
                         </div>
+
+                        <img class="table-foot-th-img"
+                            src="<?php echo get_template_directory_uri(); ?>/assets/images/table-foot.png" alt="">
+
                     </div>
 
 
