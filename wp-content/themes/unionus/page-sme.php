@@ -248,7 +248,7 @@ get_header();
     <h2 class="gold text-center mt-5">聯絡我們</h2>
 
 
-    <div class="contact-form-div">
+    <div class="contact-form-div container">
 
 
         <div class="row">
