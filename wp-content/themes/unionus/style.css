@@ -1501,5 +1501,13 @@ a.normal:hover {
     /* Firefox */
 }
 
+.contact-form-div select {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #ddbd8a;
+    background: none;
+    opacity: 0.6;
+    /* Firefox */
+}
+
 
 /* .gold-table-div-wrapper-col {} */
