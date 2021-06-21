@@ -243,27 +243,29 @@ get_header();
     <h2 class="gold text-center mt-5">聯絡我們</h2>
 
 
+    <div class="contact-form-div">
+        <form action="">
 
-    <form action="">
+            <table class="mx-auto">
+                <tr>
+                    <td><input type="text" class="form-control" placeholder="姓名"></td>
+                    <td><input type="text" class="form-control" placeholder="聯絡電話"></td>
+                </tr>
+                <tr>
+                    <td><input type="text" class="form-control" placeholder="電郵"></td>
+                    <td>
+                        <select class="form-select" aria-label="是否支援whatsapp">
+                            <option selected>是否支援whatsapp</option>
+                            <option value="是">是</option>
+                            <option value="否">否</option>
+                        </select>
 
-        <table class="mx-auto">
-            <tr>
-                <td><input type="text" class="form-control" placeholder="姓名"></td>
-                <td><input type="text" class="form-control" placeholder="聯絡電話"></td>
-            </tr>
-            <tr>
-                <td><input type="text" class="form-control" placeholder="電郵"></td>
-                <td>
-                    <select class="form-select" aria-label="是否支援whatsapp">
-                        <option selected>是否支援whatsapp</option>
-                        <option value="是">是</option>
-                        <option value="否">否</option>
-                    </select>
+                    </td>
+                </tr>
+            </table>
+        </form>
 
-                </td>
-            </tr>
-        </table>
-    </form>
+    </div>
 
 
     <div class="sep2 mx-auto mt-5">

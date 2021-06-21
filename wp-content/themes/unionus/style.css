@@ -1488,5 +1488,7 @@ a.normal:hover {
     width: 60%;
 }
 
+.contact-form-div input[type='text'] {}
+
 
 /* .gold-table-div-wrapper-col {} */
