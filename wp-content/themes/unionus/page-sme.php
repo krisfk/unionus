@@ -252,7 +252,7 @@ get_header();
                     <td>聯絡電話：<input type="text" class="form-control" placeholder="聯絡電話"></td>
                 </tr>
                 <tr>
-                    <td><input type="text" class="form-control" placeholder="電郵"></td>
+                    <td>電郵：<input type="text" class="form-control" placeholder="電郵"></td>
                     <td>
                         是否支援whatsapp？
                         <select class="form-select" aria-label="是否支援whatsapp">
