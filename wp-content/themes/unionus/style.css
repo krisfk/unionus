@@ -1497,7 +1497,8 @@ a.normal:hover {
     max-width: 550px !important;
 }
 
-.contact-form-div input[type='text'] {
+.contact-form-div input[type='text'],
+.contact-form-div input[type='email'] {
     background: none;
     border: 2px solid #ddbd8a;
     color: #ddbd8a;
