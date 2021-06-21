@@ -173,17 +173,37 @@ get_header();
                     <div class="mt-5">放心，我們和各大銀行合作，並在短短數月成功協助數百個中小企老闆的申請，立即預約我們的融資顧問，幫你立即解決生意上的煩惱！成為成功申請嘅一份子啦！
                     </div>
                 </div>
+
+
+                <div class="mt-5">
+                    <h2 class="gold mt-5 text-center">我們的服務
+                    </h2>
+
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/sme-icon-1.png" alt="">
+                            <div>協助客戶預備貸款文件
+                            </div>
+                        </div>
+                        <div class="col-4"> <img
+                                src="<?php echo get_template_directory_uri();?>/assets/images/sme-icon-2.png" alt="">
+                            <div>加快文件處理速度
+
+                            </div>
+                        </div>
+                        <div class="col-4"> <img
+                                src="<?php echo get_template_directory_uri();?>/assets/images/sme-icon-3.png" alt="">
+                            <div>增加成功申請的機會
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
 
 
-            <h2 class="gold mt-5 text-end">其後報稅</h2>
 
-            <div class="mt-4 text-end">
-
-                通常於四至五月會收到，需要發出日一個月內遞交。 <br>
-                但我們作為稅務代表可以為客戶提交延期申請，根據公司結帳日期有以下分別:
-
-            </div>
 
         </div>
 
