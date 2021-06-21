@@ -1512,7 +1512,9 @@ a.normal:hover {
     border-radius: 6px;
 }
 
-.contact-form-div table td {}
+.contact-form-div table td {
+    padding: 10px;
+}
 
 
 /* .gold-table-div-wrapper-col {} */
