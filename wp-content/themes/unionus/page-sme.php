@@ -46,7 +46,7 @@ get_header();
         <div class="inner-container2 mx-auto">
 
 
-            <img src="https://unionus.com.hk/wp-content/uploads/2021/06/sem-graph.png" alt="">
+            <img class="w-100" src="https://unionus.com.hk/wp-content/uploads/2021/06/sem-graph.png" alt="">
 
             <div class="mt-4">
                 首次報稅： <br>
