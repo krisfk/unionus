@@ -219,21 +219,8 @@ get_header();
 
 
 
-        <div class="text-center">
-            <div class="gold-table-div-wrapper">
 
-                <img class="table-head-th-img"
-                    src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
-
-
-
-
-
-            </div>
-
-
-
-        </div>
+        \
 
 
 
@@ -252,48 +239,12 @@ get_header();
 
 
 
-<section class="sec5 pt-const">
 
-
-
-    <div class="sep mx-auto mt-const"> <img class="sep-flo"
-            src="http://localhost:8888/unionus/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
-
-
-    <table class="me-auto ms-auto mt-5">
-        <tbody>
-            <tr>
-                <td class="align-top gold-border-right pe-3">
-                    <h2 class="gold text-end">有限公司利得稅 <br>
-                        申報服務</h2>
-                </td>
-                <td class=" ps-3">
-                    <ul class="service-points">
-                        <li>D審計核數服務</li>
-                        <li>編制財務年報</li>
-                        <li>委任為稅務代表</li>
-                        <li>填妥利得稅報稅表</li>
-                        <li>遞交報稅表</li>
-                        <li>稅務建議</li>
-
-
-
-                    </ul>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    <div class="sep2 mx-auto mt-5">
-    </div>
-
-
-
-</section>
 
 
 
 <script type="text/javascript">
-const skrollrObj = skrollr.init();
+// const skrollrObj = skrollr.init();
 </script>
 
 <script type="text/javascript">
@@ -302,7 +253,7 @@ $(function() {
 
 
     // .gold-table-div.silver
-    $('.gold-table-div.silver').height($('.gold-table-div-wrapper-col').height() - 100);
+    // $('.gold-table-div.silver').height($('.gold-table-div-wrapper-col').height() - 100);
     // $('.home-banner-div').width($(window).width());
     // $('.home-banner-div').height($(window).height());
 
