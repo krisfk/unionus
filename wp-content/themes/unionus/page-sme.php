@@ -226,110 +226,19 @@ get_header();
                     src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
 
 
-                <div class="gold-table-div">
-                    <table class="gold-table">
 
 
-                        <tbody>
-
-                            <tr>
-                                <td class="column-1 gold big-size text-center">類別</td>
-                                <td class="column-2 gold big-size text-center">結帳日期</td>
-                                <td class="column-3 gold big-size text-center">提交日期可延展至*</td>
-                            </tr>
-                            <tr>
-                                <td class="gold big-size text-center">N code</td>
-                                <td>4月1日至11月30日</td>
-                                <td>5月31日</td>
-                            </tr>
-                            <tr>
-                                <td class="gold big-size text-center">D code</td>
-                                <td>12月1日至12月31日</td>
-                                <td>8月16日</td>
-                            </tr>
-                            <tr>
-                                <td class="gold big-size text-center">M code</td>
-                                <td>1月1日至3月31日</td>
-                                <td>11月15日</td>
-                            </tr>
-                            <tr>
-                                <td class="gold big-size text-center">M code</td>
-                                <td>1月1日至3月31日
-                                </td>
-                                <td>1月31日 </td>
-                            </tr>
-
-
-
-                        </tbody>
-
-                    </table>
-                </div>
 
             </div>
 
-            <div class="text-start mt-4 inner-container mx-auto">*此日期參考2020/21年度，每年安排或會有不同，須以稅務局刊登為準 <br>
 
-                另外首年檔案號碼中字首的”23”亦會更改為相應行業類別的編號，例如05(進出口)、13(印刷)、22 (覆查個案) 等等
 
-            </div>
-        </div>
-
-        <div class="text-center mt-7">
-
-            <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">報稅需要提交什麼？</h2>
         </div>
 
 
-        <div class="row mt-6 gx-5">
-
-            <div class="col-4 text-center">
-                <img class="tax-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/tax-icon-1.png"
-                    alt="">
-
-                <h3 class="gold mt-3">完全沒有營運</h3>
-
-                <div class="mt-4">收入為0或宣布公司處於不活動狀態
-                    仍需要填寫報稅表，但可豁免審計。除了填寫相應的日期及股本外，稅表上只需要全填零。
-                </div>
 
 
-            </div>
-            <div class="col-4 text-center"> <img class="tax-icon"
-                    src="<?php echo get_template_directory_uri(); ?>/assets/images/tax-icon-2.png" alt="">
 
-                <h3 class="gold mt-3">營業額 HK$1 - $2,000,000 <br>
-                    加其他小型法團定義*</h3>
-                <div class="mt-4">不需要連同審計報告及利得稅計算表交上，但根據法律規定須要核數。稅表上要填寫核數師名稱及審計報告的簽署日期。
-                    <br><br>
-                    *請參考#5: <br>
-                    <a class="normal" href="https://www.ird.gov.hk/chi/tax/taxrep_ptr.htm"
-                        target="_blank">https://www.ird.gov.hk/chi/tax/taxrep_ptr.htm</a>
-
-                </div>
-
-            </div>
-            <div class="col-4 text-center"> <img class="tax-icon"
-                    src="<?php echo get_template_directory_uri(); ?>/assets/images/tax-icon-3.png" alt="">
-                <h3 class="gold mt-3">營業額二百萬以上</h3>
-                <div class="mt-4">需要將稅表連同簽署後的審計報告及利得稅計算表遞交。
-
-                </div>
-
-            </div>
-        </div>
-
-        <div class="inner-container3 mx-auto mt-5">*如遺失了稅表，可以寫信給稅局補領，會寄至公司註冊地址 <br>
-            **因為審計及會計必須是一年帶一年的做，如遺失了以前的報稅及會計記錄，可去信稅局要求寄回先前的文件遞交記錄(需支付相關費用)
-        </div>
-
-        <div class="text-center mt-7">
-
-            <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">報稅後</h2>
-            <div class="mt-3">如果公司於稅務調整後財政為:</div>
-        </div>
 
 
         <div class="row gx-5">
