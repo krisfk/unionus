@@ -1587,6 +1587,11 @@ a.normal:hover {
     position: fixed;
     bottom: 15px;
     right: 15px;
+    transition: 0.2s all;
+}
+
+.wts-icon-a:hover {
+    opacity: 0.85;
 }
 
 .wts-icon-a img {
