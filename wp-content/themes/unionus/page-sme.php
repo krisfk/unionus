@@ -30,7 +30,11 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center">任何公司都需要申報稅務，但無限公司一般只需要在個人報稅表上申報，有限公司則需要審計核數並遞交獨立報稅表。
+
+        <h2 class="gold">百分百擔保特惠貸款詳情</h2>
+        <div class="inner-container mx-auto mt-5 text-center">
+
+
         </div>
         <div class="inner-container2 mx-auto">
             <h2 class="gold mt-6">有限公司首次報稅注意事項</h2>
