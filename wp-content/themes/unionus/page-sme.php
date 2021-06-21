@@ -159,7 +159,7 @@ get_header();
 
                 </div>
 
-                <div class="mt-7">
+                <div class="mt-6">
 
                     <img class="flo-icon " src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
                         alt="">
