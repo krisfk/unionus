@@ -1624,6 +1624,11 @@ a.normal:hover {
     h2 {
         font-size: 24px !important;
     }
+    .sme-logo {
+        width: 190px;
+        display: block;
+        margin: 0 auto 50px auto;
+    }
 }
 
 @media only screen and (max-width: 991px) {
