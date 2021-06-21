@@ -1523,5 +1523,9 @@ a.normal:hover {
     box-shadow: 1px 0px 14px rgb(221 189 138);
 }
 
+.contact-form-div table td select:focus {
+    box-shadow: 1px 0px 14px rgb(221 189 138);
+}
+
 
 /* .gold-table-div-wrapper-col {} */
