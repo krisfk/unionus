@@ -1508,6 +1508,11 @@ a.normal:hover {
 
 .contact-form-div input[type='submit'] {
     color: #ddbd8a;
+    transition: 0.2s all;
+}
+
+.contact-form-div input[type='submit']:hover {
+    opacity: 0.85;
 }
 
 .contact-form-div input::placeholder {
