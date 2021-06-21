@@ -244,7 +244,7 @@ get_header();
 <section class="sec5 pt-const">
 
 
-    <div class="sep mx-auto mt-const"> <img class="sep-flo"
+    <div class="sep mx-auto"> <img class="sep-flo"
             src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
 
