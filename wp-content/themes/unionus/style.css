@@ -1534,5 +1534,9 @@ a.normal:hover {
     margin: 0 auto 50px auto;
 }
 
+.contact-form-div .submit-btn {
+    display: block;
+}
+
 
 /* .gold-table-div-wrapper-col {} */
