@@ -59,7 +59,7 @@ get_header();
 
                 <div class="mt-3 text-center">百分百擔保特惠貸款的申請最高金額為600萬港元，或者公司員工的每月薪金加每月租金乘以18的總和，以數值最低者為準。
 
-                    <h2 class="gold text-center">例子一：</h2>
+                    <h2 class="gold text-center mt-3">例子一：</h2>
 
                     X公司是一間中小企業，員工有15人，平均月薪為$20,000港元；而每月租金為$30,000港元，A公司成功申請SFGS100時，能獲取的金額為
                     <br>
