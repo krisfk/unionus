@@ -1492,6 +1492,7 @@ a.normal:hover {
     background: none;
     border: 2px solid #ddbd8a;
     color: #ddbd8a;
+    border-radius: 6px;
 }
 
 .contact-form-div input::placeholder {
@@ -1508,7 +1509,10 @@ a.normal:hover {
     border: 2px solid #ddbd8a;
     /* opacity: 0.6; */
     /* Firefox */
+    border-radius: 6px;
 }
+
+.contact-form-div table td {}
 
 
 /* .gold-table-div-wrapper-col {} */
