@@ -244,7 +244,26 @@ get_header();
 
 
 
-    fds
+    <form action="">
+
+        <table>
+            <tr>
+                <td><input type="text" class="form-control" placeholder="姓名"></td>
+                <td><input type="text" class="form-control" placeholder="聯絡電話"></td>
+            </tr>
+            <tr>
+                <td><input type="text" class="form-control" placeholder="電郵"></td>
+                <td>
+                    <select class="form-select" aria-label="是否支援whatsapp">
+                        <option selected>是否支援whatsapp</option>
+                        <option value="是">是</option>
+                        <option value="否">否</option>
+                    </select>
+
+                </td>
+            </tr>
+        </table>
+    </form>
 
 
     <div class="sep2 mx-auto mt-5">
