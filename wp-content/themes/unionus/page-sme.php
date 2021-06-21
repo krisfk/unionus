@@ -220,7 +220,6 @@ get_header();
 
 
 
-        \
 
 
 
@@ -233,6 +232,46 @@ get_header();
 
     </div>
 </section>
+
+<section class="sec5 pt-const">
+
+
+
+    <div class="sep mx-auto mt-const"> <img class="sep-flo"
+            src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
+
+
+    <table class="me-auto ms-auto mt-5">
+        <tbody>
+            <tr>
+                <td class="align-top gold-border-right pe-3">
+                    <h2 class="gold">服務項目</h2>
+                </td>
+                <td class=" ps-3">
+                    <ul class="service-points">
+                        <li>DRP債務重組(Debt Restructuring)</li>
+                        <li>IVA 個人自願安排(Individual Voluntary Arrangement)</li>
+                        <li>IDRP 牽頭式債務舒緩(Interbank Debt Relief Plan)</li>
+                        <li>破產 (Bankruptcy)</li>
+                        <li>TU（個人環聯信貸報告）改善方案</li>
+                        <li>大額清數方案</li>
+                        <li>開立有限/無限公司</li>
+                        <li>公司/私人報稅</li>
+                        <li>會計審核</li>
+
+
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="sep2 mx-auto mt-5">
+    </div>
+
+
+
+</section>
+
 
 
 <!-- </div> -->
