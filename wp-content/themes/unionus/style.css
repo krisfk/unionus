@@ -1494,6 +1494,7 @@ a.normal:hover {
 
 .contact-form-div {
     padding: 0 5%;
+    max-width: 550px;
 }
 
 .contact-form-div input[type='text'] {
