@@ -1506,6 +1506,10 @@ a.normal:hover {
     border-radius: 6px;
 }
 
+.contact-form-div input[type='submit'] {
+    color: #ddbd8a;
+}
+
 .contact-form-div input::placeholder {
     /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: #ddbd8a;
