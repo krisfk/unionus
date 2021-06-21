@@ -1526,11 +1526,11 @@ a.normal:hover {
     padding: 10px;
 }
 
-.contact-form-div table td input:focus {
+.contact-form-div input:focus {
     box-shadow: 1px 0px 14px rgb(221 189 138);
 }
 
-.contact-form-div table td select:focus {
+.contact-form-div select:focus {
     box-shadow: 1px 0px 14px rgb(221 189 138);
     border-color: #ddbd8a;
 }
