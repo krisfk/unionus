@@ -1530,6 +1530,8 @@ a.normal:hover {
 
 .sme-logo {
     width: 388px;
+    display: block;
+    margin: 0 auto 50px auto;
 }
 
 
