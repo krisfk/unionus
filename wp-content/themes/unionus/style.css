@@ -1559,6 +1559,9 @@ a.normal:hover {
     section {
         width: 100%;
     }
+    .mt-6 {
+        margin-top: 3rem !important;
+    }
 }
 
 @media only screen and (max-width: 768px) {}
