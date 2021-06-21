@@ -22,13 +22,18 @@ get_header();
 
     <div class="container">
 
+
+        <div><img class="" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
+        </div>
+
         <div class="text-center">
             <h1 class="mx-auto gold">中小企融資擔保計劃 <br> 百分百擔保特惠貸款
             </h1>
         </div>
 
-        <div class="sep mx-auto mt-3"> <img class="sep-flo"
-                src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
+        <div class="sep mx-auto mt-3">
+            <img class="sep-flo" src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt="">
+        </div>
 
 
         <div class="inner-container mx-auto mt-5 text-center">
