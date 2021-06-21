@@ -44,7 +44,9 @@ get_header();
 
         </div>
         <div class="inner-container2 mx-auto">
-            <h2 class="gold mt-6">有限公司首次報稅注意事項</h2>
+
+
+            <img src="https://unionus.com.hk/wp-content/uploads/2021/06/sem-graph.png" alt="">
 
             <div class="mt-4">
                 首次報稅： <br>
