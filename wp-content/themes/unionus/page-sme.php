@@ -248,16 +248,16 @@ get_header();
 
             <table class="mx-auto">
                 <tr>
-                    <td>姓名：<input type="text" class="form-control" placeholder="姓名"></td>
-                    <td>聯絡電話：<input type="text" class="form-control" placeholder="聯絡電話"></td>
+                    <td>姓名：<input type="text" class="form-control" placeholder=""></td>
+                    <td>聯絡電話：<input type="text" class="form-control" placeholder=""></td>
                 </tr>
                 <tr>
-                    <td>電郵：<input type="text" class="form-control" placeholder="電郵"></td>
+                    <td>電郵：<input type="text" class="form-control" placeholder=""></td>
                     <td>
                         是否支援whatsapp？
                         <select class="form-select" aria-label="是否支援whatsapp">
-                            <option value="" disabled selected>是否支援whatsapp？</option>
-                            <option value="是">是</option>
+                            <option value="" disabled selected></option>
+                            <option value="是" selected="selected">是</option>
                             <option value="否">否</option>
                         </select>
 
@@ -265,7 +265,7 @@ get_header();
                 </tr>
                 <tr>
                     <td>查詢項目：
-                        <select class="form-select" aria-label="是否支援whatsapp">
+                        <select class="form-select" aria-label="查詢項目：">
                             <option value="" disabled selected>是否支援whatsapp？</option>
                             <option value="是">是</option>
                             <option value="否">否</option>
