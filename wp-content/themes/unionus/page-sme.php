@@ -254,7 +254,7 @@ get_header();
     <div class="contact-form-div container">
 
 
-        =
+
         <?php
         echo do_shortcode('[contact-form-7 id="68" title="sme contact us"]');
 
