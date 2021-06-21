@@ -324,7 +324,7 @@ get_header();
                     </td>
                 </tr>
                 <tr>
-                    <td colspan="2">
+                    <td colspan="2" class="text-end">
 
                         <!-- <input type="submit" class="submit-btn btn"> -->
                         <button type="button" class="btn submit-btn">確定</button>

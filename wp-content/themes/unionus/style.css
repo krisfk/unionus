@@ -1537,8 +1537,9 @@ a.normal:hover {
 .contact-form-div .submit-btn {
     display: block;
     color: #ddbd8a;
-    border: 3px solid #ddbd8a;
-    border-radius: 6px;
+    border: 2px solid #ddbd8a;
+    border-radius: 27px;
+    padding: 6px 50px;
 }
 
 
