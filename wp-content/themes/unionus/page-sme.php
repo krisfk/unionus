@@ -23,8 +23,8 @@ get_header();
     <div class="container">
 
 
-        <div><img class="" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
-        </div>
+        <img class="sme-logo" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
+
 
         <div class="text-center">
             <h1 class="mx-auto gold">中小企融資擔保計劃 <br> 百分百擔保特惠貸款
