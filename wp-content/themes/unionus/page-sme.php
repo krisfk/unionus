@@ -146,8 +146,8 @@ get_header();
 
                     <ul class="mt-5 gold">
 
-                        <li class="d-inline-block">．不擅長處理文書工作</li>
-                        <li class="d-inline-block">．害怕申請失敗、怕麻煩 </li>
+                        <li class="d-inline-block me-4">．不擅長處理文書工作</li>
+                        <li class="d-inline-block me-4">．害怕申請失敗、怕麻煩 </li>
                         <li class="d-inline-block">．害怕自己公司的信貸記錄唔好等等</li>
                     </ul>
 
