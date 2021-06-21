@@ -1553,10 +1553,16 @@ a.normal:hover {
 }
 
 .wpcf7-not-valid-tip {
-    color: #debc89;
+    color: #d09337;
     font-size: 1em;
     font-weight: normal;
     display: block;
+}
+
+.wpcf7 form.invalid .wpcf7-response-output,
+.wpcf7 form.unaccepted .wpcf7-response-output {
+    border-color: transparent;
+    color: #d09337;
 }
 
 @media only screen and (max-width: 1200px) {
