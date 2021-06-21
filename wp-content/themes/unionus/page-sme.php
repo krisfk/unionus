@@ -52,6 +52,10 @@ get_header();
             <div class="mt-6">
                 <img class="flo-icon" src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
                     alt="">
+
+                <h2 class="mt-3">「百分百擔保特惠貸款計劃」<br>
+                    為我提供多少資金？
+                </h2>
             </div>
             <div class="mt-4">
                 首次報稅： <br>
