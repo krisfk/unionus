@@ -316,7 +316,7 @@ get_header();
             </div>
         </div>
 
-        <div class="col-12">
+        <div class="col-12 mb-4">
             <button type="button" class="btn submit-btn float-end mt-4">確定</button>
 
 
