@@ -26,14 +26,14 @@ get_header();
         <a href="<?php echo get_site_url();?>" class="logo-a"> <img class="logo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
         </a>
-        <div class="mt-3">爾汝相聯，同生共濟..</div>
+        <div class="mt-3">爾汝相聯，同生共濟</div>
 
         <div> <a href="javascript:void(0)" class="know-more-btn">了解更多</a> </div>
     </div>
     <!-- </div> -->
 
 
-    <iframe allowtransparency="true" class="iframe" src="http://localhost:8888/unionus/particle-effect/" style="">
+    <iframe allowtransparency="true" class="iframe" src="/particle-effect/" style="">
     </iframe>
 </div>
 
