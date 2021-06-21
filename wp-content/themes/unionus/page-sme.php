@@ -246,7 +246,7 @@ get_header();
 
     <form action="">
 
-        <table>
+        <table class="mx-auto">
             <tr>
                 <td><input type="text" class="form-control" placeholder="姓名"></td>
                 <td><input type="text" class="form-control" placeholder="聯絡電話"></td>
