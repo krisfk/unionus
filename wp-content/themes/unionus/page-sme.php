@@ -351,7 +351,7 @@ get_header();
         </div>
 
 
-        <div class="inner-container2 text-center mx-auto">
+        <div class="inner-container text-center mx-auto">
             除本年度稅項外，大家每年也需要支付「暫繳稅」(即預付下一年的稅)。 <br>
             暫繳稅也可享用8.25%優惠稅率，但<span class="gold">不可</span>享用稅款寬減。 <br>
             例如2020/21年度寬減稅款為100%及<span class="gold">上限</span>HK$10,000:
