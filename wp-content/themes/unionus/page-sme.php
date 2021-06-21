@@ -79,6 +79,36 @@ get_header();
 
 
 
+                    <div class="gold-table-div silver">
+                        <table class="gold-table">
+
+
+                            <tbody>
+
+                                <tr>
+                                    <td class="p-5">
+                                        <h2 class="gold">虧損 <br>
+                                            Loss Case</h2>
+
+                                        <div class="mt-5  text-start">
+                                            稅局未必會每年都給公司稅表，有可能兩至三年才發出一次。但即使沒有收到報稅表，若企業有應評稅利潤，仍有責任通知稅務局。
+                                            <br><br>
+
+                                            會計上的虧損不等於稅務上是虧損，因為稅務有自己一套計算方法。例如資產的初期免稅額為60%再每年20%/30%折舊，建造成本初期免稅20%後每年4%。
+                                        </div>
+                                    </td>
+                                </tr>
+
+
+
+
+                            </tbody>
+
+                        </table>
+                    </div>
+
+
+
 
                 </div>
             </div>
@@ -230,33 +260,7 @@ get_header();
                         src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
 
 
-                    <div class="gold-table-div silver">
-                        <table class="gold-table">
 
-
-                            <tbody>
-
-                                <tr>
-                                    <td class="p-5">
-                                        <h2 class="gold">虧損 <br>
-                                            Loss Case</h2>
-
-                                        <div class="mt-5  text-start">
-                                            稅局未必會每年都給公司稅表，有可能兩至三年才發出一次。但即使沒有收到報稅表，若企業有應評稅利潤，仍有責任通知稅務局。
-                                            <br><br>
-
-                                            會計上的虧損不等於稅務上是虧損，因為稅務有自己一套計算方法。例如資產的初期免稅額為60%再每年20%/30%折舊，建造成本初期免稅20%後每年4%。
-                                        </div>
-                                    </td>
-                                </tr>
-
-
-
-
-                            </tbody>
-
-                        </table>
-                    </div>
 
                     <img class="table-foot-th-img"
                         src="<?php echo get_template_directory_uri(); ?>/assets/images/table-foot.png" alt="">
