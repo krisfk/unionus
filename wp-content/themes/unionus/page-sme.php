@@ -248,8 +248,8 @@ get_header();
 
             <table class="mx-auto">
                 <tr>
-                    <td>姓名：<input type="text" class="form-control" placeholder=""></td>
-                    <td>聯絡電話：<input type="text" class="form-control" placeholder=""></td>
+                    <td style="width:50%">姓名：<input type="text" class="form-control" placeholder=""></td>
+                    <td style="width:50%">聯絡電話：<input type="text" class="form-control" placeholder=""></td>
                 </tr>
                 <tr>
                     <td>電郵：<input type="text" class="form-control" placeholder=""></td>
