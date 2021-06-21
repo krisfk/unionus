@@ -1583,6 +1583,10 @@ a.normal:hover {
     padding: 0;
 }
 
+.wts-icon-a {}
+
+.wts-icon-a img {}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;

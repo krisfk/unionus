@@ -86,6 +86,10 @@
 <body <?php body_class(); ?>>
     <?php wp_body_open(); ?>
 
+
+    <a href="javascript:void(0);" class="wts-icon-a"><img
+            src="<?php echo get_template_directory_uri(); ?>/assets/images/wts-icon.png" alt=""></a>
+
     <button class="mobile-menu-btn"
         onclick="this.classList.toggle('opened');this.setAttribute('aria-expanded', this.classList.contains('opened'))"
         aria-label="Main Menu" aria-expanded="false">
