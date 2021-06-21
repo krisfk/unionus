@@ -1583,9 +1583,15 @@ a.normal:hover {
     padding: 0;
 }
 
-.wts-icon-a {}
+.wts-icon-a {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
 
-.wts-icon-a img {}
+.wts-icon-a img {
+    width: 80px;
+}
 
 @media only screen and (max-width: 1200px) {
     h1 {
