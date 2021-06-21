@@ -49,7 +49,7 @@ get_header();
             <img class="w-100" src="https://unionus.com.hk/wp-content/uploads/2021/06/sem-graph.png" alt="">
 
 
-            <div>
+            <div class="mt-6">
                 <img class="flo-icon" src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
                     alt="">
             </div>
