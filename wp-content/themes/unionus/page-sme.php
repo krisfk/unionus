@@ -129,6 +129,10 @@ get_header();
                         <img class="flo-icon"
                             src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt="">
 
+                        <h2 class="mt-3 gold text-center">「百分百擔保特惠貸款」難唔難申請？
+
+                        </h2>
+
                     </div>
 
 
