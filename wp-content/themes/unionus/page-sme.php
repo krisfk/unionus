@@ -183,14 +183,14 @@ get_header();
                         <div class="col-4 text-center">
                             <img class="sme-icon"
                                 src="<?php echo get_template_directory_uri();?>/assets/images/sme-icon-1.png" alt="">
-                            <div class="big-size">
+                            <div class="big-size mt-3">
                                 協助客戶預備貸款文件
                             </div>
                         </div>
                         <div class="col-4 text-center">
                             <img class="sme-icon"
                                 src="<?php echo get_template_directory_uri();?>/assets/images/sme-icon-2.png" alt="">
-                            <div class="big-size">
+                            <div class="big-size mt-3">
                                 加快文件處理速度
 
                             </div>
@@ -198,7 +198,7 @@ get_header();
                         <div class="col-4 text-center">
                             <img class="sme-icon"
                                 src="<?php echo get_template_directory_uri();?>/assets/images/sme-icon-3.png" alt="">
-                            <div class="big-size">
+                            <div class="big-size mt-3">
                                 增加成功申請的機會
                             </div>
                         </div>
