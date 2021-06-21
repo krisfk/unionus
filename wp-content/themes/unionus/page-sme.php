@@ -18,15 +18,13 @@ get_header();
 
 ?>
 
-
-
-
 <section class="sec1 pt-const2">
 
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">公司報稅</h1>
+            <h1 class="mx-auto gold">中小企融資擔保計劃 <br> 百分百擔保特惠貸款
+            </h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
