@@ -343,7 +343,11 @@ get_header();
 
 
 
-
+<style type="text/css">
+.top-menu-div {
+    display: none;
+}
+</style>
 
 
 <script type="text/javascript">
