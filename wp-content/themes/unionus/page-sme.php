@@ -179,18 +179,18 @@ get_header();
                     <h2 class="gold mt-5 text-center">我們的服務
                     </h2>
 
-                    <div class="row mt-4">
+                    <div class="row mt-5">
                         <div class="col-4 text-center">
                             <img class="sme-icon"
                                 src="<?php echo get_template_directory_uri();?>/assets/images/sme-icon-1.png" alt="">
-                            <div class="big-size mt-3">
+                            <div class="big-size mt-4">
                                 協助客戶預備貸款文件
                             </div>
                         </div>
                         <div class="col-4 text-center">
                             <img class="sme-icon"
                                 src="<?php echo get_template_directory_uri();?>/assets/images/sme-icon-2.png" alt="">
-                            <div class="big-size mt-3">
+                            <div class="big-size mt-4">
                                 加快文件處理速度
 
                             </div>
@@ -198,7 +198,7 @@ get_header();
                         <div class="col-4 text-center">
                             <img class="sme-icon"
                                 src="<?php echo get_template_directory_uri();?>/assets/images/sme-icon-3.png" alt="">
-                            <div class="big-size mt-3">
+                            <div class="big-size mt-4">
                                 增加成功申請的機會
                             </div>
                         </div>
