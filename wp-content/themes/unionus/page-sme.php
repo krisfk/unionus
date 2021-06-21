@@ -152,6 +152,16 @@ get_header();
                     </ul>
 
 
+                    <img class="flo-icon" src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
+                        alt="">
+
+                    <h2 class="mt-3 gold text-center">
+                        無人際關係，不懂財務知識及文書處理， <br>
+                        又或者唔知點申請百分百擔保特惠貸款？
+
+                    </h2>
+
+
 
 
                 </div>
