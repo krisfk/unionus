@@ -1599,9 +1599,23 @@ a.normal:hover {
     width: 80px;
 }
 
-.bg-shape-1 {}
+.bg-shape-1 {
+    top: 960px;
+    position: absolute;
+    z-index: -100;
+    width: 100%;
+    opacity: 0.5;
+}
 
-.bg-shape-2 {}
+.bg-shape-2 {
+    position: absolute;
+    /* display: none; */
+    top: 2706px;
+    position: absolute;
+    z-index: -100;
+    width: 100%;
+    opacity: 0.5;
+}
 
 @media only screen and (max-width: 1200px) {
     h1 {
