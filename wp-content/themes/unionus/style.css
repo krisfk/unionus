@@ -1498,7 +1498,8 @@ a.normal:hover {
 }
 
 .contact-form-div input[type='text'],
-.contact-form-div input[type='email'] {
+.contact-form-div input[type='email'],
+.contact-form-div input[type='tel'] {
     background: none;
     border: 2px solid #ddbd8a;
     color: #ddbd8a;
