@@ -1494,5 +1494,12 @@ a.normal:hover {
     color: #ddbd8a;
 }
 
+.contact-form-div input::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #ddbd8a;
+    opacity: 1;
+    /* Firefox */
+}
+
 
 /* .gold-table-div-wrapper-col {} */
