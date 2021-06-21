@@ -96,7 +96,7 @@ get_header();
                                 <tbody>
 
                                     <tr>
-                                        <td class="p-5">
+                                        <td class="pt-5 pe-lg-5 pe-md-5 pe-sm-4 pe-4 ps-md-5 ps-sm-4 ps-4 ">
                                             <h2 class="gold">甚麼企業符合申請資格 <br>
                                                 申請「百分百擔保特惠貸款」？
                                             </h2>
