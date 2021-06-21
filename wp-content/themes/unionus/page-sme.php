@@ -255,7 +255,7 @@ get_header();
                     <td><input type="text" class="form-control" placeholder="電郵"></td>
                     <td>
                         <select class="form-select" aria-label="是否支援whatsapp">
-                            <option selected>是否支援whatsapp</option>
+                            <option value="" disabled selected>是否支援whatsapp？</option>
                             <option value="是">是</option>
                             <option value="否">否</option>
                         </select>
