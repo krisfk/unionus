@@ -240,7 +240,7 @@ get_header();
             src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
 
-    <h2 class="gold">聯絡我們</h2>
+    <h2 class="gold text-center mt-5">聯絡我們</h2>
 
 
 
