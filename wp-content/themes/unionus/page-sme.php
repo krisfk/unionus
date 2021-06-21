@@ -252,17 +252,22 @@ get_header();
 
 
         <div class="row">
-            <div class="col-6 mb-3">姓名：<input type="text" class="form-control" placeholder=""></div>
-            <div class="col-6 mb-3">聯絡電話：<input type="text" class="form-control" placeholder=""></div>
-            <div class="col-6 mb-3">電郵：<input type="text" class="form-control" placeholder=""></div>
-            <div class="col-6 mb-3"> 是否支援whatsapp？
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-3">
+                姓名：<input type="text" class="form-control" placeholder=""></div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-3">
+                聯絡電話：<input type="text" class="form-control" placeholder=""></div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-3">
+                電郵：<input type="text" class="form-control" placeholder=""></div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-3">
+                是否支援whatsapp？
                 <select class="form-select" aria-label="是否支援whatsapp">
                     <option value="" disabled selected></option>
                     <option value="是" selected="selected">是</option>
                     <option value="否">否</option>
                 </select>
             </div>
-            <div class="col-6 mb-3">查詢項目：
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-3">
+                查詢項目：
                 <select class="form-select" aria-label="查詢項目：">
                     <option value=""></option>
 
@@ -285,7 +290,8 @@ get_header();
 
                 </select>
             </div>
-            <div class="col-6 mb-3"> 職員聯絡閣下的時間:
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-3">
+                職員聯絡閣下的時間:
                 <select class="form-select" aria-label="是否支援whatsapp">
                     <option value=""></option>
                     <option value="1:00pm-2:00pm">1:00pm-2:00pm</option>
