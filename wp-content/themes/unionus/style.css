@@ -1473,7 +1473,9 @@ a.normal:hover {
     width: 200px;
 }
 
-.flo-icon {}
+.flo-icon {
+    width: 100px;
+}
 
 
 /* .gold-table-div-wrapper-col {} */
