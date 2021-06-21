@@ -1061,6 +1061,8 @@ nav li {
 
 h2 {
     font-size: 45px !important;
+    line-height: 1.3;
+    line-height: 1.3 !important;
 }
 
 .service-points li {
@@ -1490,11 +1492,6 @@ a.normal:hover {
     width: 60%;
 }
 
-.contact-form-div {
-    max-width: 500px !important;
-    padding: 0 5% !important;
-}
-
 .contact-form-div input[type='text'] {
     background: none;
     border: 2px solid #ddbd8a;
@@ -1526,11 +1523,11 @@ a.normal:hover {
     padding: 10px;
 }
 
-.contact-form-div input:focus {
+.contact-form-div table td input:focus {
     box-shadow: 1px 0px 14px rgb(221 189 138);
 }
 
-.contact-form-div select:focus {
+.contact-form-div table td select:focus {
     box-shadow: 1px 0px 14px rgb(221 189 138);
     border-color: #ddbd8a;
 }
@@ -1549,10 +1546,6 @@ a.normal:hover {
     padding: 6px 50px;
 }
 
-.contact-form-div .submit-btn:hover {
-    color: #ddbd8a;
-}
-
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 40px !important;
@@ -1566,26 +1559,13 @@ a.normal:hover {
     section {
         width: 100%;
     }
-    .big-size {
-        font-size: 20px;
-    }
-    .mt-6 {
-        margin-top: 3rem !important;
-    }
 }
 
 @media only screen and (max-width: 768px) {}
 
 @media only screen and (max-width: 640px) {}
 
-@media only screen and (max-width: 480px) {
-    h1 {
-        font-size: 32px !important;
-    }
-    h2 {
-        font-size: 23px !important;
-    }
-}
+@media only screen and (max-width: 480px) {}
 
 
 /* .gold-table-div-wrapper-col {} */
