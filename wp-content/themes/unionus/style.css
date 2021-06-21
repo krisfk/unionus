@@ -1562,6 +1562,10 @@ a.normal:hover {
     .mt-6 {
         margin-top: 3rem !important;
     }
+    .big-size {
+        font-size: 20px;
+        line-height: 1.5;
+    }
 }
 
 @media only screen and (max-width: 768px) {}
