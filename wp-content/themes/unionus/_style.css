@@ -1,0 +1,662 @@
+@charset "UTF-8";
+
+/*
+Theme Name: Unionus
+Theme URI: https://wordpress.org/themes/twentytwentyone/
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.
+Requires at least: 5.3
+Tested up to: 5.7
+Requires PHP: 5.6
+Version: 1.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentytwentyone
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+Twenty Twenty-One WordPress Theme, (C) 2020 WordPress.org
+Twenty Twenty-One is distributed under the terms of the GNU GPL.
+*/
+
+
+/**
+ * SETTINGS
+ * File-header..........The file header for the themes style.css file.
+ * Fonts................Any font files, if the project needs specific fonts.
+ * Global...............Project-specific, globally available variables.
+ *
+ * TOOLS
+ * Functions............Global functions.
+ * Mixins...............Global mixins.
+ *
+ * GENERIC
+ * Normalize.css........Normalise browser defaults.
+ * Breakpoints..........Mixins and variables for responsive styles
+ * Vertical-margins.....Vertical spacing for the main components.
+ * Reset................Reset specific elements to make them easier to style in other contexts.
+ * Clearings............Clearings for the main components.
+ *
+ * ELEMENTS
+ * Blockquote...........Default blockquote.
+ * Forms................Element-level form styling.
+ * Headings.............H1–H6
+ * Links................Default links.
+ * Lists................Default lists.
+ * Media................Images, Figure, Figcaption, Embed, iFrame, Objects, Video.
+ *
+ * BLOCKS
+ * Audio................Specific styles for the audio block.
+ * Button...............Specific styles for the button block.
+ * Code.................Specific styles for the code block.
+ * Columns..............Specific styles for the columns block.
+ * Cover................Specific styles for the cover block.
+ * File.................Specific styles for the file block.
+ * Gallery..............Specific styles for the gallery block.
+ * Group................Specific styles for the group block.
+ * Heading..............Specific styles for the heading block.
+ * Image................Specific styles for the image block.
+ * Latest comments......Specific styles for the latest comments block.
+ * Latest posts.........Specific styles for the latest posts block.
+ * Legacy...............Specific styles for the legacy gallery.
+ * List.................Specific styles for the list block.
+ * Media text...........Specific styles for the media and text block.
+ * Navigation...........Specific styles for the navigation block.
+ * Paragraph............Specific styles for the paragraph block.
+ * Pullquote............Specific styles for the pullquote block.
+ * Quote................Specific styles for the quote block.
+ * Search...............Specific styles for the search block.
+ * Separator............Specific styles for the separator block.
+ * Spacer...............Specific styles for the spacer block.
+ * Table................Specific styles for the table block.
+ * Verse................Specific styles for the verse block.
+ * Video................Specific styles for the video block.
+ * Utilities............Block alignments.
+ *
+ * COMPONENTS
+ * Header...............Header styles.
+ * Footer...............Footer styles.
+ * Comments.............Comment styles.
+ * Archives.............Archive styles.
+ * 404..................404 styles.
+ * Search...............Search styles.
+ * Navigation...........Navigation styles.
+ * Footer Navigation....Footer Navigation styles.
+ * Pagination...........Pagination styles.
+ * Single...............Single page and post styles.
+ * Posts and pages......Misc, sticky post styles.
+ * Entry................Entry, author biography.
+ * Widget...............Widget styles.
+ * Editor...............Editor styles.
+ *
+ * UTILITIES
+ * A11y.................Screen reader text, prefers reduced motion etc.
+ * Color Palette........Classes for the color palette colors.
+ * Editor Font Sizes....Editor Font Sizes.
+ * Measure..............The width of a line of text, in characters.
+ */
+
+
+/* Categories 01 to 03 are the basics. */
+
+.skip-link.screen-reader-text {
+    display: none;
+}
+
+body {
+    background-color: #1f233e !important;
+}
+
+iframe {
+    position: absolute;
+    top: 0;
+    left: 15%;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    z-index: 10;
+}
+
+.rolling-slogan {
+    display: block;
+    text-align: center;
+    font-size: 80px;
+    /* font-family: 'Lato'; */
+    height: 80px;
+    overflow: hidden;
+    margin: 0 0 0 0;
+    color: #fff;
+    position: relative;
+    z-index: 100;
+    left: -20%;
+    opacity: 0;
+}
+
+.rolling-slogan li {
+    line-height: 1;
+}
+
+.home-section {
+    position: relative;
+    overflow: visible;
+    position: relative;
+    z-index: 1000;
+}
+
+.home-section h2 {
+    font-size: 160px;
+    /* color: #6b6c71; */
+}
+
+.home-banner-div {
+    position: relative;
+    max-width: 1920px;
+    height: 100vh;
+    /* width: 100%; */
+    /* margin: 0 auto; */
+}
+
+.site-content {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.home-section h2 {
+    display: inline-block;
+}
+
+.home-section.home-section-1 {}
+
+.home-section.home-section-2 {}
+
+.home-section-1 .home-section-content h2 {
+    position: relative;
+    left: 5%;
+}
+
+.home-sections {
+    position: relative;
+    /* top: 300px; */
+}
+
+.home-section .txt-div {
+    display: inline-block;
+    /* color: #fff; */
+    font-size: 20px;
+    line-height: 34px;
+    text-align: justify;
+}
+
+.white-color {
+    color: #fff;
+}
+
+.home-section-1 .txt-div {
+    margin: 13px 0 0 10%;
+    width: 875px;
+}
+
+.home-section-2 .home-section-content h2 {
+    position: relative;
+    right: 5%;
+}
+
+.home-section-2 .txt-div {
+    margin: 13px 0 0 0;
+    width: 665px;
+}
+
+.home-section-2 ul {
+    display: table;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+
+.home-section-2 ul li {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.home-section-2 ul li.txt-div {}
+
+.mt-const {
+    margin: 200px 0 0 0;
+}
+
+.font-large-size {
+    font-size: 50px;
+    line-height: 64px;
+}
+
+.home-section-2 .ul-wrapper {
+    margin: 0 10% 0 0;
+}
+
+.home-section-3 ul {
+    display: table;
+    margin: 15px 0 0 10%;
+    padding: 0;
+    /* float: left; */
+}
+
+.home-section-3 ul li {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.home-section-3 h2 {
+    margin: 0 0 0 5%;
+}
+
+.home-white-line {
+    display: block;
+    height: 2px;
+    background: #4c4e58;
+    /* width: 50%; */
+    width: 0%;
+    margin: 0 auto;
+}
+
+.home-section-4 ul {
+    display: table;
+    margin: 0 auto;
+}
+
+.home-section-4 ul li {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.unionus-btn {
+    background: url(assets/images/btn-bg.png) 0 0;
+    background-size: 100% 100%;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+.unionus-btn:hover {
+    color: #fff;
+}
+
+footer {
+    color: #fff;
+}
+
+.gold {
+    color: #bc9d70;
+}
+
+.gold2 {
+    color: #ffe5c2;
+}
+
+.delay-2 {
+    animation-delay: 0.5s;
+}
+
+.delay-3 {
+    animation-delay: 1s;
+}
+
+
+/* 
+.mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #bc9d70;
+    width: 0px;
+} */
+
+.mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #ffe5c2;
+    width: 0px;
+}
+
+.mask-txt {
+    opacity: 0;
+}
+
+.cube {
+    display: block;
+    background-size: 100% 100% !important;
+    position: absolute;
+}
+
+.cube-a {
+    width: 534px;
+    height: 534px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.02;
+}
+
+.cube-b {
+    width: 534px;
+    height: 534px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.02;
+}
+
+.cube-c {
+    width: 534px;
+    height: 700px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.02;
+}
+
+.cube-1 {
+    width: 534px;
+    height: 534px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.02;
+}
+
+.cube-2 {
+    width: 400px;
+    height: 400px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.04;
+    transform: rotate(-28deg);
+}
+
+.cube-3 {
+    width: 1165px;
+    height: 1038px;
+    background: url(assets/images/cal-bg.png) no-repeat;
+    opacity: 0.2;
+    /* transform: rotate(-28deg); */
+}
+
+.cube-4 {
+    width: 700px;
+    height: 700px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.01;
+    transform: rotate(-28deg);
+}
+
+.cube-5 {
+    width: 500px;
+    height: 360px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.02;
+    /* transform: rotate(-28deg); */
+}
+
+.cube-6 {
+    width: 400px;
+    height: 400px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.03;
+    transform: rotate(100deg);
+}
+
+.cube-7 {
+    width: 400px;
+    height: 450px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.02;
+    transform: rotate(-50deg);
+}
+
+.cube-8 {
+    width: 700px;
+    height: 750px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.01;
+    transform: rotate(-50deg);
+}
+
+.cube-9 {
+    width: 400px;
+    height: 400px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.03;
+    transform: rotate(-50deg);
+}
+
+.cube-10 {
+    width: 400px;
+    height: 500px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.02;
+    transform: rotate(-50deg);
+}
+
+.cube-11 {
+    width: 800px;
+    height: 664px;
+    background: url(assets/images/cube.png) no-repeat;
+    opacity: 0.02;
+    transform: rotate(-50deg);
+}
+
+.long-white-line {
+    display: block;
+    width: 120%;
+    height: 2px;
+    background: rgb(255 255 255 / 11%);
+    transform: rotate(-18deg);
+    /* margin: 182px 0 0  -100px; */
+    position: relative;
+    top: 105px;
+    left: -5%;
+}
+
+.long-white-line-2 {
+    display: block;
+    width: 120%;
+    height: 2px;
+    background: rgb(255 255 255 / 11%);
+    transform: rotate(20deg);
+    /* margin: 182px 0 0  -100px; */
+    position: relative;
+    top: 165px;
+    left: -5%;
+}
+
+.light-bg-1 {
+    background: url(assets/images/white-light-bg-2.png) no-repeat;
+    width: 557px;
+    height: 645px;
+    opacity: 0.2;
+    position: absolute;
+    z-index: -100;
+    top: 58px;
+    top: -215px;
+    transform: rotate(110deg);
+    left: 219px;
+    z-index: 100;
+}
+
+.light-bg-2 {
+    background: url(assets/images/white-light-bg-2.png) no-repeat;
+    width: 1780px;
+    height: 738px;
+    background-size: 100% 100%;
+    opacity: 0.2;
+    position: absolute;
+    z-index: -100;
+    top: 480px;
+    transform: rotate(166deg);
+    right: -300px;
+}
+
+.light-bg-3 {
+    background: url(assets/images/white-light-bg-2.png) no-repeat;
+    width: 1200px;
+    height: 1000px;
+    background-size: 100% 100%;
+    opacity: 0.2;
+    position: absolute;
+    z-index: -100;
+    top: 1014px;
+    transform: rotate(178deg);
+    left: -200px;
+}
+
+.iframe-wrapper {
+    position: absolute;
+}
+
+.mobile-menu-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    display: block;
+    padding: 0;
+    margin: 25px 0 0 0;
+    float: right;
+    position: fixed;
+    z-index: 20000;
+    top: 0;
+    right: 20px;
+}
+
+.line {
+    fill: none;
+    stroke: #fff;
+    stroke-width: 6;
+    transition: stroke-dasharray 600ms cubic-bezier(0.4, 0, 0.2, 1), stroke-dashoffset 600ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.mobile-menu-btn.opened .line {
+    stroke: #fff;
+}
+
+.line1 {
+    stroke-dasharray: 60 207;
+    stroke-width: 6;
+}
+
+.line2 {
+    stroke-dasharray: 60 60;
+    stroke-width: 6;
+}
+
+.line3 {
+    stroke-dasharray: 60 207;
+    stroke-width: 6;
+}
+
+.opened .line1 {
+    stroke-dasharray: 90 207;
+    stroke-dashoffset: -134;
+    stroke-width: 6;
+}
+
+.opened .line2 {
+    stroke-dasharray: 1 60;
+    stroke-dashoffset: -30;
+    stroke-width: 6;
+}
+
+.opened .line3 {
+    stroke-dasharray: 90 207;
+    stroke-dashoffset: -134;
+    stroke-width: 6;
+}
+
+
+/* 
+@-webkit-keyframes fadeInLeft2 {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(-10%, 0, 0);
+        transform: translate3d(-10%, 0, 0);
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+.animate__fadeInLeft {
+    -webkit-animation-name: fadeInLeft2 !important;
+    animation-name: fadeInLeft2 !important;
+} */
+
+.menu-div {
+    display: block;
+    position: fixed;
+    width: 540px;
+    height: 100%;
+    background: rgb(7 21 56 / 86%);
+    right: -540px;
+    z-index: 400;
+    z-index: 10000;
+}
+
+.menu-middle {
+    width: 80%;
+    margin: 120px auto;
+    color: #fff;
+}
+
+.menu-middle .menu-white-line {
+    display: block;
+    height: 2px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+.menu-middle ul {
+    margin: 30px 0 30px 30px;
+    padding: 0;
+}
+
+.menu-middle ul li {
+    list-style-type: none;
+    /* margin: 20px 0 0 0; */
+}
+
+.menu-middle ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 28px;
+    padding: 10px 0 10px 0;
+    display: block;
+    transition: 0.2s all;
+}
+
+.menu-middle ul li a.active {
+    color: #bc9d70;
+}
+
+.menu-middle ul li a:hover {
+    color: #bc9d70;
+}
+
+.social-icon {
+    margin: 45px auto !important;
+    padding: 0 !important;
+    display: table;
+}
+
+.social-icon li {
+    display: table-cell;
+    padding: 0 10px;
+}
+
+.menu-bottom-el {
+    opacity: 0;
+}
