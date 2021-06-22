@@ -38,15 +38,15 @@ $(function() {
         if ($('body').hasClass('home')) {
             if (scroll > 100) {
                 $('.top-menu-logo-a').fadeIn(500);
-
-                if ($(window).width() < 991) {
-                    $('.bottom-fix-nav').fadeIn(0);
-                } else {
-                    $('.bottom-fix-nav').fadeOut(0);
-                }
             } else {
                 $('.top-menu-logo-a').fadeOut(500);
             }
+        }
+
+        if ($(window).width() < 991) {
+            $('.bottom-fix-nav').fadeIn(0);
+        } else {
+            $('.bottom-fix-nav').fadeOut(0);
         }
     });
 
