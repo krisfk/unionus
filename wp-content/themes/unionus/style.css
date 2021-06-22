@@ -1628,6 +1628,10 @@ a.normal:hover {
     table-layout: fixed;
 }
 
+.bottom-fix-nav td {
+    padding: 10px 0 10px 0;
+}
+
 .bottom-fix-nav a {}
 
 .bottom-fix-nav img {
