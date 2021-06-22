@@ -1617,11 +1617,20 @@ a.normal:hover {
     opacity: 0.5;
 }
 
-.bottom-fix-nav {}
+.bottom-fix-nav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #fff;
+    z-index: 100;
+    text-align: center;
+}
 
 .bottom-fix-nav a {}
 
-.bottom-fix-nav img {}
+.bottom-fix-nav img {
+    width: 38%;
+}
 
 @media only screen and (max-width: 1200px) {
     h1 {
