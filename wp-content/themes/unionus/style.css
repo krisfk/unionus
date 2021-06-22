@@ -1618,6 +1618,7 @@ a.normal:hover {
 }
 
 .bottom-fix-nav {
+    display: none;
     position: fixed;
     bottom: 0;
     width: 100%;
