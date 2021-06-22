@@ -1619,6 +1619,10 @@ a.normal:hover {
 
 .bottom-fix-nav {}
 
+.bottom-fix-nav a {}
+
+.bottom-fix-nav img {}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
