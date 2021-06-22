@@ -1636,7 +1636,7 @@ a.normal:hover {
         width: 100%;
     }
     .mt-6 {
-        margin-top: 3rem !important;
+        /* margin-top: 3rem !important; */
     }
     .big-size {
         font-size: 17px;
