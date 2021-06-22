@@ -89,21 +89,32 @@
     <table class="bottom-fix-nav">
         <tr>
             <td>
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/wts-icon.png" alt="">
-                <div>
-                    WhatsApp</div>
+                <a href="https://api.whatsapp.com/send?phone=85298888135" target="_blank">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/wts-icon.png" alt="">
+                    <div>
+                        WhatsApp</div>
+                </a>
             </td>
             <td>
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-1.png" alt="">
-                <div>
-                    手機號碼</div>
+                <a href="tel:98888135" target="_blank">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-1.png" alt="">
+                    <div>
+                        手機號碼</div>
+                </a>
             </td>
-            <td> <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-2.png" alt="">
-                <div>
-                    郵箱 </div>
+            <td>
+
+                <a href="mailto:unionusgroup@gmail.com" target="_blank"> <img
+                        src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-2.png" alt="">
+                    <div>
+                        郵箱 </div>
+                </a>
             </td>
-            <td> <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-3.png" alt="">
-                <div>TOP</div>
+            <td>
+                <a href="javascript:void(0);" class="back-to-top"><img
+                        src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-3.png" alt="">
+                    <div>TOP</div>
+                </a>
             </td>
         </tr>
     </table>
