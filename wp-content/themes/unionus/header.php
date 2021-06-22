@@ -86,7 +86,7 @@
 <body <?php body_class(); ?>>
     <?php wp_body_open(); ?>
 
-    <table>
+    <table class="bottom-fix-nav">
         <tr>
             <td>
                 <img src="<?php echo get_template_directory_uri(); ?>/assets/images/wts-icon.png" alt="">

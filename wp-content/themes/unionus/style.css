@@ -1617,6 +1617,8 @@ a.normal:hover {
     opacity: 0.5;
 }
 
+.bottom-fix-nav {}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
