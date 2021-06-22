@@ -1632,7 +1632,10 @@ a.normal:hover {
     padding: 5px 0 5px 0;
 }
 
-.bottom-fix-nav a {}
+.bottom-fix-nav td a {
+    color: #fff;
+    text-decoration: none;
+}
 
 .bottom-fix-nav img {
     height: 38px;
