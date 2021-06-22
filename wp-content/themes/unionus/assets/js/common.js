@@ -43,10 +43,12 @@ $(function() {
             }
         }
 
-        if ($(window).width() < 991) {
-            $('.bottom-fix-nav').fadeIn(0);
-        } else {
-            $('.bottom-fix-nav').fadeOut(0);
+        if (scroll > 100) {
+            if ($(window).width() < 991) {
+                $('.bottom-fix-nav').fadeIn(0);
+            } else {
+                $('.bottom-fix-nav').fadeOut(0);
+            }
         }
     });
 
