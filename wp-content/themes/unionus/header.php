@@ -86,6 +86,28 @@
 <body <?php body_class(); ?>>
     <?php wp_body_open(); ?>
 
+    <table>
+        <tr>
+            <td>
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/wts-icon.png" alt="">
+                <div>
+                    WhatsApp</div>
+            </td>
+            <td>
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-1.png" alt="">
+                <div>
+                    手機號碼</div>
+            </td>
+            <td> <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-2.png" alt="">
+                <div>
+                    郵箱 </div>
+            </td>
+            <td> <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-3.png" alt="">
+                <div>TOP</div>
+            </td>
+        </tr>
+    </table>
+
 
     <img class="bg-shape-1" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-1.png" alt="">
     <img class="bg-shape-2" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-2.png" alt="">
