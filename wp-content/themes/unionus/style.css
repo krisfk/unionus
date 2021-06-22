@@ -1636,6 +1636,11 @@ a.normal:hover {
 .bottom-fix-nav td a {
     color: #fff;
     text-decoration: none;
+    transition: 0.2s alol;
+}
+
+.bottom-fix-nav td a:hover {
+    opacity: 0.85;
 }
 
 .bottom-fix-nav img {
