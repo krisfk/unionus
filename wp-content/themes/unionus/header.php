@@ -99,7 +99,7 @@
                 <a href="tel:98888135" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-1.png" alt="">
                     <div>
-                        手機號碼</div>
+                        與我們聯絡</div>
                 </a>
             </td>
             <td>
