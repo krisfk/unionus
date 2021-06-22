@@ -46,7 +46,7 @@ $(function() {
 
     $('.back-to-top').click(function() {
         var body = $('html, body');
-        body.stop().animate({ scrollTop: 0 }, 500, 'swing', function() {
+        body.stop().animate({ scrollTop: 0 }, 200, function() {
             // alert('Finished animating');
         });
     });
