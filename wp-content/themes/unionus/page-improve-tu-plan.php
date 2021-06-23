@@ -81,7 +81,18 @@ get_header();
             </div>
 
 
+
+
         </div>
+
+
+        <div class="text-center mt-7">
+
+            <div class="little-gold-bar mx-auto"></div>
+            <h2 class="gold mt-5">信貸評分因素</h2>
+        </div>
+
+
 
 
 
