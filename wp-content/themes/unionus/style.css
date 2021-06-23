@@ -1659,7 +1659,13 @@ a.normal:hover {
     text-align: center;
 }
 
-.tu-pts-row h2 {}
+.tu-pts-row h2 {
+    /* display: ; */
+    display: flex;
+    align-items: center;
+    height: 92px;
+    justify-content: center;
+}
 
 h2 .smaller {
     font-size: 28px;
