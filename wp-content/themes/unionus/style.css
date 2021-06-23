@@ -1679,6 +1679,10 @@ h2 .smaller {
 
 .white-arrow {}
 
+.tu-breadcrumb {
+    color: #ddbd8a;
+}
+
 .tu-breadcrumb .white-arrow {
     height: 42px;
 }
