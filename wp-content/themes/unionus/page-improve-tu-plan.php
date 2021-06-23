@@ -129,60 +129,8 @@ get_header();
 
 
 
-
-
-
-
-
-
     </div>
 </section>
-
-
-
-<section class="sec2  pt-const2">
-
-
-
-
-
-</section>
-
-
-
-
-
-
-<!-- 
-
-
-
-<nav>
-    <ul>
-        <li class="dot1 dot" id="ec1">
-            <div class="dot-menu-page-txt">公司簡介</div>
-        </li>
-        <li class="dot2 dot" id="ec2">
-            <div class="dot-menu-page-txt">人性化的服務承諾</div>
-
-        </li>
-        <li class="dot3 dot" id="ec3">
-            <div class="dot-menu-page-txt">顧客服務</div>
-
-        </li>
-        <li class="dot4 dot" id="ec4">
-            <div class="dot-menu-page-txt">服務承諾
-            </div>
-
-        </li>
-        <li class="dot5 dot" id="ec5">
-            <div class="dot-menu-page-txt">服務項目
-
-            </div>
-        </li>
-
-    </ul>
-</nav> -->
 
 
 
