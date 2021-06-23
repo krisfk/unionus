@@ -1655,6 +1655,10 @@ a.normal:hover {
     margin: 0 auto;
 }
 
+.tu-pts-row {
+    text-align: center;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
