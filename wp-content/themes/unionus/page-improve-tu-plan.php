@@ -40,12 +40,14 @@ get_header();
         <div class="row">
 
             <div class="col-6">
-                <img src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-1.png" alt="">
+                <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-1.png"
+                    alt="">
                 <h2 class="gold">還款紀錄</h2>
                 <div>這是最影響評分的一項，一旦逾期還款(即使只是遲還卡數一天)，相關紀錄即會被保留5年，因此準時還款對維持正面信貸評分十分重要。</div>
             </div>
             <div class="col-6">
-                <img src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-2.png" alt="">
+                <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-2.png"
+                    alt="">
 
                 <h2 class="gold">總結餘 <br>
                     (可使用信貸額)</h2>
@@ -53,19 +55,22 @@ get_header();
             </div>
 
             <div class="col-4">
-                <img src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-3.png" alt="">
+                <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-3.png"
+                    alt="">
 
                 <h2 class="gold">信貸紀錄長短</h2>
                 <div>如果沒有信貸報告(沒有任何信用卡及借貸紀錄)或信貸紀錄太短，都會令財務機構難以參考及評估申請人的信貸狀況。因此年期短有機會影響申請或所批出的利率。</div>
             </div>
             <div class="col-4">
-                <img src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-4.png" alt="">
+                <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-4.png"
+                    alt="">
 
                 <h2 class="gold">信貸組合</h2>
                 <div>擁有信貸帳戶的種類及數目，包括不同類型的信貸如信用卡及按揭。</div>
             </div>
             <div class="col-4">
-                <img src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-5.png" alt="">
+                <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-5.png"
+                    alt="">
 
                 <h2 class="gold">新開立的信貸帳戶</h2>
                 <div>
