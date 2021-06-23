@@ -86,13 +86,16 @@ get_header();
         </div>
 
 
-        <div class="text-center mt-7">
 
-            <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">改善方案 - 減債供款</h2>
+        <div class="inner-container">
+            <div class="text-center mt-7">
 
-            <div class="mt-4">
-                TU環聯信貸評分低會令人難以成功申請銀行或大型財務機構的平息貸款，需要周轉的申請人繼而轉為向二線財務借高息貸款，導致每月還款額超出自己實際可以承受的金額並出現債務危機。要避免這情況，可以選擇減債供款方案:
+                <div class="little-gold-bar mx-auto"></div>
+                <h2 class="gold mt-5">改善方案 - 減債供款</h2>
+
+                <div class="mt-4">
+                    TU環聯信貸評分低會令人難以成功申請銀行或大型財務機構的平息貸款，需要周轉的申請人繼而轉為向二線財務借高息貸款，導致每月還款額超出自己實際可以承受的金額並出現債務危機。要避免這情況，可以選擇減債供款方案:
+                </div>
             </div>
         </div>
 
