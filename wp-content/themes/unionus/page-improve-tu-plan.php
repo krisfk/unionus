@@ -87,7 +87,7 @@ get_header();
 
 
 
-        <div class="inner-container2">
+        <div class="inner-container2 mx-auto">
             <div class="text-center mt-7">
 
                 <div class="little-gold-bar mx-auto"></div>
