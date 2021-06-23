@@ -1673,6 +1673,10 @@ h2 .smaller {
     font-size: 28px;
 }
 
+.tu-pts-col {
+    margin: 0 0 20px 0;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
