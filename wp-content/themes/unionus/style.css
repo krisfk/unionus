@@ -1659,6 +1659,8 @@ a.normal:hover {
     text-align: center;
 }
 
+.tu-pts-row h2 {}
+
 h2 .smaller {
     font-size: 28px;
 }
