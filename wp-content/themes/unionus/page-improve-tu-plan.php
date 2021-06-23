@@ -30,6 +30,12 @@ get_header();
                 (個人環聯信貸報告)改善方案</h1>
         </div>
 
+        <div class="text-center mt-7">
+
+            <div class="little-gold-bar mx-auto"></div>
+            <h2 class="gold mt-5">信貸評分因素</h2>
+        </div>
+
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
