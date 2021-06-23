@@ -37,7 +37,7 @@ get_header();
         </div>
 
 
-        <div class="row tu-pts-row gx-5">
+        <div class="row tu-pts-row gx-5 mt-5">
 
             <div class="col-6 tu-pts-col">
                 <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-1.png"
