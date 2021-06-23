@@ -131,125 +131,18 @@ get_header();
 
     </div>
 </section>
-
-
+<style type="text/css">
+.bg-shape-2 {
+    display: none;
+}
+</style>
 
 <script type="text/javascript">
 const skrollrObj = skrollr.init();
 </script>
 
 <script type="text/javascript">
-$(function() {
-
-
-
-
-
-    // $('.home-banner-div').width($(window).width());
-    // $('.home-banner-div').height($(window).height());
-
-
-    // $('.company-intro-content-1').css({
-    //     'top': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-1').height() - 30 +
-    //         'px'
-    // })
-
-    // $('.company-intro-content-2').css({
-    //     'bottom': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-2').height() -
-    //         30 +
-    //         'px'
-    // })
-
-
-    setTimeout(() => {
-
-        $('.rolling-slogan').animate({
-            'opacity': '1'
-        }, 1000);
-
-        $('.rolling-slogan').css({
-            'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
-            'opacity': '1',
-            'margin-left': ($(window).width() / 2 - $('.rolling-slogan').width()) / 2 + 'px',
-
-        });
-
-    }, 1000);
-
-
-    function changeDot() {
-
-        $('.top-menu-div').css({
-            'background': 'rgb(33 34 45 / 70%)'
-        })
-        const scrollValue = $(window).scrollTop();
-        const heightSec2 = $('.sec2').offset().top;
-        const heightSec3 = $('.sec3').offset().top;
-        const heightSec4 = $('.sec4').offset().top;
-        const heightSec5 = $('.sec5').offset().top;
-
-
-        if (scrollValue < heightSec2) {
-            $('nav li').not('.dot1').removeClass('active');
-            $('.dot1').addClass('active');
-        } else if (scrollValue < heightSec3) {
-            $('nav li').not('.dot2').removeClass('active');
-            $('.dot2').addClass('active');
-        } else if (scrollValue < heightSec4) {
-            $('nav li').not('.dot3').removeClass('active');
-            $('.dot3').addClass('active');
-        } else if (scrollValue < heightSec5) {
-            $('nav li').not('.dot4').removeClass('active');
-            $('.dot4').addClass('active');
-        } else {
-            $('nav li').not('.dot5').removeClass('active');
-            $('.dot5').addClass('active');
-        }
-    }
-
-    $(window).on('scroll', changeDot);
-
-    $('nav li').on('click', function() {
-        const goToSection = '.s' + $(this).attr('id');
-
-        // $(this).addClass('active')
-        $('body, html').animate({
-            scrollTop: $(goToSection).offset().top + 1,
-        }, {
-            duration: (browser == 'Apple Safari') ? 500 : 0, //0
-            easing: "easeInOutQuart",
-            complete: function() {}
-        });
-    });
-
-
-
-
-
-
-    $(window).resize(function() {
-
-
-        $('.home-banner-div').width($(window).width());
-        $('.home-banner-div').height($(window).height());
-
-
-        $('.company-intro-content-1').css({
-            'top': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-1')
-                .height() - 30 +
-                'px'
-        })
-
-        $('.company-intro-content-2').css({
-            'bottom': $('.company-intro-row-div').height() / 2 - $(
-                    '.company-intro-content-2')
-                .height() -
-                30 +
-                'px'
-        })
-
-    });
-
+$(function()
 
 
 });
