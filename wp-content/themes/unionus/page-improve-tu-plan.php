@@ -100,6 +100,15 @@ get_header();
         </div>
 
 
+        <div>
+
+            <span>代申請人整合所有債務再一次還清</span>
+            <img class="white-arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow.png"
+                alt="">
+
+        </div>
+
+
 
 
 
