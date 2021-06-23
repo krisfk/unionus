@@ -49,8 +49,9 @@ get_header();
                 <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-2.png"
                     alt="">
 
-                <h2 class="gold">總結餘 <br>
-                    <span class="smaller">(可使用信貸額)</span>
+                <h2 class="gold">
+                    <div> 總結餘</div>
+                    <div class="smaller">(可使用信貸額)</div>
                 </h2>
                 <div>這綜合所有信用卡的信用額，對比其已用而未償還的總結餘，餘額愈高愈好。信貸使用率高於50%有機會影響信貸評分。</div>
             </div>
