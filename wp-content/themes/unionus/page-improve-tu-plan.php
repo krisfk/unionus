@@ -40,6 +40,7 @@ get_header();
         <div class="row">
 
             <div class="col-6">
+                <img src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-1.png" alt="">
                 <h2 class="gold">還款紀錄</h2>
                 <div>這是最影響評分的一項，一旦逾期還款(即使只是遲還卡數一天)，相關紀錄即會被保留5年，因此準時還款對維持正面信貸評分十分重要。</div>
             </div>
