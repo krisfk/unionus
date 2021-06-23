@@ -1659,7 +1659,9 @@ a.normal:hover {
     text-align: center;
 }
 
-h2 .smaller {}
+h2 .smaller {
+    font-size: 28px;
+}
 
 @media only screen and (max-width: 1200px) {
     h1 {
