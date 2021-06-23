@@ -26,7 +26,8 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">開立有限/無限公司</h1>
+            <h1 class="mx-auto gold">TU <br>
+                (個人環聯信貸報告)改善方案</h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
