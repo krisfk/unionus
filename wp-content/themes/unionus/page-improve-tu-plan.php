@@ -101,7 +101,7 @@ get_header();
 
 
         <div class="mt-5">
-            <div class="tu-breadcrumb">
+            <div class="breadcrumb-ui">
 
                 <span>代申請人整合所有債務再一次還清</span>
                 <img class="white-arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow.png"
@@ -116,7 +116,7 @@ get_header();
 
             </div>
 
-            <div class="tu-breadcrumb">
+            <div class="breadcrumb-ui">
 
                 <span>較容易借到銀行或大型財務機構的平息貸款</span>
                 <img class="white-arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow.png"

@@ -1679,7 +1679,7 @@ h2 .smaller {
 
 .white-arrow {}
 
-.tu-breadcrumb {
+.breadcrumb-ui {
     color: #ddbd8a;
     font-size: 20px;
     display: flex;
@@ -1687,7 +1687,7 @@ h2 .smaller {
     justify-content: center;
 }
 
-.tu-breadcrumb .white-arrow {
+.breadcrumb-ui .white-arrow {
     height: 21px;
     padding: 0 10px;
 }
