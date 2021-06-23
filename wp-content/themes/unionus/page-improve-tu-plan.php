@@ -100,11 +100,28 @@ get_header();
         </div>
 
 
-        <div>
+        <div class="TU-breadcrumb">
 
             <span>代申請人整合所有債務再一次還清</span>
             <img class="white-arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow.png"
                 alt="">
+            <span>大大減低利息支出</span>
+            <img class="white-arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow.png"
+                alt="">
+            <span>每月集中還款</span>
+            <img class="white-arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow.png"
+                alt="">
+            <span>提升信貸評分</span>
+
+        </div>
+
+        <div class="TU-breadcrumb">
+
+            <span>較容易借到銀行或大型財務機構的平息貸款</span>
+            <img class="white-arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow.png"
+                alt="">
+            <span>毋須再「捱貴息」</span>
+
 
         </div>
 
