@@ -40,7 +40,7 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">報稅需要提交什麼？</h2>
+            <h2 class="gold mt-5">會計帳目用處</h2>
         </div>
 
 
