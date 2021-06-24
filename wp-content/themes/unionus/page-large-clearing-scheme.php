@@ -145,7 +145,7 @@ get_header();
 
         </div>
 
-        <div class="text-center">
+        <div class="text-center mt-4">
 
             <ul class="d-inline-block p-0 mx-auto text-start">
 
