@@ -121,11 +121,21 @@ get_header();
                                         <h2 class="gold">與外部持份者(例如銀行、債權人、投資者等)之財務交流</h2>
 
                                         <div class="mt-5 text-start">
-                                            首二百萬稅務調整的利潤可享有大概半價稅率8.25%計算出來的數再享有稅款寬減*。
-                                            每位合夥人只可以享用8.25%優惠稅率一次，請參照:
-                                            <a class="normal" href="https://www.ird.gov.hk/chi/faq/2trexample.htm">
-                                                https://www.ird.gov.hk/chi/faq/2trexample.htm</a>
 
+                                            <ul>
+                                                <li>上市公司每年透過財務年報發布公司狀況</li>
+
+                                                <li>向銀行借貸</li>
+
+                                                <li>邀請新投資者入股</li>
+
+                                                <li>與其他公司業務合作</li>
+
+                                                <li>好帳目有助增加各商業行動的成功機會</li>
+
+
+
+                                            </ul>
 
                                         </div>
                                     </td>
