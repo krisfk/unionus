@@ -63,7 +63,7 @@ get_header();
                                     <td class="p-5">
                                         <h2 class="gold text-center">公司內部之財務交流</h2>
 
-                                        <div class="mt-5  text-start">
+                                        <div class="mt-5   text-center">
 
                                             <ul>
                                                 <li>有助老闆及股東了解及監察各部門營運成本或產品之製造成本</li>
@@ -120,7 +120,7 @@ get_header();
                                     <td class="p-5">
                                         <h2 class="gold text-center">與外部持份者(例如銀行、債權人、投資者等)之財務交流</h2>
 
-                                        <div class="mt-5 text-start">
+                                        <div class="mt-5 text-center">
 
                                             <ul>
                                                 <li>上市公司每年透過財務年報發布公司狀況</li>
