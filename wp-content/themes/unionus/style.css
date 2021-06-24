@@ -1463,6 +1463,7 @@ a.normal:hover {
     display: inline-block;
     border-radius: 20px;
     border: 4px solid #debc89;
+    width: 100%;
 }
 
 .gold-table-div.silver {
