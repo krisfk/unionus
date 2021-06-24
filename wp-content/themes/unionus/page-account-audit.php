@@ -180,7 +180,17 @@ get_header();
 <!-- </div> -->
 
 
+<style type="text/css">
+.bg-shape-1 {
+    display: none;
 
+}
+
+.bg-shape-2 {
+    display: none;
+
+}
+</style>
 
 
 <script type="text/javascript">
