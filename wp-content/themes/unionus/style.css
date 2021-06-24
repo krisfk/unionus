@@ -1459,6 +1459,10 @@ a.normal:hover {
     /* min-width: 838px; */
 }
 
+.gold-table {
+    width: 100%;
+}
+
 .gold-table-div {
     display: inline-block;
     border-radius: 20px;
