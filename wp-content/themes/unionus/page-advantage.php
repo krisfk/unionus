@@ -53,7 +53,7 @@ get_header();
             <h2 class="gold">我們承諾:
             </h2>
 
-            <ul class="d-inline-block text-start">
+            <ul class="d-inline-block text-start p-0">
                 <li>不成功不收費</li>
                 <li>以客為本</li>
                 <li>高性價比</li>
