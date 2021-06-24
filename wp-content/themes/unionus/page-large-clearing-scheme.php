@@ -160,6 +160,8 @@ get_header();
 
 
             </ul>
+
+            <div class="gold big-size">我們致力為客戶提供合適方案渡過難關，避免破產並謀劃更好的未來。</div>
         </div>
 
 
