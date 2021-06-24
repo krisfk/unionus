@@ -98,7 +98,7 @@ get_header();
         </div>
 
 
-        <div class="row">
+        <div class="row text-center">
 
             <div class="col-4">
 
