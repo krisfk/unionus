@@ -26,27 +26,22 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">會計審核</h1>
+            <h1 class="mx-auto gold">大額清數方案</h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center">根據香港法例第622
-            章《公司條例》第373條，公司董事須備存符合規格的會計紀錄或帳目。而第112章《稅務條例》第51C條亦規定，每名在香港經營某行業、專業或業務的人，須就其入息及開支備存足夠的紀錄。但會計並不只為履行法律責任，更是公司發展不可或缺的一環。
-
+        <div class="inner-container mx-auto mt-5 text-center">
+            同時有一線及二線財務私人貸款，又需要清卡數及其他貸款等，不難想像加起來的利息有多可怕。雖然很多人都明白集中還款能夠節省利息及時間，但銀行又不能免TU申請大額清數，網上易批免TU清數的貸款額又不大，再向二三線財務借又只會令利息倍增。這個情況可以選擇我們的大額清數方案，真正協助你解決難題。
         </div>
 
-        <div class="text-center mt-7">
 
-            <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">會計帳目用處</h2>
-        </div>
 
 
         <div class="row gx-5">
 
-            <div class="col-6 position-relative gold-table-div-wrapper-col">
+            <div class="col-12 position-relative gold-table-div-wrapper-col">
                 <div class="gold-table-div-wrapper">
 
                     <img class="table-head-th-img"
@@ -61,22 +56,18 @@ get_header();
 
                                 <tr>
                                     <td class="p-5">
-                                        <h2 class="gold text-center">公司內部之財務交流</h2>
+                                        <h2 class="gold text-center">大額清數適合以下客戶</h2>
 
                                         <div class="mt-5   text-center">
 
                                             <ul>
-                                                <li>有助老闆及股東了解及監察各部門營運成本或產品之製造成本</li>
 
-                                                <li>有助管理層作未來財務預測、預算及分配</li>
-
-                                                <li>展示公司財政狀況</li>
-
-                                                <li>找出隱藏的營運危機，儘早採取對策</li>
-
-                                                <li>清晰整理的出入賬紀錄，令公司運作更為系統化</li>
-
-                                                <li>降低公司資產或金錢被盜用的機會</li>
+                                                <li>外債超過月薪15倍以上</li>
+                                                <li>經常拖欠卡數或只供最低還款</li>
+                                                <li>每月供款佔入息60%以上</li>
+                                                <li>Tu評分I</li>
+                                                <li>供款期數較短</li>
+                                                <li>外債以財務公司為主的錢被盜用的機會</li>
 
                                             </ul>
 
@@ -103,59 +94,7 @@ get_header();
 
                 </div>
             </div>
-            <div class="col-6  position-relative">
-                <div class="gold-table-div-wrapper">
 
-                    <img class="table-head-th-img"
-                        src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
-
-
-                    <div class="gold-table-div gold">
-                        <table class="gold-table">
-
-
-                            <tbody>
-
-                                <tr>
-                                    <td class="p-5">
-                                        <h2 class="gold text-center">與外部持份者(例如銀行、債權人、投資者等)之財務交流</h2>
-
-                                        <div class="mt-5 text-center">
-
-                                            <ul>
-                                                <li>上市公司每年透過財務年報發布公司狀況</li>
-
-                                                <li>向銀行借貸</li>
-
-                                                <li>邀請新投資者入股</li>
-
-                                                <li>與其他公司業務合作</li>
-
-                                                <li>好帳目有助增加各商業行動的成功機會</li>
-
-
-
-                                            </ul>
-
-                                        </div>
-                                    </td>
-                                </tr>
-
-
-
-
-                            </tbody>
-
-                        </table>
-                    </div>
-
-                    <img class="table-foot-th-img"
-                        src="<?php echo get_template_directory_uri(); ?>/assets/images/table-foot.png" alt="">
-
-
-
-                </div>
-            </div>
         </div>
 
 
