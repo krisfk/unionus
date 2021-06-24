@@ -70,8 +70,7 @@ get_header();
             <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
                 alt="">
 
-            <h2 class="mt-3 gold text-center">「百分百擔保特惠貸款計劃」<br>
-                為我提供多少資金？
+            <h2 class="mt-3 gold text-center">效率性
             </h2>
 
 
