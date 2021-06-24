@@ -357,10 +357,11 @@ get_header();
 
 
 
+    <!-- <div class="sep mx-auto mt-const"> <img class="sep-flo"
+            src="http://localhost:8888/unionus/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div> -->
+
     <div class="sep mx-auto mt-const"> <img class="sep-flo"
-            src="http://localhost:8888/unionus/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
-
-
+            src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
     <table class="me-auto ms-auto mt-5">
         <tbody>
             <tr>
