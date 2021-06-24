@@ -53,7 +53,7 @@ get_header();
                         src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
 
 
-                    <div class="gold-table-div silver">
+                    <div class="gold-table-div gold">
                         <table class="gold-table">
 
 
@@ -95,7 +95,7 @@ get_header();
                         src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
 
 
-                    <div class="gold-table-div silver">
+                    <div class="gold-table-div gold">
                         <table class="gold-table">
 
 
