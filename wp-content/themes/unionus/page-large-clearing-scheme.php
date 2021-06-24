@@ -98,6 +98,25 @@ get_header();
         </div>
 
 
+        <div class="row">
+
+            <div class="col-4">
+
+                <img class="clearing-icon"
+                    src="<?php echo get_template_directory_uri(); ?>/assets/images/clearing-icon-1.png" alt="">
+
+
+
+            </div>
+            <div class="col-4"> <img class="clearing-icon"
+                    src="<?php echo get_template_directory_uri(); ?>/assets/images/clearing-icon-2.png" alt="">
+            </div>
+            <div class="col-4"> <img class="clearing-icon"
+                    src="<?php echo get_template_directory_uri(); ?>/assets/images/clearing-icon-3.png" alt="">
+            </div>
+        </div>
+
+
 
 
 
