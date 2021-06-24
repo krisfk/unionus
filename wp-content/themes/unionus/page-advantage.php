@@ -66,7 +66,7 @@ get_header();
 
         </div>
 
-        <div class="mt-6">
+        <div class="mt-6 text-center">
             <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
                 alt="">
 
