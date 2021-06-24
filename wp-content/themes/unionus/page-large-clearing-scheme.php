@@ -41,7 +41,7 @@ get_header();
 
         <div class="row gx-5">
 
-            <div class="col-12 position-relative gold-table-div-wrapper-col">
+            <div class="col-1 position-relative gold-table-div-wrapper-col">
                 <div class="gold-table-div-wrapper">
 
                     <img class="table-head-th-img"
