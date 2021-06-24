@@ -44,6 +44,99 @@ get_header();
         </div>
 
 
+        <div class="row gx-5">
+
+            <div class="col-6 position-relative gold-table-div-wrapper-col">
+                <div class="gold-table-div-wrapper">
+
+                    <img class="table-head-th-img"
+                        src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
+
+
+                    <div class="gold-table-div silver">
+                        <table class="gold-table">
+
+
+                            <tbody>
+
+                                <tr>
+                                    <td class="p-5">
+                                        <h2 class="gold">虧損 <br>
+                                            Loss Case</h2>
+
+                                        <div class="mt-5  text-start">
+                                            稅局未必會每年都給公司稅表，有可能兩至三年才發出一次。但即使沒有收到報稅表，若企業有應評稅利潤，仍有責任通知稅務局。
+                                            <br><br>
+
+                                            會計上的虧損不等於稅務上是虧損，因為稅務有自己一套計算方法。例如資產的初期免稅額為60%再每年20%/30%折舊，建造成本初期免稅20%後每年4%。
+                                        </div>
+                                    </td>
+                                </tr>
+
+
+
+
+                            </tbody>
+
+                        </table>
+                    </div>
+
+                    <img class="table-foot-th-img"
+                        src="<?php echo get_template_directory_uri(); ?>/assets/images/table-foot.png" alt="">
+
+
+
+                </div>
+            </div>
+            <div class="col-6  position-relative">
+                <div class="gold-table-div-wrapper">
+
+                    <img class="table-head-th-img"
+                        src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
+
+
+                    <div class="gold-table-div silver">
+                        <table class="gold-table">
+
+
+                            <tbody>
+
+                                <tr>
+                                    <td class="p-5">
+                                        <h2 class="gold">盈餘 <br>
+                                            Loss Case</h2>
+
+                                        <div class="mt-5 text-start">
+                                            首二百萬稅務調整的利潤可享有大概半價稅率8.25%計算出來的數再享有稅款寬減*。
+                                            每位合夥人只可以享用8.25%優惠稅率一次，請參照:
+                                            <a class="normal" href="https://www.ird.gov.hk/chi/faq/2trexample.htm">
+                                                https://www.ird.gov.hk/chi/faq/2trexample.htm</a>
+
+
+                                        </div>
+                                    </td>
+                                </tr>
+
+
+
+
+                            </tbody>
+
+                        </table>
+                    </div>
+
+                    <img class="table-foot-th-img"
+                        src="<?php echo get_template_directory_uri(); ?>/assets/images/table-foot.png" alt="">
+
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+
 
         <div class="inner-container2 mx-auto">
             <h2 class="gold mt-6">會計帳目用處</h2>
