@@ -61,7 +61,7 @@ get_header();
 
                                 <tr>
                                     <td class="p-5">
-                                        <h2 class="gold">公司內部之財務交流</h2>
+                                        <h2 class="gold text-center">公司內部之財務交流</h2>
 
                                         <div class="mt-5  text-start">
 
@@ -118,7 +118,7 @@ get_header();
 
                                 <tr>
                                     <td class="p-5">
-                                        <h2 class="gold">與外部持份者(例如銀行、債權人、投資者等)之財務交流</h2>
+                                        <h2 class="gold text-center">與外部持份者(例如銀行、債權人、投資者等)之財務交流</h2>
 
                                         <div class="mt-5 text-start">
 
