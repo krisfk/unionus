@@ -91,6 +91,11 @@ get_header();
             <div class="mt-4">爾聯Unuonus 提供服務皆由專業持牌人士作出建議,確保所有服務得以清晰可靠,不需要透過任何中介,過程更為公開,簡單,直接,透明.
 
 
+                <ul class="d-inline-block text-start">
+                    <li>註冊會計師</li>
+                    <li>註冊律師/大律師</li>
+                    <li>註冊持牌執業人員</li>
+                </ul>
 
             </div>
         </div>
