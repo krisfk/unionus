@@ -36,6 +36,15 @@ get_header();
             章《公司條例》第373條，公司董事須備存符合規格的會計紀錄或帳目。而第112章《稅務條例》第51C條亦規定，每名在香港經營某行業、專業或業務的人，須就其入息及開支備存足夠的紀錄。但會計並不只為履行法律責任，更是公司發展不可或缺的一環。
 
         </div>
+
+        <div class="text-center mt-7">
+
+            <div class="little-gold-bar mx-auto"></div>
+            <h2 class="gold mt-5">報稅需要提交什麼？</h2>
+        </div>
+
+
+
         <div class="inner-container2 mx-auto">
             <h2 class="gold mt-6">會計帳目用處</h2>
 
