@@ -147,7 +147,7 @@ get_header();
 
         <div class="text-center">
 
-            <ul class="d-inline-block p-0 mx-auto">
+            <ul class="d-inline-block p-0 mx-auto text-start">
 
                 <li>無客戶限制，我們會分析各人的卡數債務最慳息方案給不同情況的人士</li>
                 <li>審批手續簡單快捷</li>
