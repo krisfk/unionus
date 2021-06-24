@@ -77,14 +77,24 @@ get_header();
             <div class="mt-4">您的信息/問題將會是我們首要處理的工作,客戶關係主任在收到閣下的指示後將會直接把相關問題遞交,務求在最短的時間內解決您的困難.
 
             </div>
-
-
-
-
-
-
-
         </div>
+
+        <div class="mt-6 text-center">
+            <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
+                alt="">
+
+            <h2 class="mt-3 gold text-center">專業認可
+
+            </h2>
+
+
+            <div class="mt-4">爾聯Unuonus 提供服務皆由專業持牌人士作出建議,確保所有服務得以清晰可靠,不需要透過任何中介,過程更為公開,簡單,直接,透明.
+
+
+
+            </div>
+        </div>
+
 
 
 
