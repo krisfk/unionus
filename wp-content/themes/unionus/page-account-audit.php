@@ -161,6 +161,7 @@ get_header();
 
 
 
+        <div>由於會計的最終責任在於董事身上，作為董事最好學習一下基本會計知識，這樣才能於公司賬目有失誤時及早察覺並更正。</div>
 
         <div class="inner-container2 mx-auto">
             <h2 class="gold mt-6">會計帳目用處</h2>
