@@ -46,17 +46,26 @@ get_header();
             </div>
 
         </div>
-        <div class="inner-container mx-auto mt-6">
 
 
+        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">
 
+            <h2 class="gold">我們承諾:
+            </h2>
 
+            <ul>
+                <li>不成功不收費</li>
+                <li>以客為本</li>
+                <li>高性價比</li>
+                <li>獨立跟進個案</li>
+                <li>實質重於形式</li>
 
-
+            </ul>
 
 
 
         </div>
+
 
 
 
