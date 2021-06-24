@@ -186,10 +186,10 @@ get_header();
 
 
 <style type="text/css">
-.bg-shape-1 {
+/* .bg-shape-1 {
     display: none;
 
-}
+} */
 
 .bg-shape-2 {
     display: none;
