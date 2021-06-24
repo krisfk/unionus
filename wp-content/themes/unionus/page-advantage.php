@@ -156,6 +156,15 @@ get_header();
 .top-menu-logo-a {
     display: none;
 }
+
+/* 
+.bg-shape-1 {
+    display: none;
+} */
+
+.bg-shape-2 {
+    display: none;
+}
 </style>
 
 
