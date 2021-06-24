@@ -39,7 +39,7 @@ get_header();
 
 
 
-        <div class="row gx-5">
+        <div class="row gx-5 justify-content-center">
 
             <div class="col-6 position-relative gold-table-div-wrapper-col">
                 <div class="gold-table-div-wrapper">
