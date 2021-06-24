@@ -1705,6 +1705,10 @@ h2 .smaller {
     padding: 0 10px;
 }
 
+.clearing-icon {
+    height: 200px;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
