@@ -297,8 +297,7 @@ get_header();
 
                                 <tr>
                                     <td class="p-5">
-                                        <h2 class="gold">虧損 <br>
-                                            Loss Case</h2>
+                                        <h2 class="gold">公司內部之財務交流</h2>
 
                                         <div class="mt-5  text-start">
                                             稅局未必會每年都給公司稅表，有可能兩至三年才發出一次。但即使沒有收到報稅表，若企業有應評稅利潤，仍有責任通知稅務局。
@@ -339,8 +338,8 @@ get_header();
 
                                 <tr>
                                     <td class="p-5">
-                                        <h2 class="gold">盈餘 <br>
-                                            Loss Case</h2>
+                                        <h2 class="gold">與外部持份者(例如銀行、債權人、投資者等)之財務交流
+                                        </h2>
 
                                         <div class="mt-5 text-start">
                                             首二百萬稅務調整的利潤可享有大概半價稅率8.25%計算出來的數再享有稅款寬減*。
