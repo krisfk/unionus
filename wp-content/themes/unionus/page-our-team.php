@@ -50,6 +50,7 @@ get_header();
         <div class="row">
             <div class="col-6">
                 <h2 class="gold">Joseph </h2>
+                <div class="little-gold-bar mx-auto"></div>
             </div>
             <div class="col-6">
                 <h2 class="gold">Midas </h2>
