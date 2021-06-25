@@ -128,7 +128,7 @@ get_header();
                         :
                     </div>
                     <div class="mt-3">
-                        <ul class="gold d-inline text-start">
+                        <ul class="gold d-inline-block text-start">
                             <li>破產</li>
                             <li>債務重組 DRP</li>
                             <li>債務舒緩 IVA</li>
@@ -140,7 +140,7 @@ get_header();
 
                         </ul>
 
-                        <ul class="gold d-inline  text-start">
+                        <ul class="gold d-inline-block  text-start">
 
                             <li>私人土地招標文件和代表</li>
                             <li>處理租賃、租約和牌照</li>
