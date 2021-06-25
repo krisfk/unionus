@@ -59,6 +59,28 @@ get_header();
 
 
 
+        <div class="mt-5">
+            <h2 class="gold">有關資格申請:</h2>
+
+            <div> 請人需要提交其所有個人信息作為評估，當中包括：
+            </div>
+            <ul>
+                <li>銀行紀錄</li>
+                <li>香港身分證</li>
+                <li>債務重組的貸款金額</li>
+                <li>收入證明</li>
+                <li>稅單（如有）</li>
+
+            </ul>
+
+
+        </div>
+
+
+
+
+
+
         <div class="mt-6">
             <div><img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
                     alt=""></div>
