@@ -59,7 +59,7 @@ get_header();
 
 
 
-        <div class="mt-5">
+        <div class="mt-5 inner-container2">
             <h2 class="gold">有關資格申請:</h2>
 
             <div> 請人需要提交其所有個人信息作為評估，當中包括：
@@ -99,7 +99,8 @@ get_header();
             <h2 class="gold mt-5">IVA，DRP和IDRP有什麼區別？</h2>
         </div>
 
-        <div class="text-center mt-5">與DRP/IVA債務舒緩/債務重組計劃相比，IDRP牽頭式債務舒緩的主要區別在於它只需要處理最大的債權人，而無需安排與其他債權人的個別談判，這在申請方面將更加簡單。
+        <div class="text-center mt-5 inner-container2">
+            與DRP/IVA債務舒緩/債務重組計劃相比，IDRP牽頭式債務舒緩的主要區別在於它只需要處理最大的債權人，而無需安排與其他債權人的個別談判，這在申請方面將更加簡單。
             <br> <br>
             <span class="gold">
                 而且，它不涉及任何法律程序。IDRP 比IVA和DRP更簡單，這是一個相對較快的解決方案。</span><br><br>
