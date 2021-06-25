@@ -200,9 +200,43 @@ get_header();
 
                     </div>
                     <div class="mt-3">
-                        提供有關保險,強積金有關專業意見， <br>並為各大中小企代辦公司開戶。
+                        在李律師曾在2000年至2007年出任執業大律師,並由2009年成為執業律師至今，現任Unionus爾聯的法律顧問，豐富的經驗令李律師得以完善解決客戶目前面對的問題。
+
+
+
 
                     </div>
+                    <div class="gold mt-3 big-size">主要服務項目：</div>
+
+                    <div class="mt-3">
+                        <ul class="gold d-inline-block text-start">
+                            <li>民事和刑事訴訟</li>
+                            <li>破產、IVA、DRP</li>
+                            <li>公司清盤</li>
+                            <li>仲裁和調解</li>
+                            <li>股東糾紛</li>
+                            <li>貨物買賣糾紛</li>
+                            <li>強制土地和土地糾紛</li>
+
+
+
+                        </ul>
+
+                        <ul class="gold d-inline-block  text-start">
+
+                            <li>禁令申請</li>
+                            <li>運輸</li>
+                            <li>家庭信託</li>
+                            <li>人身傷害案件</li>
+                            <li>租賃和樓宇管理事宜</li>
+                            <li>起草各種業務協議，包括股份購買協議</li>
+
+
+                        </ul>
+
+
+                    </div>
+
                 </div>
 
             </div>
