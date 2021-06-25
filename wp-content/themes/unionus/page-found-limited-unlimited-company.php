@@ -39,114 +39,115 @@ get_header();
             而無限公司股東則需要負上全部責任(無上限)。在決定是開設有限還是無限公司時，可以考慮業務規模及自己對此生意之投入程度。假如是涉及較多資產和債款的生意，申請有限公司可以保障個人財產;
             假如是小生意，開設無限公司的金錢及時間成本會較低。
         </div>
+        <div class="text-center">
+            <div class="gold-table-div-wrapper inner-container2 mx-auto">
+                <img class="table-head-th-img"
+                    src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
 
-        <div class="gold-table-div-wrapper inner-container2 mx-auto">
-            <img class="table-head-th-img"
-                src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
-
-            <div class="gold-table-div">
-                <table class=" gold-table">
+                <div class="gold-table-div">
+                    <table class=" gold-table">
 
 
-                    <tbody>
+                        <tbody>
 
-                        <tr>
-                            <td class="column-1"></td>
-                            <td class="column-2 gold big-size text-center">有限公司</td>
-                            <td class="column-3 gold big-size text-center">無限公司</td>
-                        </tr>
-                        <tr>
-                            <td class="gold big-size text-center">法律地位</td>
-                            <td>屬法人團體，有獨立的法律地位，可以以公司名義擁有資產並簽訂合同</td>
-                            <td>無獨立法律地位，可以以公司名義簽訂合同，但最終負責人仍是股東自己</td>
-                        </tr>
-                        <tr>
-                            <td class="gold big-size text-center">債務責任</td>
-                            <td>以公司名義訂立合約及負債。若公司最終資不抵債可選擇清盤，股東只會損失對公司之投資金額，並不影響其私人財產</td>
-                            <td>公司股東有無限責任。若公司最終資不抵債，股東必須用其私人財產償還公司之債務</td>
-                        </tr>
-                        <tr>
-                            <td class="gold big-size text-center">「生命」延續</td>
-                            <td>除非清盤，否則會永久存在</td>
-                            <td>如沒有另外協議，只要其中一名股東破產或過身，就必須要清盤或解散公司</td>
-                        </tr>
-                        <tr>
-                            <td class="gold big-size text-center">成本</td>
-                            <td>較高
-                                註冊後每年必須:
-                                <ul>
-                                    <li>更新商業登記</li>
-                                    <li>提交周年申報表及繳付相關的存檔費</li>
-                                    <li>聘請會計師審計核數</li>
-                                    <li>申報稅務</li>
-                                </ul>
+                            <tr>
+                                <td class="column-1"></td>
+                                <td class="column-2 gold big-size text-center">有限公司</td>
+                                <td class="column-3 gold big-size text-center">無限公司</td>
+                            </tr>
+                            <tr>
+                                <td class="gold big-size text-center">法律地位</td>
+                                <td>屬法人團體，有獨立的法律地位，可以以公司名義擁有資產並簽訂合同</td>
+                                <td>無獨立法律地位，可以以公司名義簽訂合同，但最終負責人仍是股東自己</td>
+                            </tr>
+                            <tr>
+                                <td class="gold big-size text-center">債務責任</td>
+                                <td>以公司名義訂立合約及負債。若公司最終資不抵債可選擇清盤，股東只會損失對公司之投資金額，並不影響其私人財產</td>
+                                <td>公司股東有無限責任。若公司最終資不抵債，股東必須用其私人財產償還公司之債務</td>
+                            </tr>
+                            <tr>
+                                <td class="gold big-size text-center">「生命」延續</td>
+                                <td>除非清盤，否則會永久存在</td>
+                                <td>如沒有另外協議，只要其中一名股東破產或過身，就必須要清盤或解散公司</td>
+                            </tr>
+                            <tr>
+                                <td class="gold big-size text-center">成本</td>
+                                <td>較高
+                                    註冊後每年必須:
+                                    <ul>
+                                        <li>更新商業登記</li>
+                                        <li>提交周年申報表及繳付相關的存檔費</li>
+                                        <li>聘請會計師審計核數</li>
+                                        <li>申報稅務</li>
+                                    </ul>
 
-                                另外亦要向公司註冊處披露公司詳情及變更
-                            </td>
-                            <td>較低
-                                註冊後每年只需更新商業登記和在個人報稅表報稅，毋須做審計
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="gold big-size text-center">好處</td>
-                            <td>
-                                <ul>
-                                    <li>有限債務責任</li>
-                                    <li>通常較獨資或合夥公司籌得更多資本</li>
-                                    <li>可以出售股份籌集資金</li>
-                                    <li>股東改變不影響公司的存在</li>
-                                    <li>可以利用浮動抵押取得融資</li>
-                                </ul>
-                            </td>
-                            <td>
-                                <ul>
-                                    <li>較容易開設</li>
-                                    <li>成本較低</li>
-                                    <li>稅率較低</li>
-                                    <li>運作較有彈性，不用公開公司資料</li>
-                                </ul>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="gold big-size text-center">弊處</td>
-                            <td>
-                                <ul>
-                                    <li>開設手續及所需文件較繁複</li>
-                                    <li>成本較高</li>
-                                    <li>每年需要由持牌核數師核數才能向政府報稅</li>
-                                    <li>稅率較高</li>
-                                    <li>較多法律限制</li>
-                                </ul>
-                            </td>
-                            <td>
-                                <ul>
-                                    <li>無限債務責任</li>
-                                    <li>較難開公司名義的銀行戶口</li>
-                                    <li>轉讓業務後的債務責任未必能夠完全轉移</li>
-                                </ul>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="gold big-size text-center">申請所需文件</td>
-                            <td>
-                                <ul>
-                                    <li>法團成立表格(NNC1) <br>
-                                        (需要委任董事及公司秘書)</li>
-                                    <li>公司組織章程細則(AoA)</li>
-                                    <li>致商業登記署通知書(IRBR1)</li>
-                                </ul>
+                                    另外亦要向公司註冊處披露公司詳情及變更
+                                </td>
+                                <td>較低
+                                    註冊後每年只需更新商業登記和在個人報稅表報稅，毋須做審計
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="gold big-size text-center">好處</td>
+                                <td>
+                                    <ul>
+                                        <li>有限債務責任</li>
+                                        <li>通常較獨資或合夥公司籌得更多資本</li>
+                                        <li>可以出售股份籌集資金</li>
+                                        <li>股東改變不影響公司的存在</li>
+                                        <li>可以利用浮動抵押取得融資</li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li>較容易開設</li>
+                                        <li>成本較低</li>
+                                        <li>稅率較低</li>
+                                        <li>運作較有彈性，不用公開公司資料</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="gold big-size text-center">弊處</td>
+                                <td>
+                                    <ul>
+                                        <li>開設手續及所需文件較繁複</li>
+                                        <li>成本較高</li>
+                                        <li>每年需要由持牌核數師核數才能向政府報稅</li>
+                                        <li>稅率較高</li>
+                                        <li>較多法律限制</li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li>無限債務責任</li>
+                                        <li>較難開公司名義的銀行戶口</li>
+                                        <li>轉讓業務後的債務責任未必能夠完全轉移</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="gold big-size text-center">申請所需文件</td>
+                                <td>
+                                    <ul>
+                                        <li>法團成立表格(NNC1) <br>
+                                            (需要委任董事及公司秘書)</li>
+                                        <li>公司組織章程細則(AoA)</li>
+                                        <li>致商業登記署通知書(IRBR1)</li>
+                                    </ul>
 
-                            </td>
-                            <td>
-                                <ul>
-                                    <li>商業登記申請表格</li>
-                                    <li>公司持有人或所有合夥人之身份證明文件</li>
-                                </ul>
-                            </td>
-                        </tr>
-                    </tbody>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li>商業登記申請表格</li>
+                                        <li>公司持有人或所有合夥人之身份證明文件</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </tbody>
 
-                </table>
+                    </table>
+                </div>
             </div>
         </div>
 
