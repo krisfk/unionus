@@ -37,8 +37,8 @@ get_header();
             牽頭式債務舒緩是一種債務重組解決方案，其功能與“個人自願安排”和“債務重組計劃”相似。該計劃為擁有多個債權人的債務人提供協助；
             債務人只需要與最大債權人談判並制定新的還款計劃.(一般情況下以銀行作為主要債權人)
         </div>
-        <div class="mt-3">我們的專家將協助債務人談判和製定重組後的還款計劃。 綜合債務舒緩計劃。</div>
-        <div class="gold big-size mt-3">IDRP的優勢在於它僅需要與最大債權人進行談判， <br>
+        <div class="mt-3 text-center">我們的專家將協助債務人談判和製定重組後的還款計劃。 綜合債務舒緩計劃。</div>
+        <div class="gold big-size mt-3  text-center">IDRP的優勢在於它僅需要與最大債權人進行談判， <br>
             免除多次談判會議帶來的煩惱</div>
 
         <div class="text-center mt-7">
