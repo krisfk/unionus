@@ -81,8 +81,11 @@ get_header();
         </div>
 
 
+        <div class="mt-6">
+            <div><img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
+                    alt=""></div>
 
-
+        </div>
         <div class="row gx-5 justify-content-center mt-6">
 
             <div class="col-6 position-relative gold-table-div-wrapper-col">
