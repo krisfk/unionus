@@ -87,7 +87,7 @@ get_header();
 
             <div class="row inner-container2 justify-content-center mx-auto">
                 <div class="col-4 staff-col">
-                    <h2 class="gold mt-6">Alex Cheung
+                    <h2 class="gold mt-4">Alex Cheung
                     </h2>
                     <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
                     <div class="gold big-size">Finance Mannger
