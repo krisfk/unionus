@@ -79,7 +79,7 @@ get_header();
                 <div class="gold">不適用於二線財務機構的私人貸款計劃 如果您的資料合適IDRP還款計劃,我們的專員將會根據申請人的還款能力製定一個新的還款計劃。 <br>
                     包括：</div>
 
-                <ul class="ps-3">
+                <ul class="ps-3 mt-4">
                     <li>還款金額</li>
                     <li>利率</li>
                     <li>還款期</li>
