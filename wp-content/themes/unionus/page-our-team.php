@@ -206,7 +206,7 @@ get_header();
 
 
                     </div>
-                    <div class="gold mt-3 big-size">主要服務項目：</div>
+                    <div class="gold mt-4 big-size">主要服務項目：</div>
 
                     <div class="mt-3 d-flex justify-content-center">
                         <ul class="gold d-inline-block text-start">
