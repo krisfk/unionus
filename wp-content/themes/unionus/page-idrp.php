@@ -113,7 +113,7 @@ get_header();
             <h2 class="gold mt-5">常見問題</h2>
         </div>
 
-        <div class="inner-container2">
+        <div class="inner-container2 mx-auto">
 
             <div class="mt-5">
                 <div class="big-size gold">1.我要支付多少服務費？</div>
