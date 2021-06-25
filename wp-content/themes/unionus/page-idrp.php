@@ -113,47 +113,48 @@ get_header();
             <h2 class="gold mt-5">常見問題</h2>
         </div>
 
+        <div class="inner-container2">
 
-        <div class="mt-5">
-            <div class="big-size gold">1.我要支付多少服務費？</div>
-            <div>視乎個案複雜程度而定, 一般以客戶總節省利息計算，並已經包含在每月還款額內。
+            <div class="mt-5">
+                <div class="big-size gold">1.我要支付多少服務費？</div>
+                <div>視乎個案複雜程度而定, 一般以客戶總節省利息計算，並已經包含在每月還款額內。
+                </div>
             </div>
+
+            <div class="mt-5">
+                <div class="big-size gold">2.我的利息支出減少多少？</div>
+                <div>通過牽頭式債務舒緩後的利息支付相對較低，一般可以節省70%利息以上。
+
+                </div>
+            </div>
+
+            <div class="mt-5">
+                <div class="big-size gold">3.整個過程需要多長時間？
+                </div>
+                <div>通常，處理時間為20-25個工作日。
+
+                </div>
+            </div>
+            <div class="mt-5">
+                <div class="big-size gold">4.是否會影響我的信用信譽？
+                </div>
+                <div>IDRP不會影響債務人的信用聲譽。
+
+
+                </div>
+            </div>
+            <div class="mt-5">
+                <div class="big-size gold">5.如果申請IDRP遭到拒絕，我還有其他選擇嗎？
+
+                </div>
+                <div>並非所有的銀行和金融機構都接受IDRP。如果債權人不接受該計劃，則債務人可以轉向其他解決方案，例如IVA和DRP。
+
+
+                </div>
+            </div>
+
+
         </div>
-
-        <div class="mt-5">
-            <div class="big-size gold">2.我的利息支出減少多少？</div>
-            <div>通過牽頭式債務舒緩後的利息支付相對較低，一般可以節省70%利息以上。
-
-            </div>
-        </div>
-
-        <div class="mt-5">
-            <div class="big-size gold">3.整個過程需要多長時間？
-            </div>
-            <div>通常，處理時間為20-25個工作日。
-
-            </div>
-        </div>
-        <div class="mt-5">
-            <div class="big-size gold">4.是否會影響我的信用信譽？
-            </div>
-            <div>IDRP不會影響債務人的信用聲譽。
-
-
-            </div>
-        </div>
-        <div class="mt-5">
-            <div class="big-size gold">5.如果申請IDRP遭到拒絕，我還有其他選擇嗎？
-
-            </div>
-            <div>並非所有的銀行和金融機構都接受IDRP。如果債權人不接受該計劃，則債務人可以轉向其他解決方案，例如IVA和DRP。
-
-
-            </div>
-        </div>
-
-
-
 
 
 
