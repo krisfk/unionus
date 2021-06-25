@@ -40,7 +40,7 @@ get_header();
             假如是小生意，開設無限公司的金錢及時間成本會較低。
         </div>
 
-        <div class="gold-table-div-wrapper">
+        <div class="gold-table-div-wrapper inner-container2 mx-auto">
             <img class="table-head-th-img"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
 
