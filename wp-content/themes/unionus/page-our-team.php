@@ -47,6 +47,16 @@ get_header();
         </div>
 
 
+        <div class="row">
+            <div class="col-6">
+                <h2 class="gold">Joseph </h2>
+            </div>
+            <div class="col-6">
+                <h2 class="gold">Midas </h2>
+            </div>
+
+        </div>
+
 
 
 
