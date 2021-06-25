@@ -208,7 +208,7 @@ get_header();
                     </div>
                     <div class="gold mt-3 big-size">主要服務項目：</div>
 
-                    <div class="mt-3">
+                    <div class="mt-3 d-flex justify-center-center">
                         <ul class="gold d-inline-block text-start">
                             <li>民事和刑事訴訟</li>
                             <li>破產、IVA、DRP</li>
