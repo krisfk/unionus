@@ -275,7 +275,7 @@ get_header();
 
 
 
-        <div class="text-center mt-5">
+        <div class="text-center mt-5 inner-container2 mx-auto">
             <div class="gold-table-div-wrapper w-100">
 
                 <img class="table-head-th-img"
