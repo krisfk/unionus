@@ -59,10 +59,22 @@ get_header();
                 <div class="mt-3">吳先生過往一直為各大上市集團及私人企業提供會計和審核的工作，並為各階層就業人士提供報稅,審計和債務重組整合服務，憑藉過人的待客之道和熱誠在過往數年內處裡超過千宗成功個案。
                 </div>
             </div>
-            <div class="col-6 staff-col">
-                <h2 class="gold">Midas </h2>
-            </div>
 
+
+
+            <div class="col-6 staff-col">
+                <h2 class="gold mt-3">Midas </h2>
+                <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
+                <div class="gold big-size">Partner
+                    <br>
+                    市場營運總監
+                    <br>
+                    資深債務重組策劃
+
+                </div>
+                <div class="mt-3">吳先生過往一直為各大上市集團及私人企業提供會計和審核的工作，並為各階層就業人士提供報稅,審計和債務重組整合服務，憑藉過人的待客之道和熱誠在過往數年內處裡超過千宗成功個案。
+                </div>
+            </div>
         </div>
 
 
