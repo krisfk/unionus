@@ -48,7 +48,7 @@ get_header();
 
 
         <div class="row">
-            <div class="col-6">
+            <div class="col-6 staff-col">
                 <h2 class="gold">Joseph </h2>
                 <div class="little-gold-bar mx-auto"></div>
                 <div>Partner/CPA (Practising) <br>
@@ -59,7 +59,7 @@ get_header();
                 <div>吳先生過往一直為各大上市集團及私人企業提供會計和審核的工作，並為各階層就業人士提供報稅,審計和債務重組整合服務，憑藉過人的待客之道和熱誠在過往數年內處裡超過千宗成功個案。
                 </div>
             </div>
-            <div class="col-6">
+            <div class="col-6 staff-col">
                 <h2 class="gold">Midas </h2>
             </div>
 

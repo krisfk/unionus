@@ -1712,6 +1712,10 @@ h2 .smaller {
     margin: 0 auto;
 }
 
+.staff-col {
+    text-align: center;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
