@@ -1167,10 +1167,9 @@ h1 {
 .gold-table ul {
     margin-left: -12px;
     width: auto;
-    display: inline-block;
-    padding: 0 0 0 19px;
+    /* display: inline-block; */
+    padding: 0 0 0 20px;
     margin: 0 auto;
-    width: 100%;
 }
 
 .gold-table ul li {
