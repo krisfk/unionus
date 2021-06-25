@@ -40,6 +40,14 @@ get_header();
         </div>
 
 
+        <div class="text-center mt-7">
+
+            <div class="little-gold-bar mx-auto"></div>
+            <h2 class="gold mt-5">我們的團隊</h2>
+        </div>
+
+
+
 
 
         <div class="row gx-5 justify-content-center mt-6">
