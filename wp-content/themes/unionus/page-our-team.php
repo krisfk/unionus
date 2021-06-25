@@ -85,6 +85,22 @@ get_header();
             <div><img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
                     alt=""></div>
 
+            <div class="row inner-container2">
+                <div class="col-6 staff-col">
+                    <h2 class="gold mt-3">Joseph </h2>
+                    <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
+                    <div class="gold big-size">Partner/CPA (Practising) <br>
+                        香港會計師公會成員 <br>
+                        債務重組專員
+
+                    </div>
+                    <div class="mt-3">
+                        吳先生過往一直為各大上市集團及私人企業提供會計和審核的工作，並為各階層就業人士提供報稅,審計和債務重組整合服務，憑藉過人的待客之道和熱誠在過往數年內處裡超過千宗成功個案。
+                    </div>
+                </div>
+
+            </div>
+
         </div>
         <div class="row gx-5 justify-content-center mt-6">
 
