@@ -85,7 +85,7 @@ get_header();
             <div><img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
                     alt=""></div>
 
-            <div class="row inner-container2">
+            <div class="row inner-container2 justify-content-center mx-auto">
                 <div class="col-6 staff-col">
                     <h2 class="gold mt-3">Joseph </h2>
                     <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
