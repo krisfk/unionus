@@ -48,38 +48,15 @@ get_header();
             IVA以外的債務處理解決方案，它不要求債務人按照IVA的要求進行任何法律程序。
 
         </div>
-        <div class="row gx-5 inner-container2 mx-auto">
-            <div class="col-6 staff-col">
-                <h2 class="gold mt-3">Joseph </h2>
-                <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
-                <div class="gold big-size">Partner/CPA (Practising) <br>
-                    香港會計師公會成員 <br>
-                    債務重組專員
 
-                </div>
-                <div class="mt-3">吳先生過往一直為各大上市集團及私人企業提供會計和審核的工作，並為各階層就業人士提供報稅,審計和債務重組整合服務，憑藉過人的待客之道和熱誠在過往數年內處裡超過千宗成功個案。
-                </div>
-            </div>
+        <div class="mt-5">
+            <h2 class="gold">IDRP的好處:</h2>
+            減輕利息負擔，綜合還款計劃並將根據債務人的還款能力來製定，以便債務人實現財務自由，節省費用，債務人不需要雇用律師，也不需要像IVA個人自願安排向法院提供請願。債務人可以通過IDRP的還款計劃節省債務繁複的法律手續。債務人可以在預期時間內統一債務並歸還有關欠款予債權人。
 
-
-
-            <div class="col-6 staff-col">
-                <h2 class="gold mt-3">Midas </h2>
-                <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
-                <div class="gold big-size">Partner
-                    <br>
-                    市場營運總監
-                    <br>
-                    資深債務重組策劃
-
-                </div>
-                <div class="mt-3">
-                    創辦人之一的馬先生在過往數年內致力為各職業人士提供專業並有效的債務重組解決方案,根據每位客戶的疑問和困難提供獨立意見和作出分析，處理債務重組成功個案具備相當經驗，並獲得多次客戶推薦。
-
-
-                </div>
-            </div>
         </div>
+
+
+
 
 
         <div class="mt-6">
