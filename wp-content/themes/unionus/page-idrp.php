@@ -29,32 +29,33 @@ get_header();
             <h1 class="mx-auto gold">什麼是IDRP（牽頭式債務舒緩）？</h1>
         </div>
 
-        <div class="sep mx-auto mt-3"> <img class="sep-flo"
-                src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
+        <div class="inner-container2 mx-auto">
+            <div class="sep mx-auto mt-3"> <img class="sep-flo"
+                    src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center">
-            <span class="big-size">IDRP</span>
-            牽頭式債務舒緩是一種債務重組解決方案，其功能與“個人自願安排”和“債務重組計劃”相似。該計劃為擁有多個債權人的債務人提供協助；
-            債務人只需要與最大債權人談判並制定新的還款計劃.(一般情況下以銀行作為主要債權人)
+            <div class="inner-container mx-auto mt-5 text-center">
+                <span class="big-size">IDRP</span>
+                牽頭式債務舒緩是一種債務重組解決方案，其功能與“個人自願安排”和“債務重組計劃”相似。該計劃為擁有多個債權人的債務人提供協助；
+                債務人只需要與最大債權人談判並制定新的還款計劃.(一般情況下以銀行作為主要債權人)
+            </div>
+            <div class="mt-3 text-center">我們的專家將協助債務人談判和製定重組後的還款計劃。 綜合債務舒緩計劃。</div>
+            <div class="gold big-size mt-3  text-center">IDRP的優勢在於它僅需要與最大債權人進行談判， <br>
+                免除多次談判會議帶來的煩惱</div>
+
+
+            <div class="mt-5 text-center">
+                <span class="big-size">IDRP</span>
+                牽頭式債務舒緩，這是DRP的簡單版本。因為它不需要與單個債權人進行獨立談判. 我們的專家將根據債務人的還款能力製定還款計劃，該計劃包括每月還款，利率和期限。《牽頭式債務舒緩》是破產/ DRP/
+                IVA以外的債務處理解決方案，它不要求債務人按照IVA的要求進行任何法律程序。
+
+            </div>
+
+            <div class="mt-5">
+                <h2 class="gold">IDRP的好處:</h2>
+                減輕利息負擔，綜合還款計劃並將根據債務人的還款能力來製定，以便債務人實現財務自由，節省費用，債務人不需要雇用律師，也不需要像IVA個人自願安排向法院提供請願。債務人可以通過IDRP的還款計劃節省債務繁複的法律手續。債務人可以在預期時間內統一債務並歸還有關欠款予債權人。
+
+            </div>
         </div>
-        <div class="mt-3 text-center">我們的專家將協助債務人談判和製定重組後的還款計劃。 綜合債務舒緩計劃。</div>
-        <div class="gold big-size mt-3  text-center">IDRP的優勢在於它僅需要與最大債權人進行談判， <br>
-            免除多次談判會議帶來的煩惱</div>
-
-
-        <div class="mt-5 text-center">
-            <span class="big-size">IDRP</span>
-            牽頭式債務舒緩，這是DRP的簡單版本。因為它不需要與單個債權人進行獨立談判. 我們的專家將根據債務人的還款能力製定還款計劃，該計劃包括每月還款，利率和期限。《牽頭式債務舒緩》是破產/ DRP/
-            IVA以外的債務處理解決方案，它不要求債務人按照IVA的要求進行任何法律程序。
-
-        </div>
-
-        <div class="mt-5">
-            <h2 class="gold">IDRP的好處:</h2>
-            減輕利息負擔，綜合還款計劃並將根據債務人的還款能力來製定，以便債務人實現財務自由，節省費用，債務人不需要雇用律師，也不需要像IVA個人自願安排向法院提供請願。債務人可以通過IDRP的還款計劃節省債務繁複的法律手續。債務人可以在預期時間內統一債務並歸還有關欠款予債權人。
-
-        </div>
-
 
 
 
