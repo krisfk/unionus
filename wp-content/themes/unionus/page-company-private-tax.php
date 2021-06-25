@@ -278,8 +278,7 @@ get_header();
         <div class="text-center mt-5">
             <div class="gold-table-div-wrapper w-100">
 
-                <img class="table-head-th-img"
-                    src="http://localhost:8888/unionus/wp-content/themes/unionus/assets/images/table-head-th.png"
+                <img class="table-head-th-img" src="/unionus/wp-content/themes/unionus/assets/images/table-head-th.png"
                     alt="">
 
 
