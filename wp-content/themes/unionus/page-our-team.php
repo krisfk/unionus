@@ -49,8 +49,8 @@ get_header();
 
         <div class="row">
             <div class="col-6 staff-col">
-                <h2 class="gold mt-3 mb-3">Joseph </h2>
-                <div class="little-gold-bar mx-auto"></div>
+                <h2 class="gold mt-3">Joseph </h2>
+                <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
                 <div class="gold big-size">Partner/CPA (Practising) <br>
                     香港會計師公會成員 <br>
                     債務重組專員
