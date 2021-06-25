@@ -86,7 +86,7 @@ get_header();
                     alt=""></div>
 
             <div class="row inner-container2 justify-content-center mx-auto">
-                <div class="col-4 staff-col">
+                <div class="col-6 staff-col">
                     <h2 class="gold mt-4">Alex Cheung
                     </h2>
                     <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
@@ -114,19 +114,20 @@ get_header();
                     alt=""></div>
 
             <div class="row inner-container2 justify-content-center mx-auto">
-                <div class="col-4 staff-col">
-                    <h2 class="gold mt-4">Alex Cheung
+                <div class="col-6 staff-col">
+                    <h2 class="gold mt-4">Solicitor
                     </h2>
                     <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
-                    <div class="gold big-size">Finance Mannger
-                        <br>
-
-                        MPF and Banking
+                    <div class="gold big-size">
+                        LLB法律學士
 
 
                     </div>
                     <div class="mt-3">
-                        提供有關保險,強積金有關專業意見， <br>並為各大中小企代辦公司開戶。
+                        在法律事務有豐富的經驗並為註冊律師,同時擔任爾聯Unionus的榮譽法律顧問，並與客戶和其他相關專業人士建立了廣泛的網絡。他經常受個人和企業客戶委託處理破產與IVA個人自願安排，住宅，工業和商業房地產有關的各種法律服務，包括
+                        :
+
+
 
                     </div>
                 </div>
