@@ -160,7 +160,7 @@ get_header();
                     </div>
 
                     <div class="mt-3">
-                        <ul>
+                        <ul class="gold d-inline-block  text-start">
                             <li>遺產管理及分配</li>
                             <li>遺產規劃</li>
                             <li>房地產授產安排</li>
