@@ -180,6 +180,38 @@ get_header();
 
 
 
+        <div class="mt-6">
+            <div><img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
+                    alt=""></div>
+
+            <div class="row inner-container2 justify-content-center mx-auto">
+                <div class="col-12 staff-col">
+                    <h2 class="gold mt-4">Gary Li
+
+                    </h2>
+                    <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
+                    <div class="gold big-size">Master of Laws, Master of Accounting, MMed.Sc., M.Sc
+
+                        <br>
+
+                        法律碩士,會計學碩士,項目管理理學碩士 <br>
+                        榮譽法律顧問
+
+
+                    </div>
+                    <div class="mt-3">
+                        提供有關保險,強積金有關專業意見， <br>並為各大中小企代辦公司開戶。
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
 
         <div class="row gx-5 justify-content-center mt-6">
 
