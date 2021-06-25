@@ -1716,6 +1716,10 @@ h2 .smaller {
     text-align: center;
 }
 
+.staff-col .little-gold-bar {
+    width: 48px;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
