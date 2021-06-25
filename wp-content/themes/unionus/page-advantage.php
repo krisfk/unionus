@@ -149,13 +149,13 @@ get_header();
 
 
 <style type="text/css">
-.top-menu-div {
+/* .top-menu-div {
     display: none;
 }
 
 .top-menu-logo-a {
     display: none;
-}
+} */
 
 
 .bg-shape-1 {
