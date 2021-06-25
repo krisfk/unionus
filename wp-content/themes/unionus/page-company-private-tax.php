@@ -63,7 +63,7 @@ get_header();
 
 
 
-        <div class="text-center">
+        <div class="text-center inner-container2 mx-auto">
             <div class="gold-table-div-wrapper">
 
                 <img class="table-head-th-img"
