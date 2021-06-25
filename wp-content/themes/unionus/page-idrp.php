@@ -59,7 +59,7 @@ get_header();
 
 
 
-        <div class="mt-5 inner-container2">
+        <div class="mt-5 inner-container2 mx-auto">
             <h2 class="gold">有關資格申請:</h2>
 
             <div> 請人需要提交其所有個人信息作為評估，當中包括：
