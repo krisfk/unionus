@@ -18,7 +18,7 @@ get_header();
 
 ?>
 
-<section class="sec1 pt-5">
+<section class="sec1 pt-const2">
 
     <div class="container">
 
