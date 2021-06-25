@@ -65,7 +65,7 @@ get_header();
 
                                         <div class="mt-5   text-center">
 
-                                            <ul>
+                                            <ul class="d-inline-block mx-auto">
                                                 <li>有助老闆及股東了解及監察各部門營運成本或產品之製造成本</li>
 
                                                 <li>有助管理層作未來財務預測、預算及分配</li>
@@ -122,7 +122,7 @@ get_header();
 
                                         <div class="mt-5 text-center">
 
-                                            <ul>
+                                            <ul class="d-inline-block mx-auto">
                                                 <li>上市公司每年透過財務年報發布公司狀況</li>
 
                                                 <li>向銀行借貸</li>
