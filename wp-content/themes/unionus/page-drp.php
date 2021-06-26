@@ -271,88 +271,93 @@ get_header();
                         <h3 class="gold"> 職業：Retail sale　月入：$17,000</h3>
                     </div>
                     <div class="nr">
-                        <table cellspacing="0px">
-                            <tbody>
-                                <tr>
-                                    <th>債務機構</th>
-                                    <th>貸款額</th>
-                                    <th>現時欠款</th>
-                                    <th>每月最低還款</th>
-                                    <th>每月利率</th>
-                                    <th>每月利息開支</th>
-                                    <th>舒緩後供款</th>
-                                    <th>期數</th>
-                                    <th>舒緩後每月利率</th>
-                                    <th>舒緩後每月利息</th>
-                                </tr>
 
-                                <tr>
-                                    <td>BOC</td>
-                                    <td>$250,000</td>
-                                    <td>$235,140</td>
-                                    <td>$7,838</td>
-                                    <td>1.47%</td>
-                                    <td>$3,671 </td>
-                                    <td>$4,995.28</td>
-                                    <td>57</td>
-                                    <td>0.37%</td>
-                                    <td>$870 </td>
-                                </tr>
+                        <div class="gold-table-div">
 
-                                <tr>
-                                    <td>UA</td>
-                                    <td>$30,000</td>
-                                    <td>$30,000</td>
-                                    <td>$1,200 </td>
-                                    <td>3.00%</td>
-                                    <td>$900 </td>
-                                    <td>$766</td>
-                                    <td>57</td>
-                                    <td>0.80%</td>
-                                    <td>$240 </td>
-                                </tr>
 
-                                <tr>
-                                    <td>PROMISE</td>
-                                    <td>$30,000</td>
-                                    <td>$36,449</td>
-                                    <td>$1,458 </td>
-                                    <td>3.00%</td>
-                                    <td>$1,093 </td>
-                                    <td>$822</td>
-                                    <td>57</td>
-                                    <td>0.50%</td>
-                                    <td>$182 </td>
-                                </tr>
+                            <table cellspacing="0px">
+                                <tbody>
+                                    <tr>
+                                        <th>債務機構</th>
+                                        <th>貸款額</th>
+                                        <th>現時欠款</th>
+                                        <th>每月最低還款</th>
+                                        <th>每月利率</th>
+                                        <th>每月利息開支</th>
+                                        <th>舒緩後供款</th>
+                                        <th>期數</th>
+                                        <th>舒緩後每月利率</th>
+                                        <th>舒緩後每月利息</th>
+                                    </tr>
 
-                                <tr>
-                                    <td>HS</td>
-                                    <td>$30,000</td>
-                                    <td>$27,841</td>
-                                    <td>$1,114 </td>
-                                    <td>3.00%</td>
-                                    <td>$835 </td>
-                                    <td>$488</td>
-                                    <td>57</td>
-                                    <td>0.00%</td>
-                                    <td>$0 </td>
-                                </tr>
+                                    <tr>
+                                        <td>BOC</td>
+                                        <td>$250,000</td>
+                                        <td>$235,140</td>
+                                        <td>$7,838</td>
+                                        <td>1.47%</td>
+                                        <td>$3,671 </td>
+                                        <td>$4,995.28</td>
+                                        <td>57</td>
+                                        <td>0.37%</td>
+                                        <td>$870 </td>
+                                    </tr>
 
-                                <tr>
-                                    <td>AE</td>
-                                    <td>$17,000</td>
-                                    <td>$16,315</td>
-                                    <td>$653 </td>
-                                    <td>3.00%</td>
-                                    <td>$489 </td>
-                                    <td>$417</td>
-                                    <td>57</td>
-                                    <td>0.80%</td>
-                                    <td>$131 </td>
-                                </tr>
+                                    <tr>
+                                        <td>UA</td>
+                                        <td>$30,000</td>
+                                        <td>$30,000</td>
+                                        <td>$1,200 </td>
+                                        <td>3.00%</td>
+                                        <td>$900 </td>
+                                        <td>$766</td>
+                                        <td>57</td>
+                                        <td>0.80%</td>
+                                        <td>$240 </td>
+                                    </tr>
 
-                            </tbody>
-                        </table>
+                                    <tr>
+                                        <td>PROMISE</td>
+                                        <td>$30,000</td>
+                                        <td>$36,449</td>
+                                        <td>$1,458 </td>
+                                        <td>3.00%</td>
+                                        <td>$1,093 </td>
+                                        <td>$822</td>
+                                        <td>57</td>
+                                        <td>0.50%</td>
+                                        <td>$182 </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>HS</td>
+                                        <td>$30,000</td>
+                                        <td>$27,841</td>
+                                        <td>$1,114 </td>
+                                        <td>3.00%</td>
+                                        <td>$835 </td>
+                                        <td>$488</td>
+                                        <td>57</td>
+                                        <td>0.00%</td>
+                                        <td>$0 </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>AE</td>
+                                        <td>$17,000</td>
+                                        <td>$16,315</td>
+                                        <td>$653 </td>
+                                        <td>3.00%</td>
+                                        <td>$489 </td>
+                                        <td>$417</td>
+                                        <td>57</td>
+                                        <td>0.80%</td>
+                                        <td>$131 </td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                     <div class="jiage">
                         <dl>
