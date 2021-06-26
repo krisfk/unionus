@@ -135,6 +135,11 @@ get_header();
 
 
 
+        <div class="mt-5">
+            <div class="gold"> •債務重組計劃（DRP）</div>
+            債務重組計劃比IVA和IDRP更簡單。這是一個相對較快的解決方案。它不需要債務人參與任何法律程序。我們在債務人同意的情況下制定還款計劃，並與債權人進行談判。DRP允許債權人直接與債務人聯繫。
+        </div>
+
 
 
         <div class="text-center mt-7">
