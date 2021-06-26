@@ -76,7 +76,7 @@ get_header();
 
 
         <div class="mt-6">
-            <div><img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
+            <div><img class="flo-icon" src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
                     alt=""></div>
         </div>
 
