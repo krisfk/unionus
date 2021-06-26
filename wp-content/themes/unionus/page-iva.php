@@ -104,7 +104,8 @@ get_header();
             <div>法庭聆訊(由代表律師出庭，申請人無需上庭)，頒佈IVA臨時命令
             </div>
 
-            <div class="mt-5">約2個月
+            <div class="mt-5">
+                <h2 class="gold"> 約2個月</h2>
             </div>
             <div>刊登債權人會議通告(中英文報紙各一份)</div>
 
