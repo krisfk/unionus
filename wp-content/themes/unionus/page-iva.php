@@ -269,7 +269,7 @@ get_header();
         </div>
 
 
-        <div class="inner-container2 mx-auto">
+        <div class="inner-container mx-auto">
 
             <div class="mt-5">
                 <div class="gold big-size">1.申請IVA的過程需時多久？</div>
