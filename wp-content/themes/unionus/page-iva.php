@@ -1001,77 +1001,82 @@ get_header();
                     </div>
                 </li>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
-                    <div class="name">職業：CS　月入：$16,600 </div>
+                    <div class="name">
+                        <h3 class="gold">職業：CS　月入：$16,600</h3>
+                    </div>
                     <div class="nr">
-                        <table cellspacing="0px">
-                            <tbody>
-                                <tr>
-                                    <th>債務機構</th>
-                                    <th>貸款額</th>
-                                    <th>現時欠款</th>
-                                    <th>每月最低還款</th>
-                                    <th>每月利率</th>
-                                    <th>每月利息開支</th>
-                                    <th>舒緩後供款</th>
-                                    <th>期數</th>
-                                    <th>舒緩後每月利率</th>
-                                    <th>舒緩後每月利息</th>
-                                </tr>
+                        <div class="gold-table-div">
 
-                                <tr>
-                                    <td>HS Bank</td>
-                                    <td>$52,000</td>
-                                    <td>$52,445.4</td>
-                                    <td>$1,700 </td>
-                                    <td>4.00%</td>
-                                    <td>$2,098 </td>
-                                    <td>$1,093</td>
-                                    <td>48</td>
-                                    <td>0.00%</td>
-                                    <td>$0 </td>
-                                </tr>
+                            <table cellspacing="0px">
+                                <tbody>
+                                    <tr>
+                                        <th>債務機構</th>
+                                        <th>貸款額</th>
+                                        <th>現時欠款</th>
+                                        <th>每月最低還款</th>
+                                        <th>每月利率</th>
+                                        <th>每月利息開支</th>
+                                        <th>舒緩後供款</th>
+                                        <th>期數</th>
+                                        <th>舒緩後每月利率</th>
+                                        <th>舒緩後每月利息</th>
+                                    </tr>
 
-                                <tr>
-                                    <td>PROMISE</td>
-                                    <td>$50,000</td>
-                                    <td>$50,900</td>
-                                    <td>$6,000 </td>
-                                    <td>4.00%</td>
-                                    <td>$2,036 </td>
-                                    <td>$1,264</td>
-                                    <td>48</td>
-                                    <td>0.40%</td>
-                                    <td>$204 </td>
-                                </tr>
+                                    <tr>
+                                        <td>HS Bank</td>
+                                        <td>$52,000</td>
+                                        <td>$52,445.4</td>
+                                        <td>$1,700 </td>
+                                        <td>4.00%</td>
+                                        <td>$2,098 </td>
+                                        <td>$1,093</td>
+                                        <td>48</td>
+                                        <td>0.00%</td>
+                                        <td>$0 </td>
+                                    </tr>
 
-                                <tr>
-                                    <td>EAST ASIA</td>
-                                    <td>$139,384</td>
-                                    <td>$125,020</td>
-                                    <td>$4,465</td>
-                                    <td>1.12%</td>
-                                    <td>$1,561 </td>
-                                    <td>$3,229.68</td>
-                                    <td>48</td>
-                                    <td>0.50%</td>
-                                    <td>$625 </td>
-                                </tr>
+                                    <tr>
+                                        <td>PROMISE</td>
+                                        <td>$50,000</td>
+                                        <td>$50,900</td>
+                                        <td>$6,000 </td>
+                                        <td>4.00%</td>
+                                        <td>$2,036 </td>
+                                        <td>$1,264</td>
+                                        <td>48</td>
+                                        <td>0.40%</td>
+                                        <td>$204 </td>
+                                    </tr>
 
-                                <tr>
-                                    <td>PUBILC</td>
-                                    <td>$28,000</td>
-                                    <td>$32,700</td>
-                                    <td>$1,635</td>
-                                    <td>1.67%</td>
-                                    <td>$468 </td>
-                                    <td>$877.45</td>
-                                    <td>48</td>
-                                    <td>0.60%</td>
-                                    <td>$196 </td>
-                                </tr>
+                                    <tr>
+                                        <td>EAST ASIA</td>
+                                        <td>$139,384</td>
+                                        <td>$125,020</td>
+                                        <td>$4,465</td>
+                                        <td>1.12%</td>
+                                        <td>$1,561 </td>
+                                        <td>$3,229.68</td>
+                                        <td>48</td>
+                                        <td>0.50%</td>
+                                        <td>$625 </td>
+                                    </tr>
 
-                            </tbody>
-                        </table>
+                                    <tr>
+                                        <td>PUBILC</td>
+                                        <td>$28,000</td>
+                                        <td>$32,700</td>
+                                        <td>$1,635</td>
+                                        <td>1.67%</td>
+                                        <td>$468 </td>
+                                        <td>$877.45</td>
+                                        <td>48</td>
+                                        <td>0.60%</td>
+                                        <td>$196 </td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                     <div class="jiage">
                         <dl>
