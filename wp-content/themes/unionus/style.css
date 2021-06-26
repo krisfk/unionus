@@ -1779,6 +1779,13 @@ h2 .smaller {
     margin-top: 0.5rem;
 }
 
+.iva-step-line {
+    display: block;
+    width: 1px;
+    height: 10px;
+    background: #ddbd8a;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
