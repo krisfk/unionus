@@ -82,7 +82,7 @@ get_header();
                                         <h2 class="gold text-center">債務減免計劃（DRP）的好處
                                         </h2>
 
-                                        <div class="mt-5   text-center">
+                                        <div class="mt-5   text-start">
 
 
                                             •避免破產 <br>
