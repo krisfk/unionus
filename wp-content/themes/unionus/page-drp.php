@@ -443,7 +443,10 @@ get_header();
                     </div>
                 </li>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
-                    <div class="name">職業：Designer　月入：$22,800 </div>
+                    <div class="name">
+                        <h3 class="gold">
+                            職業：Designer　月入：$22,800</h3>
+                    </div>
                     <div class="nr">
                         <table cellspacing="0px">
                             <tbody>
