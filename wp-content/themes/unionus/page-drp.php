@@ -249,7 +249,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 0; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Retail sale　月入：$17,000 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -346,7 +346,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 0; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Driver　月入：$45,000 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -404,7 +404,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 0; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Designer　月入：$22,800 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -462,7 +462,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 0; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Worker　月入：$15,200 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -546,7 +546,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 0; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Office　月入：$17,915 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -643,7 +643,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 0; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Salon　月入：$10,000 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -701,7 +701,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 0; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：CS　月入：$16,600 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -785,7 +785,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 0; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Designer　月入：$22,800 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -908,7 +908,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 0; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Accounting　月入：$42,000 </div>
                     <div class="nr">
                         <table cellspacing="0px">
