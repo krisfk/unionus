@@ -34,9 +34,9 @@ get_header();
 
         <div class="inner-container mx-auto mt-5 text-center">
             債務重組計劃（DRP）是債務舒緩主要方案之一。 <br>
-            <span class="gold big-size">這是個人自願安排（IVA）的簡單版本，因為申請人無需遵循法律程序。 
+            <span class="gold big-size mt-3">這是個人自願安排（IVA）的簡單版本，因為申請人無需遵循法律程序。 
             </span>
-            <div>
+            <div class="mt-3">
                 債權人機構在債務人同意的情況下直接與債權人制定了新的還款機制，其中包括還款額，利率，分期付款期數和付款方式。在某些情況下，債權人眾多但償還金額相對較小。然而DRP債務舒緩計劃是債務人的首選選擇。在特定債權人同意情況下，可以達成0%利息，大幅減低90%以上利息。
             </div>
 
