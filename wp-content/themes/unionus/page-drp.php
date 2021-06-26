@@ -180,7 +180,7 @@ get_header();
             <ul>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">
-                        <h2 class="gold">職業：Admin　月入：$18,400</h2>
+                        <h3 class="gold">職業：Admin　月入：$18,400</h3>
                     </div>
                     <div class="nr">
 
