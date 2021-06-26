@@ -33,7 +33,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container2 mx-auto mt-5 text-center">
+        <div class="inner-container2 mx-auto mt-5 text-start">
 
             根據破產條例第6章第20條，個人自願安排 (Individual Voluntary Arrangement，IVA 債務重組)
             是面臨破產之人士的另一個選擇。債務人須委任代名人向其債權人提出償還債項建議，經過法庭聆訊及頒佈臨時命令，並獲債權人通過其建議書，確保債務人在合理負擔的情況下，妥善解決債務問題。
