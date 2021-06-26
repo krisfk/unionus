@@ -1227,64 +1227,69 @@ get_header();
                     </div>
                 </li>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
-                    <div class="name">職業：Accounting　月入：$42,000 </div>
+                    <div class="name">
+                        <h3 class="gold">職業：Accounting　月入：$42,000</h3>
+                    </div>
                     <div class="nr">
-                        <table cellspacing="0px">
-                            <tbody>
-                                <tr>
-                                    <th>債務機構</th>
-                                    <th>貸款額</th>
-                                    <th>現時欠款</th>
-                                    <th>每月最低還款</th>
-                                    <th>每月利率</th>
-                                    <th>每月利息開支</th>
-                                    <th>舒緩後供款</th>
-                                    <th>期數</th>
-                                    <th>舒緩後每月利率</th>
-                                    <th>舒緩後每月利息</th>
-                                </tr>
+                        <div class="gold-table-div">
 
-                                <tr>
-                                    <td>SC</td>
-                                    <td>$189,000</td>
-                                    <td>$161,677</td>
-                                    <td>$6,467 </td>
-                                    <td>3.00%</td>
-                                    <td>$4,850 </td>
-                                    <td>$3,368</td>
-                                    <td>48</td>
-                                    <td>0.00%</td>
-                                    <td>$0 </td>
-                                </tr>
+                            <table cellspacing="0px">
+                                <tbody>
+                                    <tr>
+                                        <th>債務機構</th>
+                                        <th>貸款額</th>
+                                        <th>現時欠款</th>
+                                        <th>每月最低還款</th>
+                                        <th>每月利率</th>
+                                        <th>每月利息開支</th>
+                                        <th>舒緩後供款</th>
+                                        <th>期數</th>
+                                        <th>舒緩後每月利率</th>
+                                        <th>舒緩後每月利息</th>
+                                    </tr>
 
-                                <tr>
-                                    <td>DBS</td>
-                                    <td>$37,000</td>
-                                    <td>$32,112</td>
-                                    <td>$1,284 </td>
-                                    <td>3.00%</td>
-                                    <td>$963 </td>
-                                    <td>$963 </td>
-                                    <td>48</td>
-                                    <td>0.50%</td>
-                                    <td>$161 </td>
-                                </tr>
+                                    <tr>
+                                        <td>SC</td>
+                                        <td>$189,000</td>
+                                        <td>$161,677</td>
+                                        <td>$6,467 </td>
+                                        <td>3.00%</td>
+                                        <td>$4,850 </td>
+                                        <td>$3,368</td>
+                                        <td>48</td>
+                                        <td>0.00%</td>
+                                        <td>$0 </td>
+                                    </tr>
 
-                                <tr>
-                                    <td>DBS</td>
-                                    <td>$150,000</td>
-                                    <td>$67,496</td>
-                                    <td>$5,192</td>
-                                    <td>0.68%</td>
-                                    <td>$1,025 </td>
-                                    <td>$1,743.64</td>
-                                    <td>48</td>
-                                    <td>0.50%</td>
-                                    <td>$337 </td>
-                                </tr>
+                                    <tr>
+                                        <td>DBS</td>
+                                        <td>$37,000</td>
+                                        <td>$32,112</td>
+                                        <td>$1,284 </td>
+                                        <td>3.00%</td>
+                                        <td>$963 </td>
+                                        <td>$963 </td>
+                                        <td>48</td>
+                                        <td>0.50%</td>
+                                        <td>$161 </td>
+                                    </tr>
 
-                            </tbody>
-                        </table>
+                                    <tr>
+                                        <td>DBS</td>
+                                        <td>$150,000</td>
+                                        <td>$67,496</td>
+                                        <td>$5,192</td>
+                                        <td>0.68%</td>
+                                        <td>$1,025 </td>
+                                        <td>$1,743.64</td>
+                                        <td>48</td>
+                                        <td>0.50%</td>
+                                        <td>$337 </td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                     <div class="jiage">
                         <dl>
