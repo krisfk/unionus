@@ -210,7 +210,7 @@ get_header();
                                         <td>0.00%</td>
                                         <td>$0 </td>
                                     </tr>
-                                    <tr style="height:5px"></tr>
+
                                     <tr>
                                         <td>HS</td>
                                         <td>$138,000</td>
@@ -223,7 +223,7 @@ get_header();
                                         <td>0.00%</td>
                                         <td>$0 </td>
                                     </tr>
-                                    <tr style="height:5px"></tr>
+
                                     <tr>
                                         <td>BOC</td>
                                         <td>$84,000</td>
@@ -236,7 +236,7 @@ get_header();
                                         <td>0.37%</td>
                                         <td>$281 </td>
                                     </tr>
-                                    <tr style="height:5px"></tr>
+
                                 </tbody>
                             </table>
                         </div>
@@ -282,7 +282,7 @@ get_header();
                                     <td>0.37%</td>
                                     <td>$870 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>UA</td>
                                     <td>$30,000</td>
@@ -295,7 +295,7 @@ get_header();
                                     <td>0.80%</td>
                                     <td>$240 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>PROMISE</td>
                                     <td>$30,000</td>
@@ -308,7 +308,7 @@ get_header();
                                     <td>0.50%</td>
                                     <td>$182 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>HS</td>
                                     <td>$30,000</td>
@@ -321,7 +321,7 @@ get_header();
                                     <td>0.00%</td>
                                     <td>$0 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>AE</td>
                                     <td>$17,000</td>
@@ -334,7 +334,7 @@ get_header();
                                     <td>0.80%</td>
                                     <td>$131 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                             </tbody>
                         </table>
                     </div>
@@ -379,7 +379,7 @@ get_header();
                                     <td>0.00%</td>
                                     <td>$0 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>PROMISE</td>
                                     <td>$50,000</td>
@@ -392,7 +392,7 @@ get_header();
                                     <td>0.60%</td>
                                     <td>$215 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                             </tbody>
                         </table>
                     </div>
@@ -437,7 +437,7 @@ get_header();
                                     <td>0.80%</td>
                                     <td>$270 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>SCB</td>
                                     <td>$170,000</td>
@@ -450,7 +450,7 @@ get_header();
                                     <td>0.00%</td>
                                     <td>$0 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                             </tbody>
                         </table>
                     </div>
@@ -495,7 +495,7 @@ get_header();
                                     <td>0.60%</td>
                                     <td>$141 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>DBS</td>
                                     <td>$48,000</td>
@@ -508,7 +508,7 @@ get_header();
                                     <td>1.00%</td>
                                     <td>$150 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>AEON</td>
                                     <td>$35,000</td>
@@ -521,7 +521,7 @@ get_header();
                                     <td>1.00%</td>
                                     <td>$150 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>AEON</td>
                                     <td>$60,000</td>
@@ -534,7 +534,7 @@ get_header();
                                     <td>1.00%</td>
                                     <td>$788 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                             </tbody>
                         </table>
                     </div>
@@ -579,7 +579,7 @@ get_header();
                                     <td>0.60%</td>
                                     <td>$182 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>HSBC</td>
                                     <td>$50,000</td>
@@ -592,7 +592,7 @@ get_header();
                                     <td>0.00%</td>
                                     <td>$0 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>JCB</td>
                                     <td>$10,000</td>
@@ -605,7 +605,7 @@ get_header();
                                     <td>0.60%</td>
                                     <td>$70 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>AE</td>
                                     <td>$47,000</td>
@@ -618,7 +618,7 @@ get_header();
                                     <td>0.80%</td>
                                     <td>$383 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>DBS</td>
                                     <td>$56,000</td>
@@ -631,7 +631,7 @@ get_header();
                                     <td>0.60%</td>
                                     <td>$347 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                             </tbody>
                         </table>
                     </div>
@@ -676,7 +676,7 @@ get_header();
                                     <td>0.80%</td>
                                     <td>$270 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>SCB</td>
                                     <td>$1,700,000</td>
@@ -689,7 +689,7 @@ get_header();
                                     <td>0.00%</td>
                                     <td>$4,710 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                             </tbody>
                         </table>
                     </div>
@@ -734,7 +734,7 @@ get_header();
                                     <td>0.00%</td>
                                     <td>$0 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>PROMISE</td>
                                     <td>$50,000</td>
@@ -747,7 +747,7 @@ get_header();
                                     <td>0.40%</td>
                                     <td>$204 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>EAST ASIA</td>
                                     <td>$139,384</td>
@@ -760,7 +760,7 @@ get_header();
                                     <td>0.50%</td>
                                     <td>$625 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>PUBILC</td>
                                     <td>$28,000</td>
@@ -773,7 +773,7 @@ get_header();
                                     <td>0.60%</td>
                                     <td>$196 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                             </tbody>
                         </table>
                     </div>
@@ -818,7 +818,7 @@ get_header();
                                     <td>1.00%</td>
                                     <td>$300 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>UA</td>
                                     <td>$5,000</td>
@@ -831,7 +831,7 @@ get_header();
                                     <td>1.00%</td>
                                     <td>$50 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>SC</td>
                                     <td>$20,000</td>
@@ -844,7 +844,7 @@ get_header();
                                     <td>0.00%</td>
                                     <td>$0 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>BOC</td>
                                     <td>$100,000</td>
@@ -857,7 +857,7 @@ get_header();
                                     <td>0.37%</td>
                                     <td>$370 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>HS Bank</td>
                                     <td>$70,000</td>
@@ -870,7 +870,7 @@ get_header();
                                     <td>0.00%</td>
                                     <td>$0 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>UA</td>
                                     <td>$30,000</td>
@@ -883,7 +883,7 @@ get_header();
                                     <td>1.00%</td>
                                     <td>$523 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>PROMISE</td>
                                     <td>$40,000</td>
@@ -896,7 +896,7 @@ get_header();
                                     <td>0.60%</td>
                                     <td>$606 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                             </tbody>
                         </table>
                     </div>
@@ -941,7 +941,7 @@ get_header();
                                     <td>0.00%</td>
                                     <td>$0 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>DBS</td>
                                     <td>$37,000</td>
@@ -954,7 +954,7 @@ get_header();
                                     <td>0.50%</td>
                                     <td>$161 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                                 <tr>
                                     <td>DBS</td>
                                     <td>$150,000</td>
@@ -967,7 +967,7 @@ get_header();
                                     <td>0.50%</td>
                                     <td>$337 </td>
                                 </tr>
-                                <tr style="height:5px"></tr>
+
                             </tbody>
                         </table>
                     </div>
