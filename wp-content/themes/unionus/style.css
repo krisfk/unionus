@@ -1743,6 +1743,8 @@ h2 .smaller {
     list-style-type: none;
 }
 
+.drp-case-div li .name {}
+
 .drp-case-div table th,
 .drp-case-div table td {
     border: 1px solid #ddbd8a;
