@@ -1786,7 +1786,7 @@ h2 .smaller {
     /* background: #ddbd8a; */
     margin: 0 auto;
     border-right: 1 solid #ddbd8a;
-    border-right: dashed #ddbd8a;
+    border-right: dashed 2px #ddbd8a;
     margin: 10px auto 10px;
 }
 
