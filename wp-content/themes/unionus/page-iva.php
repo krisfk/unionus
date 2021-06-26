@@ -75,7 +75,7 @@ get_header();
 
 
 
-        <div class="mt-6">
+        <div class="mt-6 text-center">
             <div><img class="flo-icon" src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
                     alt=""></div>
 
