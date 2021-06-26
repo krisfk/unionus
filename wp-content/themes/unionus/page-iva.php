@@ -378,7 +378,8 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">DRP債務舒緩成功案例
+            <h2 class="gold mt-5">IVA 個人自願安排/債務重組 <br>
+                成功案例
             </h2>
         </div>
 
