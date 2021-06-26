@@ -181,7 +181,7 @@ get_header();
 
                 <div class="row gx-5 justify-content-center mt-6">
 
-                    <div class="col-6 position-relative gold-table-div-wrapper-col">
+                    <div class="col-12 position-relative gold-table-div-wrapper-col">
                         <div class="gold-table-div-wrapper">
 
                             <img class="table-head-th-img"
@@ -197,18 +197,27 @@ get_header();
 
                                         <tr>
                                             <td class="p-5">
-                                                <h2 class="gold text-center">大額清數適合以下客戶</h2>
+                                                <h2 class="gold text-center">債務重組好處</h2>
 
                                                 <div class="mt-5   text-center">
 
                                                     <ul>
 
-                                                        <li>外債超過月薪15倍以上</li>
-                                                        <li>經常拖欠卡數或只供最低還款</li>
-                                                        <li>每月供款佔入息60%以上</li>
-                                                        <li>Tu評分I</li>
-                                                        <li>供款期數較短</li>
-                                                        <li>外債以財務公司為主的錢被盜用的機會</li>
+
+                                                        <li>避免破產</li>
+
+                                                        <li>沒有如破產條例般的限制和不會有破產身份或記錄</li>
+
+                                                        <li>大幅減少支付給銀行之利息</li>
+
+                                                        <li>毋須通知僱主及家人</li>
+
+                                                        <li>過程所需的時間較破產程序短</li>
+
+                                                        <li>定息定額還款</li>
+
+                                                        <li>即時停止催收</li>
+
 
                                                     </ul>
 
