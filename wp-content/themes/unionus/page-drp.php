@@ -126,6 +126,14 @@ get_header();
         </div>
 
 
+        <div class="text-center mt-7">
+
+            <div class="little-gold-bar mx-auto"></div>
+            <h2 class="gold mt-5">專業清數方案的好處</h2>
+        </div>
+
+
+
         <div class="row text-center mt-6">
 
             <div class="col-4">
