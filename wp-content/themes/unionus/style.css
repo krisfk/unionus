@@ -1732,6 +1732,7 @@ h2 .smaller {
 .drp-case-div table th,
 .drp-case-div table td {
     border: 1px solid #ddbd8a;
+    text-align: center;
 }
 
 @media only screen and (max-width: 1200px) {
