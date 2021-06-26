@@ -43,7 +43,7 @@ get_header();
         </div>
 
         <div class="mt-5">
-            <h2>DRP債務重組服務:
+            <h2 class="gold">DRP債務重組服務:
             </h2>
 
             <div class="mt-3">
