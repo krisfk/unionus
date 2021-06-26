@@ -90,10 +90,11 @@ get_header();
                 (不成功,不收費)我們亦會以豐富經驗平衡債權人及債務人利益，編寫債務重組建議書，當中除了建議債務的每月還款額、期數、利率外，亦列明了申請人的生活所需開支；申請人的資產如自住物業、私家車、保險、退休金等亦會清楚交代。
             </div>
 
-            <h2 class="mt-5"><span class="gold">第</span>1<span class="gold">日</span></h2>
-            <div>進行宣誓，由代表律師將臨時命令申請書呈送法庭存檔</div>
+            <div class="mt-5">
+                <h2><span class="gold">第</span>1<span class="gold">日</span></h2>
+                <div>進行宣誓，由代表律師將臨時命令申請書呈送法庭存檔</div>
 
-
+            </div>
             <div class="mt-5">
                 <div class="big-size"><span class="gold">約</span>1<span class="gold">星期內</span>
                 </div>
@@ -122,6 +123,18 @@ get_header();
 
                 <div>舉行債權人會議</div>
             </div>
+
+
+
+            <div class="mt-5">
+                <div class="big-size"><span class="gold">約</span>3<span class="gold">月</span>
+                </div>
+            </div>
+
+
+
+
+            <h2 class="mt-5"><span class="gold">第</span>3<span class="gold">階段</span></h2>
 
 
         </div>
