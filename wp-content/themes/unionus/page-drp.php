@@ -42,7 +42,7 @@ get_header();
 
         </div>
 
-        <div class="mt-5 inner-container2">
+        <div class="mt-5 inner-container2 mx-auto">
             <h2 class="gold">DRP債務重組服務:
             </h2>
 
