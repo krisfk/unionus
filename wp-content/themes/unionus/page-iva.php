@@ -386,7 +386,7 @@ get_header();
 
         <div class="mt-5 drp-case-div">
             <ul>
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <!-- <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">
                         <h3 class="gold">職業：文員　月入：$18,400</h3>
                     </div>
@@ -457,8 +457,7 @@ get_header();
 
                         <div class="d-inline-block">
 
-                            <!-- <img src="<?php echo get_template_directory_uri();?>/assets/images/little-flow-top.png"
-                                alt=""> -->
+
 
                             <div class="little-flo-top"></div>
                             <div>
@@ -469,8 +468,7 @@ get_header();
                             </div>
                             <div class="little-flo-bottom"></div>
 
-                            <!-- <img src="<?php echo get_template_directory_uri();?>/assets/images/little-flow-bottom.png"
-                                alt=""> -->
+                            \
                         </div>
                     </div>
                 </li>
@@ -821,9 +819,9 @@ get_header();
                         </div>
 
                     </div>
-                </li>
+                </li> -->
 
-                <!--
+
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Office　月入：$17,915 </div>
                     <div class="nr">
@@ -1258,7 +1256,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                -->
+
             </ul>
         </div>
 
