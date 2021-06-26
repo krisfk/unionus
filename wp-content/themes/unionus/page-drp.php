@@ -32,7 +32,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center">
+        <div class="inner-container2 mx-auto mt-5 text-center">
             債務重組計劃（DRP）是債務舒緩主要方案之一。
             <div class="gold big-size mt-2">這是個人自願安排（IVA）的簡單版本，因為申請人無需遵循法律程序。 
             </div>
@@ -42,7 +42,7 @@ get_header();
 
         </div>
 
-        <div class="mt-5">
+        <div class="mt-5 inner-container2">
             <h2 class="gold">DRP債務重組服務:
             </h2>
 
