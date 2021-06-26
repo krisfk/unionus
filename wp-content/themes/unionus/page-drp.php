@@ -195,7 +195,7 @@ get_header();
                                     <th>舒緩後每月利率</th>
                                     <th>舒緩後每月利息</th>
                                 </tr>
-                                <tr style="height:10px"></tr>
+
                                 <tr>
                                     <td>HS</td>
                                     <td>$150,000</td>
@@ -266,7 +266,7 @@ get_header();
                                     <th>舒緩後每月利率</th>
                                     <th>舒緩後每月利息</th>
                                 </tr>
-                                <tr style="height:10px"></tr>
+
                                 <tr>
                                     <td>BOC</td>
                                     <td>$250,000</td>
@@ -363,7 +363,7 @@ get_header();
                                     <th>舒緩後每月利率</th>
                                     <th>舒緩後每月利息</th>
                                 </tr>
-                                <tr style="height:10px"></tr>
+
                                 <tr>
                                     <td>HS Bank</td>
                                     <td>$265,000</td>
@@ -421,7 +421,7 @@ get_header();
                                     <th>舒緩後每月利率</th>
                                     <th>舒緩後每月利息</th>
                                 </tr>
-                                <tr style="height:10px"></tr>
+
                                 <tr>
                                     <td>AE</td>
                                     <td>$33,000</td>
@@ -479,7 +479,7 @@ get_header();
                                     <th>舒緩後每月利率</th>
                                     <th>舒緩後每月利息</th>
                                 </tr>
-                                <tr style="height:10px"></tr>
+
                                 <tr>
                                     <td>AE</td>
                                     <td>$35,000</td>
@@ -563,7 +563,7 @@ get_header();
                                     <th>舒緩後每月利率</th>
                                     <th>舒緩後每月利息</th>
                                 </tr>
-                                <tr style="height:10px"></tr>
+
                                 <tr>
                                     <td>CITI</td>
                                     <td>$29,000</td>
@@ -660,7 +660,7 @@ get_header();
                                     <th>舒緩後每月利率</th>
                                     <th>舒緩後每月利息</th>
                                 </tr>
-                                <tr style="height:10px"></tr>
+
                                 <tr>
                                     <td>AE</td>
                                     <td>$33,000</td>
@@ -718,7 +718,7 @@ get_header();
                                     <th>舒緩後每月利率</th>
                                     <th>舒緩後每月利息</th>
                                 </tr>
-                                <tr style="height:10px"></tr>
+
                                 <tr>
                                     <td>HS Bank</td>
                                     <td>$52,000</td>
@@ -802,7 +802,7 @@ get_header();
                                     <th>舒緩後每月利率</th>
                                     <th>舒緩後每月利息</th>
                                 </tr>
-                                <tr style="height:10px"></tr>
+
                                 <tr>
                                     <td>Aeon</td>
                                     <td>$30,000</td>
@@ -925,7 +925,7 @@ get_header();
                                     <th>舒緩後每月利率</th>
                                     <th>舒緩後每月利息</th>
                                 </tr>
-                                <tr style="height:10px"></tr>
+
                                 <tr>
                                     <td>SC</td>
                                     <td>$189,000</td>
