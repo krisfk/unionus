@@ -1082,12 +1082,12 @@ get_header();
 /* .bg-shape-1 {
     display: none;
 
-} */
+}
 
 .bg-shape-2 {
     display: none;
 
-}
+} */
 </style>
 
 
