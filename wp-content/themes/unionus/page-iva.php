@@ -138,7 +138,7 @@ get_header();
 
 
             <div>
-                <div class="big-size"><span class="gold">約</span>3<span class="gold">月</span>
+                <div class="big-size"><span class="gold">約</span>3<span class="gold">個月</span>
                 </div>
             </div>
 
