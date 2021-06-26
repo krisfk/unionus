@@ -178,6 +178,68 @@ get_header();
                     </div>
                 </div>
 
+
+                <div class="row gx-5 justify-content-center mt-6">
+
+                    <div class="col-6 position-relative gold-table-div-wrapper-col">
+                        <div class="gold-table-div-wrapper">
+
+                            <img class="table-head-th-img"
+                                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/table-head-th.png"
+                                alt="">
+
+
+                            <div class="gold-table-div gold" style="height: 404px;">
+                                <table class="gold-table">
+
+
+                                    <tbody>
+
+                                        <tr>
+                                            <td class="p-5">
+                                                <h2 class="gold text-center">大額清數適合以下客戶</h2>
+
+                                                <div class="mt-5   text-center">
+
+                                                    <ul>
+
+                                                        <li>外債超過月薪15倍以上</li>
+                                                        <li>經常拖欠卡數或只供最低還款</li>
+                                                        <li>每月供款佔入息60%以上</li>
+                                                        <li>Tu評分I</li>
+                                                        <li>供款期數較短</li>
+                                                        <li>外債以財務公司為主的錢被盜用的機會</li>
+
+                                                    </ul>
+
+
+
+
+
+                                                </div>
+                                            </td>
+                                        </tr>
+
+
+
+
+                                    </tbody>
+
+                                </table>
+                            </div>
+
+                            <img class="table-foot-th-img"
+                                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/table-foot.png"
+                                alt="">
+
+
+
+                        </div>
+                    </div>
+
+                </div>
+
+
             </div>
 
 
