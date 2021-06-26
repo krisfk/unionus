@@ -141,6 +141,14 @@ get_header();
         </div>
 
 
+        <div class="mt-5">
+            <div class="gold big-size">．個人自願安排（IVA）</div>
+            IVA的債務重組程序相對較長，其中包括法律程序，並在執業律師前宣誓。　 <br> <br>
+            並且，債務人需要任命一名被會計師或專業人士代為處理.
+        </div>
+
+
+
 
         <div class="text-center mt-7">
 
