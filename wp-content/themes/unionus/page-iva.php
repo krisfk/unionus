@@ -827,88 +827,91 @@ get_header();
                         <h3 class="gold"> 職業：Office　月入：$17,915 </h3>
                     </div>
                     <div class="nr">
-                        <table cellspacing="0px">
-                            <tbody>
-                                <tr>
-                                    <th>債務機構</th>
-                                    <th>貸款額</th>
-                                    <th>現時欠款</th>
-                                    <th>每月最低還款</th>
-                                    <th>每月利率</th>
-                                    <th>每月利息開支</th>
-                                    <th>舒緩後供款</th>
-                                    <th>期數</th>
-                                    <th>舒緩後每月利率</th>
-                                    <th>舒緩後每月利息</th>
-                                </tr>
+                        <div class="gold-table-div">
 
-                                <tr>
-                                    <td>CITI</td>
-                                    <td>$29,000</td>
-                                    <td>$30,362</td>
-                                    <td>$1,214 </td>
-                                    <td>3.00%</td>
-                                    <td>$911 </td>
-                                    <td>$802</td>
-                                    <td>49</td>
-                                    <td>0.60%</td>
-                                    <td>$182 </td>
-                                </tr>
+                            <table cellspacing="0px">
+                                <tbody>
+                                    <tr>
+                                        <th>債務機構</th>
+                                        <th>貸款額</th>
+                                        <th>現時欠款</th>
+                                        <th>每月最低還款</th>
+                                        <th>每月利率</th>
+                                        <th>每月利息開支</th>
+                                        <th>舒緩後供款</th>
+                                        <th>期數</th>
+                                        <th>舒緩後每月利率</th>
+                                        <th>舒緩後每月利息</th>
+                                    </tr>
 
-                                <tr>
-                                    <td>HSBC</td>
-                                    <td>$50,000</td>
-                                    <td>$50,496</td>
-                                    <td>$2,020 </td>
-                                    <td>3.00%</td>
-                                    <td>$1,515 </td>
-                                    <td>$1,031</td>
-                                    <td>49</td>
-                                    <td>0.00%</td>
-                                    <td>$0 </td>
-                                </tr>
+                                    <tr>
+                                        <td>CITI</td>
+                                        <td>$29,000</td>
+                                        <td>$30,362</td>
+                                        <td>$1,214 </td>
+                                        <td>3.00%</td>
+                                        <td>$911 </td>
+                                        <td>$802</td>
+                                        <td>49</td>
+                                        <td>0.60%</td>
+                                        <td>$182 </td>
+                                    </tr>
 
-                                <tr>
-                                    <td>JCB</td>
-                                    <td>$10,000</td>
-                                    <td>$11,749</td>
-                                    <td>$470 </td>
-                                    <td>3.00%</td>
-                                    <td>$352 </td>
-                                    <td>$310</td>
-                                    <td>49</td>
-                                    <td>0.60%</td>
-                                    <td>$70 </td>
-                                </tr>
+                                    <tr>
+                                        <td>HSBC</td>
+                                        <td>$50,000</td>
+                                        <td>$50,496</td>
+                                        <td>$2,020 </td>
+                                        <td>3.00%</td>
+                                        <td>$1,515 </td>
+                                        <td>$1,031</td>
+                                        <td>49</td>
+                                        <td>0.00%</td>
+                                        <td>$0 </td>
+                                    </tr>
 
-                                <tr>
-                                    <td>AE</td>
-                                    <td>$47,000</td>
-                                    <td>$47,919</td>
-                                    <td>$1,917 </td>
-                                    <td>3.00%</td>
-                                    <td>$1,438 </td>
-                                    <td>$1,361</td>
-                                    <td>49</td>
-                                    <td>0.80%</td>
-                                    <td>$383 </td>
-                                </tr>
+                                    <tr>
+                                        <td>JCB</td>
+                                        <td>$10,000</td>
+                                        <td>$11,749</td>
+                                        <td>$470 </td>
+                                        <td>3.00%</td>
+                                        <td>$352 </td>
+                                        <td>$310</td>
+                                        <td>49</td>
+                                        <td>0.60%</td>
+                                        <td>$70 </td>
+                                    </tr>
 
-                                <tr>
-                                    <td>DBS</td>
-                                    <td>$56,000</td>
-                                    <td>$57,838</td>
-                                    <td>$2,314 </td>
-                                    <td>3.00%</td>
-                                    <td>$1,735 </td>
-                                    <td>$1,527</td>
-                                    <td>49</td>
-                                    <td>0.60%</td>
-                                    <td>$347 </td>
-                                </tr>
+                                    <tr>
+                                        <td>AE</td>
+                                        <td>$47,000</td>
+                                        <td>$47,919</td>
+                                        <td>$1,917 </td>
+                                        <td>3.00%</td>
+                                        <td>$1,438 </td>
+                                        <td>$1,361</td>
+                                        <td>49</td>
+                                        <td>0.80%</td>
+                                        <td>$383 </td>
+                                    </tr>
 
-                            </tbody>
-                        </table>
+                                    <tr>
+                                        <td>DBS</td>
+                                        <td>$56,000</td>
+                                        <td>$57,838</td>
+                                        <td>$2,314 </td>
+                                        <td>3.00%</td>
+                                        <td>$1,735 </td>
+                                        <td>$1,527</td>
+                                        <td>49</td>
+                                        <td>0.60%</td>
+                                        <td>$347 </td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                     <div class="jiage">
                         <dl>
