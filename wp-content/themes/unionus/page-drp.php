@@ -64,7 +64,7 @@ get_header();
 
         <div class="row gx-5 justify-content-center mt-6">
 
-            <div class="col-6 position-relative gold-table-div-wrapper-col">
+            <div class="col-7 position-relative gold-table-div-wrapper-col">
                 <div class="gold-table-div-wrapper">
 
                     <img class="table-head-th-img"
