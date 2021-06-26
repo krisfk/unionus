@@ -454,6 +454,7 @@ get_header();
                     <div class="nr">
 
                         <div class="gold-table-div">
+
                             <table cellspacing="0px">
                                 <tbody>
                                     <tr>
@@ -516,78 +517,85 @@ get_header();
                         </div>
                     </div>
                 </li>
+
+
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
-                    <div class="name">職業：Worker　月入：$15,200 </div>
+                    <div class="name">
+                        <h3 class="gold"> 職業：Worker　月入：$15,200</h3>
+                    </div>
                     <div class="nr">
-                        <table cellspacing="0px">
-                            <tbody>
-                                <tr>
-                                    <th>債務機構</th>
-                                    <th>貸款額</th>
-                                    <th>現時欠款</th>
-                                    <th>每月最低還款</th>
-                                    <th>每月利率</th>
-                                    <th>每月利息開支</th>
-                                    <th>舒緩後供款</th>
-                                    <th>期數</th>
-                                    <th>舒緩後每月利率</th>
-                                    <th>舒緩後每月利息</th>
-                                </tr>
+                        <div class="gold-table-div">
 
-                                <tr>
-                                    <td>AE</td>
-                                    <td>$35,000</td>
-                                    <td>$23,495.29</td>
-                                    <td>$940 </td>
-                                    <td>3.00%</td>
-                                    <td>$705 </td>
-                                    <td>$630</td>
-                                    <td>48</td>
-                                    <td>0.60%</td>
-                                    <td>$141 </td>
-                                </tr>
+                            <table cellspacing="0px">
+                                <tbody>
+                                    <tr>
+                                        <th>債務機構</th>
+                                        <th>貸款額</th>
+                                        <th>現時欠款</th>
+                                        <th>每月最低還款</th>
+                                        <th>每月利率</th>
+                                        <th>每月利息開支</th>
+                                        <th>舒緩後供款</th>
+                                        <th>期數</th>
+                                        <th>舒緩後每月利率</th>
+                                        <th>舒緩後每月利息</th>
+                                    </tr>
 
-                                <tr>
-                                    <td>DBS</td>
-                                    <td>$48,000</td>
-                                    <td>$43,504.66</td>
-                                    <td>$1,740 </td>
-                                    <td>3.00%</td>
-                                    <td>$450 </td>
-                                    <td>$463</td>
-                                    <td>48</td>
-                                    <td>1.00%</td>
-                                    <td>$150 </td>
-                                </tr>
+                                    <tr>
+                                        <td>AE</td>
+                                        <td>$35,000</td>
+                                        <td>$23,495.29</td>
+                                        <td>$940 </td>
+                                        <td>3.00%</td>
+                                        <td>$705 </td>
+                                        <td>$630</td>
+                                        <td>48</td>
+                                        <td>0.60%</td>
+                                        <td>$141 </td>
+                                    </tr>
 
-                                <tr>
-                                    <td>AEON</td>
-                                    <td>$35,000</td>
-                                    <td>$15,000</td>
-                                    <td>$600 </td>
-                                    <td>3.00%</td>
-                                    <td>$450 </td>
-                                    <td>$463</td>
-                                    <td>48</td>
-                                    <td>1.00%</td>
-                                    <td>$150 </td>
-                                </tr>
+                                    <tr>
+                                        <td>DBS</td>
+                                        <td>$48,000</td>
+                                        <td>$43,504.66</td>
+                                        <td>$1,740 </td>
+                                        <td>3.00%</td>
+                                        <td>$450 </td>
+                                        <td>$463</td>
+                                        <td>48</td>
+                                        <td>1.00%</td>
+                                        <td>$150 </td>
+                                    </tr>
 
-                                <tr>
-                                    <td>AEON</td>
-                                    <td>$60,000</td>
-                                    <td>$78,760</td>
-                                    <td>$3,580</td>
-                                    <td>1.80%</td>
-                                    <td>$1,080 </td>
-                                    <td>$2,428.43</td>
-                                    <td>48</td>
-                                    <td>1.00%</td>
-                                    <td>$788 </td>
-                                </tr>
+                                    <tr>
+                                        <td>AEON</td>
+                                        <td>$35,000</td>
+                                        <td>$15,000</td>
+                                        <td>$600 </td>
+                                        <td>3.00%</td>
+                                        <td>$450 </td>
+                                        <td>$463</td>
+                                        <td>48</td>
+                                        <td>1.00%</td>
+                                        <td>$150 </td>
+                                    </tr>
 
-                            </tbody>
-                        </table>
+                                    <tr>
+                                        <td>AEON</td>
+                                        <td>$60,000</td>
+                                        <td>$78,760</td>
+                                        <td>$3,580</td>
+                                        <td>1.80%</td>
+                                        <td>$1,080 </td>
+                                        <td>$2,428.43</td>
+                                        <td>48</td>
+                                        <td>1.00%</td>
+                                        <td>$788 </td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                     <div class="jiage">
                         <dl>
