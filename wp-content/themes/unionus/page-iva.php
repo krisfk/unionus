@@ -94,9 +94,10 @@ get_header();
             <div>進行宣誓，由代表律師將臨時命令申請書呈送法庭存檔</div>
 
 
-            <div class="big-size"><span class="gold">約</span>1<span class="gold">星期內</span>
+            <div class="mt-5">
+                <div class="big-size"><span class="gold">約</span>1<span class="gold">星期內</span>
+                </div>
             </div>
-
         </div>
 
 
