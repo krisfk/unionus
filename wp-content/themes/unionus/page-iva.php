@@ -114,6 +114,16 @@ get_header();
                 <div>刊登債權人會議通告(中英文報紙各一份)</div>
             </div>
 
+            <div class="mt-5">
+                <h2>
+                    <span class="gold">約</span>2<span class="gold">個半月</span>
+
+                </h2>
+
+                <div>舉行債權人會議</div>
+            </div>
+
+
         </div>
 
 
