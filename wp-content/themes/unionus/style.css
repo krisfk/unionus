@@ -1721,6 +1721,10 @@ h2 .smaller {
     width: 48px;
 }
 
+.drp-case-div table {
+    width: 100%;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;

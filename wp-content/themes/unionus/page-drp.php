@@ -176,7 +176,7 @@ get_header();
         </div>
 
 
-        <div class="mt-5">
+        <div class="mt-5 drp-case-div">
             <ul>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Admin　月入：$18,400 </div>
