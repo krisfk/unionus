@@ -711,6 +711,8 @@ get_header();
                         </dl>
                     </div>
                 </li>
+
+                <!--
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Salon　月入：$10,000 </div>
                     <div class="nr">
@@ -1047,6 +1049,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
+                -->
             </ul>
         </div>
 
