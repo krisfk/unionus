@@ -178,7 +178,7 @@ get_header();
 
         <div class="mt-5">
             <ul>
-                <li class=" wow fadeInUp animated" style="opacity: 0; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Admin　月入：$18,400 </div>
                     <div class="nr">
                         <table cellspacing="0px">
