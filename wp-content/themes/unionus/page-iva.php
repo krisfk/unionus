@@ -78,68 +78,7 @@ get_header();
 
 
 
-        <div class="row gx-5 justify-content-center mt-6">
 
-            <div class="col-7 position-relative gold-table-div-wrapper-col">
-                <div class="gold-table-div-wrapper">
-
-                    <img class="table-head-th-img"
-                        src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
-
-
-                    <div class="gold-table-div gold">
-                        <table class="gold-table">
-
-
-                            <tbody>
-
-                                <tr>
-                                    <td class="p-5">
-                                        <h2 class="gold text-center">債務減免計劃（DRP）的好處
-                                        </h2>
-
-                                        <div class="mt-5   text-start">
-
-
-                                            ．避免破產 <br>
-                                            通過採用債務舒緩計劃，申請人可以避免破產和其個人聲譽和家庭影響。
-                                            <br><br>
-                                            ．減少債務利息<br>
-                                            在債務減免計劃中，利息支出大大減少, 大部分銀行成功債務重組後能達致零利息。
-                                            <br><br>
-                                            ．沒有法律相關費用<br>
-                                            債務舒緩計劃不需要任何法律程序，因此，申請人無需支付律師費。
-                                            <br><br>
-                                            ．相對簡單的解決方案<br>
-                                            相對更為快速簡便的解決方案,並且馬上停止催收滋擾。
-
-
-
-
-
-
-
-                                        </div>
-                                    </td>
-                                </tr>
-
-
-
-
-                            </tbody>
-
-                        </table>
-                    </div>
-
-                    <img class="table-foot-th-img"
-                        src="<?php echo get_template_directory_uri(); ?>/assets/images/table-foot.png" alt="">
-
-
-
-                </div>
-            </div>
-
-        </div>
 
 
         <div class="text-center mt-7">
