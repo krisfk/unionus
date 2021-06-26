@@ -1079,10 +1079,19 @@ get_header();
                         </div>
                     </div>
                     <div class="jiage">
-                        <span class="gold">每月總節省利息：</span>$6,163-$1,025 <span class="gold">=</span> $5,138
-                        <span class="gold">每月還款金額：</span>$13,800 <span class="gold">減至</span> $6,464.13
+
+                        <div class="d-inline-block">
+                            <div class="little-flo-top"></div>
 
 
+                            <div>
+                                <span class="gold">每月總節省利息：</span>$6,163-$1,025 <span class="gold">=</span> $5,138
+                            </div>
+                            <div>
+                                <span class="gold">每月還款金額：</span>$13,800 <span class="gold">減至</span> $6,464.13
+                            </div>
+                            <div class="little-flo-bottom"></div>
+                        </div>
 
                     </div>
                 </li>
