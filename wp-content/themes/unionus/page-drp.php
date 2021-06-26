@@ -381,49 +381,54 @@ get_header();
                         <h3 class="gold"> 職業：Driver　月入：$45,000</h3>
                     </div>
                     <div class="nr">
-                        <table cellspacing="0px">
-                            <tbody>
-                                <tr>
-                                    <th>債務機構</th>
-                                    <th>貸款額</th>
-                                    <th>現時欠款</th>
-                                    <th>每月最低還款</th>
-                                    <th>每月利率</th>
-                                    <th>每月利息開支</th>
-                                    <th>舒緩後供款</th>
-                                    <th>期數</th>
-                                    <th>舒緩後每月利率</th>
-                                    <th>舒緩後每月利息</th>
-                                </tr>
 
-                                <tr>
-                                    <td>HS Bank</td>
-                                    <td>$265,000</td>
-                                    <td>$288,829</td>
-                                    <td>$9,043 </td>
-                                    <td>3.00%</td>
-                                    <td>$8,665 </td>
-                                    <td>$6,017</td>
-                                    <td>48</td>
-                                    <td>0.00%</td>
-                                    <td>$0 </td>
-                                </tr>
+                        <div class="gold-table-div">
 
-                                <tr>
-                                    <td>PROMISE</td>
-                                    <td>$50,000</td>
-                                    <td>$35,840</td>
-                                    <td>$5,120</td>
-                                    <td>1.91%</td>
-                                    <td>$953 </td>
-                                    <td>$961.70</td>
-                                    <td>48</td>
-                                    <td>0.60%</td>
-                                    <td>$215 </td>
-                                </tr>
 
-                            </tbody>
-                        </table>
+                            <table cellspacing="0px">
+                                <tbody>
+                                    <tr>
+                                        <th>債務機構</th>
+                                        <th>貸款額</th>
+                                        <th>現時欠款</th>
+                                        <th>每月最低還款</th>
+                                        <th>每月利率</th>
+                                        <th>每月利息開支</th>
+                                        <th>舒緩後供款</th>
+                                        <th>期數</th>
+                                        <th>舒緩後每月利率</th>
+                                        <th>舒緩後每月利息</th>
+                                    </tr>
+
+                                    <tr>
+                                        <td>HS Bank</td>
+                                        <td>$265,000</td>
+                                        <td>$288,829</td>
+                                        <td>$9,043 </td>
+                                        <td>3.00%</td>
+                                        <td>$8,665 </td>
+                                        <td>$6,017</td>
+                                        <td>48</td>
+                                        <td>0.00%</td>
+                                        <td>$0 </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>PROMISE</td>
+                                        <td>$50,000</td>
+                                        <td>$35,840</td>
+                                        <td>$5,120</td>
+                                        <td>1.91%</td>
+                                        <td>$953 </td>
+                                        <td>$961.70</td>
+                                        <td>48</td>
+                                        <td>0.60%</td>
+                                        <td>$215 </td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                     <div class="jiage">
                         <dl>
