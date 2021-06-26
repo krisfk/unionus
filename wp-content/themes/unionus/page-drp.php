@@ -449,7 +449,7 @@ get_header();
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">
                         <h3 class="gold">
-                            職業：Designer　月入：$22,800</h3>
+                            職業：設計師 　月入：$22,800</h3>
                     </div>
                     <div class="nr">
 
