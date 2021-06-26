@@ -1764,18 +1764,18 @@ h2 .smaller {
 
 .little-flo-top {
     display: block;
-    height: 10px;
+    height: 30px;
     width: 100%;
     background: url(./assets/images/little-flow-top.png) no-repeat;
-    background-size: contain;
+    background-size: 100% auto;
 }
 
 .little-flo-bottom {
     display: block;
-    height: 10px;
+    height: 30px;
     width: 100%;
     background: url(./assets/images/little-flow-bottom.png) no-repeat;
-    background-size: contain;
+    background-size: 100% auto;
 }
 
 @media only screen and (max-width: 1200px) {
