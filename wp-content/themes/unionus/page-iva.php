@@ -84,7 +84,11 @@ get_header();
             </h2>
 
 
-            <div><span class="gold">第</span>1 <span class="gold">階段</span></div>
+            <h2 class="mt-5"><span class="gold">第</span>1 <span class="gold">階段</span></h2>
+
+            <div class="mt-5">債務人帶備有關債項及入息等資料進行IVA債務重組諮詢及分析，得到我們接納辦理後， 由代名人爾聯會計師擬定還款建議書
+                (不成功,不收費)我們亦會以豐富經驗平衡債權人及債務人利益，編寫債務重組建議書，當中除了建議債務的每月還款額、期數、利率外，亦列明了申請人的生活所需開支；申請人的資產如自住物業、私家車、保險、退休金等亦會清楚交代。
+            </div>
         </div>
 
 
