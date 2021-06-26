@@ -914,14 +914,10 @@ get_header();
                         </div>
                     </div>
                     <div class="jiage">
-                        <dl>
-                            <dt>每月總節省利息：</dt>
-                            <dd>$5,951-$982 = $4,969</dd>
-                        </dl>
-                        <dl>
-                            <dt>每月還款金額：</dt>
-                            <dd>$7,935 減至 $5,031</dd>
-                        </dl>
+                        <span class="gold"> 每月總節省利息：</span>$5,951-$982 <span class="gold">=</span> $4,969
+                        <span class="gold">每月還款金額：</span>$7,935 <span class="gold">減至</span> $5,031
+
+
                     </div>
                 </li>
 
