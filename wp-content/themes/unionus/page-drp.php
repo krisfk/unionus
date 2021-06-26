@@ -252,14 +252,14 @@ get_header();
                             <!-- <img src="<?php echo get_template_directory_uri();?>/assets/images/little-flow-top.png"
                                 alt=""> -->
 
-                            <div class="little-flow-top"></div>
+                            <div class="little-flo-top"></div>
                             <div>
                                 <span class="gold">每月總節省利息：</span>$7,281-$281 <span class="gold">=</span> $7,000
                             </div>
                             <div>
                                 <span class="gold">每月還款金額：</span>$13,668 <span class="gold">減至</span> $6,454.76
                             </div>
-                            <div class="little-flow-bottom"></div>
+                            <div class="little-flo-bottom"></div>
 
                             <!-- <img src="<?php echo get_template_directory_uri();?>/assets/images/little-flow-bottom.png"
                                 alt=""> -->
