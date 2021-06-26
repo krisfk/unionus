@@ -82,6 +82,9 @@ get_header();
             <h2 class="gold text-center">申請程序 <br>
                 預計時間(由提出申請日起計)
             </h2>
+
+
+            <div><span class="gold">第</span>1 <span class="gold">階段</span></div>
         </div>
 
 
