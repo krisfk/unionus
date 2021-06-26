@@ -134,7 +134,7 @@ get_header();
         </div>
 
 
-        <div class="inner-container2">
+        <div class="inner-container2 mx-auto">
 
             <div class="mt-5">
                 <div class="gold big-size">．債務重組計劃（DRP）</div>
