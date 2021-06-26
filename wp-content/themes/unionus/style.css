@@ -1739,6 +1739,10 @@ h2 .smaller {
     color: #ddbd8a;
 }
 
+.drp-case-div li {
+    list-style-type: none;
+}
+
 .drp-case-div table th,
 .drp-case-div table td {
     border: 1px solid #ddbd8a;
