@@ -101,6 +101,8 @@ get_header();
 
 
             <h2 class="mt-5"><span class="gold">第</span>2<span class="gold">階段</span></h2>
+            <div>法庭聆訊(由代表律師出庭，申請人無需上庭)，頒佈IVA臨時命令
+            </div>
 
 
         </div>
