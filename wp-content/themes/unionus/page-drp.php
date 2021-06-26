@@ -247,7 +247,7 @@ get_header();
 
 
 
-                        <div>
+                        <div class="d-inline-block">
 
                             <!-- <img src="<?php echo get_template_directory_uri();?>/assets/images/little-flow-top.png"
                                 alt=""> -->
