@@ -79,7 +79,7 @@ get_header();
             <div><img class="flo-icon" src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
                     alt=""></div>
 
-            <h2>申請程序 <br>
+            <h2 class="gold text-center">申請程序 <br>
                 預計時間(由提出申請日起計)
             </h2>
         </div>
