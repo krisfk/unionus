@@ -938,49 +938,52 @@ get_header();
                         <h3 class="gold">職業：Salon　月入：$10,000</h3>
                     </div>
                     <div class="nr">
-                        <table cellspacing="0px">
-                            <tbody>
-                                <tr>
-                                    <th>債務機構</th>
-                                    <th>貸款額</th>
-                                    <th>現時欠款</th>
-                                    <th>每月最低還款</th>
-                                    <th>每月利率</th>
-                                    <th>每月利息開支</th>
-                                    <th>舒緩後供款</th>
-                                    <th>期數</th>
-                                    <th>舒緩後每月利率</th>
-                                    <th>舒緩後每月利息</th>
-                                </tr>
+                        <div class="gold-table-div">
 
-                                <tr>
-                                    <td>AE</td>
-                                    <td>$33,000</td>
-                                    <td>$33,710</td>
-                                    <td>$1,348 </td>
-                                    <td>3.00%</td>
-                                    <td>$1,011 </td>
-                                    <td>$1,112</td>
-                                    <td>40</td>
-                                    <td>0.80%</td>
-                                    <td>$270 </td>
-                                </tr>
+                            <table cellspacing="0px">
+                                <tbody>
+                                    <tr>
+                                        <th>債務機構</th>
+                                        <th>貸款額</th>
+                                        <th>現時欠款</th>
+                                        <th>每月最低還款</th>
+                                        <th>每月利率</th>
+                                        <th>每月利息開支</th>
+                                        <th>舒緩後供款</th>
+                                        <th>期數</th>
+                                        <th>舒緩後每月利率</th>
+                                        <th>舒緩後每月利息</th>
+                                    </tr>
 
-                                <tr>
-                                    <td>SCB</td>
-                                    <td>$1,700,000</td>
-                                    <td>$157,011</td>
-                                    <td>$6,280 </td>
-                                    <td>3.00%</td>
-                                    <td>$4,710 </td>
-                                    <td>$3,925</td>
-                                    <td>40</td>
-                                    <td>0.00%</td>
-                                    <td>$4,710 </td>
-                                </tr>
+                                    <tr>
+                                        <td>AE</td>
+                                        <td>$33,000</td>
+                                        <td>$33,710</td>
+                                        <td>$1,348 </td>
+                                        <td>3.00%</td>
+                                        <td>$1,011 </td>
+                                        <td>$1,112</td>
+                                        <td>40</td>
+                                        <td>0.80%</td>
+                                        <td>$270 </td>
+                                    </tr>
 
-                            </tbody>
-                        </table>
+                                    <tr>
+                                        <td>SCB</td>
+                                        <td>$1,700,000</td>
+                                        <td>$157,011</td>
+                                        <td>$6,280 </td>
+                                        <td>3.00%</td>
+                                        <td>$4,710 </td>
+                                        <td>$3,925</td>
+                                        <td>40</td>
+                                        <td>0.00%</td>
+                                        <td>$4,710 </td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                     <div class="jiage">
                         <dl>
