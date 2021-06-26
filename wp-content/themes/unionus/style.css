@@ -1783,8 +1783,11 @@ h2 .smaller {
     display: block;
     width: 1px;
     height: 50px;
-    background: #ddbd8a;
+    /* background: #ddbd8a; */
     margin: 0 auto;
+    border-right: 1 solid #ddbd8a;
+    border-right: dashed #ddbd8a;
+    margin: 10px auto 10px;
 }
 
 @media only screen and (max-width: 1200px) {
