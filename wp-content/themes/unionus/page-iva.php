@@ -70,10 +70,16 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">進一步確認申請資格
-
-            </h2>
+            <h2 class="gold mt-5">進一步確認申請資格</h2>
         </div>
+
+
+
+        <div class="mt-6">
+            <div><img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
+                    alt=""></div>
+        </div>
+
 
 
 
