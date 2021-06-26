@@ -264,7 +264,7 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">DRP債務減免與IVA債務重組的比較
+            <h2 class="gold mt-5">IVA的常見問題
             </h2>
         </div>
 
