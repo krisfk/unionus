@@ -47,7 +47,7 @@ get_header();
 
             <h2 class="gold">申請資格</h2>
 
-            <div>
+            <div class="mt-4">
                 <h3 class="gold">IVA適合以下人士:</h3>
                 <ul>
                     <li>有較穩定收入而欠債超過月薪十多倍以上的債務人士</li>
@@ -55,7 +55,7 @@ get_header();
                 </ul>
             </div>
 
-            <div>
+            <div class="mt-4">
                 <h3 class="gold">IVA可重組以下之債務:</h3>
                 <ul>
                     <li>卡數｜銀行私人貸款｜財務公司貸款｜"一筆清"高息貸款｜儲蓄互助社貸款｜學生資助貸款｜稅項｜商業貸款
