@@ -181,62 +181,65 @@ get_header();
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <div class="name">職業：Admin　月入：$18,400 </div>
                     <div class="nr">
-                        <table cellspacing="0px">
-                            <tbody>
-                                <tr>
-                                    <th>債務機構</th>
-                                    <th>貸款額</th>
-                                    <th>現時欠款</th>
-                                    <th>每月最低還款</th>
-                                    <th>每月利率</th>
-                                    <th>每月利息開支</th>
-                                    <th>舒緩後供款</th>
-                                    <th>期數</th>
-                                    <th>舒緩後每月利率</th>
-                                    <th>舒緩後每月利息</th>
-                                </tr>
 
-                                <tr>
-                                    <td>HS</td>
-                                    <td>$150,000</td>
-                                    <td>$148,366</td>
-                                    <td>$4,786</td>
-                                    <td>0.41%</td>
-                                    <td>$619 </td>
-                                    <td>$2,472.76</td>
-                                    <td>60</td>
-                                    <td>0.00%</td>
-                                    <td>$0 </td>
-                                </tr>
-                                <tr style="height:5px"></tr>
-                                <tr>
-                                    <td>HS</td>
-                                    <td>$138,000</td>
-                                    <td>$146,053.7</td>
-                                    <td>$5,842 </td>
-                                    <td>3.00%</td>
-                                    <td>$4,382 </td>
-                                    <td>$2,434</td>
-                                    <td>60</td>
-                                    <td>0.00%</td>
-                                    <td>$0 </td>
-                                </tr>
-                                <tr style="height:5px"></tr>
-                                <tr>
-                                    <td>BOC</td>
-                                    <td>$84,000</td>
-                                    <td>$76,000</td>
-                                    <td>$3,040 </td>
-                                    <td>3.00%</td>
-                                    <td>$2,280 </td>
-                                    <td>$1,548</td>
-                                    <td>60</td>
-                                    <td>0.37%</td>
-                                    <td>$281 </td>
-                                </tr>
-                                <tr style="height:5px"></tr>
-                            </tbody>
-                        </table>
+                        <div class="gold-table-div">
+                            <table cellspacing="0px">
+                                <tbody>
+                                    <tr>
+                                        <th>債務機構</th>
+                                        <th>貸款額</th>
+                                        <th>現時欠款</th>
+                                        <th>每月最低還款</th>
+                                        <th>每月利率</th>
+                                        <th>每月利息開支</th>
+                                        <th>舒緩後供款</th>
+                                        <th>期數</th>
+                                        <th>舒緩後每月利率</th>
+                                        <th>舒緩後每月利息</th>
+                                    </tr>
+
+                                    <tr>
+                                        <td>HS</td>
+                                        <td>$150,000</td>
+                                        <td>$148,366</td>
+                                        <td>$4,786</td>
+                                        <td>0.41%</td>
+                                        <td>$619 </td>
+                                        <td>$2,472.76</td>
+                                        <td>60</td>
+                                        <td>0.00%</td>
+                                        <td>$0 </td>
+                                    </tr>
+                                    <tr style="height:5px"></tr>
+                                    <tr>
+                                        <td>HS</td>
+                                        <td>$138,000</td>
+                                        <td>$146,053.7</td>
+                                        <td>$5,842 </td>
+                                        <td>3.00%</td>
+                                        <td>$4,382 </td>
+                                        <td>$2,434</td>
+                                        <td>60</td>
+                                        <td>0.00%</td>
+                                        <td>$0 </td>
+                                    </tr>
+                                    <tr style="height:5px"></tr>
+                                    <tr>
+                                        <td>BOC</td>
+                                        <td>$84,000</td>
+                                        <td>$76,000</td>
+                                        <td>$3,040 </td>
+                                        <td>3.00%</td>
+                                        <td>$2,280 </td>
+                                        <td>$1,548</td>
+                                        <td>60</td>
+                                        <td>0.37%</td>
+                                        <td>$281 </td>
+                                    </tr>
+                                    <tr style="height:5px"></tr>
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                     <div class="jiage">
                         <dl>
