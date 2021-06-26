@@ -360,14 +360,9 @@ get_header();
                         </div>
                     </div>
                     <div class="jiage">
-                        <dl>
-                            <dt>每月總節省利息：</dt>
-                            <dd>$6,988-$1423 = $5,565</dd>
-                        </dl>
-                        <dl>
-                            <dt>每月還款金額：</dt>
-                            <dd>$12,263 減至 $7,488.28</dd>
-                        </dl>
+
+                        <span class="gold">每月總節省利息：</span>$6,988-$1423 <span class="gold">=</span> $5,565
+                        <span class="gold"> 每月還款金額：</span>$12,263 <span class="gold">減至</span> $7,488.28
                     </div>
                 </li>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
