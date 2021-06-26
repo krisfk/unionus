@@ -134,38 +134,39 @@ get_header();
         </div>
 
 
+        <div class="inner-container2">
 
-        <div class="mt-5">
-            <div class="gold big-size">．債務重組計劃（DRP）</div>
-            債務重組計劃比IVA和IDRP更簡單。這是一個相對較快的解決方案。它不需要債務人參與任何法律程序。我們在債務人同意的情況下制定還款計劃，並與債權人進行談判。DRP允許債權人直接與債務人聯繫。
+            <div class="mt-5">
+                <div class="gold big-size">．債務重組計劃（DRP）</div>
+                債務重組計劃比IVA和IDRP更簡單。這是一個相對較快的解決方案。它不需要債務人參與任何法律程序。我們在債務人同意的情況下制定還款計劃，並與債權人進行談判。DRP允許債權人直接與債務人聯繫。
+            </div>
+
+
+            <div class="mt-5">
+                <div class="gold big-size">．個人自願安排（IVA）</div>
+                IVA的債務重組程序相對較長，其中包括法律程序，並在執業律師前宣誓。　 <br> <br>
+                並且，債務人需要任命一名被會計師或專業人士代為處理.
+            </div>
+
+
+            <div class="mt-5">
+                <div class="gold big-size">．DRP債務減免計劃</div>
+
+                債務重組計劃更簡單相對較快的解決方案 <br>
+                不需要債務人參與任何法律程序。
+
+            </div>
+
+
+            <div class="mt-5">
+                <div class="gold big-size">．IVA個人自願安排</div>
+
+                IVA的債務重組程序相對較長 <br>
+                債務人需要任命一名被會計師或專業人士代為處理
+
+            </div>
+
         </div>
-
-
-        <div class="mt-5">
-            <div class="gold big-size">．個人自願安排（IVA）</div>
-            IVA的債務重組程序相對較長，其中包括法律程序，並在執業律師前宣誓。　 <br> <br>
-            並且，債務人需要任命一名被會計師或專業人士代為處理.
-        </div>
-
-
-        <div class="mt-5">
-            <div class="gold big-size">．DRP債務減免計劃</div>
-
-            債務重組計劃更簡單相對較快的解決方案 <br>
-            不需要債務人參與任何法律程序。
-
-        </div>
-
-
-        <div class="mt-5">
-            <div class="gold big-size">．IVA個人自願安排</div>
-
-            IVA的債務重組程序相對較長 <br>
-            債務人需要任命一名被會計師或專業人士代為處理
-
-        </div>
-
-
 
 
         <div class="text-center mt-7">
