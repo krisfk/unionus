@@ -503,8 +503,17 @@ get_header();
 
 
 
-                        <span class="gold">每月總節省利息：</span>$5,721-$270 <span class="gold">=</span> $5,451
-                        <span class="gold">每月還款金額：</span>$7,628 <span class="gold">減至</span> $5,037
+                        <div class="d-inline-block">
+                            <div class="little-flo-top"></div>
+                            <div>
+                                <span class="gold">每月總節省利息：</span>$5,721-$270 <span class="gold">=</span> $5,451
+                            </div>
+                            <div>
+                                <span class="gold">每月還款金額：</span>$7,628 <span class="gold">減至</span> $5,037
+                            </div>
+                            <div class="little-flo-bottom"></div>
+
+                        </div>
                     </div>
                 </li>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
