@@ -97,15 +97,20 @@ get_header();
                 <div>進行宣誓，由代表律師將臨時命令申請書呈送法庭存檔</div>
 
             </div>
-            <div class="mt-5">
+            <div class="iva-step-line"></div>
+
+            <div>
                 <div class="big-size"><span class="gold">約</span>1<span class="gold">星期內</span>
                 </div>
             </div>
+            <div class="iva-step-line"></div>
 
 
-            <h2 class="mt-5"><span class="gold">第</span>2<span class="gold">階段</span></h2>
+            <h2><span class="gold">第</span>2<span class="gold">階段</span></h2>
             <div>法庭聆訊(由代表律師出庭，申請人無需上庭)，頒佈IVA臨時命令
             </div>
+
+            <div class="iva-step-line"></div>
 
 
             <div class="mt-5">
