@@ -1751,6 +1751,10 @@ h2 .smaller {
     line-height: 1.5;
 }
 
+.drp-case-div .nr {
+    margin-top: 3rem;
+}
+
 .drp-case-div table th,
 .drp-case-div table td {
     border: 1px solid #ddbd8a;
