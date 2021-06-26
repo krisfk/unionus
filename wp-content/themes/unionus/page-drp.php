@@ -148,6 +148,26 @@ get_header();
         </div>
 
 
+        <div class="mt-5">
+            <div class="gold big-size">．DRP債務減免計劃</div>
+
+            債務重組計劃更簡單相對較快的解決方案 <br>
+            不需要債務人參與任何法律程序。
+
+        </div>
+
+
+        <div class="mt-5">
+            <div class="gold big-size">．IVA個人自願安排</div>
+
+            IVA的債務重組程序相對較長 <br>
+            債務人需要任命一名被會計師或專業人士代為處理
+
+        </div>
+
+
+
+
 
 
         <div class="text-center mt-7">
