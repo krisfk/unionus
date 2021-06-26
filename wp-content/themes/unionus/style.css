@@ -1745,6 +1745,10 @@ h2 .smaller {
 
 .drp-case-div li .name {}
 
+.drp-case-div .jiage {
+    text-align: right;
+}
+
 .drp-case-div table th,
 .drp-case-div table td {
     border: 1px solid #ddbd8a;
