@@ -113,7 +113,7 @@ get_header();
             <div class="iva-step-line"></div>
 
 
-            <div class="mt-5">
+            <div>
                 <h2>
                     <span class="gold">約</span>2<span class="gold">個月</span>
 
@@ -121,8 +121,10 @@ get_header();
 
                 <div>刊登債權人會議通告(中英文報紙各一份)</div>
             </div>
+            <div class="iva-step-line"></div>
 
-            <div class="mt-5">
+
+            <div>
                 <h2>
                     <span class="gold">約</span>2<span class="gold">個半月</span>
 
@@ -131,9 +133,11 @@ get_header();
                 <div>舉行債權人會議</div>
             </div>
 
+            <div class="iva-step-line"></div>
 
 
-            <div class="mt-5">
+
+            <div>
                 <div class="big-size"><span class="gold">約</span>3<span class="gold">月</span>
                 </div>
             </div>
