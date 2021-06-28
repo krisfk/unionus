@@ -360,7 +360,7 @@ get_header();
             <div class="text-center mt-7">
 
                 <div class="little-gold-bar mx-auto"></div>
-                <h2 class="gold mt-5">我們的團隊</h2>
+                <h2 class="gold mt-5">文章列表</h2>
             </div>
 
 
