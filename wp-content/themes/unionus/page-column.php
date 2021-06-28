@@ -47,44 +47,8 @@ get_header();
 
 
 
-        <div class="text-center mt-7">
-
-            <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">專業清數方案的好處</h2>
-        </div>
 
 
-        <div class="breadcrumb-ui">
-
-            <span>一筆過大額清數</span>
-            <img class="white-arrow"
-                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/white-arrow.png" alt="">
-            <span>提升個人信用評級</span>
-            <img class="white-arrow"
-                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/white-arrow.png" alt="">
-            <span>重回一個可以低息借貸等級</span>
-
-
-        </div>
-
-        <div class="text-center mt-4">
-
-            <ul class="d-inline-block p-0 mx-auto text-start">
-
-                <li>無客戶限制，我們會分析各人的卡數債務最慳息方案給不同情況的人士</li>
-                <li>審批手續簡單快捷</li>
-                <li>綜合所有債務，集中還款</li>
-                <li>免TU評級清數，短期內提升TU信貸評分</li>
-                <li>大大減低利息開支及債務，輕鬆還款同時提升信貸評分</li>
-                <li>提供長達36個月的特長還款期</li>
-                <li>定息定額收費，務求爭取最優惠利率，不設額外手續費之餘更設有利息優惠</li>
-
-
-
-            </ul>
-
-            <div class="gold ">我們致力為客戶提供合適方案渡過難關，避免破產並謀劃更好的未來。</div>
-        </div>
 
 
 
