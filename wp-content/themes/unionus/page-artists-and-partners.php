@@ -44,7 +44,7 @@ get_header();
                     <img class="w-100"
                         src="https://unionus.com.hk/wp-content/uploads/2021/06/1602677248_classify_img.jpeg" alt="">
                 </div>
-                <div class="col-6">
+                <div class="col-6 text-start">
                     <h3 class="gold">2005</h3>
                     自從2005年MASTAMIC開始了他的HIP HOP生涯後，他便一直是城中HIP HOP界的焦點，
                     作為香港HIP HOP界的先鋒，他擅長將富有社會性的歌詞和獨特的街頭色彩相互融合，
