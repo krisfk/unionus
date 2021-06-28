@@ -36,53 +36,60 @@ get_header();
 
             <h2 class="gold">最新文章</h2>
 
-            <div class="row">
 
-                <div class="col-6"><img class="w-100"
-                        src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
-                </div>
-                <div class="col-6 text-start">
-                    <h3 class="title gold">
-                        【破產流程】申請個人破產｜提交破產呈請｜破產的4個影響</h3>
 
-                    <div class="date gold">2021-06-15</div>
+            <!-- <div class="row"> -->
 
-                    <div>申請破產無疑對個人信貸紀錄影響深遠，亦會使生活受到一定法律限制，一般而言的確是最壞選擇。可是，若果實在無能力償還債務，又
+            <div class="news-container">
+
+                <div class="news">
+                    <div class="w-50"><img class="w-100"
+                            src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
                     </div>
+                    <div class="w-50 text-start">
+                        <h3 class="title gold">
+                            【破產流程】申請個人破產｜提交破產呈請｜破產的4個影響</h3>
 
-                    <a href="#" class="gold">Read More</a>
+                        <div class="date gold">2021-06-15</div>
+
+                        <div>申請破產無疑對個人信貸紀錄影響深遠，亦會使生活受到一定法律限制，一般而言的確是最壞選擇。可是，若果實在無能力償還債務，又
+                        </div>
+
+                        <a href="#" class="gold">Read More</a>
+                    </div>
                 </div>
+
+
             </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
 </section>
 
 
