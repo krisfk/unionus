@@ -365,7 +365,7 @@ get_header();
             </div>
 
 
-            <div class="row">
+            <div class="row all-articles-list">
 
 
 
