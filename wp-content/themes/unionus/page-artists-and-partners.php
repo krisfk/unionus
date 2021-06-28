@@ -38,7 +38,7 @@ get_header();
 
             <h2 class="gold">Master Mic</h2>
 
-            <div class="row mt-4">
+            <div class="row mt-4 gx-5">
 
                 <div class="col-6">
                     <img class="w-100"
