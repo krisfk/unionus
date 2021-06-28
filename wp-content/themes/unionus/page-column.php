@@ -100,7 +100,7 @@ get_header();
 
 
 
-            <div class="row">
+            <div class="row mt-6">
 
                 <div class="col-6">
 
