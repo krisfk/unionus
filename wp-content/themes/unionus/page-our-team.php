@@ -49,11 +49,11 @@ get_header();
     </div>
 
 </section>
-<div>
+<div class="mt-3">
 
     <img class="w-100" src="<?php echo get_template_directory_uri();?>/assets/images/team-img.png" alt="">
 </div>
-<section>
+<section class="mt-3">
     <div class="container">
 
 
