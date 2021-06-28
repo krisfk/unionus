@@ -89,7 +89,7 @@ get_header();
 
                 <div class="col-6 position-relative mt-4">
 
-                    <iframe class="w-100 start-0 " src="https://www.youtube.com/embed/L_9JELdtjDQ"
+                    <iframe class="w-100 start-0 position-relative" src="https://www.youtube.com/embed/L_9JELdtjDQ"
                         title="YouTube video player" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>
