@@ -130,7 +130,7 @@ get_header();
                                     <tbody>
 
                                         <tr>
-                                            <td class="p-5">
+                                            <td class="">
 
 
 
