@@ -1824,6 +1824,7 @@ h2 .smaller {
     background: url(./assets/images/gold-circle.png) no-repeat center center;
     background-size: contain;
     cursor: pointer;
+    border-radius: 20px;
 }
 
 .slick-dots li.slick-active {
