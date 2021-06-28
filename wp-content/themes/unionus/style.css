@@ -1817,9 +1817,9 @@ h2 .smaller {
 .slick-dots li {
     position: relative;
     display: inline-block;
-    width: 15px;
-    height: 15px;
-    margin: 0 13px;
+    width: 15px !important;
+    height: 15px !important;
+    margin: 0 13px !important;
     padding: 0;
     background: url(./assets/images/gold-circle.png) no-repeat center center;
     background-size: contain;
