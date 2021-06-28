@@ -87,7 +87,7 @@ get_header();
                     </div>
                 </div>
 
-                <div class="col-6">
+                <div class="col-6 position-relative">
 
                     <iframe class="w-100" src="https://www.youtube.com/embed/L_9JELdtjDQ" title="YouTube video player"
                         frameborder="0"
