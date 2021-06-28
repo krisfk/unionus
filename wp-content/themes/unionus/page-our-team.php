@@ -50,6 +50,7 @@ get_header();
 
 </section>
 <div>
+    f
     <img src="<?php echo get_template_directory_uri();?>/assets/images/team-img.png" alt="">
 </div>
 <section>
