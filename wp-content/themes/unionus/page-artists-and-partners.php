@@ -103,7 +103,7 @@ get_header();
                 <h2 class="gold mt-5">合作伙伴
                 </h2>
 
-                <div>
+                <div class="mt-3">
                     <a href="#" class="partner-logo-a"> <img
                             src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/logo.png" alt=""></a>
                     <a href="#" class="partner-logo-a"><img

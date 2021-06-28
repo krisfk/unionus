@@ -1794,6 +1794,11 @@ h2 .smaller {
     width: 150px;
 }
 
+.partner-logo-a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
