@@ -140,6 +140,8 @@ get_header();
                                                 <h3 class="article-title gold text-start mt-3 px-3">
 
                                                     【破產流程】申請個人破產｜提交 破產呈請｜破產的4個影響</h3>
+
+                                                <div class="date gold mt-3">2021-06-15</div>
                                             </td>
                                         </tr>
 
