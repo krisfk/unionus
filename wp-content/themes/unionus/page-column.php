@@ -475,7 +475,7 @@ $(function() {
 
 
     // news-container
-    // $('.gold-table-div').height($('.gold-table-div-wrapper-col').height() - 100);
+    $('.gold-table-div').height($('.gold-table-div-wrapper-col').height() - 100);
 
     // .gold-table-div.silver
     // $('.gold-table-div.silver').height($('.gold-table-div-wrapper-col').height() - 100);
