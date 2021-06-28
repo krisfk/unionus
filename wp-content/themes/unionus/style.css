@@ -1805,6 +1805,15 @@ h2 .smaller {
     line-height: 1.3;
 }
 
+.read-more-btn {
+    text-decoration: none;
+    color: #ddbd8a;
+}
+
+.read-more-btn:hover {
+    color: #ddbd8a;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
