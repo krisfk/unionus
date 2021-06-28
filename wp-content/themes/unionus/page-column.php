@@ -40,7 +40,7 @@ get_header();
 
             <!-- <div class="row"> -->
 
-            <div class="news-container">
+            <div class="news-container mt-5">
 
                 <div class="news">
                     <div class="w-50 d-inline-block float-start px-3"><img class="w-100"
