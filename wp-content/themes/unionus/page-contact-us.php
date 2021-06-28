@@ -195,6 +195,11 @@ get_header();
 .top-menu-logo-a {
     display: none;
 } */
+.bg-shape-2,
+.bg-shape-1 {
+
+    display: none
+}
 </style>
 
 
@@ -229,6 +234,7 @@ $(function() {
 
 });
 </script>
+
 <?php
 
 get_footer();
