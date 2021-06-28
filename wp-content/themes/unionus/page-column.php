@@ -152,6 +152,23 @@ get_header();
 $(function() {
 
 
+
+    $('.news-container').slick({
+        dots: true,
+        arrows: false,
+        pauseOnFocus: false,
+        infinite: true,
+        adaptiveHeight: true,
+
+        speed: 800,
+        autoplaySpeed: 5000,
+        autoplay: true,
+        // fade: true,
+        cssEase: 'ease-out',
+        pauseOnHover: false
+    });
+
+
     // news-container
     // $('.gold-table-div').height($('.gold-table-div-wrapper-col').height() - 100);
 
