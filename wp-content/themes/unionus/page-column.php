@@ -113,7 +113,7 @@ get_header();
 
                     <div class="category-description">
 
-                        <h2 class="gold">成立公司，相關注意，創業社創方向</h2>
+                        <h2 class="gold text-start">成立公司，相關注意，創業社創方向</h2>
 
 
                     </div>
