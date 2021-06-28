@@ -1824,7 +1824,10 @@ h2 .smaller {
     background: url(./assets/images/gold-circle.png) no-repeat center center;
     background-size: contain;
     cursor: pointer;
+    background-color: #debc89;
 }
+
+.slick-dots li.slick-active {}
 
 @media only screen and (max-width: 1200px) {
     h1 {
