@@ -137,7 +137,7 @@ get_header();
                                                 <img class="w-100"
                                                     src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png"
                                                     alt="">
-                                                <h3 class="article-title gold">
+                                                <h3 class="article-title gold text-start">
 
                                                     【破產流程】申請個人破產｜提交 破產呈請｜破產的4個影響</h3>
                                             </td>
