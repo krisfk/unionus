@@ -111,9 +111,9 @@ get_header();
                         創業與公司
                     </div>
 
-                    <div class="category-description">
+                    <div class="category-description mt-3">
 
-                        <h2 class="gold text-start">成立公司，相關注意，創業社創方向</h2>
+                        <h3 class="gold text-start">成立公司，相關注意，創業社創方向</h3>
 
 
                         <div class="gold-table-div-wrapper">
