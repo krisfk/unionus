@@ -374,7 +374,7 @@ get_header();
             for($i=0;$i<=8;$i++)
             {
                 ?>
-                <div class="col-6">
+                <div class="col-6 mb-5">
                     <div class="news">
                         <div class="w-50 d-inline-block float-start px-3"><img class="w-100"
                                 src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
