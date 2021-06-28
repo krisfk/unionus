@@ -36,8 +36,17 @@ get_header();
 
         <div class="inner-container mx-auto mt-5 text-center">
 
+            <h2 class="gold">Master Mic</h2>
 
+            <div class="row">
 
+                <div class="col-6">
+                    <img class="w-100"
+                        src="https://unionus.com.hk/wp-content/uploads/2021/06/1602677248_classify_img.jpeg" alt="">
+                </div>
+                <div class="col-6"></div>
+
+            </div>
 
         </div>
 
