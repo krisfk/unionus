@@ -40,90 +40,11 @@ get_header();
 
 
 
-        <div class="row gx-5 justify-content-center mt-6">
-
-            <div class="col-6 position-relative gold-table-div-wrapper-col">
-                <div class="gold-table-div-wrapper">
-
-                    <img class="table-head-th-img"
-                        src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
-
-
-                    <div class="gold-table-div gold">
-                        <table class="gold-table">
-
-
-                            <tbody>
-
-                                <tr>
-                                    <td class="p-5">
-                                        <h2 class="gold text-center">大額清數適合以下客戶</h2>
-
-                                        <div class="mt-5   text-center">
-
-                                            <ul>
-
-                                                <li>外債超過月薪15倍以上</li>
-                                                <li>經常拖欠卡數或只供最低還款</li>
-                                                <li>每月供款佔入息60%以上</li>
-                                                <li>Tu評分I</li>
-                                                <li>供款期數較短</li>
-                                                <li>外債以財務公司為主的錢被盜用的機會</li>
-
-                                            </ul>
 
 
 
 
 
-                                        </div>
-                                    </td>
-                                </tr>
-
-
-
-
-                            </tbody>
-
-                        </table>
-                    </div>
-
-                    <img class="table-foot-th-img"
-                        src="<?php echo get_template_directory_uri(); ?>/assets/images/table-foot.png" alt="">
-
-
-
-                </div>
-            </div>
-
-        </div>
-
-
-        <div class="row text-center mt-6">
-
-            <div class="col-4">
-
-                <img class="clearing-icon"
-                    src="<?php echo get_template_directory_uri(); ?>/assets/images/clearing-icon-1.png" alt="">
-                <h2 class="gold mt-3 mb-3">
-                    二線財務救星方案</h2>
-                <div>審批手續簡單快捷，成功申請後會整合所有二線財務供款及外債，再透過信譽良好的合作財務公司助客戶一次過還清二線債務。</div>
-
-            </div>
-            <div class="col-4"> <img class="clearing-icon"
-                    src="<?php echo get_template_directory_uri(); ?>/assets/images/clearing-icon-2.png" alt="">
-                <h2 class="gold mt-3 mb-3">
-                    減債重組方案</h2>
-
-                <div>評估客戶現時債務狀況並重新整合債務供款方案，集中還款的方案令利息支出大大降低至8-15%。</div>
-            </div>
-            <div class="col-4"> <img class="clearing-icon"
-                    src="<?php echo get_template_directory_uri(); ?>/assets/images/clearing-icon-3.png" alt="">
-                <h2 class="gold mt-3 mb-3">
-                    物業套現方案</h2>
-                <div>為不同物業情況擬定不同的套現方案，不論物業是否已完成按揭供款，是否需要補地價，均可用以套現貸款，最高可達物業估價80%。更毋需抵押未補地價的居屋樓契。</div>
-            </div>
-        </div>
 
 
         <div class="text-center mt-7">
