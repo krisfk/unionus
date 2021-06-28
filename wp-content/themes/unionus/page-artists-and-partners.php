@@ -49,6 +49,7 @@ get_header();
                     自從2005年MASTAMIC開始了他的HIP HOP生涯後，他便一直是城中HIP HOP界的焦點，
                     作為香港HIP HOP界的先鋒，他擅長將富有社會性的歌詞和獨特的街頭色彩相互融合，
                     MASTAMIC一直都為香港的樂迷帶來各種新類型的聲音，他的奉獻和努力，慢慢地終於得到大家的認同，
+                    <br>
                     <h3 class="gold">2008-2009</h3>
                     在2008至2009年他曾與CLOT MEDIA DIVISION簽約。 <br>
                     MASTAMIC多次與本地及海外藝人和團體合作。<br>
