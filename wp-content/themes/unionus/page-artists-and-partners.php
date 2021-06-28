@@ -28,7 +28,7 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">聯絡我們</h1>
+            <h1 class="mx-auto gold">藝人與合作伙伴</h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
