@@ -243,7 +243,7 @@ get_header();
 
 <section class="sec5 mt-6">
 
-    <div class="inner-container2">
+    <div class="inner-container2 mx-auto">
 
         <div class="sep mx-auto"> <img class="sep-flo"
                 src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
