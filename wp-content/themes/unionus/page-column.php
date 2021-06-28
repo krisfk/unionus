@@ -34,7 +34,7 @@ get_header();
 
         <div class="inner-container mx-auto mt-5 text-center">
 
-            <h3 class="gold">最新文章</h3>
+            <h2 class="gold">最新文章</h2>
         </div>
 
 
