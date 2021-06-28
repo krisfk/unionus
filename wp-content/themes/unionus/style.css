@@ -1837,6 +1837,7 @@ h2 .smaller {
 
 .slick-dots {
     margin-top: 4rem;
+    position: relative !important;
 }
 
 @media only screen and (max-width: 1200px) {
