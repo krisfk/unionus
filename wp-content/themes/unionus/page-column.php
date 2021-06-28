@@ -48,7 +48,7 @@ get_header();
                     </div>
                     <div class="w-50 text-start  d-inline-block float-start  px-3">
                         <h3 class="article-title gold">
-                            【破產流程】申請個人破產｜提交破產呈請｜破產的4個影響</h3>
+                            【破產流程】申請個人破產 提交破產呈請 破產的4個影響</h3>
 
                         <div class="date gold">2021-06-15</div>
 
