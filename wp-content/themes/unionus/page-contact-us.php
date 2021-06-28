@@ -28,14 +28,45 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">公司報稅</h1>
+            <h1 class="mx-auto gold">聯絡我們</h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center">任何公司都需要申報稅務，但無限公司一般只需要在個人報稅表上申報，有限公司則需要審計核數並遞交獨立報稅表。
+        <div class="inner-container mx-auto mt-5 text-center">
+
+            <h2 class="gold">與我們聯繫</h2>
+
+            <div class="mt-3">
+                如果您有任何我們想回答的疑問，或者可以致電我們，我們的專家將為您提供指導。
+            </div>
+
+            <div class="mt-3">
+                <h3 class="gold"> 我們的地址</h3>
+                <div> 21st Floor, CMA Building, 64 Connaught Road, Central, Hong Kong</div>
+            </div>
+
+            <div class="mt-3">
+                <h3 class="gold"> 我們的WhatsApp</h3>
+                <div> 24小時專人WhatsApp熱線+852 9888 8135</div>
+            </div>
+
+
+
+            <div class="mt-3">
+                <h3 class="gold"> 我們的電話</h3>
+                <div> 24小時專人WhatsApp熱線+852 9888 8135</div>
+            </div>
+
+
+
+
+
+
         </div>
+
+    </div>
     </div>
 </section>
 
