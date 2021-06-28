@@ -104,8 +104,10 @@ get_header();
                 </h2>
 
                 <div>
-                    <a href=""></a>
-                    <a href=""></a>
+                    <a href="#"> <img src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/logo.png"
+                            alt=""></a>
+                    <a href="#"><img src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/logo.png"
+                            alt=""></a>
                 </div>
             </div>
 
