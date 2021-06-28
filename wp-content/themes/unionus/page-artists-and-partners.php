@@ -42,7 +42,8 @@ get_header();
 
                 <div class="col-6">
                     <img class="w-100"
-                        src="https://unionus.com.hk/wp-content/uploads/2021/06/1602677248_classify_img.jpeg" alt="">
+                        src="https://unionus.com.hk/wp-content/uploads/2021/06/1602677248_classify_img-e1624905361304.jpeg"
+                        alt="">
                 </div>
                 <div class="col-6 text-start">
 
