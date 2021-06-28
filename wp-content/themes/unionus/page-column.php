@@ -105,7 +105,8 @@ get_header();
                 <div class="col-6">
 
 
-                    <img src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt="">
+                    <img class="news-flo-icon"
+                        src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt="">
                     <!-- https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png -->
 
                 </div>

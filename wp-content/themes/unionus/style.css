@@ -1840,6 +1840,10 @@ h2 .smaller {
     position: relative !important;
 }
 
+.news-flo-icon {
+    height: 20px;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
