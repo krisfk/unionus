@@ -243,26 +243,27 @@ get_header();
 
 <section class="sec5 mt-6">
 
+    <div class="inner-container2">
 
-    <div class="sep mx-auto"> <img class="sep-flo"
-            src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
-
-
-    <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">聯絡我們</h2>
+        <div class="sep mx-auto"> <img class="sep-flo"
+                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
 
-    <div class="contact-form-div container">
+        <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">聯絡我們</h2>
+
+
+        <div class="contact-form-div container">
 
 
 
-        <?php
+            <?php
         echo do_shortcode('[contact-form-7 id="68" title="sme contact us"]');
 
 
         ?>
 
 
-        <!-- <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-3">
+            <!-- <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-3">
                 姓名：<input type="text" class="form-control" placeholder=""></div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-3">
                 聯絡電話：<input type="text" class="form-control" placeholder=""></div>
@@ -341,10 +342,12 @@ get_header();
 
 
 
-    </div>
+        </div>
 
 
-    <div class="sep2 mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+        <div class="sep2 mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+        </div>
+
     </div>
 
 
