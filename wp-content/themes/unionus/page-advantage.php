@@ -29,7 +29,7 @@ get_header();
         <div class="text-center">
             <h1 class="mx-auto gold">
                 <!--content_part_0-->
-                <?php echo get_field('content_part_0');?>
+                <?php //echo get_field('content_part_0');?>
                 <!-- 我們的優勢 -->
             </h1>
         </div>
