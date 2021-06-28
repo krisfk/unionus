@@ -61,7 +61,7 @@ get_header();
                         包括本地RAPPER LO.J及多個HIP HOP藝人如農夫、歐陽靖、廿四味、DJ TOMMY、DJ GALAXY、INK、CRITICAL (瑞典)、<br>
                         C.O.U (北京)、DUMDUE (廣洲)。
                     </div>
-                    <div class="mt-3">
+                    <!-- <div class="mt-3">
                         除此之外，更如不同界別的歌手合作製作音樂，<br>
                         如流行歌手容祖兒、方皓玟、張繼聰、關楚耀、鍾達茵R&B歌手J.J LIN，獨立樂隊TONICK及獨立歌手萱寧。<br>
                         其中和關楚耀合作單曲《佔領》最高更獲吒叱903專業推介冠軍位置。
@@ -70,7 +70,7 @@ get_header();
                         MASTAMIC仍有多次大型演出的經驗，<br>
                         如側田紅館演唱會，CONCERT YY黃偉文作品展演唱會和鄭秀文合唱及本地樂隊野仔九展演唱會嘉賓。<br>
                         其他包括陳冠希、 MC HOTDOG、RUBBERBAND、太極樂隊、及梁漢文，更獲邀到馬來西亞與台灣著名歌手曹格一同演出。
-                    </div>
+                    </div> -->
                 </div>
 
             </div>
