@@ -141,7 +141,7 @@ get_header();
 
                                                     【破產流程】申請個人破產 提交 破產呈請 破產的4個影響</h3>
 
-                                                <div class="date gold mt-5 mb-5 text-end px-3">2021-06-15</div>
+                                                <div class="date gold mt-5 mb-4 text-end px-3">2021-06-15</div>
                                             </td>
                                         </tr>
 
