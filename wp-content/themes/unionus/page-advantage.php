@@ -27,7 +27,10 @@ get_header();
 
 
         <div class="text-center">
-            <h1 class="mx-auto gold">我們的優勢
+            <h1 class="mx-auto gold">
+                <!--content_part_0-->
+                <?php echo get_field('content_part_0');?>
+                <!-- 我們的優勢 -->
             </h1>
         </div>
 
@@ -38,10 +41,15 @@ get_header();
 
         <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">
 
-            <h2 class="gold">童叟無欺
+            <h2 class="gold">
+                <!--content_part_1-->
+                童叟無欺
             </h2>
 
-            <div class="mt-4">爾聯 Unionus 由創辦人成立至今保持一貫公開且透明的服務,良好的信譽是我們的宗旨。
+            <div class="mt-4">
+                <!--content_part_2-->
+
+                爾聯 Unionus 由創辦人成立至今保持一貫公開且透明的服務,良好的信譽是我們的宗旨。
                 多年的專業經驗令我們可以完善解決閣下目前面對的煩惱。
             </div>
 
@@ -50,16 +58,18 @@ get_header();
 
         <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">
 
-            <h2 class="gold">我們承諾:
+            <h2 class="gold">
+                <!--content_part_3-->
+                我們承諾:
             </h2>
 
+            <!--content_part_4-->
             <ul class="d-inline-block text-start p-0">
                 <li>不成功不收費</li>
                 <li>以客為本</li>
                 <li>高性價比</li>
                 <li>獨立跟進個案</li>
                 <li>實質重於形式</li>
-
             </ul>
 
 
@@ -70,11 +80,15 @@ get_header();
             <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
                 alt="">
 
-            <h2 class="mt-3 gold text-center">效率性
+            <h2 class="mt-3 gold text-center">
+                <!--content_part_5-->
+                效率性
             </h2>
 
 
-            <div class="mt-4">您的信息/問題將會是我們首要處理的工作,客戶關係主任在收到閣下的指示後將會直接把相關問題遞交,務求在最短的時間內解決您的困難.
+            <div class="mt-4">
+                <!--content_part_6-->
+                您的信息/問題將會是我們首要處理的工作,客戶關係主任在收到閣下的指示後將會直接把相關問題遞交,務求在最短的時間內解決您的困難.
 
             </div>
         </div>
@@ -83,15 +97,21 @@ get_header();
             <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
                 alt="">
 
-            <h2 class="mt-3 gold text-center">專業認可
+            <h2 class="mt-3 gold text-center">
+                <!--content_part_7-->
+                專業認可
 
             </h2>
 
 
-            <div class="mt-4">爾聯Unuonus 提供服務皆由專業持牌人士作出建議,確保所有服務得以清晰可靠,不需要透過任何中介,過程更為公開,簡單,直接,透明.
+            <div class="mt-4">
+                <!--content_part_8-->
+                爾聯Unuonus 提供服務皆由專業持牌人士作出建議,確保所有服務得以清晰可靠,不需要透過任何中介,過程更為公開,簡單,直接,透明.
 
 
                 <div class="mt-4">
+                    <!--content_part_9-->
+
                     <ul class="d-inline-block text-start">
                         <li>註冊會計師</li>
                         <li>註冊律師/大律師</li>
@@ -106,13 +126,17 @@ get_header();
             <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
                 alt="">
 
-            <h2 class="mt-3 gold text-center">分期付款
+            <h2 class="mt-3 gold text-center">
+                <!--content_part_10-->
+                分期付款
 
 
             </h2>
 
 
-            <div class="mt-4">所有服務項目爾聯Unionus盡可能為您的生活/工作減輕壓力,我們希望可以為閣下提供分期形式付費，以此達成雙方共識.
+            <div class="mt-4">
+                <!--content_part_11-->
+                所有服務項目爾聯Unionus盡可能為您的生活/工作減輕壓力,我們希望可以為閣下提供分期形式付費，以此達成雙方共識.
 
 
             </div>
