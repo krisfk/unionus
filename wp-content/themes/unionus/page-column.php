@@ -371,7 +371,7 @@ get_header();
 
                 <?php
             
-            for($i=0;$i<=8;$i++)
+            for($i=0;$i<8;$i++)
             {
                 ?>
                 <div class="col-6 mb-5">
