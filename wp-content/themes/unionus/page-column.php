@@ -56,7 +56,7 @@ get_header();
                         <div class="mt-3">申請破產無疑對個人信貸紀錄影響深遠，亦會使生活受到一定法律限制，一般而言的確是最壞選擇。可是，若果實在無能力償還債務，又
                         </div>
 
-                        <a href="#" class="gold read-more-btn">Read More</a>
+                        <a href="#" class="gold read-more-btn float-end mt-5">Read More</a>
                     </div>
                 </div>
 
