@@ -1814,6 +1814,18 @@ h2 .smaller {
     color: #ddbd8a;
 }
 
+.slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+    background: url(./assets/images/gold-circle.png) no-repeat center center;
+    background-size: contain;
+    cursor: pointer;
+}
+
 @media only screen and (max-width: 1200px) {
     h1 {
         font-size: 35px !important;
