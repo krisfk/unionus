@@ -105,7 +105,7 @@ get_header();
                 <div class="col-6">
 
 
-                    <div class="d-flex align-center">
+                    <div class="d-flex align-center gold">
                         <img class="news-flo-icon"
                             src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt="">
                         創業與公司
