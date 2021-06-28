@@ -43,10 +43,10 @@ get_header();
             <div class="news-container">
 
                 <div class="news">
-                    <div class="w-50 d-inline-block"><img class="w-100"
+                    <div class="w-50 d-inline-block float-start"><img class="w-100"
                             src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
                     </div>
-                    <div class="w-50 text-start  d-inline-block">
+                    <div class="w-50 text-start  d-inline-block float-start">
                         <h3 class="title gold">
                             【破產流程】申請個人破產｜提交破產呈請｜破產的4個影響</h3>
 
