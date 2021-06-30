@@ -1891,5 +1891,6 @@ h2 .smaller {
 
 @media only screen and (max-width: 480px) {}
 
-
-/* .gold-table-div-wrapper-col {} */
+.gold-table-div-wrapper-col {
+    text-align: center;
+}
