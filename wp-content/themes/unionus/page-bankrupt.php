@@ -26,13 +26,19 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">破產</h1>
+            <h1 class="mx-auto gold">
+                <!-- content part 0 -->
+                破產
+
+            </h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
         <div class="inner-container mx-auto mt-5">
+            <!-- content part 1 -->
+
             因為破產對個人信貸紀錄影響深遠及會為生活帶來一定限制，一般來說的確是最壞打算。但若果真的無力償還債務，又未能符合到申請債務舒緩(DRP)或個人自願安排(IVA)的條件，迫不得已下還是只好向法院提交破產呈請。申請人可以自行提交破產呈請或由專業人士代辦。
 
             <h2 class="gold mt-5">由我們代辦的好處</h2>
@@ -49,7 +55,10 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">自行提交破產呈請的程序</h2>
+            <h2 class="gold mt-5">
+                <!-- content part 2 -->
+                自行提交破產呈請的程序
+            </h2>
         </div>
 
         <div class="bankrupt-steps mt-6">
@@ -64,8 +73,12 @@ get_header();
                 </li>
                 <li class="center-point">
 
-                    <div class="step-txt"> STEP <br>
-                        01</div>
+                    <div class="step-txt">
+                        <!-- content part 3 -->
+
+                        STEP <br>
+                        01
+                    </div>
 
                 </li>
                 <li></li>
@@ -74,6 +87,8 @@ get_header();
 
             <ul class="bankrupt-steps-ul">
                 <li class="text-end">
+                    <!-- content part 4 -->
+
                     <h3 class="gold mb-3">填妥《破產(表格)規則》的表格: </h3>
                     <div>「債務人破產呈請書」及「資產負債狀況說明書」</div>
                 </li>
@@ -92,8 +107,12 @@ get_header();
                 </li>
                 <li class="center-point">
 
-                    <div class="step-txt"> STEP <br>
-                        02</div>
+                    <div class="step-txt">
+                        <!-- content part 5 -->
+
+                        STEP <br>
+                        02
+                    </div>
 
                 </li>
                 <li></li>
@@ -101,7 +120,11 @@ get_header();
 
             <ul class="bankrupt-steps-ul reverse">
                 <li>
-                    <h3 class="gold mb-3">繳交款項: </h3>
+                    <h3 class="gold mb-3">
+                        <!-- content part 6 -->
+
+                        繳交款項:
+                    </h3>
                     <div>前往破產管理署，帶同填妥之表格繳交 $8000以支付破產程序中各項費用及開支 <br>
                         (星期一至五，上午9時至下午4時30分)
                     </div>
@@ -122,8 +145,11 @@ get_header();
                 </li>
                 <li class="center-point">
 
-                    <div class="step-txt"> STEP <br>
-                        03</div>
+                    <div class="step-txt">
+                        <!-- content part 7 -->
+                        STEP <br>
+                        03
+                    </div>
 
                 </li>
                 <li></li>
@@ -131,7 +157,11 @@ get_header();
 
             <ul class="bankrupt-steps-ul ">
                 <li class="text-end">
-                    <h3 class="gold mb-3">進行見證: </h3>
+                    <!-- content part 8 -->
+
+                    <h3 class="gold mb-3">
+
+                        進行見證: </h3>
                     <div>就呈請書在律師、高等法院司法常務官或獲授權的破產管理署職員面前進行見證，
                         並就「資產負債狀況說明書」作出宣誓。
                         請留意破產管理署的見證服務每天只有上下午各25個，共50個名額，並不設預約，先到先得。
@@ -155,8 +185,11 @@ get_header();
                 </li>
                 <li class="center-point">
 
-                    <div class="step-txt"> STEP <br>
-                        04</div>
+                    <div class="step-txt">
+                        <!-- content part 9 -->
+                        STEP <br>
+                        04
+                    </div>
 
                 </li>
                 <li></li>
@@ -164,6 +197,9 @@ get_header();
 
             <ul class="bankrupt-steps-ul reverse">
                 <li>
+                    <!-- content part 10 -->
+
+
                     <h3 class="gold mb-3">前往高等法院: </h3>
                     <div>
                         A) 帶同上述文件及破產管理署發出的按金收據，於會計部繳款處繳付法庭費用$1045 <br>
@@ -191,8 +227,13 @@ get_header();
                 </li>
                 <li class="center-point">
 
-                    <div class="step-txt"> STEP <br>
-                        05</div>
+                    <div class="step-txt">
+                        <!-- content part 11 -->
+
+
+                        STEP <br>
+                        05
+                    </div>
 
                 </li>
                 <li></li>
@@ -200,6 +241,10 @@ get_header();
 
             <ul class="bankrupt-steps-ul ">
                 <li class="text-end">
+
+                    <!-- content part 12 -->
+
+
                     <h3 class="gold mb-3">前往破產管理署: </h3>
                     <div>提交呈請書的蓋印副本和資產負債狀況說明書的副本各一份，並取得「初步訊問問卷 」
                         和「每月收入及開支評估表格」
@@ -221,8 +266,13 @@ get_header();
                 </li>
                 <li class="center-point">
 
-                    <div class="step-txt"> STEP <br>
-                        06</div>
+                    <div class="step-txt">
+                        <!-- content part 13 -->
+
+
+                        STEP <br>
+                        06
+                    </div>
 
                 </li>
                 <li></li>
@@ -230,6 +280,9 @@ get_header();
 
             <ul class="bankrupt-steps-ul reverse">
                 <li>
+                    <!-- content part 14 -->
+
+
                     <h3 class="gold mb-3">再次前往高等法院:</h3>
                     <div>
                         在指定日期和時間出席聆訊，待法庭頒布破產令
@@ -253,8 +306,12 @@ get_header();
                 </li>
                 <li class="center-point">
 
-                    <div class="step-txt"> STEP <br>
-                        07</div>
+                    <div class="step-txt">
+                        <!-- content part 15 -->
+
+                        STEP <br>
+                        07
+                    </div>
 
                 </li>
                 <li></li>
@@ -263,6 +320,8 @@ get_header();
 
             <ul class="bankrupt-steps-ul ">
                 <li class="text-end">
+                    <!-- content part 16 -->
+
                     <h3 class="gold mb-3">聯絡破產管理署或署方指定受託人: </h3>
                     <div>預約初次會面和安排移交資產。於會面時提交填妥的初步訊問問卷和每月收入及開支評估表格
                     </div>
@@ -282,8 +341,12 @@ get_header();
                 </li>
                 <li class="center-point">
 
-                    <div class="step-txt"> STEP <br>
-                        08</div>
+                    <div class="step-txt">
+                        <!-- content part 17 -->
+
+                        STEP <br>
+                        08
+                    </div>
 
                 </li>
                 <li></li>
@@ -291,6 +354,8 @@ get_header();
 
             <ul class="bankrupt-steps-ul reverse">
                 <li>
+                    <!-- content part 18 -->
+
                     <h3 class="gold mb-3">擬備破產令:</h3>
                     <div>
                         向高等法院登記處的聆案官書記提交破產令初稿。收到處方寄出的批准的初稿後再向高等法院登記處提交全數三份的破產令連同批准的初稿以供審核。
@@ -312,8 +377,12 @@ get_header();
                 </li>
                 <li class="center-point">
 
-                    <div class="step-txt"> STEP <br>
-                        09</div>
+                    <div class="step-txt">
+                        <!-- content part 19 -->
+
+                        STEP <br>
+                        09
+                    </div>
 
                 </li>
                 <li></li>
@@ -322,6 +391,8 @@ get_header();
 
             <ul class="bankrupt-steps-ul ">
                 <li class="text-end">
+                    <!-- content part 20 -->
+
                     <h3 class="gold mb-3">破產令存檔: </h3>
                     <div>取回全數三份破產令後交到高等法院登記處的高級司法書記進行相關手續，再向破產管理署或暫行受託人提交兩份蓋印本
                     </div>
