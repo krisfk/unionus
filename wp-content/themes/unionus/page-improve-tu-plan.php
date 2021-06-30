@@ -26,58 +26,88 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">TU <br>
-                (個人環聯信貸報告)改善方案</h1>
+            <h1 class="mx-auto gold">
+                <!-- content_part_0 -->
+                <?php echo get_field('content_part_0');?>
+                <!-- TU <br>
+                (個人環聯信貸報告)改善方案 -->
+
+            </h1>
         </div>
 
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">信貸評分因素</h2>
+            <h2 class="gold mt-5">
+                <?php echo get_field('content_part_1');?>
+                <!-- 信貸評分因素 -->
+            </h2>
         </div>
 
 
         <div class="row tu-pts-row gx-5 mt-5">
 
             <div class="col-6 tu-pts-col">
+
+                <?php echo get_field('content_part_2');?>
+
+                <!-- 
                 <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-1.png"
                     alt="">
                 <h2 class="gold">還款紀錄</h2>
-                <div>這是最影響評分的一項，一旦逾期還款(即使只是遲還卡數一天)，相關紀錄即會被保留5年，因此準時還款對維持正面信貸評分十分重要。</div>
+                <div>這是最影響評分的一項，一旦逾期還款(即使只是遲還卡數一天)，相關紀錄即會被保留5年，因此準時還款對維持正面信貸評分十分重要。</div> -->
+
+
             </div>
             <div class="col-6 tu-pts-col">
-                <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-2.png"
+
+                <?php echo get_field('content_part_3');?>
+
+                <!-- <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-2.png"
                     alt="">
 
                 <h2 class="gold">
                     <div> 總結餘 <br> <span class="smaller">(可使用信貸額)</span></div>
 
                 </h2>
-                <div>這綜合所有信用卡的信用額，對比其已用而未償還的總結餘，餘額愈高愈好。信貸使用率高於50%有機會影響信貸評分。</div>
+                <div>這綜合所有信用卡的信用額，對比其已用而未償還的總結餘，餘額愈高愈好。信貸使用率高於50%有機會影響信貸評分。</div> -->
             </div>
 
             <div class="col-4 tu-pts-col">
-                <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-3.png"
+
+                <?php echo get_field('content_part_4');?>
+
+
+                <!-- <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-3.png"
                     alt="">
 
                 <h2 class="gold">信貸紀錄長短</h2>
-                <div>如果沒有信貸報告(沒有任何信用卡及借貸紀錄)或信貸紀錄太短，都會令財務機構難以參考及評估申請人的信貸狀況。因此年期短有機會影響申請或所批出的利率。</div>
+                <div>如果沒有信貸報告(沒有任何信用卡及借貸紀錄)或信貸紀錄太短，都會令財務機構難以參考及評估申請人的信貸狀況。因此年期短有機會影響申請或所批出的利率。</div> -->
             </div>
             <div class="col-4 tu-pts-col">
-                <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-4.png"
+
+                <?php echo get_field('content_part_5');?>
+
+
+                <!-- <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-4.png"
                     alt="">
 
                 <h2 class="gold">信貸組合</h2>
-                <div>擁有信貸帳戶的種類及數目，包括不同類型的信貸如信用卡及按揭。</div>
+                <div>擁有信貸帳戶的種類及數目，包括不同類型的信貸如信用卡及按揭。</div> -->
+
             </div>
             <div class="col-4 tu-pts-col">
-                <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-5.png"
+
+                <?php echo get_field('content_part_6');?>
+
+
+                <!-- <img class="tu-icon" src="<?php echo get_template_directory_uri();?>/assets/images/tu-icon-5.png"
                     alt="">
 
                 <h2 class="gold">新開立的信貸帳戶</h2>
                 <div>
                     每逢開立新的信貸帳戶(申請樓按、信用卡、汽車貸款等)，申請人都會授權財務機構查詢個人信貸報告，而不論申請是否成功，其查詢紀錄亦會在信貸報告中保留兩年。如短期內有多次查詢紀錄會令財務機構認為用戶有周轉困難，而拒絕批核信用卡或貸款申請。
-                </div>
+                </div> -->
             </div>
 
 
@@ -91,10 +121,16 @@ get_header();
             <div class="text-center mt-7">
 
                 <div class="little-gold-bar mx-auto"></div>
-                <h2 class="gold mt-5">改善方案 - 減債供款</h2>
+                <h2 class="gold mt-5">
+                    <?php echo get_field('content_part_7');?>
+
+                    <!-- 改善方案 - 減債供款 -->
+                </h2>
 
                 <div class="mt-4">
-                    TU環聯信貸評分低會令人難以成功申請銀行或大型財務機構的平息貸款，需要周轉的申請人繼而轉為向二線財務借高息貸款，導致每月還款額超出自己實際可以承受的金額並出現債務危機。要避免這情況，可以選擇減債供款方案:
+                    <?php echo get_field('content_part_8');?>
+
+                    <!-- TU環聯信貸評分低會令人難以成功申請銀行或大型財務機構的平息貸款，需要周轉的申請人繼而轉為向二線財務借高息貸款，導致每月還款額超出自己實際可以承受的金額並出現債務危機。要避免這情況，可以選擇減債供款方案: -->
                 </div>
             </div>
         </div>
@@ -103,7 +139,10 @@ get_header();
         <div class="mt-5">
             <div class="breadcrumb-ui">
 
-                <span>代申請人整合所有債務再一次還清</span>
+                <?php echo get_field('content_part_9');?>
+
+
+                <!-- <span>代申請人整合所有債務再一次還清</span>
                 <img class="white-arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow.png"
                     alt="">
                 <span>大大減低利息支出</span>
@@ -112,16 +151,19 @@ get_header();
                 <span>每月集中還款</span>
                 <img class="white-arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow.png"
                     alt="">
-                <span>提升信貸評分</span>
+                <span>提升信貸評分</span> -->
 
             </div>
 
             <div class="breadcrumb-ui">
 
-                <span>較容易借到銀行或大型財務機構的平息貸款</span>
+                <?php echo get_field('content_part_10');?>
+
+
+                <!-- <span>較容易借到銀行或大型財務機構的平息貸款</span>
                 <img class="white-arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow.png"
                     alt="">
-                <span>毋須再「捱貴息」</span>
+                <span>毋須再「捱貴息」</span> -->
 
 
             </div>
