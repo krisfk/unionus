@@ -26,21 +26,31 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">會計審核</h1>
+            <h1 class="mx-auto gold">
+                <?php echo get_field('content_part_0');?>
+
+                <!-- 會計審核 -->
+            </h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center">根據香港法例第622
-            章《公司條例》第373條，公司董事須備存符合規格的會計紀錄或帳目。而第112章《稅務條例》第51C條亦規定，每名在香港經營某行業、專業或業務的人，須就其入息及開支備存足夠的紀錄。但會計並不只為履行法律責任，更是公司發展不可或缺的一環。
+        <div class="inner-container mx-auto mt-5 text-center">
+            <?php echo get_field('content_part_1');?>
+
+            <!-- 根據香港法例第622
+            章《公司條例》第373條，公司董事須備存符合規格的會計紀錄或帳目。而第112章《稅務條例》第51C條亦規定，每名在香港經營某行業、專業或業務的人，須就其入息及開支備存足夠的紀錄。但會計並不只為履行法律責任，更是公司發展不可或缺的一環。 -->
 
         </div>
 
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">會計帳目用處</h2>
+            <h2 class="gold mt-5">
+                <?php echo get_field('content_part_2');?>
+                <!-- 會計帳目用處 -->
+            </h2>
         </div>
 
 
@@ -61,7 +71,11 @@ get_header();
 
                                 <tr>
                                     <td class="p-5">
-                                        <h2 class="gold text-center">公司內部之財務交流</h2>
+
+                                        <?php echo get_field('content_part_3');?>
+
+
+                                        <!-- <h2 class="gold text-center">公司內部之財務交流</h2>
 
                                         <div class="mt-5   text-center">
 
@@ -84,7 +98,7 @@ get_header();
 
 
 
-                                        </div>
+                                        </div> -->
                                     </td>
                                 </tr>
 
@@ -118,7 +132,11 @@ get_header();
 
                                 <tr>
                                     <td class="p-5">
-                                        <h2 class="gold text-center">與外部持份者(例如銀行、債權人、投資者等)之財務交流</h2>
+
+                                        <?php echo get_field('content_part_4');?>
+
+
+                                        <!-- <h2 class="gold text-center">與外部持份者(例如銀行、債權人、投資者等)之財務交流</h2>
 
                                         <div class="mt-5 text-center">
 
@@ -137,7 +155,7 @@ get_header();
 
                                             </ul>
 
-                                        </div>
+                                        </div> -->
                                     </td>
                                 </tr>
 
@@ -161,7 +179,11 @@ get_header();
 
 
 
-        <div class="text-center mt-5">由於會計的最終責任在於董事身上，作為董事最好學習一下基本會計知識，這樣才能於公司賬目有失誤時及早察覺並更正。</div>
+        <div class="text-center mt-5">
+            <?php echo get_field('content_part_5');?>
+
+            <!-- 由於會計的最終責任在於董事身上，作為董事最好學習一下基本會計知識，這樣才能於公司賬目有失誤時及早察覺並更正。 -->
+        </div>
 
 
 
