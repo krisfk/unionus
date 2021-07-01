@@ -26,23 +26,33 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">DRP債務舒緩</h1>
+            <h1 class="mx-auto gold">
+                <?php echo get_field('content_part_0');?>
+
+                <!-- DRP債務舒緩 -->
+            </h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
         <div class="inner-container2 mx-auto mt-5 text-center">
+            <?php echo get_field('content_part_1');?>
+            <!-- 
             債務重組計劃（DRP）是債務舒緩主要方案之一。
             <div class="gold big-size mt-2">這是個人自願安排（IVA）的簡單版本，因為申請人無需遵循法律程序。 
             </div>
             <div class="mt-2">
                 債權人機構在債務人同意的情況下直接與債權人制定了新的還款機制，其中包括還款額，利率，分期付款期數和付款方式。在某些情況下，債權人眾多但償還金額相對較小。然而DRP債務舒緩計劃是債務人的首選選擇。在特定債權人同意情況下，可以達成0%利息，大幅減低90%以上利息。
-            </div>
+            </div> -->
 
         </div>
 
         <div class="mt-5 inner-container2 mx-auto">
+
+            <?php echo get_field('content_part_2');?>
+
+            <!-- 
             <h2 class="gold">DRP債務重組服務:
             </h2>
 
@@ -56,7 +66,7 @@ get_header();
                 <span class="gold">
                     所需的處理時間相對較短，申請人只需完成簡單的註冊流程即可。</span>對於那些與敏感行業相關的人（例如金融行業和紀律部隊）來說會更為合適，通過申請DRP舒緩申請人可以避免破產，同時通過向爾聯UnionUs申請債務減免，可以避免申報雇主有關的債務申請，並避免失業或者影響個人聲譽。
 
-            </div>
+            </div> -->
         </div>
 
 
@@ -79,6 +89,10 @@ get_header();
 
                                 <tr>
                                     <td class="p-5">
+
+                                        <?php echo get_field('content_part_3');?>
+
+                                        <!-- 
                                         <h2 class="gold text-center">債務減免計劃（DRP）的好處
                                         </h2>
 
@@ -103,7 +117,7 @@ get_header();
 
 
 
-                                        </div>
+                                        </div> -->
                                     </td>
                                 </tr>
 
@@ -129,13 +143,19 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">DRP債務減免與IVA債務重組的比較
+            <h2 class="gold mt-5">
+                <?php echo get_field('content_part_4');?>
+
+                <!-- DRP債務減免與IVA債務重組的比較 -->
             </h2>
         </div>
 
 
         <div class="inner-container2 mx-auto">
 
+            <?php echo get_field('content_part_5');?>
+
+            <!-- 
             <div class="mt-5">
                 <div class="gold big-size">．債務重組計劃（DRP）</div>
                 債務重組計劃比IVA和IDRP更簡單。這是一個相對較快的解決方案。它不需要債務人參與任何法律程序。我們在債務人同意的情況下制定還款計劃，並與債權人進行談判。DRP允許債權人直接與債務人聯繫。
@@ -164,7 +184,7 @@ get_header();
                 IVA的債務重組程序相對較長 <br>
                 債務人需要任命一名被會計師或專業人士代為處理
 
-            </div>
+            </div> -->
 
         </div>
 
@@ -172,7 +192,10 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">DRP債務舒緩成功案例
+            <h2 class="gold mt-5">
+                <?php echo get_field('content_part_6');?>
+
+                <!-- DRP債務舒緩成功案例 -->
             </h2>
         </div>
 
@@ -180,7 +203,10 @@ get_header();
         <div class="mt-5 drp-case-div">
             <ul>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
-                    <div class="name">
+
+                    <?php echo get_field('content_part_7');?>
+
+                    <!-- <div class="name">
                         <h3 class="gold">職業：文員　月入：$18,400</h3>
                     </div>
                     <div class="nr">
@@ -250,25 +276,26 @@ get_header();
 
                         <div class="d-inline-block">
 
-                            <!-- <img src="<?php echo get_template_directory_uri();?>/assets/images/little-flow-top.png"
-                                alt=""> -->
+                        
 
-                            <div class="little-flo-top"></div>
-                            <div>
-                                <span class="gold">每月總節省利息：</span>$7,281-$281 <span class="gold">=</span> $7,000
-                            </div>
-                            <div>
-                                <span class="gold">每月還款金額：</span>$13,668 <span class="gold">減至</span> $6,454.76
-                            </div>
-                            <div class="little-flo-bottom"></div>
-
-                            <!-- <img src="<?php echo get_template_directory_uri();?>/assets/images/little-flow-bottom.png"
-                                alt=""> -->
-                        </div>
+                    <div class="little-flo-top"></div>
+                    <div>
+                        <span class="gold">每月總節省利息：</span>$7,281-$281 <span class="gold">=</span> $7,000
                     </div>
+                    <div>
+                        <span class="gold">每月還款金額：</span>$13,668 <span class="gold">減至</span> $6,454.76
+                    </div>
+                    <div class="little-flo-bottom"></div>
+
+
+        </div>
+    </div> -->
                 </li>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
-                    <div class="name">
+
+                    <?php echo get_field('content_part_8');?>
+
+                    <!-- <div class="name">
                         <h3 class="gold"> 職業：門市銷售員　月入：$17,000</h3>
                     </div>
                     <div class="nr">
@@ -375,10 +402,13 @@ get_header();
                             </div>
                             <div class="little-flo-bottom"></div>
                         </div>
-                    </div>
+                    </div> -->
                 </li>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
-                    <div class="name">
+
+                    <?php echo get_field('content_part_9');?>
+
+                    <!-- <div class="name">
                         <h3 class="gold"> 職業：私人駕駛員　月入：$45,000</h3>
                     </div>
                     <div class="nr">
@@ -445,10 +475,13 @@ get_header();
                             <div class="little-flo-bottom"></div>
 
                         </div>
-                    </div>
+                    </div> -->
                 </li>
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
-                    <div class="name">
+
+                    <?php echo get_field('content_part_10');?>
+
+                    <!-- <div class="name">
                         <h3 class="gold">
                             職業：設計師 　月入：$22,800</h3>
                     </div>
@@ -516,12 +549,15 @@ get_header();
                             <div class="little-flo-bottom"></div>
 
                         </div>
-                    </div>
+                    </div> -->
                 </li>
 
 
                 <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
-                    <div class="name">
+
+                    <?php echo get_field('content_part_11');?>
+
+                    <!-- <div class="name">
                         <h3 class="gold"> 職業：Worker　月入：$15,200</h3>
                     </div>
                     <div class="nr">
@@ -613,7 +649,7 @@ get_header();
 
                         </div>
 
-                    </div>
+                    </div> -->
                 </li>
 
                 <!--
