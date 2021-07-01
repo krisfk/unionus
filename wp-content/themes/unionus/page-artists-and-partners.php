@@ -168,6 +168,10 @@ get_header();
 $(function() {
 
 
+    var filmwidth = $('iframe').width();
+    var filmheight = filmwidth / 16 * 9;
+    $('iframe').height(filmheight);
+
 
     // .gold-table-div.silver
     // $('.gold-table-div.silver').height($('.gold-table-div-wrapper-col').height() - 100);
