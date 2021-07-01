@@ -237,7 +237,7 @@ foreach ($main_menu as $menu_item) {
     
     $langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to=');
 
-    print_r($langs);
+    // print_r($langs);
     ?>
 
             <li>
