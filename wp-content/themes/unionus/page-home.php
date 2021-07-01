@@ -20,17 +20,21 @@ get_header();
 
 <div class="home-banner-div">
 
-    <!-- <div class="position-absolute w-100 h-100"> -->
     <div class="rolling-slogan">
 
         <a href="<?php echo get_site_url();?>" class="logo-a"> <img class="logo"
-                src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
+                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/logo.png" alt="">
         </a>
-        <div class="mt-3">爾汝相聯，同生共濟</div>
+        <div class="mt-3">
+            <?php echo get_field('content_part_0');?>
+            <!-- 爾汝相聯，同生共濟 -->
+        </div>
 
-        <div> <a href="javascript:void(0)" class="know-more-btn">了解更多</a> </div>
+        <div> <a href="javascript:void(0)" class="know-more-btn">
+                <?php echo get_field('content_part_1');?>
+                <!-- 了解更多 -->
+            </a> </div>
     </div>
-    <!-- </div> -->
 
 
     <iframe allowtransparency="true" class="iframe" src="/particle-effect/" style="">
@@ -45,7 +49,7 @@ get_header();
 
 
         <div class="sep mx-auto mt-const"> <img class="sep-flo"
-                src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
+                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
 
         <div class="company-intro-row-div pt-const-half">
@@ -54,23 +58,29 @@ get_header();
                 <div class="col-4 position-relative company-intro-content-col-1 ">
 
                     <div class="company-intro-content-1">
-                        （爾聯UNIONUS）會計師事務所是根據香港《專業會計師條例》（第50章） 註冊的香港會計師事務所(“Audit
+                        <?php echo get_field('content_part_2');?>
+
+                        <!-- （爾聯UNIONUS）會計師事務所是根據香港《專業會計師條例》（第50章） 註冊的香港會計師事務所(“Audit
                         Firm”)。(爾聯UNIONUS)會計師事務是根據香港會計師公會的認可，並提供債務重組、會計、核數、公司/私人報稅、審計核數等服務 (“Debt
                         Restructuring”“Accounting
-                        Service”,“Tax Service” and “Audit Service”）。</div>
+                        Service”,“Tax Service” and “Audit Service”）。 -->
+                    </div>
                 </div>
                 <div class="col-1 company-intro-txt-col">
 
 
                     <div class="company-intro-txt">
-                        公<br>司<br>簡<br>介
+                        <?php echo get_field('content_part_3');?>
+
+                        <!-- 公<br>司<br>簡<br>介 -->
                     </div>
                 </div>
                 <div class="col-4 position-relative company-intro-content-col-2">
                     <div class="company-intro-content-2  ">
+                        <?php echo get_field('content_part_4');?>
 
-                        憑籍（爾聯UNIONUS）數位創辦人多年專注於會計業和銀行業的持續發展，每年成功為數以千位顧客和大型企業提供意見和服務，並由具備執業資格的專員和客戶關＝係主任獨立處理，務求可以提供完善、專業、具備參考價值和人性化（Human
-                        nature）的處理方案。
+                        <!-- 憑籍（爾聯UNIONUS）數位創辦人多年專注於會計業和銀行業的持續發展，每年成功為數以千位顧客和大型企業提供意見和服務，並由具備執業資格的專員和客戶關＝係主任獨立處理，務求可以提供完善、專業、具備參考價值和人性化（Human
+                        nature）的處理方案。 -->
                     </div>
 
                 </div>
@@ -95,11 +105,14 @@ get_header();
             <li class="promise-pt promise-pt-1 ps-5">
                 <table class="h-100 w-100">
                     <tr>
-                        <td class="position-relative">不成功不收費
+                        <td class="position-relative">
+                            <?php echo get_field('content_part_5');?>
+
+                            <!-- 不成功不收費 -->
                             <div class="position-absolute small-shape">
                                 <div class="pt-icon"></div>
                                 <img class="small-shape-img"
-                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/small-shape-bg.png"
+                                    src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/small-shape-bg.png"
                                     alt="">
                             </div>
                         </td>
@@ -111,11 +124,13 @@ get_header();
             <li class="promise-pt promise-pt-2 ps-5">
                 <table class="h-100 w-100">
                     <tr>
-                        <td class="position-relative">先服務後收費
+                        <td class="position-relative">
+                            <?php echo get_field('content_part_6');?>
+                            <!-- 先服務後收費 -->
                             <div class="position-absolute small-shape">
                                 <div class="pt-icon"></div>
                                 <img class="small-shape-img"
-                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/small-shape-bg.png"
+                                    src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/small-shape-bg.png"
                                     alt="">
                             </div>
                         </td>
@@ -127,11 +142,13 @@ get_header();
             <li class="promise-pt promise-pt-3 ps-5">
                 <table class="h-100 w-100">
                     <tr>
-                        <td class="position-relative">同理你的處境
+                        <td class="position-relative">
+                            <?php echo get_field('content_part_7');?>
+                            <!-- 同理你的處境 -->
                             <div class="position-absolute small-shape">
                                 <div class="pt-icon"></div>
                                 <img class="small-shape-img"
-                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/small-shape-bg.png"
+                                    src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/small-shape-bg.png"
                                     alt="">
                             </div>
                         </td>
@@ -144,11 +161,13 @@ get_header();
             <li class="promise-pt promise-pt-4 pe-5">
                 <table class="h-100 w-100">
                     <tr>
-                        <td class="position-relative text-end">高私隱度保障
+                        <td class="position-relative text-end">
+                            <?php echo get_field('content_part_8');?>
+                            <!-- 高私隱度保障 -->
                             <div class="position-absolute small-shape">
                                 <div class="pt-icon"></div>
                                 <img class="small-shape-img"
-                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/small-shape-bg.png"
+                                    src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/small-shape-bg.png"
                                     alt="">
                             </div>
                         </td>
@@ -160,12 +179,14 @@ get_header();
             <li class="promise-pt promise-pt-5 pe-5">
                 <table class="h-100 w-100">
                     <tr>
-                        <td class="position-relative text-end" style="padding-right: 55px;">耐心聆聽 <br>
-                            你的故事
+                        <td class="position-relative text-end" style="padding-right: 55px;">
+                            <?php echo get_field('content_part_9');?>
+                            <!-- 耐心聆聽 <br>
+                            你的故事 -->
                             <div class="position-absolute small-shape">
                                 <div class="pt-icon"></div>
                                 <img class="small-shape-img"
-                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/small-shape-bg.png"
+                                    src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/small-shape-bg.png"
                                     alt="">
                             </div>
                         </td>
@@ -184,8 +205,10 @@ get_header();
 
 
             <div class="promise-center-pt-div">
-                <div class="gold title">人性化的 <br> 服務承諾</div>
-                <div class="subtitle mt-2">想你所想，憂你所憂</div>
+                <?php echo get_field('content_part_10');?>
+
+                <!-- <div class="gold title">人性化的 <br> 服務承諾</div>
+                <div class="subtitle mt-2">想你所想，憂你所憂</div> -->
             </div>
         </div>
     </div>
@@ -196,24 +219,28 @@ get_header();
 
 
 <div class="position-relative mt-7">
-    <img class="home-tran-bg-1" src="<?php echo get_template_directory_uri(); ?>/assets/images/home-tran-bg-1.png"
+    <img class="home-tran-bg-1" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/home-tran-bg-1.png"
         alt="">
-    <img class="home-tran-bg-2" src="<?php echo get_template_directory_uri(); ?>/assets/images/home-tran-bg-2.png"
+    <img class="home-tran-bg-2" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/home-tran-bg-2.png"
         alt="">
 
 
     <section class="sec3 pt-6">
 
+        <?php echo get_field('content_part_11');?>
 
-        <img class="circular-info" src="<?php echo get_template_directory_uri(); ?>/assets/images/circular.png" alt="">
+        <!-- <img class="circular-info" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/circular.png"
+            alt=""> -->
     </section>
 </div>
 
 <section class="sec4  pt-const2">
 
     <div class="container">
+        <?php echo get_field('content_part_12');?>
 
-        <h2 class="gold">服務承諾
+        <!-- <h2 class="gold">
+
         </h2>
 
         <ul class="service-promise-ul mt-2">
@@ -227,7 +254,7 @@ get_header();
             <li>來自各界的資深組別代表，包括：會計部，銀行部，法律部，談判組別，輔導員等等。</li>
 
 
-        </ul>
+        </ul> -->
     </div>
 </section>
 
@@ -237,10 +264,11 @@ get_header();
 
 
     <div class="sep mx-auto mt-const"> <img class="sep-flo"
-            src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
+            src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
+    <?php echo get_field('content_part_13');?>
 
-    <table class="me-auto ms-auto mt-5">
+    <!-- <table class="me-auto ms-auto mt-5">
         <tr>
             <td class="align-top gold-border-right pe-3">
                 <h2 class="gold">服務項目</h2>
@@ -261,7 +289,7 @@ get_header();
                 </ul>
             </td>
         </tr>
-    </table>
+    </table> -->
     <div class="sep2 mx-auto mt-5">
     </div>
 
@@ -272,11 +300,14 @@ get_header();
 
 
 
+<?php echo get_field('content_part_14');?>
 
-<nav>
+<!-- <nav>
     <ul>
         <li class="dot1 dot" id="ec1">
-            <div class="dot-menu-page-txt">公司簡介</div>
+            <div class="dot-menu-page-txt">
+                公司簡介
+            </div>
         </li>
         <li class="dot2 dot" id="ec2">
             <div class="dot-menu-page-txt">人性化的服務承諾</div>
@@ -298,7 +329,7 @@ get_header();
         </li>
 
     </ul>
-</nav>
+</nav> -->
 
 
 
