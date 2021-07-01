@@ -48,11 +48,12 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">
-                <?php echo get_field('content_part_2');?>
+            <?php echo get_field('content_part_2');?>
 
-                <!-- 我們的團隊 -->
-            </h2>
+            <!-- <h2 class="gold mt-5"> -->
+
+            <!-- 我們的團隊 -->
+            <!-- </h2> -->
         </div>
 
     </div>
