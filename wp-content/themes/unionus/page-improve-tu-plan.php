@@ -37,6 +37,11 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
+        <div class="mt-3">個人信 報告  了每人的信 紀  包括 款機構、信 限額、 款額及 款紀 。亦會紀
+             拖欠債 、破產、   債務相 的法律行動等。因此 港大 分 行  務機構於審批 
+            款申 時 會參 客人的個人信 報告 以評估客人是否可靠的借 人 從 擬定該次借  
+            額及利息比率。所以一個良好的信 評級是很   一般信 評級愈好 實 年利率會愈低。</div>
+
 
 
         <div class="text-center mt-7">
