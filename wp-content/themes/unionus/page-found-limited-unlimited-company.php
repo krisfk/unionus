@@ -26,18 +26,25 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">開立有限/無限公司</h1>
+            <h1 class="mx-auto gold">
+                <?php echo get_field('content_part_0');?>
+
+                <!-- 開立有限/無限公司 -->
+            </h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5">根據《商業登記條例》（第 310
+        <div class="inner-container mx-auto mt-5">
+            <?php echo get_field('content_part_1');?>
+
+            <!-- 根據《商業登記條例》（第 310
             章），除特別豁免者外，所有在香港經營業務的人士均須辦理商業登記。代表無論規模是大是小、是實體店或是網店，只要是為了圖利而從事的生意或活動，都要在開始經營後一個月內成立有限/無限公司。
             <br> <br>
             最簡單可以記住兩者之分別便是加上「責任」2字了。當公司有財務責任或訴訟時，有限公司股東所負責任有限，
             而無限公司股東則需要負上全部責任(無上限)。在決定是開設有限還是無限公司時，可以考慮業務規模及自己對此生意之投入程度。假如是涉及較多資產和債款的生意，申請有限公司可以保障個人財產;
-            假如是小生意，開設無限公司的金錢及時間成本會較低。
+            假如是小生意，開設無限公司的金錢及時間成本會較低。 -->
         </div>
         <div class="text-center">
             <div class="gold-table-div-wrapper inner-container2 mx-auto">
@@ -45,7 +52,10 @@ get_header();
                     src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
 
                 <div class="gold-table-div">
-                    <table class=" gold-table">
+                    <?php echo get_field('content_part_2');?>
+
+
+                    <!-- <table class=" gold-table">
 
 
                         <tbody>
@@ -146,7 +156,7 @@ get_header();
                             </tr>
                         </tbody>
 
-                    </table>
+                    </table> -->
                 </div>
             </div>
         </div>
@@ -156,18 +166,24 @@ get_header();
 </section>
 
 
-<!-- </div> -->
 
 <section class="mt-7">
     <div class="container">
 
-        <h2 class="gold">申請方法</h2>
+        <h2 class="gold">
+            <?php echo get_field('content_part_3');?>
+
+            <!-- 申請方法 -->
+        </h2>
         <img class="w-100 mt-5" src="<?php echo get_template_directory_uri(); ?>/assets/images/steps-img.png" alt="">
 
         <div class="row">
 
             <div class="col-3 step-col step-col-1">
 
+                <?php echo get_field('content_part_4');?>
+
+                <!-- 
                 <div class="step-name">
                     STEP 1</div>
                 <div>
@@ -179,13 +195,14 @@ get_header();
 
                     </ul>
 
-                </div>
+                </div> -->
             </div>
 
 
             <div class="col-3 step-col step-col-2">
+                <?php echo get_field('content_part_5');?>
 
-                <div class="step-name">
+                <!-- <div class="step-name">
                     STEP 2</div>
                 <div>
                     <ul>
@@ -197,12 +214,13 @@ get_header();
 
                     </ul>
 
-                </div>
+                </div> -->
             </div>
 
 
             <div class="col-3 step-col step-col-3">
-
+                <?php echo get_field('content_part_6');?>
+                <!-- 
                 <div class="step-name">
                     STEP 3</div>
                 <div>
@@ -218,13 +236,14 @@ get_header();
                     </ul>
 
 
-                </div>
+                </div> -->
             </div>
 
 
             <div class="col-3 step-col step-col-4">
+                <?php echo get_field('content_part_7');?>
 
-                <div class="step-name">
+                <!-- <div class="step-name">
                     STEP 4</div>
                 <div>
                     <ul>
@@ -234,7 +253,7 @@ get_header();
 
                     </ul>
 
-                </div>
+                </div> -->
             </div>
 
 
@@ -242,13 +261,15 @@ get_header();
 
         <div class="row">
             <div class="col-12 gold">
+                <?php echo get_field('content_part_8');?>
 
+                <!-- 
                 *網上查冊中心網址: <a class="normal"
                     href="https://www.icris.cr.gov.hk/csci/">https://www.icris.cr.gov.hk/csci/</a> <br>
                 **詳情請參考工業貿易署網站: <a class="normal" href="https://www.tid.gov.hk/tc_chi/aboutus/form/publicform/others/allforms.html
 ">https://www.tid.gov.hk/tc_chi/aboutus/form/publicform/others/allforms.html
                 </a>
-
+ -->
 
             </div>
         </div>
@@ -259,11 +280,11 @@ get_header();
 <section class="sec2  pt-const2">
 
 
-    <!-- <div class="container inner-container2"> -->
 
-    <!-- <div class="row"> -->
+    <?php echo get_field('content_part_9');?>
 
-    <ul class="row-ul">
+
+    <!-- <ul class="row-ul">
 
         <li class=" text-center"><img class="big-icon"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/big-icon-1.png" alt=""></li>
@@ -279,11 +300,12 @@ get_header();
 
 
         </li>
-    </ul>
+    </ul> -->
 
 
+    <?php echo get_field('content_part_10');?>
 
-    <ul class="row-ul mt-5">
+    <!-- <ul class="row-ul mt-5">
 
         <li>
             <h2 class="gold">無限公司</h2>
@@ -300,11 +322,12 @@ get_header();
 
         <li><img class="big-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/big-icon-2.png" alt="">
         </li>
-    </ul>
+    </ul> -->
 
 
+    <?php echo get_field('content_part_11');?>
 
-    <ul class="row-ul mt-5">
+    <!-- <ul class="row-ul mt-5">
 
         <li class=" text-center"><img class="big-icon"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/big-icon-3.png" alt=""></li>
@@ -323,11 +346,12 @@ get_header();
 
 
         </li>
-    </ul>
+    </ul> -->
+
+    <?php echo get_field('content_part_12');?>
 
 
-
-    <ul class="row-ul mt-5">
+    <!-- <ul class="row-ul mt-5">
 
         <li>
             <h2 class="gold">登記地址</h2>
@@ -339,7 +363,7 @@ get_header();
 
         <li><img class="big-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/big-icon-4.png" alt="">
         </li>
-    </ul>
+    </ul> -->
 
 
 
