@@ -48,7 +48,7 @@ get_header();
             </div>
 
             <div class="mt-4">
-                <h3 class="gold"> 我們的WhatsApp</h3>
+                <h3 class="gold"> 客戶服務Whatsapp</h3>
                 <div> 24小時專人WhatsApp熱線+852 9888 8135</div>
             </div>
 
