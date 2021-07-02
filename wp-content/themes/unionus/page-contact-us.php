@@ -28,7 +28,10 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">聯絡我們</h1>
+            <h1 class="mx-auto gold">
+                <?php echo get_field('content_part_0');?>
+                <!-- 聯絡我們 -->
+            </h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
@@ -36,7 +39,10 @@ get_header();
 
         <div class="inner-container mx-auto mt-5 text-center">
 
-            <h2 class="gold">與我們聯繫</h2>
+            <?php echo get_field('content_part_1');?>
+
+
+            <!-- <h2 class="gold">與我們聯繫</h2>
 
             <div class="mt-3">
                 如果您有任何我們想回答的疑問，或者可以致電我們，我們的專家將為您提供指導。
@@ -58,7 +64,7 @@ get_header();
                 <h3 class="gold"> 我們的電話</h3>
                 <div> 24小時專人WhatsApp熱線+852 9888 8135</div>
             </div>
-
+ -->
 
 
 
@@ -78,7 +84,11 @@ get_header();
                 src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
 
-        <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">聯絡我們</h2>
+        <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+            <?php echo get_field('content_part_2');?>
+
+            <!-- 聯絡我們 -->
+        </h2>
 
 
         <div class="contact-form-div container">
