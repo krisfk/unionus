@@ -1351,6 +1351,11 @@ a.normal:hover {
     padding-bottom: 10%;
 }
 
+.bankrupt-steps-ul li.center-point p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
 .bankrupt-steps-ul li.center-point-empty {
     /* display: block; */
     text-align: center;
