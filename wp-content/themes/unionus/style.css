@@ -1737,6 +1737,10 @@ h2 .smaller {
     overflow: hidden;
 }
 
+.drp-case-div ul {
+    padding: 0;
+}
+
 .drp-case-div table {
     width: 100%;
     overflow: hidden;
