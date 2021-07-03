@@ -1335,6 +1335,10 @@ a.normal:hover {
     position: relative;
 }
 
+.bankrupt-steps-ul li.text-end {
+    text-align: center !important;
+}
+
 .bankrupt-steps-ul li.center-point {
     /* display: block; */
     text-align: center;
@@ -1908,7 +1912,7 @@ p {
         display: none;
     }
     .bankrupt-steps-ul:nth-child(2n+1) li:last-child {
-        /* display: none; */
+        display: none;
     }
     .bankrupt-steps-ul:nth-child(2n) li:last-child {
         display: none;
@@ -1934,11 +1938,21 @@ p {
     .bankrupt-steps-ul {
         background: none;
     }
+    .bankrupt-steps-ul:nth-child(2n+1) {
+        margin-top: 3rem;
+    }
+    .bankrupt-steps-ul:first-child {
+        margin-top: 0;
+    }
+    .bankrupt-steps-ul li {
+        text-align: center;
+        width: 100%;
+    }
     section {
         width: 100%;
     }
     .mt-6 {
-        margin-top: 5rem !important;
+        margin-top: 4rem !important;
     }
     .mt-7 {
         margin-top: 6rem !important;
