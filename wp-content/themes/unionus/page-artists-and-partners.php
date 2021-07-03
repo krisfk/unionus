@@ -45,7 +45,7 @@ get_header();
                 <!-- Master Mic -->
             </h2>
 
-            <div class="row mt-lg-5 mt-md-0 mt-sm-0 mt-0 gx-5">
+            <div class="row mt-5 gx-5">
 
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
@@ -80,7 +80,7 @@ get_header();
                 </div>
 
 
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-start mt-5">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-start mt-lg-5 mt-md-0 mt-sm-0 mt-0">
 
                     <?php echo get_field('content_part_4'); ?>
 
