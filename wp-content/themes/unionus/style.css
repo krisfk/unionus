@@ -1867,6 +1867,9 @@ p {
 }
 
 @media only screen and (max-width: 1200px) {
+    .top-menu-div {
+        display: none;
+    }
     h1 {
         font-size: 35px !important;
     }
