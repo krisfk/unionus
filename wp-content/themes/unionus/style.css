@@ -1062,7 +1062,7 @@ nav li {
 h2 {
     font-size: 45px !important;
     line-height: 1.3;
-    line-height: 1.5 !important;
+    line-height: 1.3 !important;
 }
 
 .service-points li {
@@ -1150,7 +1150,6 @@ h2 {
 
 h1 {
     font-size: 60px !important;
-    line-height: 1.3 !important;
 }
 
 .inner-container {
@@ -1210,7 +1209,7 @@ h1 {
     position: relative;
     top: 18px;
     margin: 0 auto;
-    width: auto;
+    /* width: 100%; */
     display: block;
 }
 
@@ -1218,7 +1217,7 @@ h1 {
     height: 55px;
     position: relative;
     top: -25px;
-    width: auto;
+    /* width: 100%; */
     margin: 0 auto;
     display: block;
 }
@@ -1482,8 +1481,9 @@ a.normal:hover {
     display: inline-block;
     border-radius: 14px;
     border: 4px solid #debc89;
-    width: 100%;
-    overflow: hidden;
+    /* width: 100%; */
+    /* overflow: scroll; */
+    min-width: 1000px;
 }
 
 .gold-table-div.silver {
@@ -1497,8 +1497,6 @@ a.normal:hover {
 
 .gold-table-div-wrapper {
     display: inline-block;
-    position: relative;
-    width: 100%;
 }
 
 .tax-icon {
@@ -1762,6 +1760,7 @@ h2 .smaller {
 
 .drp-case-div .nr {
     margin-top: 1rem;
+    overflow: scroll;
 }
 
 .drp-case-div table th,
@@ -1804,7 +1803,7 @@ h2 .smaller {
 
 .partner-logo-a {
     display: inline-block;
-    margin: 0 30px 2rem 0;
+    margin: 0 30px;
 }
 
 .article-title {
@@ -1862,39 +1861,26 @@ p {
     margin: 0 !important; */
 }
 
-.gold-table-div-wrapper-col {
-    max-width: 70% !important;
-}
-
 @media only screen and (max-width: 1200px) {
-    .top-menu-div {
-        display: none;
-    }
     h1 {
         font-size: 35px !important;
     }
     h2 {
-        font-size: 28px !important;
+        font-size: 23px !important;
     }
     .sme-logo {
         width: 190px;
         display: block;
         margin: 0 auto 50px auto;
     }
-    .gold-table-div-wrapper-col {
-        max-width: 100% !important;
-    }
 }
 
 @media only screen and (max-width: 991px) {
-    .mt-7 {
-        margin-top: 5rem !important;
-    }
     section {
         width: 100%;
     }
     .mt-6 {
-        margin-top: 5rem !important;
+        /* margin-top: 3rem !important; */
     }
     .big-size {
         font-size: 17px;
@@ -1911,14 +1897,7 @@ p {
     }
 }
 
-@media only screen and (max-width: 768px) {
-    .table-head-th-img {
-        width: 100%;
-    }
-    .table-foot-th-img {
-        width: 100%;
-    }
-}
+@media only screen and (max-width: 768px) {}
 
 @media only screen and (max-width: 640px) {}
 
