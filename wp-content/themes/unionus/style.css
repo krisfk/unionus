@@ -1874,6 +1874,9 @@ p {
 }
 
 @media only screen and (max-width: 991px) {
+    .mt-7 {
+        margin-top: 6rem !important;
+    }
     section {
         width: 100%;
     }
