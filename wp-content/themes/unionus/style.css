@@ -1908,6 +1908,18 @@ p {
         display: none;
     }
     .bankrupt-steps-ul:nth-child(2n+1) li:last-child {
+        /* display: none; */
+    }
+    .bankrupt-steps-ul:nth-child(2n) li:last-child {
+        display: none;
+    }
+    .bankrupt-steps-ul:nth-child(2n) li.center-point-empty {
+        display: none;
+    }
+    .bankrupt-steps-ul.reverse li:first-child {
+        /* display:none; */
+    }
+    .bankrupt-steps-ul:nth-child(2n) li.empty {
         display: none;
     }
     .bankrupt-steps-ul li.center-point br {
