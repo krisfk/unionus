@@ -47,7 +47,7 @@ get_header();
 
             <div class="row mt-5 gx-5">
 
-                <div class="col-lg-12 col-md-6 col-sm-6 col-6 ">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
                     <?php echo get_field('content_part_2'); ?>
 
@@ -56,7 +56,7 @@ get_header();
                         src="https://unionus.com.hk/wp-content/uploads/2021/06/1602677248_classify_img-e1624905361304.jpeg"
                         alt=""> -->
                 </div>
-                <div class="col-lg-12 col-md-6 col-sm-6 col-6 text-start">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-start">
 
                     <?php echo get_field('content_part_3'); ?>
 
@@ -80,7 +80,7 @@ get_header();
                 </div>
 
 
-                <div class="col-lg-12 col-md-6 col-sm-6 col-6 text-start mt-5">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-start mt-5">
 
                     <?php echo get_field('content_part_4'); ?>
 
@@ -97,7 +97,7 @@ get_header();
                     </div> -->
                 </div>
 
-                <div class="col-lg-12 col-md-6 col-sm-6 col-6 position-relative mt-5">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative mt-5">
 
                     <?php echo get_field('content_part_5'); ?>
 
