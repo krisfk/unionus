@@ -1904,6 +1904,21 @@ p {
 }
 
 @media only screen and (max-width: 991px) {
+    .bankrupt-steps-ul:nth-child(2n+1) li:first-child {
+        display: none;
+    }
+    .bankrupt-steps-ul:nth-child(2n+1) li:last-child {
+        display: none;
+    }
+    .bankrupt-steps-ul li.center-point br {
+        display: none;
+    }
+    .bankrupt-steps-ul li.center-point {
+        display: inline-block;
+        margin: 0 auto;
+        width: 100%;
+        background: none;
+    }
     section {
         width: 100%;
     }
