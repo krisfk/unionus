@@ -1210,7 +1210,7 @@ h1 {
     position: relative;
     top: 18px;
     margin: 0 auto;
-    width: 100%;
+    width: auto;
     display: block;
 }
 
@@ -1218,7 +1218,7 @@ h1 {
     height: 55px;
     position: relative;
     top: -25px;
-    width: 100%;
+    width: auto;
     margin: 0 auto;
     display: block;
 }
