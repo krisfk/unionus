@@ -1908,7 +1908,14 @@ p {
     }
 }
 
-@media only screen and (max-width: 768px) {}
+@media only screen and (max-width: 768px) {
+    .table-head-th-img {
+        width: 100%;
+    }
+    .table-foot-th-img {
+        width: 100%;
+    }
+}
 
 @media only screen and (max-width: 640px) {}
 
