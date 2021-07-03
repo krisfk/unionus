@@ -1919,6 +1919,9 @@ p {
         width: 100%;
         background: none;
     }
+    .bankrupt-steps-ul {
+        background: none;
+    }
     section {
         width: 100%;
     }
