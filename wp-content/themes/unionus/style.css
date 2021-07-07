@@ -917,15 +917,15 @@ html[lang='en-US'] .promise-pt {
     font-size: 20px;
 }
 
-html[lang='en-US'] .promise-pt-1 p {
+html[lang='en-US'] .promise-pt-1 p:first-child {
     padding: 0 100px 0 0;
 }
 
-html[lang='en-US'] .promise-pt-2 p {
+html[lang='en-US'] .promise-pt-2 p:first-child {
     padding: 0 100px 0 0;
 }
 
-html[lang='en-US'] .promise-pt-3 p {
+html[lang='en-US'] .promise-pt-3 p:first-child {
     padding: 0 100px 0 0;
 }
 
