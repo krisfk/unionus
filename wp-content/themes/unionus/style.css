@@ -929,6 +929,14 @@ html[lang='en-US'] .promise-pt-3 p:first-child {
     padding: 0 115px 0 0;
 }
 
+html[lang='en-US'] .promise-pt-4 p:first-child {
+    padding: 0 0 0 115px;
+}
+
+html[lang='en-US'] .promise-pt-5 p:first-child {
+    padding: 0 0 0 115px;
+}
+
 .promise-pt-ul {
     margin: 0;
     padding: 0;
