@@ -913,7 +913,9 @@ nav li {
     line-height: 1.4;
 }
 
-html[lang='en-US'] .promise-pt {}
+html[lang='en-US'] .promise-pt {
+    font-size: 20px;
+}
 
 .promise-pt-ul {
     margin: 0;
