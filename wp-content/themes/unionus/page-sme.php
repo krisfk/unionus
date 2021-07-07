@@ -304,6 +304,10 @@ get_header();
 
 
             <?php
+            if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+                echo ICL_LANGUAGE_CODE;
+              }
+              
         echo do_shortcode('[contact-form-7 id="68" title="sme contact us"]');
 
 
