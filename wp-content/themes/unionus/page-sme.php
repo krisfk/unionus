@@ -295,7 +295,26 @@ get_header();
         <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
             <!-- content part 19 -->
 
-            聯絡我們
+            <?php
+
+if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+    $lang_code = ICL_LANGUAGE_CODE;
+
+    if($lang_code=='en')
+    {
+        echo 'Contact Us';
+
+    }
+    
+    if($lang_code=='zh-hant')
+    {
+echo '聯絡我們';
+    }
+    
+}
+?>
+
+
         </h2>
 
 
