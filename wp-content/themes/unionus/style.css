@@ -930,11 +930,13 @@ html[lang='en-US'] .promise-pt-3 p:first-child {
 }
 
 html[lang='en-US'] .promise-pt-4 p:first-child {
-    padding: 0 0 0 115px;
+    padding: 0 0 0 140px;
+    text-align: left;
 }
 
 html[lang='en-US'] .promise-pt-5 p:first-child {
-    padding: 0 0 0 115px;
+    padding: 0 0 0 140px;
+    text-align: left;
 }
 
 .promise-pt-ul {
