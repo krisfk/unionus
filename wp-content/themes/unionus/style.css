@@ -913,6 +913,10 @@ nav li {
     line-height: 1.4;
 }
 
+html[lang='en-US'] .gold.title {
+    font-size: 18px;
+}
+
 html[lang='en-US'] .promise-pt {
     font-size: 17px;
 }
