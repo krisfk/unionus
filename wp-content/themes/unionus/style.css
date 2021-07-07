@@ -917,6 +917,18 @@ html[lang='en-US'] .promise-pt {
     font-size: 20px;
 }
 
+html[lang='en-US'] .promise-pt-1 {
+    padding: 0 100px 0 0;
+}
+
+html[lang='en-US'] .promise-pt-2 {
+    padding: 0 100px 0 0;
+}
+
+html[lang='en-US'] .promise-pt-3 {
+    padding: 0 100px 0 0;
+}
+
 .promise-pt-ul {
     margin: 0;
     padding: 0;
