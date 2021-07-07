@@ -1119,6 +1119,11 @@ h2 {
     margin: 0;
 }
 
+.promise-pt p {
+    padding: 0;
+    margin: 0;
+}
+
 .logo-a {
     position: relative;
     /* z-index: 99999; */
