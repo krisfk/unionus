@@ -212,7 +212,7 @@ get_header();
                                 alt="">
 
 
-                            <div class="gold-table-div gold" style="height: 404px;">
+                            <div class="gold-table-div gold" style="">
 
                                 <?php echo get_field('content_part_10');?>
 
