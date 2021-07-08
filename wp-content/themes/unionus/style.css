@@ -1962,6 +1962,12 @@ p {
 }
 
 @media only screen and (max-width: 991px) {
+    .tu-icon {
+        width: 200px;
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+    }
     .breadcrumb-ui {
         text-align: center;
     }
