@@ -2235,6 +2235,9 @@ p {
         width: 100%;
         margin: 0;
     }
+    .circular-info {
+        width: 90%;
+    }
 }
 
 @media only screen and (max-width: 640px) {}
