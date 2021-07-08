@@ -150,6 +150,10 @@ iframe {
     margin: 0 auto;
 }
 
+html[lang='en-US'] .rolling-slogan {
+    font-size: 50px;
+}
+
 .rolling-slogan li {
     line-height: 1;
 }
