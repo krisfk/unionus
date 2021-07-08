@@ -2021,6 +2021,9 @@ p {
 }
 
 @media only screen and (max-width: 991px) {
+    .post-image-div {
+        width: 100%;
+    }
     .page-company-private-tax .main-text-container {
         text-align: center;
     }
