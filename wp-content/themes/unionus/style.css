@@ -728,11 +728,11 @@ section {
 }
 
 .top-menu-div .top-menu li .lang-div a {
-    /* float: left; */
+    float: left;
 }
 
 .top-menu-div .top-menu li .lang-div span {
-    /* float: left; */
+    float: left;
 }
 
 .sec1 {
