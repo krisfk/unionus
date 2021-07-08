@@ -53,6 +53,31 @@ get_header();
 
 
         <div class="company-intro-row-div pt-const-half">
+
+
+            <?php
+            
+                        
+            if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+                $lang_code = ICL_LANGUAGE_CODE;
+
+                if($lang_code=='en')
+                {
+
+                    ?>
+            <h2 class="gold">fdfadsfda</h2>
+            <div class="mt-4">fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf
+                fdsafdsafaf
+                fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf
+                fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf </div>
+            <?php
+                }
+
+
+                if($lang_code=='zh-hant')
+                {
+                    ?>
+
             <div class="row justify-content-center ">
 
                 <div class="col-4 position-relative company-intro-content-col-1 ">
@@ -89,6 +114,22 @@ get_header();
 
 
             </div>
+            <?php
+                    
+                    
+                }
+                
+                
+            }
+
+
+            
+            ?>
+
+
+
+
+
         </div>
     </div>
 </section>
