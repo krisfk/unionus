@@ -151,7 +151,7 @@ get_header();
 
         <div class="row mt-6 gx-5">
 
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12  text-center">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12  text-center mb-5">
 
                 <?php echo get_field('content_part_7');?>
 
@@ -169,7 +169,7 @@ get_header();
 
 
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12 text-center">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 text-center mb-5">
                 <?php echo get_field('content_part_8');?>
 
                 <!-- 
@@ -187,7 +187,7 @@ get_header();
                 </div> -->
 
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12 text-center">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 text-center mb-5">
 
                 <?php echo get_field('content_part_9');?>
 
