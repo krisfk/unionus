@@ -1993,7 +1993,7 @@ p {
         table-layout: fixed;
     }
     .page-found-limited-unlimited-company .gold-table .column-1 {
-        width: auto;
+        width: 20px;
     }
     .tu-icon {
         width: 180px;
