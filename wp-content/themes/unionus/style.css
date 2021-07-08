@@ -2134,6 +2134,12 @@ p {
         position: relative;
         top: 1px;
     }
+    .table-head-th-img {
+        width: 300px;
+        /* display: block; */
+        height: auto;
+        top: 9px;
+    }
 }
 
 @media only screen and (max-width: 640px) {}
