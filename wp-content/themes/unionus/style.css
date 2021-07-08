@@ -1999,7 +1999,9 @@ p {
         display: block;
         text-align: center;
     }
-    .row-ul.reverse {}
+    .row-ul.reverse {
+        flex-direction: column-reverse;
+    }
     .step-name {
         font-size: 24px;
         color: #ddbd8a;
