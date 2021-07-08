@@ -936,7 +936,7 @@ nav li {
 .promise-pt {
     display: block;
     background: url(./assets/images/round-border-pt.png) no-repeat;
-    width: 360px;
+    width: 300px;
     height: 131px;
     background-size: 100% 100%;
     list-style-type: none;
@@ -1986,7 +1986,7 @@ p {
     .promise-pt-ul .small-shape {
         position: absolute;
         top: -30px;
-        left: -86px;
+        left: -104px;
         width: auto;
         display: inline-table;
     }
