@@ -1991,13 +1991,15 @@ p {
         display: inline-table;
     }
     .promise-pt-ul .promise-pt-4 .small-shape {
-        /* left: auto; */
+        /* right: auto; */
+        left: -104px;
     }
     .promise-pt .pt-icon {
         /* background: url(./assets/images/pt-1-icon.png) no-repeat center center; */
         /* background-size: 20%; */
         /* top: 0; */
         /* left: 0; */
+        /* left: unset; */
     }
     .promise-pt-ul {
         text-align: center;
