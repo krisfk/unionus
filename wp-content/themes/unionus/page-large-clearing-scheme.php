@@ -109,7 +109,7 @@ get_header();
 
         <div class="row text-center mt-6">
 
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
 
                 <?php echo get_field('content_part_3');?>
 
@@ -121,7 +121,7 @@ get_header();
                 <div>審批手續簡單快捷，成功申請後會整合所有二線財務供款及外債，再透過信譽良好的合作財務公司助客戶一次過還清二線債務。</div> -->
 
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
 
                 <?php echo get_field('content_part_4');?>
 
