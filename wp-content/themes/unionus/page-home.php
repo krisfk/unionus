@@ -65,7 +65,7 @@ get_header();
                 {
 
                     ?>
-            <div class="inner-container2 mx-auto">
+            <div class="inner-container2 mx-auto text-enter">
                 <h2 class="gold">fdfadsfda</h2>
                 <div class="mt-4">fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf
                     fdsafdsafaf
