@@ -1992,6 +1992,18 @@ p {
     .steps-img {
         display: none;
     }
+    .step-col-1 {
+        top: auto;
+    }
+    .step-col-2 {
+        top: auto;
+    }
+    .step-col-3 {
+        top: auto;
+    }
+    .step-col-4 {
+        top: auto;
+    }
     .page-found-limited-unlimited-company .gold-table {
         table-layout: fixed;
     }
