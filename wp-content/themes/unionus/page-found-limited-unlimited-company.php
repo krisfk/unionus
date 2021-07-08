@@ -260,7 +260,7 @@ get_header();
 
         </div>
 
-        <div class="row">
+        <div class="row mt-lg-0 mt-md-5 mt-sm-5 mt-5">
             <div class="col-12 gold">
                 <?php echo get_field('content_part_8');?>
 
