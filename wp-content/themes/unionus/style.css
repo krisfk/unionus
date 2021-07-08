@@ -1980,6 +1980,9 @@ p {
     .promise-pt.ps-5 {
         padding: 0 0 0 0 !important;
     }
+    .promise-pt.pe-5 {
+        padding: 0 0 0 0 !important;
+    }
     .promise-pt-ul .small-shape {
         position: absolute;
         top: -30px;
