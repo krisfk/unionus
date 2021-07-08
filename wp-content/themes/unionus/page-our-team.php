@@ -68,7 +68,7 @@ get_header();
 
 
         <div class="row gx-5 inner-container2 mx-auto">
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 staff-col">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12 staff-col  mb-5">
                 <h2 class="gold mt-3">
                     <?php echo get_field('content_part_3');?>
                     <!-- Joseph -->
@@ -91,7 +91,7 @@ get_header();
 
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12  staff-col">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12  staff-col mb-5">
                 <h2 class="gold mt-3">
                     <?php echo get_field('content_part_6');?>
                     <!-- Midas -->
