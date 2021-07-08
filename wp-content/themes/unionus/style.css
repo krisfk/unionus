@@ -1989,6 +1989,10 @@ p {
 }
 
 @media only screen and (max-width: 991px) {
+    .step-name {
+        font-size: 24px;
+        color: #ddbd8a;
+    }
     .steps-img {
         display: none;
     }
