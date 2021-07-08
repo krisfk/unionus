@@ -1767,6 +1767,10 @@ h2 .smaller {
     justify-content: center;
 }
 
+.breadcrumb-ui span {
+    display: inline-block;
+}
+
 .breadcrumb-ui .white-arrow {
     height: 21px;
     padding: 0 10px;
