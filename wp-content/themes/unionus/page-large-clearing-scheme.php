@@ -109,7 +109,7 @@ get_header();
 
         <div class="row text-center mt-6">
 
-            <div class="col-4">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12">
 
                 <?php echo get_field('content_part_3');?>
 
@@ -121,7 +121,7 @@ get_header();
                 <div>審批手續簡單快捷，成功申請後會整合所有二線財務供款及外債，再透過信譽良好的合作財務公司助客戶一次過還清二線債務。</div> -->
 
             </div>
-            <div class="col-4">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12">
 
                 <?php echo get_field('content_part_4');?>
 
@@ -132,7 +132,7 @@ get_header();
 
                 <div>評估客戶現時債務狀況並重新整合債務供款方案，集中還款的方案令利息支出大大降低至8-15%。</div> -->
             </div>
-            <div class="col-4">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12">
 
                 <?php echo get_field('content_part_5');?>
 
