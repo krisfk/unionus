@@ -2125,6 +2125,15 @@ p {
         margin: 0 auto;
         display: inherit;
     }
+    .sep {
+        background: url(./assets/images/sep-flo-arrow.png) no-repeat;
+        background-size: 100% 13px;
+        background-position: 0px 26px;
+        max-width: 90%;
+        font-size: 18px;
+        position: relative;
+        top: 1px;
+    }
 }
 
 @media only screen and (max-width: 640px) {}
