@@ -1982,6 +1982,7 @@ p {
     }
     .promise-pt .text-end {
         text-align: center !important;
+        padding: 0 !important;
     }
     .promise-pt.ps-5 {
         padding: 0 0 0 0 !important;
