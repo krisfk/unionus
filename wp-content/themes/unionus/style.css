@@ -1931,6 +1931,7 @@ p {
 
 .page-our-team ul.gold.d-inline-block {
     width: 100%;
+    margin: 0;
 }
 
 .page-our-team .d-flex {
