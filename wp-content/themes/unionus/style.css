@@ -2010,6 +2010,8 @@ p {
     }
     .promise-pt-ul {
         text-align: center;
+        position: relative;
+        left: 30px;
     }
     .promise-pt-1 {
         position: unset;
@@ -2028,7 +2030,7 @@ p {
     }
     .promise-pt {
         display: inline-block;
-        margin: 0 50px;
+        margin: 15px 50px;
     }
 }
 
