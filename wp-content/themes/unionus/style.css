@@ -1965,7 +1965,14 @@ p {
     margin: 0;
 } */
 
+.mobile.company-intro-row-div {
+    display: none;
+}
+
 @media only screen and (max-width: 1200px) {
+    .mobile.company-intro-row-div {
+        display: block;
+    }
     .sep-flo {
         height: 40px;
         margin: 0 auto;

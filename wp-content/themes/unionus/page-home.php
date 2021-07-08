@@ -139,7 +139,7 @@ get_header();
         </div>
 
 
-        <div class="company-intro-row-div pt-const-half mobile">
+        <div class="mobile company-intro-row-div pt-const-half mobile">
             <div class="inner-container2 mx-auto text-center">
                 <h2 class="gold">
                     <?php echo get_field('content_part_3');?>
