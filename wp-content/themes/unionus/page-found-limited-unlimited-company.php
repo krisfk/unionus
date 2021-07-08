@@ -175,7 +175,8 @@ get_header();
 
             <!-- 申請方法 -->
         </h2>
-        <img class="w-100 mt-5" src="<?php echo get_template_directory_uri(); ?>/assets/images/steps-img.png" alt="">
+        <img class="w-100 mt-5 steps-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/steps-img.png"
+            alt="">
 
         <div class="row">
 

@@ -1989,6 +1989,9 @@ p {
 }
 
 @media only screen and (max-width: 991px) {
+    .steps-img {
+        display: none;
+    }
     .page-found-limited-unlimited-company .gold-table {
         table-layout: fixed;
     }
