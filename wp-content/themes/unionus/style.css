@@ -1970,6 +1970,9 @@ p {
 }
 
 @media only screen and (max-width: 1500px) {
+    .promise-pt-ul {
+        text-align: center;
+    }
     .promise-pt-1 {
         position: unset;
     }
