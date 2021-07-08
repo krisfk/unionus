@@ -43,10 +43,10 @@ get_header();
             <div class="news-container mt-5">
 
                 <div class="news">
-                    <div class="w-lg-50 w-md-100 w-sm-100 w-100 d-inline-block float-start px-3"><img class="w-100"
+                    <div class="w-50 d-inline-block float-start px-3"><img class="w-100"
                             src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
                     </div>
-                    <div class="w-lg-50 w-md-100 w-sm-100 w-100 text-start  d-inline-block float-start  px-3">
+                    <div class="w-50 text-start  d-inline-block float-start  px-3">
                         <h3 class="article-title gold">
                             【破產流程】申請個人破產 提交破產呈請 破產的4個影響</h3>
 
@@ -60,10 +60,10 @@ get_header();
                     </div>
                 </div>
                 <div class="news">
-                    <div class="w-lg-50 w-md-100 w-sm-100 w-100 d-inline-block float-start px-3"><img class="w-100"
+                    <div class="w-50 d-inline-block float-start px-3"><img class="w-100"
                             src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
                     </div>
-                    <div class="w-lg-50 w-md-100 w-sm-100 w-100 text-start  d-inline-block float-start  px-3">
+                    <div class="w-50 text-start  d-inline-block float-start  px-3">
                         <h3 class="article-title gold">
                             【破產流程】申請個人破產 提交破產呈請 破產的4個影響</h3>
 
@@ -77,10 +77,10 @@ get_header();
                     </div>
                 </div>
                 <div class="news">
-                    <div class="w-lg-50 w-md-100 w-sm-100 w-100 d-inline-block float-start px-3"><img class="w-100"
+                    <div class="w-50 d-inline-block float-start px-3"><img class="w-100"
                             src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
                     </div>
-                    <div class="w-lg-50 w-md-100 w-sm-100 w-100 text-start  d-inline-block float-start  px-3">
+                    <div class="w-50 text-start  d-inline-block float-start  px-3">
                         <h3 class="article-title gold">
                             【破產流程】申請個人破產 提交破產呈請 破產的4個影響</h3>
 
@@ -376,10 +376,10 @@ get_header();
                 ?>
                 <div class="col-6 mb-5">
                     <div class="news">
-                        <div class="w-lg-50 w-md-100 w-sm-100 w-100 d-inline-block float-start px-3"><img class="w-100"
+                        <div class="w-50 d-inline-block float-start px-3"><img class="w-100"
                                 src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
                         </div>
-                        <div class="w-lg-50 w-md-100 w-sm-100 w-100 text-start  d-inline-block float-start  px-3">
+                        <div class="w-50 text-start  d-inline-block float-start  px-3">
                             <h3 class="article-title gold">
                                 【破產流程】申請個人破產 提交破產呈請 破產的4個影響</h3>
 
