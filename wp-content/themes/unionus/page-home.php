@@ -65,12 +65,16 @@ get_header();
                 {
 
                     ?>
-            <div class="inner-container2 mx-auto text-enter">
-                <h2 class="gold">fdfadsfda</h2>
-                <div class="mt-4">fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf
-                    fdsafdsafaf
-                    fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf
-                    fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf </div>
+            <div class="inner-container2 mx-auto text-center">
+                <h2 class="gold">
+                    <?php echo get_field('content_part_3');?>
+                </h2>
+                <div class="mt-4">
+                    <?php echo get_field('content_part_2');?>
+                </div>
+                <div class="mt-4">
+                    <?php echo get_field('content_part_4');?>
+                </div>
             </div>
             <?php
                 }
