@@ -1990,6 +1990,9 @@ p {
         width: auto;
         display: inline-table;
     }
+    .promise-pt-ul .promise-pt-4 .small-shape {
+        left: auto;
+    }
     .promise-pt .pt-icon {
         /* background: url(./assets/images/pt-1-icon.png) no-repeat center center; */
         /* background-size: 20%; */
