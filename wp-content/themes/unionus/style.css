@@ -1971,19 +1971,19 @@ p {
 
 @media only screen and (max-width: 1500px) {
     .promise-pt-1 {
-        position: relative;
+        position: unset;
     }
     .promise-pt-2 {
-        position: relative;
+        position: unset;
     }
     .promise-pt-3 {
-        position: relative;
+        position: unset;
     }
     .promise-pt-4 {
-        position: relative;
+        position: unset;
     }
     .promise-pt-5 {
-        position: relative;
+        position: unset;
     }
 }
 
