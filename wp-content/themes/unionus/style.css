@@ -1965,13 +1965,19 @@ p {
 
 @media only screen and (max-width: 1200px) {
     .table-head-th-img {
-        /* height: 55px;
+        width: 300px;
+        /* display: block; */
+        height: auto;
+        top: 9px;
+    }
+    /* .table-head-th-img { */
+    /* height: 55px;
         position: relative;
         top: 18px;
         margin: 0 auto; */
-        width: 100%;
-        /* display: block; */
-    }
+    /* width: 100%; */
+    /* display: block; */
+    /* } */
     .table-foot-th-img {
         /* height: 55px;
         position: relative;
@@ -2133,12 +2139,6 @@ p {
         font-size: 18px;
         position: relative;
         top: 1px;
-    }
-    .table-head-th-img {
-        width: 300px;
-        /* display: block; */
-        height: auto;
-        top: 9px;
     }
 }
 
