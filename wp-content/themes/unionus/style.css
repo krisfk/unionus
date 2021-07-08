@@ -1977,6 +1977,9 @@ p {
         /* right: -35px; */
     /* left: -76px; */
     /* } */
+    .promise-pt {
+        text-align: center;
+    }
     .promise-pt.ps-5 {
         padding: 0 0 0 0 !important;
     }
