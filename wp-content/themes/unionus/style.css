@@ -1347,6 +1347,7 @@ h1 {
 a.normal {
     color: #fff;
     text-decoration: none;
+    overflow-wrap: break-word;
 }
 
 a.normal:hover {
