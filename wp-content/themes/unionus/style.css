@@ -1976,6 +1976,11 @@ p {
         /* right: -35px; */
     /* left: -76px; */
     /* } */
+    .promise-pt-ul .small-shape {
+        position: absolute;
+        top: -30px;
+        left: -86px;
+    }
     .promise-pt-ul {
         text-align: center;
     }
