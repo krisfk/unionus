@@ -1999,6 +1999,7 @@ p {
         display: block;
         text-align: center;
     }
+    .row-ul {}
     .row-ul.reverse {
         flex-direction: column-reverse;
     }
