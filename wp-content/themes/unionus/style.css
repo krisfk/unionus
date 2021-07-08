@@ -1978,7 +1978,7 @@ p {
     /* left: -76px; */
     /* } */
     .promise-pt .text-end {
-        text-align: center;
+        text-align: center !important;
     }
     .promise-pt.ps-5 {
         padding: 0 0 0 0 !important;
