@@ -278,7 +278,8 @@ get_header();
 </section>
 
 
-<section class="sec2  pt-const2">
+<!-- <section class="sec2  pt-const2"> -->
+<section class="sec2  mt-7">
 
 
 
