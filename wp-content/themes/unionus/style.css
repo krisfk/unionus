@@ -1980,6 +1980,8 @@ p {
         position: absolute;
         top: -30px;
         left: -86px;
+        width: auto;
+        display: inline-table;
     }
     .promise-pt .pt-icon {
         /* background: url(./assets/images/pt-1-icon.png) no-repeat center center; */
