@@ -2042,17 +2042,18 @@ p {
     }
 }
 
-@media only screen and (max-width: 768px) {}
+@media only screen and (max-width: 768px) {
+    .page-our-team ul.gold.d-inline-block {
+        width: 100%;
+        margin: 0;
+    }
+}
 
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
     .page-our-team .d-flex {
         display: block !important;
-    }
-    .page-our-team ul.gold.d-inline-block {
-        width: 100%;
-        margin: 0;
     }
 }
 
