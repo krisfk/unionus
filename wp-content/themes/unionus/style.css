@@ -2120,6 +2120,11 @@ p {
         width: 100%;
         margin: 0;
     }
+    .sep-flo {
+        height: 40px;
+        margin: 0 auto;
+        display: inherit;
+    }
 }
 
 @media only screen and (max-width: 640px) {}
