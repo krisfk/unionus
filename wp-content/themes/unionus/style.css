@@ -1364,7 +1364,7 @@ a.normal:hover {
     top: 13px;
     left: 40px;
     height: 75px;
-    z-index: 400;
+    z-index: 1000;
 }
 
 .home .top-menu-logo-a {
