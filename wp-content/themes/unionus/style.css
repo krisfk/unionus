@@ -1963,8 +1963,6 @@ p {
     margin: 0;
 } */
 
-.page-company-private-tax {}
-
 @media only screen and (max-width: 1200px) {
     .table-head-th-img {
         /* height: 55px;
@@ -1999,6 +1997,12 @@ p {
 }
 
 @media only screen and (max-width: 991px) {
+    .page-company-private-tax .main-text-container {
+        text-align: center;
+    }
+    .page-company-private-tax .main-text-container .text-end {
+        text-align: center;
+    }
     .page-found-limited-unlimited-company .big-icon {
         width: 180px;
         margin: 0 0 2rem 0;
