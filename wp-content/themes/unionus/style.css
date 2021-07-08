@@ -1929,6 +1929,10 @@ p {
     margin: 0 !important; */
 }
 
+.page-our-team ul.gold.d-inline-block {
+    width: 100%;
+}
+
 @media only screen and (max-width: 1200px) {
     .table-head-th-img {
         /* height: 55px;
