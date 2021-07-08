@@ -1970,6 +1970,9 @@ p {
 }
 
 @media only screen and (max-width: 1200px) {
+    .company-intro-row-div {
+        display: none;
+    }
     .mobile.company-intro-row-div {
         display: block;
     }
