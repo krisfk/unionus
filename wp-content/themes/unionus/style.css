@@ -251,7 +251,8 @@ html[lang='en-US'] .rolling-slogan {
 }
 
 .pt-const2 {
-    padding: 250px 0 0 0;
+    /* padding: 250px 0 0 0; */
+    padding: 150px 0 0 0;
 }
 
 .font-large-size {
