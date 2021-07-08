@@ -2001,7 +2001,7 @@ p {
         text-align: center;
     }
     .page-company-private-tax .main-text-container .text-end {
-        text-align: center;
+        text-align: center !important;
     }
     .page-found-limited-unlimited-company .big-icon {
         width: 180px;
