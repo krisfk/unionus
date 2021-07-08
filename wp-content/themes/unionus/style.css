@@ -1981,6 +1981,12 @@ p {
         top: -30px;
         left: -86px;
     }
+    .promise-pt .pt-icon {
+        /* background: url(./assets/images/pt-1-icon.png) no-repeat center center; */
+        background-size: 20%;
+        /* top: 0; */
+        /* left: 0; */
+    }
     .promise-pt-ul {
         text-align: center;
     }
