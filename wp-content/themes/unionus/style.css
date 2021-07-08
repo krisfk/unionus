@@ -1989,6 +1989,9 @@ p {
 }
 
 @media only screen and (max-width: 991px) {
+    .page-found-limited-unlimited-company .gold-table .column-1 {
+        width: auto;
+    }
     .tu-icon {
         width: 180px;
         display: block;
