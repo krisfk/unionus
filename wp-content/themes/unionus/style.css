@@ -1983,6 +1983,7 @@ p {
         position: relative;
         top: -25px; */
         width: 300px;
+        height: auto;
         /* margin: 0 auto;
         display: block; */
     }
