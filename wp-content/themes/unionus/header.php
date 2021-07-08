@@ -243,8 +243,8 @@ foreach ($main_menu as $menu_item) {
             <li>
 
                 <div class="lang-div">
-                    <a href="<?php echo $langs['zh-hant']['url'];?>">繁</a><span class="sep">/</span>
-                    <a href="<?php echo $langs['en']['url'];?>">ENGLISH</a>
+                    <a href="<?php echo $langs['zh-hant']['url'];?>">繁</a><span class="sep">|</span>
+                    <a href="<?php echo $langs['en']['url'];?>">Eng</a>
 
                 </div>
             </li>
