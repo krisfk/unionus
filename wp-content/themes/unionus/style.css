@@ -1994,6 +1994,9 @@ p {
 }
 
 @media only screen and (max-width: 991px) {
+    .row-ul li {
+        display: block;
+    }
     .step-name {
         font-size: 24px;
         color: #ddbd8a;
