@@ -65,11 +65,13 @@ get_header();
                 {
 
                     ?>
-            <h2 class="gold">fdfadsfda</h2>
-            <div class="mt-4">fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf
-                fdsafdsafaf
-                fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf
-                fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf </div>
+            <div class="inner-container2 mx-auto">
+                <h2 class="gold">fdfadsfda</h2>
+                <div class="mt-4">fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf
+                    fdsafdsafaf
+                    fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf
+                    fdsafdsafaf fdsafdsafaf fdsafdsafaf fdsafdsafaf </div>
+            </div>
             <?php
                 }
 
