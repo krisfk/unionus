@@ -1985,7 +1985,9 @@ p {
     .promise-pt-5 {
         position: unset;
     }
-    .promise-pt {}
+    .promise-pt {
+        display: inline-block;
+    }
 }
 
 @media only screen and (max-width: 1200px) {
