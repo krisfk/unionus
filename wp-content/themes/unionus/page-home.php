@@ -163,6 +163,19 @@ get_header();
 
 
     <div class="position-relative ">
+
+        <div class="promise-center-pt text-center position-relative">
+
+
+
+            <div class="promise-center-pt-div">
+                <?php echo get_field('content_part_10');?>
+
+                <!-- <div class="gold title">人性化的 <br> 服務承諾</div>
+    <div class="subtitle mt-2">想你所想，憂你所憂</div> -->
+            </div>
+        </div>
+
         <ul class="promise-pt-ul">
             <li class="promise-pt promise-pt-1 ps-5">
                 <table class="h-100 w-100">
@@ -262,17 +275,7 @@ get_header();
 
         </ul>
 
-        <div class="promise-center-pt text-center position-relative">
 
-
-
-            <div class="promise-center-pt-div">
-                <?php echo get_field('content_part_10');?>
-
-                <!-- <div class="gold title">人性化的 <br> 服務承諾</div>
-                <div class="subtitle mt-2">想你所想，憂你所憂</div> -->
-            </div>
-        </div>
     </div>
 
 </section>
