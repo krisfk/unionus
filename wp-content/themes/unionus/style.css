@@ -727,6 +727,14 @@ section {
     padding: 0 5px;
 }
 
+.top-menu-div .top-menu li .lang-div a {
+    float: left;
+}
+
+.top-menu-div .top-menu li .lang-div span {
+    float: left;
+}
+
 .sec1 {
     /* background-color: rgb(82, 43, 43); */
     /* height: 100vh; */
