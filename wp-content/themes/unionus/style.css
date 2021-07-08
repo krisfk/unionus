@@ -1977,6 +1977,9 @@ p {
         /* right: -35px; */
     /* left: -76px; */
     /* } */
+    .promise-pt.ps-5 {
+        padding: 0 0 0 0 !important;
+    }
     .promise-pt-ul .small-shape {
         position: absolute;
         top: -30px;
