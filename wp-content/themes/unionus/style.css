@@ -1963,6 +1963,8 @@ p {
     margin: 0;
 } */
 
+.page-company-private-tax {}
+
 @media only screen and (max-width: 1200px) {
     .table-head-th-img {
         /* height: 55px;

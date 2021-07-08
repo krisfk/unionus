@@ -39,7 +39,7 @@ get_header();
             <?php echo get_field('content_part_1');?>
             <!-- 任何公司都需要申報稅務，但無限公司一般只需要在個人報稅表上申報，有限公司則需要審計核數並遞交獨立報稅表。 -->
         </div>
-        <div class="inner-container2 mx-auto">
+        <div class="inner-container2 mx-auto main-text-container">
 
             <?php echo get_field('content_part_2');?>
 
