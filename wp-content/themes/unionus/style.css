@@ -725,6 +725,8 @@ section {
 
 .top-menu-div .top-menu li .lang-div a {
     padding: 0 5px;
+    position: relative;
+    top: 3px;
 }
 
 .top-menu-div .top-menu li .lang-div a {
@@ -832,6 +834,9 @@ nav li {
     background-size: 100% 13px;
     background-position: 0px 61px;
     max-width: 90%;
+    font-size: 18px;
+    position: relative;
+    top: 1px;
 }
 
 .sep2 {
