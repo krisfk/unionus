@@ -690,7 +690,7 @@ footer {
     top: 40px;
     font-size: 20px;
     width: 100%;
-    padding: 30px 40px 30px 40px;
+    padding: 15px 40px 15px 40px;
     /* background: rgb(33 34 45 / 70%); */
     top: 0;
 }
@@ -729,6 +729,7 @@ section {
 
 .top-menu-div .top-menu li .lang-div a {
     /* float: left; */
+    display: table-cell;
 }
 
 .top-menu-div .top-menu li .lang-div span {
@@ -737,6 +738,9 @@ section {
 
 .top-menu-div .top-menu li .lang-div {
     margin: 0 0 0 50px;
+    display: table;
+    position: relative;
+    top: 10px;
 }
 
 .sec1 {
