@@ -1970,12 +1970,12 @@ p {
 }
 
 @media only screen and (max-width: 1500px) {
-    .promise-pt-ul .small-shape {
+    /* .promise-pt-ul .small-shape {
         position: absolute;
         top: -30px;
         /* right: -35px; */
-        left: -76px;
-    }
+    /* left: -76px; */
+    /* } */
     .promise-pt-ul {
         text-align: center;
     }
