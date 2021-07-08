@@ -1929,10 +1929,11 @@ p {
     margin: 0 !important; */
 }
 
-.page-our-team ul.gold.d-inline-block {
+
+/* .page-our-team ul.gold.d-inline-block {
     width: 100%;
     margin: 0;
-}
+} */
 
 @media only screen and (max-width: 1200px) {
     .table-head-th-img {
@@ -2048,6 +2049,10 @@ p {
 @media only screen and (max-width: 480px) {
     .page-our-team .d-flex {
         display: block !important;
+    }
+    .page-our-team ul.gold.d-inline-block {
+        width: 100%;
+        margin: 0;
     }
 }
 
