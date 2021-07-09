@@ -2248,7 +2248,7 @@ p {
         display: block;
         text-align: center;
     }
-    .bottom-table tr td.text-end {
+    .bottom-table tr td .gold.text-end {
         text-align: center !important;
     }
     .bottom-table tr td.ps-3 {
