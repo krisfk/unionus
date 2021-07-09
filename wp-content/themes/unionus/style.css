@@ -2246,6 +2246,9 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .promise-center-pt-div .subtitle {
+        font-size: 21px;
+    }
     .page-our-team .d-flex {
         display: block !important;
     }
