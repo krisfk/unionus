@@ -52,7 +52,8 @@ get_header();
                 src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
 
-        <div class="company-intro-row-div pt-const-half">
+        <!-- <div class="company-intro-row-div pt-const-half"> -->
+        <div class="company-intro-row-div mt-6">
 
 
             <?php
