@@ -2248,6 +2248,9 @@ p {
         display: block;
         text-align: center;
     }
+    .bottom-table tr td.text-end {
+        text-align: center !important;
+    }
     .bottom-table tr td.ps-3 {
         padding: 0 !important;
     }
