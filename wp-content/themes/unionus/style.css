@@ -2234,24 +2234,24 @@ p {
 }
 
 @media only screen and (max-width: 768px) {
-    .botttom-table tbody {
+    .bottom-table tbody {
         width: 100%;
         display: block;
     }
-    .botttom-table {
+    .bottom-table {
         display: block;
     }
-    .botttom-table tr {
+    .bottom-table tr {
         display: block;
     }
-    .botttom-table tr td {
+    .bottom-table tr td {
         display: block;
         text-align: center;
     }
-    .botttom-table tr td.ps-3 {
+    .bottom-table tr td.ps-3 {
         padding: 0 !important;
     }
-    .botttom-table .gold-border-right {
+    .bottom-table .gold-border-right {
         border: none;
     }
     .page-our-team ul.gold.d-inline-block {
