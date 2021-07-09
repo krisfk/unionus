@@ -53,7 +53,7 @@ get_header();
 
 
         <!-- <div class="company-intro-row-div pt-const-half"> -->
-        <div class="company-intro-row-div mt-6">
+        <div class="company-intro-row-div mt-7">
 
 
             <?php
