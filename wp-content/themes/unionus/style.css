@@ -2249,6 +2249,9 @@ p {
     .page-our-team .d-flex {
         display: block !important;
     }
+    .promise-center-pt {
+        width: 300px;
+    }
 }
 
 .gold-table-div-wrapper-col {
