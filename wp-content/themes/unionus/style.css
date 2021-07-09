@@ -2241,6 +2241,20 @@ p {
     .circular-info {
         width: 90%;
     }
+    .home-tran-bg-1 {
+        width: 70%;
+        height: auto;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .home-tran-bg-2 {
+        width: 70%;
+        height: auto;
+        position: absolute;
+        top: 500px;
+        right: 0px;
+    }
 }
 
 @media only screen and (max-width: 640px) {}
