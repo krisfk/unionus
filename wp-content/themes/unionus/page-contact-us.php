@@ -96,7 +96,24 @@ get_header();
 
 
             <?php
+
+if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+    $lang_code = ICL_LANGUAGE_CODE;
+
+    if($lang_code=='en')
+    {
+        echo do_shortcode('[contact-form-7 id="478" title="sme contact us en"]');
+    }
+    if($lang_code=='zh-hant')
+    {
         echo do_shortcode('[contact-form-7 id="68" title="sme contact us"]');
+    }
+
+  }
+  
+
+
+// [contact-form-7 id="478" title="sme contact us en"]
 
 
         ?>
