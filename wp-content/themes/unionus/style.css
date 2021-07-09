@@ -2246,6 +2246,11 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .promise-pt-ul {
+        text-align: center;
+        position: relative;
+        left: 20px;
+    }
     .promise-pt {
         font-size: 22px;
     }
