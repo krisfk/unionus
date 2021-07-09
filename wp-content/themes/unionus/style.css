@@ -2307,6 +2307,11 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    html[lang='en-US'] .promise-pt-ul {
+        text-align: center;
+        position: relative;
+        left: 4px;
+    }
     html[lang='en-US'] .promise-center-pt-div .subtitle {
         font-size: 15px;
         line-height: 1.3;
