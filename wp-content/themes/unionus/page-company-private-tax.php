@@ -467,7 +467,14 @@ $(function() {
 
     // .gold-table-div.silver
 
-    // $('.gold-table-div.silver').height($('.gold-table-div-wrapper-col').height() - 100);
+    if ($(window).width() > 991) {
+        $('.gold-table-div.silver').height($('.gold-table-div-wrapper-col').height() - 100);
+    } else {
+        $('.gold-table-div.silver').css({
+            'height': 'auto'
+        });
+
+    }
 
     // $('.home-banner-div').width($(window).width());
     // $('.home-banner-div').height($(window).height());
