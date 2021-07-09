@@ -2246,10 +2246,13 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .promise-center-pt {
+        margin-bottom: 0px;
+    }
     .promise-pt-ul {
         text-align: center;
         position: relative;
-        left: 20px;
+        left: 19px;
     }
     .promise-pt {
         font-size: 22px;
@@ -2267,13 +2270,13 @@ p {
     }
     .promise-pt-ul .small-shape {
         position: absolute;
-        top: -9px;
+        top: -20px;
         left: -100px;
         width: auto;
         display: inline-table;
     }
     .promise-pt-ul .small-shape-img {
-        height: 163px;
+        height: 172px;
     }
     .promise-pt {
         width: 260px;
