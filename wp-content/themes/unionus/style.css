@@ -1981,6 +1981,12 @@ p {
         /* right: -35px; */
     /* left: -76px; */
     /* } */
+    .company-intro-content-1 {
+        line-height: 2;
+    }
+    .company-intro-content-2 {
+        line-height: 2;
+    }
     .promise-center-pt {
         margin-bottom: 30px;
     }
