@@ -2246,6 +2246,9 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .promise-pt {
+        font-size: 22px;
+    }
     .promise-pt.ps-5 {}
     .promise-pt-ul .small-shape {
         position: absolute;
