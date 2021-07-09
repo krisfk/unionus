@@ -2307,6 +2307,10 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    html[lang='en-US'] .gold.title {
+        font-size: 20px;
+        line-height: 1.2;
+    }
     html[lang='en-US'] .promise-pt-5 p:first-child {
         padding: 0 55px 0 95px;
         text-align: left;
