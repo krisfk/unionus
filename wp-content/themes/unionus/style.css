@@ -2246,6 +2246,13 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .promise-pt-ul .small-shape {
+        position: absolute;
+        top: -9px;
+        left: -70px;
+        width: auto;
+        display: inline-table;
+    }
     .promise-pt-ul .small-shape-img {
         height: 149px;
     }
