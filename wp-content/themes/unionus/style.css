@@ -2234,6 +2234,26 @@ p {
 }
 
 @media only screen and (max-width: 768px) {
+    .botttom-table tbody {
+        width: 100%;
+        display: block;
+    }
+    .botttom-table {
+        display: block;
+    }
+    .botttom-table tr {
+        display: block;
+    }
+    .botttom-table tr td {
+        display: block;
+        text-align: center;
+    }
+    .botttom-table tr td.ps-3 {
+        padding: 0 !important;
+    }
+    .botttom-table .gold-border-right {
+        border: none;
+    }
     .page-our-team ul.gold.d-inline-block {
         width: 100%;
         margin: 0;
