@@ -869,6 +869,7 @@ nav li {
     top: 0;
     right: 0;
     text-align: justify;
+    line-height: 2.5;
 }
 
 .company-intro-content-2 {
@@ -876,6 +877,7 @@ nav li {
     bottom: 0;
     left: 0;
     position: absolute;
+    line-height: 2.5;
 }
 
 .company-intro-content-col-1 {
