@@ -2108,9 +2108,9 @@ p {
     }
     .top-menu-div .top-menu li a.service-btn {
         background: url(./assets/images/arrow-down.png);
-        background-size: auto 20%;
+        background-size: auto 11px;
         background-repeat: no-repeat;
-        background-position: 96% center;
+        background-position: 100% center;
     }
     .top-menu-div .top-menu li a.service-btn.open {
         background: url(./assets/images/arrow-up.png);
