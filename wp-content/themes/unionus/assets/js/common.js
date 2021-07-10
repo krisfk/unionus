@@ -18,6 +18,7 @@ $(function() {
             $('.top-menu-div').css({ height: '100%' });
         } else {
             $('.top-menu-div').css({ height: 'auto' });
+            $('.top-menu-div li').fadeIn(0);
         }
     });
 
