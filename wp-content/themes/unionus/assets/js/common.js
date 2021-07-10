@@ -16,7 +16,7 @@ $(function() {
         if ($(this).hasClass('opened')) {
             // $('.top-menu-div').fadeIn(200);
             $('.top-menu-div').css({ height: '100%' });
-            $('.top-menu-div .top-menu li').slideDown(500);
+            $('.top-menu-div .top-menu li').fadeIn(200);
         } else {
             $('.top-menu-div').css({ height: 'auto' });
             $('.top-menu-div .top-menu li').fadeOut(0);
