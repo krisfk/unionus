@@ -20,7 +20,8 @@ $(function() {
         }
     });
 
-    $('.service-btn').click(function() {
+    $('.service-btn').click(function(e) {
+        e.preventDefault();
         $('.service-btn').toggleClass('open');
         if ($(this).hasClass('open')) {
             $(this).next('.mobile-menu-submenu').slideDown(200);
