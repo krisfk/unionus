@@ -1213,7 +1213,7 @@ h2 {
     /* font-size: 20px; */
     line-height: 1;
     border-radius: 46px;
-    padding: 5px 20px !important;
+    padding: 6px 20px !important;
     /* float: right; */
     margin: 0 0 0 8px;
 }
@@ -2158,7 +2158,7 @@ p {
         line-height: 1;
         display: unset;
         border-radius: 46px;
-        padding: 10px 20px !important;
+        padding: 6px 20px !important;
         /* float: right; */
         margin: 18px 36px;
         display: block;
