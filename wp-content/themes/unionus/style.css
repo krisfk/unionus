@@ -2076,7 +2076,10 @@ p {
         width: 100%;
     }
     .top-menu-div .top-menu li a {
-        padding: 0 40px;
+        padding: 10px 40px;
+        display: block;
+        width: 100%;
+        border-bottom: 1px solid #ffffff2b;
     }
     .top-menu-div .top-menu {
         float: left;
