@@ -2075,7 +2075,9 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
-    .mobile-menu-logo-a {}
+    .mobile-menu-logo-a {
+        padding: 0 0 30px 40px !important;
+    }
     .mobile-menu-logo {
         height: 75px;
         display: block;
