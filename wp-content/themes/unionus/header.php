@@ -179,8 +179,8 @@ switch ($lang_code)
         <ul class="top-menu">
 
             <li> <a href="<?php echo get_site_url();?>" class="mobile-menu-logo-a">
-                    <img class="top-menu-logo" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png"
-                        alt="">
+                    <img class="mobile-menu-logo"
+                        src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
                 </a></li>
 
             <?php
