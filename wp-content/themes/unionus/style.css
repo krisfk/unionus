@@ -2071,6 +2071,12 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
+    .mobile-menu-submenu {
+        display: block;
+        position: relative;
+        padding: 0;
+        text-indent: 25px;
+    }
     .top-menu-div .top-menu li .lang-div {
         margin: 0 0 0 32px;
         display: inline-flex;
