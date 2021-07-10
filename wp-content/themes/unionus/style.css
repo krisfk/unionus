@@ -548,7 +548,7 @@ footer {
     padding: 0;
     margin: 25px 0 0 0;
     float: right;
-    position: fixed;
+    position: absolute;
     z-index: 20000;
     top: 0;
     right: 20px;
@@ -2086,7 +2086,8 @@ p {
     .mobile-menu-btn {
         display: block;
         border: none !important;
-        margin: 27px 0 0 0;
+        margin: 0px 0 0 0;
+        position: absolute;
     }
     .top-menu-div .top-menu li .lang-div span {
         top: 0;
