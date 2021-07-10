@@ -2080,7 +2080,7 @@ p {
         display: block;
     }
     .top-menu-logo-a {
-        display: block;
+        display: none;
     }
     .top-menu-div .top-menu li a.service-btn {
         background: url(./assets/images/arrow-down.png);
