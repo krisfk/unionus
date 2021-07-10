@@ -2100,6 +2100,7 @@ p {
         padding: 115px 0 0 0;
         background: rgb(33 34 45 / 70%);
         height: 100%;
+        overflow: scroll;
     }
     .top-menu-div .top-menu li {
         list-style-type: none;
