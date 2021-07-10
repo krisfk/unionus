@@ -1981,6 +1981,10 @@ p {
     border: none;
 }
 
+.mobile-menu-logo {
+    display: none;
+}
+
 @media only screen and (max-width: 1500px) {
     html[lang='en-US'] .promise-pt-4 p:first-child {
         padding: 0 28px 0 68px;
@@ -2071,6 +2075,9 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
+    .mobile-menu-logo {
+        height: 75px;
+    }
     .top-menu-logo-a {
         display: none;
     }
