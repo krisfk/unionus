@@ -2065,7 +2065,7 @@ p {
 
 @media only screen and (max-width: 1280px) {
     .top-menu-div {
-        margin: 80px 0 0 0;
+        padding: 80px 0 0 0;
     }
     .top-menu-div .top-menu li {
         list-style-type: none;
