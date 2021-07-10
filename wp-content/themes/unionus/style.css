@@ -2086,6 +2086,9 @@ p {
         width: 100%;
         border-bottom: 1px solid #ffffff2b;
     }
+    .top-menu-div .top-menu li a.contact-us-btn {
+        border: none;
+    }
     .top-menu-div .top-menu {
         float: left;
         padding: 0 0 0 0;
