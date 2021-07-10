@@ -2071,8 +2071,18 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
-    .top-menu-div .top-menu li a.service-btn {}
-    .top-menu-div .top-menu li a.service-btn.open {}
+    .top-menu-div .top-menu li a.service-btn {
+        background: url(./assets/images/arrow-down.png);
+        background-size: auto 20%;
+        background-repeat: no-repeat;
+        background-position: 96% center;
+    }
+    .top-menu-div .top-menu li a.service-btn.open {
+        background: url(./assets/images/arrow-up.png);
+        background-size: auto 20%;
+        background-repeat: no-repeat;
+        background-position: 96% center;
+    }
     .mobile-menu-submenu {
         display: block;
         position: relative;
