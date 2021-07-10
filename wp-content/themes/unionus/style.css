@@ -739,14 +739,14 @@ section {
 .top-menu-div .top-menu li .lang-div span {
     /* float: left; */
     background: none;
-    top: -1px;
+    top: 3px;
 }
 
 .top-menu-div .top-menu li .lang-div {
     margin: 0 0 0 25px;
     display: inline-flex;
     position: relative;
-    top: 2px;
+    top: -7px;
     font-size: 15px;
 }
 
