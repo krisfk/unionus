@@ -733,6 +733,7 @@ section {
 .top-menu-div .top-menu li .lang-div a {
     /* float: left; */
     display: table-cell;
+    border: none;
 }
 
 .top-menu-div .top-menu li .lang-div span {
@@ -741,7 +742,7 @@ section {
 
 .top-menu-div .top-menu li .lang-div {
     margin: 0 0 0 25px;
-    display: table;
+    display: inline-flex;
     position: relative;
     top: 2px;
     font-size: 15px;
