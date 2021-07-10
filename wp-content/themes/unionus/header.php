@@ -178,6 +178,11 @@ switch ($lang_code)
 
         <ul class="top-menu">
 
+            <li> <a href="<?php echo get_site_url();?>" class="mobile-menu-logo-a">
+                    <img class="top-menu-logo" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png"
+                        alt="">
+                </a></li>
+
             <?php
 
 
@@ -212,10 +217,7 @@ foreach ($main_menu as $menu_item) {
      
         echo '<ul class="mobile-menu-submenu">';
 ?>
-            <li> <a href="<?php echo get_site_url();?>" class="mobile-menu-logo-a">
-                    <img class="top-menu-logo" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png"
-                        alt="">
-                </a></li>
+
             <?php
         
         foreach ($menu_item['children'] as $sub_menu_item) 
