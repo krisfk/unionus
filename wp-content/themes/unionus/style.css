@@ -2085,6 +2085,7 @@ p {
     .top-menu-logo-a {
         display: none;
     }
+    .top-menu-div .mobile-menu-submenu a {}
     .top-menu-div .top-menu li a.service-btn {
         background: url(./assets/images/arrow-down.png);
         background-size: auto 20%;
