@@ -2076,7 +2076,10 @@ p {
 
 @media only screen and (max-width: 1280px) {
     .mobile-menu-btn-li {}
-    .mobile-menu-btn {}
+    .mobile-menu-btn {
+        display: block;
+        border: none !important;
+    }
     .top-menu-div .top-menu li .lang-div span {
         top: 0;
     }
