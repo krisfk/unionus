@@ -2079,7 +2079,7 @@ p {
         height: 75px;
     }
     .top-menu-logo-a {
-        display: none;
+        display: block;
     }
     .top-menu-div .top-menu li a.service-btn {
         background: url(./assets/images/arrow-down.png);
