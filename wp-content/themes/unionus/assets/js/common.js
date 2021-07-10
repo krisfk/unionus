@@ -40,7 +40,9 @@ $(function() {
         $(this).fadeIn(0);
     });
     $('.mobile-menu-submenu').mouseleave(function() {
-        $(this).fadeOut(0);
+        if ($(window).width() > 1280) {
+            $(this).fadeOut(0);
+        }
     });
 
     $(window).scroll(function(event) {
