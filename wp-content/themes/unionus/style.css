@@ -2087,7 +2087,15 @@ p {
         border-bottom: 1px solid #ffffff2b;
     }
     .top-menu-div .top-menu li a.contact-us-btn {
-        border: none;
+        text-decoration: none;
+        color: #ddbd8a !important;
+        border: 1px solid #ddbd8a;
+        /* font-size: 20px; */
+        line-height: 1;
+        border-radius: 46px;
+        padding: 5px 20px !important;
+        /* float: right; */
+        margin: 0 0 0 8px;
     }
     .top-menu-div .top-menu {
         float: left;
