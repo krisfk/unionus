@@ -14,7 +14,10 @@ $(function() {
         // var menu_h = $('.menu-ul').height();
 
         if ($(this).hasClass('opened')) {
-            $('.top-menu-div').fadeIn(200);
+            // $('.top-menu-div').fadeIn(200);
+            $('.top-menu-div').css({ height: '100%' });
+        } else {
+            $('.top-menu-div').css({ height: 'auto' });
         }
     });
 
