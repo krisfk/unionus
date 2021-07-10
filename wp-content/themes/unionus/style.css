@@ -2072,6 +2072,9 @@ p {
         position: relative;
         width: 100%;
     }
+    .top-menu-div .top-menu {
+        float: left;
+    }
 }
 
 @media only screen and (max-width: 1200px) {
