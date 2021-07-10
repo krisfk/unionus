@@ -30,7 +30,9 @@ $(function() {
     });
 
     $('.top-menu-div .top-menu li a.level-1').mouseleave(function() {
-        $('.mobile-menu-submenu').delay(100).fadeOut(0);
+        if ($(window).width() > 1280) {
+            $('.mobile-menu-submenu').delay(100).fadeOut(0);
+        }
     });
 
     $('.mobile-menu-submenu').mouseenter(function() {
