@@ -2072,6 +2072,7 @@ p {
     .top-menu-div {
         padding: 115px 0 0 0;
         background: rgb(33 34 45 / 70%);
+        height: 100%;
     }
     .top-menu-div .top-menu li {
         list-style-type: none;
@@ -2092,11 +2093,13 @@ p {
         border: 1px solid #ddbd8a;
         /* font-size: 20px; */
         line-height: 1;
-        display: inline;
+        display: unset;
         border-radius: 46px;
         padding: 5px 20px !important;
         /* float: right; */
-        margin: 0 0 0 8px;
+        margin: 18px 36px;
+        display: block;
+        width: fit-content;
     }
     .top-menu-div .top-menu {
         float: left;
