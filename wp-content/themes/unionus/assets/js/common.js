@@ -10,6 +10,14 @@ $.fn.isInViewport = function() {
 };
 
 $(function() {
+    $('.mobile-menu-btn').click(function() {
+        // var menu_h = $('.menu-ul').height();
+
+        if ($(this).hasClass('opened')) {
+            $('.top-menu-div').fadeIn(200);
+        }
+    });
+
     $('.top-menu-div .top-menu li a.level-1').mouseenter(function() {
         if ($(window).width() > 1280) {
             if ($(this).hasClass('service-btn')) {
