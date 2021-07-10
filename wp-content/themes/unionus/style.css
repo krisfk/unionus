@@ -2063,6 +2063,17 @@ p {
     }
 }
 
+@media only screen and (max-width: 1280px) {
+    .top-menu-div {}
+    .top-menu-div .top-menu li {
+        list-style-type: none;
+        display: inline-block;
+        /* margin: 0 0 0 40px; */
+        position: relative;
+        width: 100%;
+    }
+}
+
 @media only screen and (max-width: 1200px) {
     .company-intro-row-div {
         display: none;
