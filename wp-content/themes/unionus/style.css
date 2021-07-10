@@ -2092,6 +2092,7 @@ p {
         border: 1px solid #ddbd8a;
         /* font-size: 20px; */
         line-height: 1;
+        display: inline;
         border-radius: 46px;
         padding: 5px 20px !important;
         /* float: right; */
