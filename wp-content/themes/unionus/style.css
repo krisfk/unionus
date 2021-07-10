@@ -2076,7 +2076,7 @@ p {
 
 @media only screen and (max-width: 1280px) {
     .top-menu-div li:first-child {
-        display: block;
+        display: block !important;
         /* !important; */
     }
     .top-menu-div li {
@@ -2138,7 +2138,7 @@ p {
     }
     .top-menu-div .top-menu li {
         list-style-type: none;
-        display: inline-block;
+        display: none;
         /* margin: 0 0 0 40px; */
         position: relative;
         width: 100%;
