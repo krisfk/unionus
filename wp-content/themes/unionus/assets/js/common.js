@@ -11,10 +11,12 @@ $.fn.isInViewport = function() {
 
 $(function() {
     $('.top-menu-div .top-menu li a.level-1').mouseenter(function() {
-        if ($(this).hasClass('service-btn')) {
-            $(this).next('.mobile-menu-submenu').fadeIn(200);
-        } else {
-            $('.mobile-menu-submenu').fadeOut(0);
+        if ($(window).width() > 1280) {
+            if ($(this).hasClass('service-btn')) {
+                $(this).next('.mobile-menu-submenu').fadeIn(200);
+            } else {
+                $('.mobile-menu-submenu').fadeOut(0);
+            }
         }
     });
 
