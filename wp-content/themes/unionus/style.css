@@ -738,6 +738,8 @@ section {
 
 .top-menu-div .top-menu li .lang-div span {
     /* float: left; */
+    background: none;
+    top: -1px;
 }
 
 .top-menu-div .top-menu li .lang-div {
