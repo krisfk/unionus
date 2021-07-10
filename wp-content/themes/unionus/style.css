@@ -2148,7 +2148,7 @@ p {
         padding: 10px 40px;
         display: block;
         width: 100%;
-        border-bottom: 1px solid #ffffff61;
+        border-bottom: 1px solid #ffffff24;
     }
     .top-menu-div .top-menu li a.contact-us-btn {
         text-decoration: none;
@@ -2158,7 +2158,7 @@ p {
         line-height: 1;
         display: unset;
         border-radius: 46px;
-        padding: 5px 20px !important;
+        padding: 10px 20px !important;
         /* float: right; */
         margin: 18px 36px;
         display: block;
