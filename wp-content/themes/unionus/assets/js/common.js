@@ -93,7 +93,7 @@ $(function() {
 
     $(window).resize(function() {
         if ($(window).width() > 1280) {
-            $('.top-menu-div .top-menu li').css({ display: 'block' });
+            $('.top-menu-div .top-menu li').css({ display: 'inline-block' });
         }
     });
 });
