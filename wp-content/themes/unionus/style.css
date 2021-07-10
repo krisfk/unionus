@@ -1974,6 +1974,10 @@ p {
     display: none;
 }
 
+.lang-div a {
+    border: none;
+}
+
 @media only screen and (max-width: 1500px) {
     html[lang='en-US'] .promise-pt-4 p:first-child {
         padding: 0 28px 0 68px;
