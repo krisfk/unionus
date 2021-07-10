@@ -2098,7 +2098,7 @@ p {
         background-position: 96% center;
     }
     .mobile-menu-submenu {
-        display: block;
+        display: none;
         position: relative;
         padding: 0;
         text-indent: 25px;
