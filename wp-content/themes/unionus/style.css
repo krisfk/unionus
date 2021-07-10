@@ -2069,6 +2069,13 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
+    .top-menu-div .top-menu li .lang-div {
+        margin: 0 0 0 32px;
+        display: inline-flex;
+        position: relative;
+        top: 2px;
+        font-size: 15px;
+    }
     .top-menu-div {
         padding: 115px 0 0 0;
         background: rgb(33 34 45 / 70%);
