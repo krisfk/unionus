@@ -20,6 +20,13 @@ $(function() {
         }
     });
 
+    $('.service-btn').click(function() {
+        $('.service-btn').toggleClass('active');
+        if ($(this).hasClass('active')) {
+            $(this).next('.mobile-menu-submenu').fadeIn(0);
+        }
+    });
+
     $('.top-menu-div .top-menu li a.level-1').mouseleave(function() {
         $('.mobile-menu-submenu').delay(100).fadeOut(0);
     });
