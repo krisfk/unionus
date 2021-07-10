@@ -2075,12 +2075,12 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
-    .top-menu-div li {
-        /* display: none !important; */
-    }
     .top-menu-div li:first-child {
         display: block;
         /* !important; */
+    }
+    .top-menu-div li {
+        /* display: none !important; */
     }
     .mobile-menu-btn-li {}
     .mobile-menu-btn {
