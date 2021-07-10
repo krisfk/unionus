@@ -2075,6 +2075,9 @@ p {
         position: relative;
         width: 100%;
     }
+    .top-menu-div .top-menu li a {
+        padding: 0 40px;
+    }
     .top-menu-div .top-menu {
         float: left;
         padding: 0 0 0 25px;
