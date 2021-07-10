@@ -21,8 +21,8 @@ $(function() {
     });
 
     $('.service-btn').click(function() {
-        $('.service-btn').toggleClass('active');
-        if ($(this).hasClass('active')) {
+        $('.service-btn').toggleClass('open');
+        if ($(this).hasClass('open')) {
             $(this).next('.mobile-menu-submenu').fadeIn(0);
         }
     });
