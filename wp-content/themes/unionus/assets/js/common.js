@@ -91,5 +91,9 @@ $(function() {
         });
     });
 
-    $(window).resize(function() {});
+    $(window).resize(function() {
+        if ($(window).width() > 1280) {
+            $('.top-menu-div .top-menu li').css({ display: 'block' });
+        }
+    });
 });
