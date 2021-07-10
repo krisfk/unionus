@@ -178,6 +178,7 @@ switch ($lang_code)
 
         <ul class="top-menu">
 
+            <li class="mobile-menu-btn-li"><a href="javascript:void(0)" class="mobile-menu-btn"></a></li>
             <li> <a href="<?php echo get_site_url();?>" class="mobile-menu-logo-a">
                     <img class="mobile-menu-logo"
                         src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
