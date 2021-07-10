@@ -58,7 +58,7 @@ $(function() {
 
     $(window).scroll(function(event) {
         $('.top-menu-div').css({
-            background: 'rgb(33 34 45 / 70%)',
+            background: 'rgb(33 34 45 / 92%)',
         });
         var scroll = $(window).scrollTop();
         if ($('body').hasClass('home')) {
