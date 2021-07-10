@@ -2085,6 +2085,7 @@ p {
     .mobile-menu-btn {
         display: block;
         border: none !important;
+        margin: 27px 0 0 0;
     }
     .top-menu-div .top-menu li .lang-div span {
         top: 0;
@@ -2093,7 +2094,7 @@ p {
         padding: 0 0 30px 40px !important;
     }
     .mobile-menu-logo {
-        height: 75px;
+        height: 50px;
         display: block;
     }
     .top-menu-logo-a {
