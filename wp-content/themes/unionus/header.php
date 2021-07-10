@@ -131,7 +131,7 @@
     <a href="https://api.whatsapp.com/send?phone=85298888135" target="_blank" class="wts-icon-a"><img
             src="<?php echo get_template_directory_uri(); ?>/assets/images/wts-icon.png" alt=""></a> -->
 
-    <button class="mobile-menu-btn"
+    <!-- <button class="mobile-menu-btn"
         onclick="this.classList.toggle('opened');this.setAttribute('aria-expanded', this.classList.contains('opened'))"
         aria-label="Main Menu" aria-expanded="false">
         <svg width="50" height="50" viewBox="0 0 100 100">
@@ -143,7 +143,7 @@
                 d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942">
             </path>
         </svg>
-    </button>
+    </button> -->
 
 
     <a href="<?php echo get_site_url();?>" class="top-menu-logo-a">
