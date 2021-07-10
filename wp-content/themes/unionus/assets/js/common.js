@@ -19,6 +19,8 @@ $(function() {
             $('.top-menu-div .top-menu li').fadeIn(0);
         } else {
             $('.top-menu-div').css({ height: 'auto' });
+            $('.top-menu-div .top-menu li').fadeOut(0);
+            $('.top-menu-div .top-menu li:first-child').fadeIn(0);
         }
     });
 
