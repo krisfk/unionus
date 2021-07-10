@@ -2093,7 +2093,7 @@ p {
         top: 0;
     }
     .mobile-menu-logo-a {
-        padding: 0 0 30px 40px !important;
+        padding: 0 0 20px 40px !important;
     }
     .mobile-menu-logo {
         height: 50px;
@@ -2132,7 +2132,7 @@ p {
         font-size: 15px;
     }
     .top-menu-div {
-        padding: 30px 0 0 0;
+        padding: 20px 0 0 0;
         background: rgb(33 34 45 / 92%);
         /* height: 100%; */
         overflow: scroll;
