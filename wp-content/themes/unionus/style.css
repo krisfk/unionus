@@ -2112,7 +2112,7 @@ p {
         top: -18px;
     }
     .top-menu-div {
-        display: none;
+        /* display: none; */
     }
     h1 {
         font-size: 35px !important;
