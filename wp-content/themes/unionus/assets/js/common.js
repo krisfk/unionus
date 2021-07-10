@@ -22,11 +22,13 @@ $(function() {
 
     $('.service-btn').click(function(e) {
         e.preventDefault();
-        $('.service-btn').toggleClass('open');
-        if ($(this).hasClass('open')) {
-            $(this).next('.mobile-menu-submenu').slideDown(200);
-        } else {
-            $(this).next('.mobile-menu-submenu').fadeOut(0);
+        if ($(window).width() <= 1280) {
+            $('.service-btn').toggleClass('open');
+            if ($(this).hasClass('open')) {
+                $(this).next('.mobile-menu-submenu').slideDown(200);
+            } else {
+                $(this).next('.mobile-menu-submenu').fadeOut(0);
+            }
         }
     });
 
