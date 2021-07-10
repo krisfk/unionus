@@ -2075,6 +2075,9 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
+    .top-menu-div {
+        display: none;
+    }
     .mobile-menu-btn-li {}
     .mobile-menu-btn {
         display: block;
