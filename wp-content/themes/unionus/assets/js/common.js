@@ -16,8 +16,7 @@ $(function() {
         if ($(this).hasClass('opened')) {
             // $('.top-menu-div').fadeIn(200);
             $('.top-menu-div').css({ height: '100%' });
-            alert(6);
-            $('.top-menu-div .top-menu li').css({ display: 'block !important' });
+            $('.top-menu-div .top-menu li').fadeIn(0);
         } else {
             $('.top-menu-div').css({ height: 'auto' });
         }
