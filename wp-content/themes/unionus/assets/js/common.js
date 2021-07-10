@@ -23,7 +23,9 @@ $(function() {
     $('.service-btn').click(function() {
         $('.service-btn').toggleClass('open');
         if ($(this).hasClass('open')) {
-            $(this).next('.mobile-menu-submenu').fadeIn(0);
+            $(this).next('.mobile-menu-submenu').slideDown(200);
+        } else {
+            $(this).next('.mobile-menu-submenu').fadeOut(0);
         }
     });
 
