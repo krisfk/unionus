@@ -98,7 +98,7 @@ get_header();
                         Service”,“Tax Service” and “Audit Service”）。 -->
                     </div>
                 </div>
-                <div class="col-1 company-intro-txt-col">
+                <div class="col-1 company-intro-txt-col fadeinup-ele">
 
 
                     <div class="company-intro-txt">
@@ -108,7 +108,7 @@ get_header();
                     </div>
                 </div>
                 <div class="col-4 position-relative company-intro-content-col-2">
-                    <div class="company-intro-content-2  ">
+                    <div class="company-intro-content-2  faderight-ele">
                         <?php echo get_field('content_part_4');?>
 
                         <!-- 憑籍（爾聯UNIONUS）數位創辦人多年專注於會計業和銀行業的持續發展，每年成功為數以千位顧客和大型企業提供意見和服務，並由具備執業資格的專員和客戶關＝係主任獨立處理，務求可以提供完善、專業、具備參考價值和人性化（Human
