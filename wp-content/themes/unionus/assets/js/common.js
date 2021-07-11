@@ -104,11 +104,11 @@ $(function() {
         }
 
         if (
-            $('.circular-info').eq(i).isInViewport() &&
-            !$('.circular-info').eq(i).hasClass('animate__animated')
+            $('.circular-info').isInViewport() &&
+            !$('.circular-info').hasClass('animate__animated')
         ) {
-            $('.circular-info').eq(i).addClass('animate__animated');
-            $('.circular-info').eq(i).addClass('animate__rotateIn');
+            $('.circular-info').addClass('animate__animated');
+            $('.circular-info').addClass('animate__rotateIn');
         }
     }
 
