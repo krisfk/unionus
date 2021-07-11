@@ -598,8 +598,6 @@ footer {
     stroke-width: 6;
 }
 
-
-/* 
 @-webkit-keyframes fadeInLeft2 {
     0% {
         opacity: 0;
@@ -616,7 +614,7 @@ footer {
 .animate__fadeInLeft {
     -webkit-animation-name: fadeInLeft2 !important;
     animation-name: fadeInLeft2 !important;
-} */
+}
 
 .menu-div {
     display: block;
