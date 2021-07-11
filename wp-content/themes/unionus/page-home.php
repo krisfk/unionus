@@ -178,7 +178,7 @@ get_header();
         </div>
 
         <ul class="promise-pt-ul">
-            <li class="promise-pt promise-pt-1 ps-5">
+            <li class="promise-pt promise-pt-1 ps-5 fadeleft-ele">
                 <table class="h-100 w-100">
                     <tr>
                         <td class="position-relative">
@@ -197,7 +197,7 @@ get_header();
 
             </li>
 
-            <li class="promise-pt promise-pt-2 ps-5">
+            <li class="promise-pt promise-pt-2 ps-5  fadeleft-ele">
                 <table class="h-100 w-100">
                     <tr>
                         <td class="position-relative">
@@ -215,7 +215,7 @@ get_header();
 
             </li>
 
-            <li class="promise-pt promise-pt-3 ps-5">
+            <li class="promise-pt promise-pt-3 ps-5  fadeleft-ele">
                 <table class="h-100 w-100">
                     <tr>
                         <td class="position-relative">
@@ -234,7 +234,7 @@ get_header();
             </li>
 
 
-            <li class="promise-pt promise-pt-4 pe-5">
+            <li class="promise-pt promise-pt-4 pe-5  faderight-ele">
                 <table class="h-100 w-100">
                     <tr>
                         <td class="position-relative text-end">
@@ -252,7 +252,7 @@ get_header();
 
             </li>
 
-            <li class="promise-pt promise-pt-5 pe-5">
+            <li class="promise-pt promise-pt-5 pe-5  faderight-ele">
                 <table class="h-100 w-100">
                     <tr>
                         <td class="position-relative text-end" style="padding-right: 55px;">
