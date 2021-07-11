@@ -334,8 +334,9 @@ get_header();
     <div class="sep mx-auto mt-const"> <img class="sep-flo"
             src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
-    <?php echo get_field('content_part_13');?>
-
+    <div class="fadein-ele">
+        <?php echo get_field('content_part_13');?>
+    </div>
     <!-- <table class="me-auto ms-auto mt-5">
         <tr>
             <td class="align-top gold-border-right pe-3">
@@ -366,9 +367,8 @@ get_header();
 </section>
 
 
-<div class="fadein-ele">
-    <?php echo get_field('content_part_14');?>
-</div>
+<?php echo get_field('content_part_14');?>
+
 <!-- <nav>
     <ul>
         <li class="dot1 dot" id="ec1">
