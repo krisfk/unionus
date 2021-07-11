@@ -17,6 +17,7 @@ $(function() {
     });
 
     $('.sep').css({ width: '10%', opacity: 0 });
+    $('.sep2').css({ width: '10%', opacity: 0 });
 
     $(window).on(' scroll', function() {
         checkvisible();
@@ -75,9 +76,19 @@ $(function() {
                     .eq(i)
                     .delay(500)
                     .animate({ width: '100%', opacity: 1 }, 500, 'swing');
+            }
+        }
 
-                // $('.sep').eq(i).addClass('animate__fadeIn');
-                // $('.sep').eq(i).addClass('delay-2');
+        for (i = 0; i < $('.sep2').length; i++) {
+            if (
+                $('.sep2').eq(i).isInViewport() &&
+                !$('.sep2').eq(i).hasClass('animate__animated')
+            ) {
+                $('.sep2').eq(i).addClass('animate__animated');
+                $('.sep2')
+                    .eq(i)
+                    .delay(500)
+                    .animate({ width: '100%', opacity: 1 }, 500, 'swing');
             }
         }
 
