@@ -165,7 +165,7 @@ get_header();
 
     <div class="position-relative ">
 
-        <div class="promise-center-pt text-center position-relative">
+        <div class="promise-center-pt text-center position-relative fadein-ele">
 
 
 
