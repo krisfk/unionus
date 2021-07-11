@@ -71,7 +71,7 @@ $(function() {
                 !$('.sep').eq(i).hasClass('animate__animated')
             ) {
                 $('.sep').eq(i).addClass('animate__animated');
-                $('.sep').eq(i).animate({ width: '100%' });
+                $('.sep').eq(i).animate({ width: '100%' }, 500);
 
                 // $('.sep').eq(i).addClass('animate__fadeIn');
                 // $('.sep').eq(i).addClass('delay-2');
