@@ -293,7 +293,7 @@ get_header();
 
     <section class="sec3 pt-6">
 
-        <div>
+        <div class="">
             <?php echo get_field('content_part_11');?>
         </div>
         <!-- <img class="circular-info" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/circular.png"
