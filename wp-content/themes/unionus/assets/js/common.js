@@ -94,10 +94,12 @@ $(function() {
     $(window).resize(function() {
         if ($(window).width() > 1280) {
             $('.top-menu-div .top-menu li').css({ display: 'inline-block' });
+            $('.mobile-menu-btn').removeClass('opened');
         }
 
         if ($(window).width() <= 1280) {
             $('.service-btn').removeClass('open');
+            $('.mobile-menu-btn').removeClass('opened');
             // if ($(this).hasClass('open')) {
             // $(this).next('.mobile-menu-submenu').slideDown(500);
             // } else {
@@ -106,10 +108,6 @@ $(function() {
             $('.top-menu-div').css({ height: 'auto' });
             $('.top-menu-div .top-menu li').fadeOut(0);
             $('.top-menu-div .top-menu li:first-child').fadeIn(0);
-
-            // }
-
-            // $('.top-menu-div .top-menu li').css({ display: 'inline-block' });
         }
     });
 });
