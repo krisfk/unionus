@@ -74,7 +74,7 @@ $(function() {
                 $('.sep')
                     .eq(i)
                     .delay(200)
-                    .animate({ width: '100%', opacity: 1 }, 800, 'swing');
+                    .animate({ width: '100%', opacity: 1 }, 300, 'swing');
 
                 // $('.sep').eq(i).addClass('animate__fadeIn');
                 // $('.sep').eq(i).addClass('delay-2');
