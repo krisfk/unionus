@@ -96,7 +96,7 @@ $(function() {
             $('.top-menu-div .top-menu li').css({ display: 'inline-block' });
         }
 
-        if ($(window).width() < 1500) {
+        if ($(window).width() <= 1280) {
             $('.service-btn').removeClass('open');
             // if ($(this).hasClass('open')) {
             // $(this).next('.mobile-menu-submenu').slideDown(500);
