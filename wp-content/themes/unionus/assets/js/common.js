@@ -11,7 +11,7 @@ $.fn.isInViewport = function() {
 
 $(function() {
     $(
-        '.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeinup-ele2,.sep-flo'
+        '.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeinup-ele2,.sep-flo,.circular-info'
     ).css({
         opacity: 0,
     });
