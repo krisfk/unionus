@@ -16,6 +16,8 @@ $(function() {
         opacity: 0,
     });
 
+    $('.sep').css({ width: '20%' });
+
     $(window).on(' scroll', function() {
         checkvisible();
     });
@@ -60,6 +62,19 @@ $(function() {
                 $('.sep-flo').eq(i).addClass('animate__animated');
                 $('.sep-flo').eq(i).addClass('animate__fadeIn');
                 $('.sep-flo').eq(i).addClass('delay-2');
+            }
+        }
+
+        for (i = 0; i < $('.sep').length; i++) {
+            if (
+                $('.sep').eq(i).isInViewport() &&
+                !$('.sep').eq(i).hasClass('animate__animated')
+            ) {
+                $('.sep').eq(i).addClass('animate__animated');
+                $('.sep').eq(i).animate({ width: '100%' });
+
+                // $('.sep').eq(i).addClass('animate__fadeIn');
+                // $('.sep').eq(i).addClass('delay-2');
             }
         }
 
