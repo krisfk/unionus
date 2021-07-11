@@ -366,8 +366,9 @@ get_header();
 </section>
 
 
-
-<?php echo get_field('content_part_14');?>
+<div class="fadein-ele">
+    <?php echo get_field('content_part_14');?>
+</div>
 <!-- <nav>
     <ul>
         <li class="dot1 dot" id="ec1">
