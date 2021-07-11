@@ -109,6 +109,7 @@ $(function() {
         ) {
             $('.circular-info').addClass('animate__animated');
             $('.circular-info').addClass('animate__rotateIn');
+            $('.circular-info').addClass('delay-3');
         }
     }
 
