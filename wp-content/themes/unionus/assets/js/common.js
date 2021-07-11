@@ -56,6 +56,10 @@ $(function() {
         $('.mobile-menu-submenu').clearQueue().stop(); //.fadeIn(0);
         $(this).fadeIn(0);
     });
+
+    $('.top-menu-div').mouseenter(function() {
+        $(this).css({ background: 'rgba(33, 34, 45, 0.7)' });
+    });
     $('.mobile-menu-submenu').mouseleave(function() {
         if ($(window).width() > 1280) {
             $(this).fadeOut(0);
