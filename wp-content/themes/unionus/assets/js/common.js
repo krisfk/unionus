@@ -16,7 +16,7 @@ $(function() {
         opacity: 0,
     });
 
-    $('.sep').css({ width: '20%', opacity: 0 });
+    $('.sep').css({ width: '10%', opacity: 0 });
 
     $(window).on(' scroll', function() {
         checkvisible();
@@ -71,7 +71,10 @@ $(function() {
                 !$('.sep').eq(i).hasClass('animate__animated')
             ) {
                 $('.sep').eq(i).addClass('animate__animated');
-                $('.sep').eq(i).animate({ width: '100%', opacity: 1 }, 500);
+                $('.sep')
+                    .eq(i)
+                    .delay(1000)
+                    .animate({ width: '100%', opacity: 1 }, 1000);
 
                 // $('.sep').eq(i).addClass('animate__fadeIn');
                 // $('.sep').eq(i).addClass('delay-2');
