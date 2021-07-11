@@ -87,7 +87,7 @@ get_header();
 
             <div class="row justify-content-center ">
 
-                <div class="col-4 position-relative company-intro-content-col-1 ">
+                <div class="col-4 position-relative company-intro-content-col-1 fadeleft-ele">
 
                     <div class="company-intro-content-1  fadeleft-ele">
                         <?php echo get_field('content_part_2');?>
@@ -107,7 +107,7 @@ get_header();
                         <!-- 公<br>司<br>簡<br>介 -->
                     </div>
                 </div>
-                <div class="col-4 position-relative company-intro-content-col-2">
+                <div class="col-4 position-relative company-intro-content-col-2 faderight-ele">
                     <div class="company-intro-content-2  faderight-ele">
                         <?php echo get_field('content_part_4');?>
 
@@ -405,6 +405,9 @@ const skrollrObj = skrollr.init();
 
 <script type="text/javascript">
 $(function() {
+
+
+
 
 
 
