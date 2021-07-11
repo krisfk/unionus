@@ -95,5 +95,21 @@ $(function() {
         if ($(window).width() > 1280) {
             $('.top-menu-div .top-menu li').css({ display: 'inline-block' });
         }
+
+        if ($(window).width() < 1500) {
+            $('.service-btn').removeClass('open');
+            // if ($(this).hasClass('open')) {
+            // $(this).next('.mobile-menu-submenu').slideDown(500);
+            // } else {
+            // $('.service-btn').next('.mobile-menu-submenu').fadeOut(0);
+
+            $('.top-menu-div').css({ height: 'auto' });
+            $('.top-menu-div .top-menu li').fadeOut(0);
+            $('.top-menu-div .top-menu li:first-child').fadeIn(0);
+
+            // }
+
+            // $('.top-menu-div .top-menu li').css({ display: 'inline-block' });
+        }
     });
 });
