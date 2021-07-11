@@ -301,9 +301,10 @@ get_header();
     </section>
 </div>
 
-<section class="sec4  pt-const2">
+<section class="sec4  pt-const2 fadein-left">
 
     <div class="container">
+
         <?php echo get_field('content_part_12');?>
 
         <!-- <h2 class="gold">
@@ -366,9 +367,7 @@ get_header();
 
 
 
-<div class="fadein-ele">
-    <?php echo get_field('content_part_14');?>
-</div>
+<?php echo get_field('content_part_14');?>
 <!-- <nav>
     <ul>
         <li class="dot1 dot" id="ec1">
