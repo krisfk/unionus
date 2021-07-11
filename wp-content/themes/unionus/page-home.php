@@ -285,10 +285,10 @@ get_header();
 
 
 <div class="position-relative mt-7">
-    <img class="home-tran-bg-1" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/home-tran-bg-1.png"
-        alt="">
-    <img class="home-tran-bg-2" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/home-tran-bg-2.png"
-        alt="">
+    <img class="home-tran-bg-1 fadeleft-ele"
+        src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/home-tran-bg-1.png" alt="">
+    <img class="home-tran-bg-2 faderight-ele"
+        src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/home-tran-bg-2.png" alt="">
 
 
     <section class="sec3 pt-6">
@@ -301,7 +301,7 @@ get_header();
     </section>
 </div>
 
-<section class="sec4  pt-const2 fadein-left">
+<section class="sec4  pt-const2 fadeleft-ele">
 
     <div class="container">
 
