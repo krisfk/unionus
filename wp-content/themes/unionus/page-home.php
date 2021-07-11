@@ -89,7 +89,7 @@ get_header();
 
                 <div class="col-4 position-relative company-intro-content-col-1 ">
 
-                    <div class="company-intro-content-1">
+                    <div class="company-intro-content-1  fadeleft-ele">
                         <?php echo get_field('content_part_2');?>
 
                         <!-- （爾聯UNIONUS）會計師事務所是根據香港《專業會計師條例》（第50章） 註冊的香港會計師事務所(“Audit
@@ -408,129 +408,219 @@ $(function() {
 
 
 
+            $('.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeinup-ele2').css({
+                'opacity': 0
+            });
 
 
-    // $('.home-banner-div').width($(window).width());
-    // $('.home-banner-div').height($(window).height());
-
-
-    // $('.company-intro-content-1').css({
-    //     'top': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-1').height() - 30 +
-    //         'px'
-    // })
-
-    // $('.company-intro-content-2').css({
-    //     'bottom': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-2').height() -
-    //         30 +
-    //         'px'
-    // })
-
-
-    setTimeout(() => {
-
-        $('.rolling-slogan').animate({
-            'opacity': '1'
-        }, 1000);
-
-        $('.rolling-slogan').css({
-            'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
-            'opacity': '1',
-            'margin-left': ($(window).width() / 2 - $('.rolling-slogan').width()) / 2 + 'px',
-
-        });
-
-    }, 1000);
-
-
-    function changeDot() {
-
-        $('.top-menu-div').css({
-            'background': 'rgb(33 34 45 / 70%)'
-        })
-        const scrollValue = $(window).scrollTop();
-        const heightSec2 = $('.sec2').offset().top;
-        const heightSec3 = $('.sec3').offset().top;
-        const heightSec4 = $('.sec4').offset().top;
-        const heightSec5 = $('.sec5').offset().top;
-
-
-        if (scrollValue < heightSec2) {
-            $('nav li').not('.dot1').removeClass('active');
-            $('.dot1').addClass('active');
-        } else if (scrollValue < heightSec3) {
-            $('nav li').not('.dot2').removeClass('active');
-            $('.dot2').addClass('active');
-        } else if (scrollValue < heightSec4) {
-            $('nav li').not('.dot3').removeClass('active');
-            $('.dot3').addClass('active');
-        } else if (scrollValue < heightSec5) {
-            $('nav li').not('.dot4').removeClass('active');
-            $('.dot4').addClass('active');
-        } else {
-            $('nav li').not('.dot5').removeClass('active');
-            $('.dot5').addClass('active');
-        }
-    }
-
-    $(window).on('scroll', changeDot);
-
-    $('nav li').on('click', function() {
-        const goToSection = '.s' + $(this).attr('id');
-
-        // $(this).addClass('active')
-        $('body, html').animate({
-            scrollTop: $(goToSection).offset().top + 1,
-        }, {
-            duration: (browser == 'Apple Safari') ? 500 : 0, //0
-            easing: "easeInOutQuart",
-            complete: function() {}
-        });
-    });
+            $('.circle').css({
+                'opacity': 0
+            })
 
 
 
 
+            // Pace.on("done", function() {
+            //     $('.main-container').fadeIn(0)
+            //     checkvisible();
 
-    $('.company-intro-content-1').css({
-        'top': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-1')
-            .height() - 30 +
-            'px'
-    })
+            // });
 
-    $('.company-intro-content-2').css({
-        'bottom': $('.company-intro-row-div').height() / 2 - $(
-                '.company-intro-content-2')
-            .height() -
-            30 +
-            'px'
-    })
+            $(window).on(' scroll', function() {
+                checkvisible();
 
-    $(window).resize(function() {
+            });
 
 
-        $('.home-banner-div').width($(window).width());
-        $('.home-banner-div').height($(window).height());
+            function checkvisible() {
+                for (i = 0; i < $('.fadeleft-ele').length; i++) {
+                    if (
+                        $('.fadeleft-ele').eq(i).isInViewport() &&
+                        !$('.fadeleft-ele').eq(i).hasClass('animate__animated')
+                    ) {
+                        $('.fadeleft-ele').eq(i).addClass('animate__animated');
+                        $('.fadeleft-ele').eq(i).addClass('fadeInLeft2');
+                        $('.fadeleft-ele').eq(i).addClass('delay-3');
+                    }
+                }
+                for (i = 0; i < $('.faderight-ele').length; i++) {
+                    if (
+                        $('.faderight-ele').eq(i).isInViewport() &&
+                        !$('.faderight-ele').eq(i).hasClass('animate__animated')
+                    ) {
+                        $('.faderight-ele').eq(i).addClass('animate__animated');
+                        $('.faderight-ele').eq(i).addClass('fadeInRight2');
+                        $('.faderight-ele').eq(i).addClass('delay-3');
+                    }
+                }
+                for (i = 0; i < $('.fadein-ele').length; i++) {
+                    if (
+                        $('.fadein-ele').eq(i).isInViewport() &&
+                        !$('.fadein-ele').eq(i).hasClass('animate__animated')
+                    ) {
+                        $('.fadein-ele').eq(i).addClass('animate__animated');
+                        $('.fadein-ele').eq(i).addClass('animate__fadeIn');
+                        $('.fadein-ele').eq(i).addClass('delay-2');
+                    }
+                }
+                for (i = 0; i < $('.fadeinup-ele').length; i++) {
+                    if (
+                        $('.fadeinup-ele').eq(i).isInViewport() &&
+                        !$('.fadeinup-ele').eq(i).hasClass('animate__animated')
+                    ) {
+                        $('.fadeinup-ele').eq(i).addClass('animate__animated');
+                        $('.fadeinup-ele').eq(i).addClass('animate__fadeInUp');
+                        $('.fadeinup-ele').eq(i).addClass('delay-4');
+                    }
+                }
+                for (i = 0; i < $('.fadeinup-ele2').length; i++) {
+                    if (
+                        $('.fadeinup-ele2').eq(i).isInViewport() &&
+                        !$('.fadeinup-ele2').eq(i).hasClass('animate__animated')
+                    ) {
+                        $('.fadeinup-ele2').eq(i).addClass('animate__animated');
+                        $('.fadeinup-ele2').eq(i).addClass('fadeInUp2');
+                        $('.fadeinup-ele2').eq(i).addClass('delay-3');
+                    }
+                }
+
+                for (i = 0; i < $('.circle').length; i++) {
+                    if (
+                        $('.circle').eq(i).isInViewport() &&
+                        !$('.circle').eq(i).hasClass('animate__animated')
+                    ) {
+                        $('.circle').eq(i).addClass('animate__animated');
+                        $('.circle').eq(i).addClass('zoomIn2');
+                        // $('.fadein-ele').eq(i).addClass('delay-3');
+                    }
+                }
 
 
-        $('.company-intro-content-1').css({
-            'top': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-1')
-                .height() - 30 +
-                'px'
-        })
-
-        $('.company-intro-content-2').css({
-            'bottom': $('.company-intro-row-div').height() / 2 - $(
-                    '.company-intro-content-2')
-                .height() -
-                30 +
-                'px'
-        })
-
-    });
 
 
 
-});
+                // $('.home-banner-div').width($(window).width());
+                // $('.home-banner-div').height($(window).height());
+
+
+                // $('.company-intro-content-1').css({
+                //     'top': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-1').height() - 30 +
+                //         'px'
+                // })
+
+                // $('.company-intro-content-2').css({
+                //     'bottom': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-2').height() -
+                //         30 +
+                //         'px'
+                // })
+
+
+                setTimeout(() => {
+
+                    $('.rolling-slogan').animate({
+                        'opacity': '1'
+                    }, 1000);
+
+                    $('.rolling-slogan').css({
+                        'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
+                        'opacity': '1',
+                        'margin-left': ($(window).width() / 2 - $('.rolling-slogan').width()) / 2 +
+                            'px',
+
+                    });
+
+                }, 1000);
+
+
+                function changeDot() {
+
+                    $('.top-menu-div').css({
+                        'background': 'rgb(33 34 45 / 70%)'
+                    })
+                    const scrollValue = $(window).scrollTop();
+                    const heightSec2 = $('.sec2').offset().top;
+                    const heightSec3 = $('.sec3').offset().top;
+                    const heightSec4 = $('.sec4').offset().top;
+                    const heightSec5 = $('.sec5').offset().top;
+
+
+                    if (scrollValue < heightSec2) {
+                        $('nav li').not('.dot1').removeClass('active');
+                        $('.dot1').addClass('active');
+                    } else if (scrollValue < heightSec3) {
+                        $('nav li').not('.dot2').removeClass('active');
+                        $('.dot2').addClass('active');
+                    } else if (scrollValue < heightSec4) {
+                        $('nav li').not('.dot3').removeClass('active');
+                        $('.dot3').addClass('active');
+                    } else if (scrollValue < heightSec5) {
+                        $('nav li').not('.dot4').removeClass('active');
+                        $('.dot4').addClass('active');
+                    } else {
+                        $('nav li').not('.dot5').removeClass('active');
+                        $('.dot5').addClass('active');
+                    }
+                }
+
+                $(window).on('scroll', changeDot);
+
+                $('nav li').on('click', function() {
+                    const goToSection = '.s' + $(this).attr('id');
+
+                    // $(this).addClass('active')
+                    $('body, html').animate({
+                        scrollTop: $(goToSection).offset().top + 1,
+                    }, {
+                        duration: (browser == 'Apple Safari') ? 500 : 0, //0
+                        easing: "easeInOutQuart",
+                        complete: function() {}
+                    });
+                });
+
+
+
+
+
+                $('.company-intro-content-1').css({
+                    'top': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-1')
+                        .height() - 30 +
+                        'px'
+                })
+
+                $('.company-intro-content-2').css({
+                    'bottom': $('.company-intro-row-div').height() / 2 - $(
+                            '.company-intro-content-2')
+                        .height() -
+                        30 +
+                        'px'
+                })
+
+                $(window).resize(function() {
+
+
+                    $('.home-banner-div').width($(window).width());
+                    $('.home-banner-div').height($(window).height());
+
+
+                    $('.company-intro-content-1').css({
+                        'top': $('.company-intro-row-div').height() / 2 - $('.company-intro-content-1')
+                            .height() - 30 +
+                            'px'
+                    })
+
+                    $('.company-intro-content-2').css({
+                        'bottom': $('.company-intro-row-div').height() / 2 - $(
+                                '.company-intro-content-2')
+                            .height() -
+                            30 +
+                            'px'
+                    })
+
+                });
+
+
+
+            });
 </script>
 <?php
 
