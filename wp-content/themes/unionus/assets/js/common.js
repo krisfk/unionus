@@ -18,6 +18,7 @@ $(function() {
 
     $('.sep').css({ width: '10%', opacity: 0 });
     $('.sep2').css({ width: '10%', opacity: 0 });
+    checkvisible();
 
     $(window).on(' scroll', function() {
         checkvisible();
