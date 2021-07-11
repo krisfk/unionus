@@ -160,7 +160,7 @@ get_header();
 <!-- </div> -->
 
 
-<section class="sec2  pt-const2">
+<section class="sec2">
 
 
     <div class="position-relative ">
