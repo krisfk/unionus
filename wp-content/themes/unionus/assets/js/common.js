@@ -73,7 +73,7 @@ $(function() {
                 $('.sep').eq(i).addClass('animate__animated');
                 $('.sep')
                     .eq(i)
-                    .delay(200)
+                    .delay(500)
                     .animate({ width: '100%', opacity: 1 }, 300, 'swing');
 
                 // $('.sep').eq(i).addClass('animate__fadeIn');
