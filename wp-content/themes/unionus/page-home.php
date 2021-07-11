@@ -98,7 +98,7 @@ get_header();
                         Service”,“Tax Service” and “Audit Service”）。 -->
                     </div>
                 </div>
-                <div class="col-1 company-intro-txt-col fadeinup-ele">
+                <div class="col-1 company-intro-txt-col fadeinup-ele2">
 
 
                     <div class="company-intro-txt">
