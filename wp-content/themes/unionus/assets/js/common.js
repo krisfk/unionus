@@ -95,6 +95,7 @@ $(function() {
         if ($(window).width() > 1280) {
             $('.top-menu-div .top-menu li').css({ display: 'inline-block' });
             $('.mobile-menu-btn').removeClass('opened');
+            $('.service-btn').removeClass('open');
         }
 
         if ($(window).width() <= 1280) {
