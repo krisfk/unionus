@@ -408,9 +408,9 @@ $(function() {
 
 
 
-    // $('.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeinup-ele2').css({
-    //     'opacity': 0
-    // });
+    $('.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeinup-ele2').css({
+        'opacity': 0
+    });
 
 
 
