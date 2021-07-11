@@ -102,6 +102,14 @@ $(function() {
                 $('.fadeinup-ele2').eq(i).addClass('delay-3');
             }
         }
+
+        if (
+            $('.circular-info').eq(i).isInViewport() &&
+            !$('.circular-info').eq(i).hasClass('animate__animated')
+        ) {
+            $('.circular-info').eq(i).addClass('animate__animated');
+            $('.circular-info').eq(i).addClass('animate__rotateIn');
+        }
     }
 
     $('.mobile-menu-btn').click(function() {

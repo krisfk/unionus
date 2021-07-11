@@ -285,16 +285,17 @@ get_header();
 
 
 <div class="position-relative mt-7">
-    <img class="home-tran-bg-1" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/home-tran-bg-1.png"
-        alt="">
-    <img class="home-tran-bg-2" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/home-tran-bg-2.png"
-        alt="">
+    <img class="home-tran-bg-1 fadeleft-ele"
+        src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/home-tran-bg-1.png" alt="">
+    <img class="home-tran-bg-2 faderight-ele"
+        src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/home-tran-bg-2.png" alt="">
 
 
     <section class="sec3 pt-6">
 
-        <?php echo get_field('content_part_11');?>
-
+        <div>
+            <?php echo get_field('content_part_11');?>
+        </div>
         <!-- <img class="circular-info" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/circular.png"
             alt=""> -->
     </section>
