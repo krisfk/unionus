@@ -27,7 +27,7 @@ get_header();
 
     <div class="container">
 
-        <div class="text-center">
+        <div class="text-center fadeinup-ele">
             <h1 class="mx-auto gold">
                 <?php echo get_field('content_part_0'); ?>
                 <!-- 藝人與合作伙伴 -->
@@ -39,7 +39,7 @@ get_header();
 
         <div class="inner-container mx-auto mt-5   text-center">
 
-            <h2 class="gold">
+            <h2 class="gold fadein-ele">
                 <?php echo get_field('content_part_1'); ?>
 
                 <!-- Master Mic -->
@@ -47,7 +47,7 @@ get_header();
 
             <div class="row mt-5 gx-5">
 
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 fadeinleft-ele ">
 
                     <?php echo get_field('content_part_2'); ?>
 
@@ -56,7 +56,7 @@ get_header();
                         src="https://unionus.com.hk/wp-content/uploads/2021/06/1602677248_classify_img-e1624905361304.jpeg"
                         alt=""> -->
                 </div>
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-start">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-start  fadeinright-ele">
 
                     <?php echo get_field('content_part_3'); ?>
 
@@ -80,7 +80,7 @@ get_header();
                 </div>
 
 
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-start mt-lg-5 mt-md-0 mt-sm-0 mt-0">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-start mt-lg-5 mt-md-0 mt-sm-0 mt-0 fadeinleft-ele">
 
                     <?php echo get_field('content_part_4'); ?>
 
@@ -97,7 +97,7 @@ get_header();
                     </div> -->
                 </div>
 
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative mt-5">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative mt-5 fadeinright-ele">
 
                     <?php echo get_field('content_part_5'); ?>
 
@@ -109,7 +109,7 @@ get_header();
                 </div>
             </div>
 
-            <div class="text-center mt-7">
+            <div class="text-center mt-7 fadein-ele">
 
                 <div class="little-gold-bar mx-auto"></div>
 
