@@ -220,9 +220,11 @@ $(function() {
     });
 
     $(window).scroll(function(event) {
+        alert(3);
         $('.top-menu-div').css({
             background: 'rgb(33 34 45 / 92%)',
         });
+
         var scroll = $(window).scrollTop();
         if ($('body').hasClass('home')) {
             if (scroll > 100) {
