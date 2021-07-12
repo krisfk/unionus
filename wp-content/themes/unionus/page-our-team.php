@@ -49,8 +49,9 @@ get_header();
 
             <div class="little-gold-bar mx-auto"></div>
 
-            <?php echo get_field('content_part_2');?>
-
+            <div class="fadein-ele">
+                <?php echo get_field('content_part_2');?>
+            </div>
             <!-- <h2 class="gold mt-5"> -->
 
             <!-- 我們的團隊 -->
@@ -69,7 +70,7 @@ get_header();
 
 
         <div class="row gx-5 inner-container2 mx-auto">
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 staff-col  mb-5">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12 staff-col  mb-5 fadein-ele">
                 <h2 class="gold mt-3">
                     <?php echo get_field('content_part_3');?>
                     <!-- Joseph -->
@@ -92,7 +93,7 @@ get_header();
 
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12  staff-col mb-5">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12  staff-col mb-5 fadein-ele">
                 <h2 class="gold mt-3">
                     <?php echo get_field('content_part_6');?>
                     <!-- Midas -->
@@ -122,7 +123,7 @@ get_header();
                     alt=""></div>
 
             <div class="row inner-container2 justify-content-center mx-auto">
-                <div class="col-12 staff-col">
+                <div class="col-12 staff-col fadein-ele">
                     <h2 class="gold mt-4">
                         <?php echo get_field('content_part_9');?>
                         <!-- Alex Cheung -->
@@ -156,7 +157,7 @@ get_header();
                     alt=""></div>
 
             <div class="row inner-container2 justify-content-center mx-auto">
-                <div class="col-12 staff-col">
+                <div class="col-12 staff-col fadein-ele">
                     <h2 class="gold mt-4">
                         <?php echo get_field('content_part_12');?>
                         <!-- Solicitor -->
