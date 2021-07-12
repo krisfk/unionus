@@ -39,7 +39,7 @@ get_header();
         </div>
 
 
-        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">
+        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center fadein-ele">
 
             <h2 class="gold">
                 <?php echo get_field('content_part_1');?>
@@ -56,7 +56,7 @@ get_header();
         </div>
 
 
-        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">
+        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center fadein-ele">
 
             <h2 class="gold">
                 <?php echo get_field('content_part_3');?>
@@ -77,16 +77,16 @@ get_header();
         </div>
 
         <div class="mt-6 text-center">
-            <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
-                alt="">
+            <img class="flo-icon fadeindown-ele"
+                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt="">
 
-            <h2 class="mt-3 gold text-center">
+            <h2 class="mt-3 gold text-center fadein-ele">
                 <?php echo get_field('content_part_5');?>
                 <!-- 效率性 -->
             </h2>
 
 
-            <div class="mt-4">
+            <div class="mt-4  fadein-ele">
                 <?php echo get_field('content_part_6');?>
                 <!-- 您的信息/問題將會是我們首要處理的工作,客戶關係主任在收到閣下的指示後將會直接把相關問題遞交,務求在最短的時間內解決您的困難. -->
 
@@ -94,17 +94,17 @@ get_header();
         </div>
 
         <div class="mt-6 text-center">
-            <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
-                alt="">
+            <img class="flo-icon fadeindown-ele"
+                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt="">
 
-            <h2 class="mt-3 gold text-center">
+            <h2 class="mt-3 gold text-center fadein-ele">
                 <?php echo get_field('content_part_7');?>
                 <!-- 專業認可 -->
 
             </h2>
 
 
-            <div class="mt-4">
+            <div class="mt-4 fadein-ele">
                 <?php echo get_field('content_part_8');?>
 
                 <!-- 爾聯Unuonus 提供服務皆由專業持牌人士作出建議,確保所有服務得以清晰可靠,不需要透過任何中介,過程更為公開,簡單,直接,透明. -->
@@ -123,7 +123,7 @@ get_header();
         </div>
 
 
-        <div class="mt-6 text-center">
+        <div class="mt-6 text-center fadein-ele">
             <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
                 alt="">
 
