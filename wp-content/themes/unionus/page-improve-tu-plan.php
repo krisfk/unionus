@@ -57,7 +57,7 @@ get_header();
 
         <div class="row tu-pts-row gx-5 mt-5">
 
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12  tu-pts-col fadeinup-ele">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12  tu-pts-col fadeleft-ele">
 
                 <?php echo get_field('content_part_2');?>
 
@@ -69,7 +69,7 @@ get_header();
 
 
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 tu-pts-col  fadeinup-ele">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12 tu-pts-col  faderight-ele">
 
                 <?php echo get_field('content_part_3');?>
 
@@ -83,7 +83,7 @@ get_header();
                 <div>這綜合所有信用卡的信用額，對比其已用而未償還的總結餘，餘額愈高愈好。信貸使用率高於50%有機會影響信貸評分。</div> -->
             </div>
 
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12 tu-pts-col fadeinup-ele">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 tu-pts-col fadeleft-ele">
 
                 <?php echo get_field('content_part_4');?>
 
@@ -94,7 +94,7 @@ get_header();
                 <h2 class="gold">信貸紀錄長短</h2>
                 <div>如果沒有信貸報告(沒有任何信用卡及借貸紀錄)或信貸紀錄太短，都會令財務機構難以參考及評估申請人的信貸狀況。因此年期短有機會影響申請或所批出的利率。</div> -->
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12 tu-pts-col fadeinup-ele">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 tu-pts-col fadein-ele">
 
                 <?php echo get_field('content_part_5');?>
 
@@ -106,7 +106,7 @@ get_header();
                 <div>擁有信貸帳戶的種類及數目，包括不同類型的信貸如信用卡及按揭。</div> -->
 
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12 tu-pts-col fadeinup-ele">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 tu-pts-col faderight-ele">
 
                 <?php echo get_field('content_part_6');?>
 
