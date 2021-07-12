@@ -104,7 +104,7 @@ $(function() {
                 $('.little-gold-bar')
                     .eq(i)
                     .delay(500)
-                    .animate({ width: '100px', opacity: 1 }, 2000, 'swing');
+                    .animate({ width: '100px', opacity: 1 }, 500, 'swing');
             }
         }
 
