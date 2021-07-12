@@ -11,7 +11,7 @@ $.fn.isInViewport = function() {
 
 $(function() {
     $(
-        '.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeinup-ele2,.sep-flo,.circular-info,.little-gold-bar'
+        '.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeindown-ele,.fadeinup-ele2,.sep-flo,.circular-info,.little-gold-bar'
     ).css({
         opacity: 0,
     });
@@ -131,6 +131,17 @@ $(function() {
                 $('.fadeinup-ele').eq(i).addClass('delay-4');
             }
         }
+        for (i = 0; i < $('.fadeindown-ele').length; i++) {
+            if (
+                $('.fadeindown-ele').eq(i).isInViewport() &&
+                !$('.fadeindown-ele').eq(i).hasClass('animate__animated')
+            ) {
+                $('.fadeindown-ele').eq(i).addClass('animate__animated');
+                $('.fadeindown-ele').eq(i).addClass('animate__fadeInDown');
+                $('.fadeindown-ele').eq(i).addClass('delay-4');
+            }
+        }
+
         for (i = 0; i < $('.fadeinup-ele2').length; i++) {
             if (
                 $('.fadeinup-ele2').eq(i).isInViewport() &&

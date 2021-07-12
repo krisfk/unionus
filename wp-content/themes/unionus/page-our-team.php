@@ -119,7 +119,7 @@ get_header();
 
 
         <div class="mt-6">
-            <div class="fadein-ele"><img class="flo-icon"
+            <div class="fadeindown-ele"><img class="flo-icon"
                     src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt=""></div>
 
             <div class="row inner-container2 justify-content-center mx-auto fadein-ele">
@@ -153,7 +153,7 @@ get_header();
 
 
         <div class="mt-6">
-            <div><img class="flo-icon fadein-ele"
+            <div><img class="flo-icon fadeindown-ele"
                     src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt=""></div>
 
             <div class="row inner-container2 justify-content-center mx-auto fadein-ele">
@@ -238,7 +238,7 @@ get_header();
 
 
         <div class="mt-6">
-            <div><img class="flo-icon fadein-ele"
+            <div><img class="flo-icon fadeindown-ele"
                     src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt=""></div>
 
             <div class="row inner-container2 justify-content-center mx-auto fadein-ele">
