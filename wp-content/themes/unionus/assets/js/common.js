@@ -20,6 +20,8 @@ $(function() {
     $('.sep2').css({ width: '10%', opacity: 0 });
 
     $('.little-gold-bar').css({ width: '1px', opacity: 0 });
+    console.log(1);
+    alert(3);
     checkvisible();
 
     console.log(2);
