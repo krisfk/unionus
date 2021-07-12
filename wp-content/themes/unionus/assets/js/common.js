@@ -11,13 +11,15 @@ $.fn.isInViewport = function() {
 
 $(function() {
     $(
-        '.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeinup-ele2,.sep-flo,.circular-info'
+        '.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeinup-ele2,.sep-flo,.circular-info,.little-gold-bar'
     ).css({
         opacity: 0,
     });
 
     $('.sep').css({ width: '10%', opacity: 0 });
     $('.sep2').css({ width: '10%', opacity: 0 });
+
+    $('.little-gold-bar').css({ width: '1px', opacity: 0 });
     checkvisible();
 
     $(window).on(' scroll', function() {
@@ -92,6 +94,21 @@ $(function() {
                     .animate({ width: '100%', opacity: 1 }, 500, 'swing');
             }
         }
+
+        for (i = 0; i < $('.little-gold-bar').length; i++) {
+            if (
+                $('.little-gold-bar').eq(i).isInViewport() &&
+                !$('.little-gold-bar').eq(i).hasClass('animate__animated')
+            ) {
+                $('.little-gold-bar').eq(i).addClass('animate__animated');
+                $('.little-gold-bar')
+                    .eq(i)
+                    .delay(500)
+                    .animate({ width: '100px', opacity: 1 }, 500, 'swing');
+            }
+        }
+
+        //
 
         //
         for (i = 0; i < $('.fadeinup-ele').length; i++) {
