@@ -25,7 +25,7 @@ get_header();
 
     <div class="container">
 
-        <div class="text-center">
+        <div class="text-center fadeinup-ele">
             <h1 class="mx-auto gold">
                 <?php echo get_field('content_part_0');?>
                 <!-- 破產 -->
@@ -36,7 +36,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5">
+        <div class="inner-container mx-auto mt-5 fadein-ele">
             <?php echo get_field('content_part_1');?>
 
             <!-- 因為破產對個人信貸紀錄影響深遠及會為生活帶來一定限制，一般來說的確是最壞打算。但若果真的無力償還債務，又未能符合到申請債務舒緩(DRP)或個人自願安排(IVA)的條件，迫不得已下還是只好向法院提交破產呈請。申請人可以自行提交破產呈請或由專業人士代辦。
@@ -52,7 +52,7 @@ get_header();
         </div>
 
 
-        <div class="text-center mt-7">
+        <div class="text-center mt-7 fadein-ele">
 
             <div class="little-gold-bar mx-auto"></div>
             <h2 class="gold mt-5">
@@ -64,7 +64,7 @@ get_header();
         <div class="bankrupt-steps mt-6">
 
 
-            <ul class="bankrupt-steps-ul">
+            <ul class="bankrupt-steps-ul fadeinup-ele">
                 <li>
 
                     <div class="small-gold-circle"></div>
@@ -85,7 +85,7 @@ get_header();
             </ul>
 
 
-            <ul class="bankrupt-steps-ul">
+            <ul class="bankrupt-steps-ul  fadeinup-ele">
                 <li class="text-end">
                     <?php echo get_field('content_part_4');?>
 
@@ -98,7 +98,7 @@ get_header();
                 <li></li>
             </ul>
 
-            <ul class="bankrupt-steps-ul reverse">
+            <ul class="bankrupt-steps-ul reverse fadeinup-ele">
                 <li>
 
                     <div class="small-gold-circle"></div>
@@ -118,7 +118,7 @@ get_header();
                 <li></li>
             </ul>
 
-            <ul class="bankrupt-steps-ul reverse">
+            <ul class="bankrupt-steps-ul reverse fadeinup-ele">
                 <li>
                     <?php echo get_field('content_part_6');?>
 
@@ -157,7 +157,7 @@ get_header();
                 <li></li>
             </ul>
 
-            <ul class="bankrupt-steps-ul ">
+            <ul class="bankrupt-steps-ul  fadeinup-ele">
                 <li class="text-end">
                     <?php echo get_field('content_part_8');?>
 
@@ -178,7 +178,7 @@ get_header();
             </ul>
 
 
-            <ul class="bankrupt-steps-ul reverse">
+            <ul class="bankrupt-steps-ul reverse fadeinup-ele">
                 <li>
 
                     <div class="small-gold-circle"></div>
@@ -197,7 +197,7 @@ get_header();
                 <li></li>
             </ul>
 
-            <ul class="bankrupt-steps-ul reverse">
+            <ul class="bankrupt-steps-ul reverse fadeinup-ele">
                 <li>
                     <?php echo get_field('content_part_10');?>
 
@@ -220,7 +220,7 @@ get_header();
                 <li></li>
             </ul>
 
-            <ul class="bankrupt-steps-ul ">
+            <ul class="bankrupt-steps-ul  fadeinup-ele">
                 <li>
 
                     <div class="small-gold-circle"></div>
@@ -241,7 +241,7 @@ get_header();
                 <li></li>
             </ul>
 
-            <ul class="bankrupt-steps-ul ">
+            <ul class="bankrupt-steps-ul  fadeinup-ele">
                 <li class="text-end">
 
                     <?php echo get_field('content_part_12');?>
@@ -259,7 +259,7 @@ get_header();
                 <li></li>
             </ul>
 
-            <ul class="bankrupt-steps-ul reverse">
+            <ul class="bankrupt-steps-ul reverse fadeinup-ele">
                 <li>
 
                     <div class="small-gold-circle"></div>
@@ -280,7 +280,7 @@ get_header();
                 <li></li>
             </ul>
 
-            <ul class="bankrupt-steps-ul reverse">
+            <ul class="bankrupt-steps-ul reverse fadeinup-ele">
                 <li>
                     <?php echo get_field('content_part_14');?>
 
@@ -299,7 +299,7 @@ get_header();
                 <li></li>
             </ul>
 
-            <ul class="bankrupt-steps-ul ">
+            <ul class="bankrupt-steps-ul  fadeinup-ele">
                 <li>
 
                     <div class="small-gold-circle"></div>
@@ -320,7 +320,7 @@ get_header();
             </ul>
 
 
-            <ul class="bankrupt-steps-ul ">
+            <ul class="bankrupt-steps-ul  fadeinup-ele">
                 <li class="text-end">
                     <?php echo get_field('content_part_16');?>
 
@@ -334,7 +334,7 @@ get_header();
                 </li>
                 <li></li>
             </ul>
-            <ul class="bankrupt-steps-ul reverse">
+            <ul class="bankrupt-steps-ul reverse fadeinup-ele">
                 <li>
 
                     <div class="small-gold-circle"></div>
@@ -354,7 +354,7 @@ get_header();
                 <li></li>
             </ul>
 
-            <ul class="bankrupt-steps-ul reverse">
+            <ul class="bankrupt-steps-ul reverse fadeinup-ele">
                 <li>
                     <?php echo get_field('content_part_18');?>
 
@@ -370,7 +370,7 @@ get_header();
                 </li>
                 <li></li>
             </ul>
-            <ul class="bankrupt-steps-ul ">
+            <ul class="bankrupt-steps-ul  fadeinup-ele">
                 <li>
 
                     <div class="small-gold-circle"></div>
@@ -391,7 +391,7 @@ get_header();
             </ul>
 
 
-            <ul class="bankrupt-steps-ul ">
+            <ul class="bankrupt-steps-ul  fadeinup-ele">
                 <li class="text-end">
                     <?php echo get_field('content_part_20');?>
 
