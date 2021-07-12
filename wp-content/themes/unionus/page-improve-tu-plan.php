@@ -37,7 +37,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="mt-3 inner-container2 mx-auto">
+        <div class="mt-3 inner-container2 mx-auto fadein-ele">
             <?php echo get_field('content_part_01');?>
 
             <!-- 個人信貸報告記錄了每人的信貸紀錄，包括貸款機構、信貸限額、貸款額及還款紀錄。亦會紀錄拖欠債項、破產、與追討債務相關的法律行動等。因此香港大部分銀行與財務機構於審批貸款申請時都會參考客人的個人信貸報告，以評估客人是否可靠的借貸人，從而擬定該次借貸金額及利息比率。所以一個良好的信貸評級是很重要，一般信貸評級愈好，實際年利率會愈低。 -->
