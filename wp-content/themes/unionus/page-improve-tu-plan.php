@@ -25,7 +25,7 @@ get_header();
 
     <div class="container">
 
-        <div class="text-center">
+        <div class="text-center fadeinup-ele">
             <h1 class="mx-auto gold">
                 <!-- content_part_0 -->
                 <?php echo get_field('content_part_0');?>
