@@ -1,8 +1,6 @@
-$(function() {
-    var $ = jQuery;
-    $.fn.isInViewport = function() {
-        // console.log($(this).offset());
-        console.log($(this).length);
+var $ = jQuery;
+$.fn.isInViewport = function() {
+    if ($(this).length > 0) {
         var elementTop = $(this).offset().top;
         var elementBottom = elementTop + $(this).outerHeight();
 
@@ -10,8 +8,10 @@ $(function() {
         var viewportBottom = viewportTop + $(window).height();
 
         return elementBottom > viewportTop && elementTop < viewportBottom;
-    };
+    }
+};
 
+$(function() {
     $(
         '.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeindown-ele,.fadeinup-ele2,.sep-flo,.circular-info,.little-gold-bar'
     ).css({
