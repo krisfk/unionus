@@ -52,7 +52,7 @@ $(function() {
         } else {
             $('.bottom-fix-nav').fadeOut(0);
         }
-        console.log(888);
+        // console.log(888);
         // }
         checkvisible();
     });
