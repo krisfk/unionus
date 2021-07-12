@@ -22,9 +22,11 @@ $(function() {
     $('.little-gold-bar').css({ width: '1px', opacity: 0 });
     // console.log(/1);
     // alert(3);
-    $(window).load(function() {
-        checkvisible();
-    });
+    window.onload = function() {
+        alert(5);
+    };
+    // checkvisible();
+    // });
 
     // console.log(2);
 
