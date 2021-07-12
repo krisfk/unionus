@@ -61,7 +61,7 @@ get_header();
     </div>
 
 </section>
-<div class="mt-4">
+<div class="mt-4 fadein-ele">
 
     <img class="w-100" src="<?php echo get_template_directory_uri();?>/assets/images/team-img.png" alt="">
 </div>
