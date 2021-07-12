@@ -74,7 +74,7 @@ get_header();
                     <!-- Joseph -->
                 </h2>
                 <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
-                <div class="gold big-size">
+                <div class="gold big-size fadein-ele">
                     <?php echo get_field('content_part_4');?>
 
                     <!-- Partner/CPA (Practising) <br>
@@ -82,7 +82,7 @@ get_header();
                     債務重組專員 -->
 
                 </div>
-                <div class="mt-3">
+                <div class="mt-3 fadein-ele">
                     <?php echo get_field('content_part_5');?>
 
                     <!-- 吳先生過往一直為各大上市集團及私人企業提供會計和審核的工作，並為各階層就業人士提供報稅,審計和債務重組整合服務，憑藉過人的待客之道和熱誠在過往數年內處裡超過千宗成功個案。 -->
