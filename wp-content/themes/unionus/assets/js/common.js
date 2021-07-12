@@ -1,15 +1,15 @@
-var $ = jQuery;
-$.fn.isInViewport = function() {
-    var elementTop = $(this).offset().top;
-    var elementBottom = elementTop + $(this).outerHeight();
-
-    var viewportTop = $(window).scrollTop();
-    var viewportBottom = viewportTop + $(window).height();
-
-    return elementBottom > viewportTop && elementTop < viewportBottom;
-};
-
 $(function() {
+    var $ = jQuery;
+    $.fn.isInViewport = function() {
+        var elementTop = $(this).offset().top;
+        var elementBottom = elementTop + $(this).outerHeight();
+
+        var viewportTop = $(window).scrollTop();
+        var viewportBottom = viewportTop + $(window).height();
+
+        return elementBottom > viewportTop && elementTop < viewportBottom;
+    };
+
     $(
         '.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeindown-ele,.fadeinup-ele2,.sep-flo,.circular-info,.little-gold-bar'
     ).css({
@@ -68,6 +68,7 @@ $(function() {
                 $('.fadeleft-ele').eq(i).addClass('delay-3');
             }
         }
+
         for (i = 0; i < $('.faderight-ele').length; i++) {
             if (
                 $('.faderight-ele').eq(i).isInViewport() &&
