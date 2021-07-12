@@ -33,8 +33,6 @@ $(function() {
     $(window).on('scroll', function() {
         // console.log(1);
 
-        checkvisible();
-
         $('.top-menu-div').css({
             background: 'rgb(33 34 45 / 92%)',
         });
@@ -56,6 +54,7 @@ $(function() {
         }
         console.log(888);
         // }
+        checkvisible();
     });
 
     function checkvisible() {
