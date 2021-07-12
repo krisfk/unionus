@@ -24,6 +24,7 @@ $(function() {
 
     $(window).on(' scroll', function() {
         checkvisible();
+        console.log(1);
     });
 
     function checkvisible() {
