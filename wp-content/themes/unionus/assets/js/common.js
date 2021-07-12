@@ -22,9 +22,12 @@ $(function() {
     $('.little-gold-bar').css({ width: '1px', opacity: 0 });
     checkvisible();
 
-    $(window).on(' scroll', function() {
-        checkvisible();
+    console.log(2);
+
+    $(window).on('scroll', function() {
         console.log(1);
+
+        checkvisible();
     });
 
     function checkvisible() {
