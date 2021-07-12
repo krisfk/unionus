@@ -25,7 +25,7 @@ get_header();
 
     <div class="container">
 
-        <div class="text-center">
+        <div class="text-center fadeinup-ele">
             <h1 class="mx-auto gold">
                 <?php echo get_field('content_part_0');?>
                 <!-- 關於我們 -->
@@ -35,7 +35,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center">
+        <div class="inner-container mx-auto mt-5 text-center fadein-ele">
             <?php echo get_field('content_part_1');?>
 
             <!-- 關於“Unionus 爾聯” 解讀作“Union”+“Us” ,聯繫你我之間緊密的關係的意思,為您提供優質且具人性化服務是我們創辦人成立“Unionus 爾聯”的宗旨。
