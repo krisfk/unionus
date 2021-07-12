@@ -2,7 +2,7 @@ $(function() {
     var $ = jQuery;
     $.fn.isInViewport = function() {
         // console.log($(this).offset());
-        console.log($(this));
+        console.log($(this).length);
         var elementTop = $(this).offset().top;
         var elementBottom = elementTop + $(this).outerHeight();
 
