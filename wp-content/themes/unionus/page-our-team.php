@@ -69,8 +69,8 @@ get_header();
     <div class="container">
 
 
-        <div class="row gx-5 inner-container2 mx-auto">
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 staff-col  mb-5 fadein-ele">
+        <div class="row gx-5 inner-container2 mx-auto fadein-ele">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12 staff-col  mb-5 ">
                 <h2 class="gold mt-3">
                     <?php echo get_field('content_part_3');?>
                     <!-- Joseph -->
