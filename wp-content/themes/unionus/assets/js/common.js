@@ -23,7 +23,7 @@ $(function() {
     // console.log(/1);
     // alert(3);
     window.onload = function() {
-        alert(5);
+        checkvisible();
     };
     // checkvisible();
     // });
