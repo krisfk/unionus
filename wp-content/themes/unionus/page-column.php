@@ -40,7 +40,7 @@ get_header();
 
             <!-- <div class="row"> -->
 
-            <div class="news-container mt-lg-5 mt-md-4 mt-sm-4 mt-4 ">
+            <div class="news-container mt-lg-5 mt-md-4 mt-sm-4 mt-4  fadein-ele">
 
                 <div class="news">
                     <div class="post-image-div w-50 d-inline-block float-start px-3"><img class="w-100"
