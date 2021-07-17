@@ -209,12 +209,12 @@ get_header();
 
                     </div>
 
-                    <div class="mt-3">
+                    <div class="mt-3 fadein-ele">
                         <?php echo get_field('content_part_17');?>
                         <!-- 此外，林律師還擁有（a）一般商業和企業諮詢工作;及（b）處理本地及海外客戶稅務、信託及遺囑的經驗，包括： -->
                     </div>
 
-                    <div class="mt-3">
+                    <div class="mt-3 fadein-ele">
                         <?php echo get_field('content_part_18');?>
 
                         <!-- <ul class="gold d-inline-block  text-start">
