@@ -26,7 +26,7 @@ get_header();
         <img class="sme-logo" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
 
 
-        <div class="text-center">
+        <div class="text-center fadeindown-ele">
             <h1 class="mx-auto gold">
                 <?php echo get_field('content_part_0'); ?>
 
@@ -39,7 +39,7 @@ get_header();
         </div>
 
 
-        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">
+        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center  fadeinup-ele">
 
             <?php echo get_field('content_part_1'); ?>
 
