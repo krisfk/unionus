@@ -26,7 +26,7 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">
+            <h1 class="mx-auto gold fadeindown-ele">
                 <?php echo get_field('content_part_0');?>
                 <!-- 大額清數方案 -->
             </h1>
@@ -35,7 +35,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center">
+        <div class="inner-container mx-auto mt-5 text-center fadeinup-ele">
             <?php echo get_field('content_part_1');?>
 
             <!-- 同時有一線及二線財務私人貸款，又需要清卡數及其他貸款等，不難想像加起來的利息有多可怕。雖然很多人都明白集中還款能夠節省利息及時間，但銀行又不能免TU申請大額清數，網上易批免TU清數的貸款額又不大，再向二三線財務借又只會令利息倍增。這個情況可以選擇我們的大額清數方案，真正協助你解決難題。 -->
