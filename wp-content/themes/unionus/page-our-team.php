@@ -69,14 +69,14 @@ get_header();
     <div class="container">
 
 
-        <div class="row gx-5 inner-container2 mx-auto fadein-ele">
+        <div class="row gx-5 inner-container2 mx-auto ">
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 staff-col  mb-5 ">
-                <h2 class="gold mt-3">
+                <h2 class="gold mt-3 fadeindown-ele">
                     <?php echo get_field('content_part_3');?>
                     <!-- Joseph -->
                 </h2>
                 <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
-                <div class="gold big-size">
+                <div class="gold big-size fadeinup-ele">
                     <?php echo get_field('content_part_4');?>
 
                     <!-- Partner/CPA (Practising) <br>
@@ -84,7 +84,7 @@ get_header();
                     債務重組專員 -->
 
                 </div>
-                <div class="mt-3">
+                <div class="mt-3 fadein-ele">
                     <?php echo get_field('content_part_5');?>
 
                     <!-- 吳先生過往一直為各大上市集團及私人企業提供會計和審核的工作，並為各階層就業人士提供報稅,審計和債務重組整合服務，憑藉過人的待客之道和熱誠在過往數年內處裡超過千宗成功個案。 -->
@@ -94,12 +94,12 @@ get_header();
 
 
             <div class="col-lg-6 col-md-12 col-sm-12 col-12  staff-col mb-5 ">
-                <h2 class="gold mt-3">
+                <h2 class="gold mt-3 fadeindown-ele">
                     <?php echo get_field('content_part_6');?>
                     <!-- Midas -->
                 </h2>
                 <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
-                <div class="gold big-size">
+                <div class="gold big-size fadeinup-ele">
                     <?php echo get_field('content_part_7');?>
                     <!-- Partner
                     <br>
@@ -108,7 +108,7 @@ get_header();
                     資深債務重組策劃 -->
 
                 </div>
-                <div class="mt-3">
+                <div class="mt-3 fadein-ele">
                     <?php echo get_field('content_part_8');?>
                     <!-- 創辦人之一的馬先生在過往數年內致力為各職業人士提供專業並有效的債務重組解決方案,根據每位客戶的疑問和困難提供獨立意見和作出分析，處理債務重組成功個案具備相當經驗，並獲得多次客戶推薦。 -->
 
@@ -124,12 +124,12 @@ get_header();
 
             <div class="row inner-container2 justify-content-center mx-auto fadein-ele">
                 <div class="col-12 staff-col">
-                    <h2 class="gold mt-4">
+                    <h2 class="gold mt-4 fadeindown-ele">
                         <?php echo get_field('content_part_9');?>
                         <!-- Alex Cheung -->
                     </h2>
                     <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
-                    <div class="gold big-size">
+                    <div class="gold big-size fadeinup-ele">
                         <?php echo get_field('content_part_10');?>
                         <!-- Finance Mannger
                         <br>
@@ -138,7 +138,7 @@ get_header();
 
 
                     </div>
-                    <div class="mt-3">
+                    <div class="mt-3 fadein-ele">
                         <?php echo get_field('content_part_11');?>
 
                         <!-- 提供有關保險,強積金有關專業意見， <br>並為各大中小企代辦公司開戶。 -->
