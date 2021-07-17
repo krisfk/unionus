@@ -260,7 +260,7 @@ get_header();
 
         </div>
 
-        <div class="row mt-lg-0 mt-md-5 mt-sm-5 mt-5">
+        <div class="row mt-lg-0 mt-md-5 mt-sm-5 mt-5  fadein-ele">
             <div class="col-12 gold">
                 <?php echo get_field('content_part_8');?>
 
@@ -283,8 +283,9 @@ get_header();
 
 
 
-    <?php echo get_field('content_part_9');?>
-
+    <div class="fadeleft-ele">
+        <?php echo get_field('content_part_9');?>
+    </div>
 
     <!-- <ul class="row-ul">
 
@@ -304,9 +305,10 @@ get_header();
         </li>
     </ul> -->
 
+    <div class="faderight-ele">
 
-    <?php echo get_field('content_part_10');?>
-
+        <?php echo get_field('content_part_10');?>
+    </div>
     <!-- <ul class="row-ul mt-5">
 
         <li>
@@ -326,9 +328,10 @@ get_header();
         </li>
     </ul> -->
 
+    <div class="fadeleft-ele">
 
-    <?php echo get_field('content_part_11');?>
-
+        <?php echo get_field('content_part_11');?>
+    </div>
     <!-- <ul class="row-ul mt-5">
 
         <li class=" text-center"><img class="big-icon"
@@ -350,9 +353,12 @@ get_header();
         </li>
     </ul> -->
 
-    <?php echo get_field('content_part_12');?>
+    <div class="faderight-ele">
 
 
+        <?php echo get_field('content_part_12');?>
+
+    </div>
     <!-- <ul class="row-ul mt-5">
 
         <li>
@@ -367,8 +373,9 @@ get_header();
         </li>
     </ul> -->
 
-    <?php echo get_field('content_part_13');?>
-
+    <div class="fadeleft-ele">
+        <?php echo get_field('content_part_13');?>
+    </div>
 
 
 
