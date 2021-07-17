@@ -57,7 +57,7 @@ get_header();
 
             </div> -->
 
-            <div class="mt-5">
+            <div class="mt-5 fadein-ele">
                 <?php echo get_field('content_part_2');?>
 
                 <!-- <h2 class="gold">IDRP的好處:</h2>
@@ -69,7 +69,7 @@ get_header();
 
 
 
-        <div class="mt-5 inner-container2 mx-auto">
+        <div class="mt-5 inner-container2 mx-auto fadein-ele">
             <?php echo get_field('content_part_3');?>
 
             <!-- <h2 class="gold">有關資格申請:</h2>
@@ -85,7 +85,7 @@ get_header();
 
             </ul> -->
 
-            <div>
+            <div class="fadein-ele">
 
                 <?php echo get_field('content_part_4');?>
 
@@ -109,16 +109,16 @@ get_header();
 
         </div>
 
-        <div class="text-center mt-7">
+        <div class="text-center mt-7 ">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">
+            <h2 class="gold mt-5 fadeinup-ele">
                 <?php echo get_field('content_part_5');?>
                 <!-- IVA，DRP和IDRP有什麼區別？ -->
             </h2>
         </div>
 
-        <div class="text-center mt-5 inner-container2 mx-auto">
+        <div class="text-center mt-5 inner-container2 mx-auto fadein-ele">
             <?php echo get_field('content_part_6');?>
             <!-- 
             與DRP/IVA債務舒緩/債務重組計劃相比，IDRP牽頭式債務舒緩的主要區別在於它只需要處理最大的債權人，而無需安排與其他債權人的個別談判，這在申請方面將更加簡單。
