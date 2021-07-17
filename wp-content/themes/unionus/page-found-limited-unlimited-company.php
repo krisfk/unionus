@@ -46,7 +46,7 @@ get_header();
             而無限公司股東則需要負上全部責任(無上限)。在決定是開設有限還是無限公司時，可以考慮業務規模及自己對此生意之投入程度。假如是涉及較多資產和債款的生意，申請有限公司可以保障個人財產;
             假如是小生意，開設無限公司的金錢及時間成本會較低。 -->
         </div>
-        <div class="text-center">
+        <div class="text-center fadein-ele">
             <div class="gold-table-div-wrapper inner-container2 mx-auto">
                 <img class="table-head-th-img"
                     src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
@@ -170,13 +170,13 @@ get_header();
 <section class="mt-7">
     <div class="container">
 
-        <h2 class="gold">
+        <h2 class="gold fadeindown-ele">
             <?php echo get_field('content_part_3');?>
 
             <!-- 申請方法 -->
         </h2>
-        <img class="w-100 mt-5 steps-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/steps-img.png"
-            alt="">
+        <img class="w-100 mt-5 steps-img fadein-ele"
+            src="<?php echo get_template_directory_uri(); ?>/assets/images/steps-img.png" alt="">
 
         <div class="row">
 
