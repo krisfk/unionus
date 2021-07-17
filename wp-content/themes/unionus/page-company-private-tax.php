@@ -329,14 +329,14 @@ get_header();
 
 
 
-        <div class="text-center mt-5 inner-container2 mx-auto">
+        <div class="text-center mt-5 inner-container2 mx-auto fadein-ele">
             <div class="gold-table-div-wrapper w-100">
 
                 <img class="table-head-th-img"
                     src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/table-head-th.png" alt="">
 
 
-                <div class="gold-table-div w-100 fadein-ele">
+                <div class="gold-table-div w-100 ">
 
                     <?php echo get_field('content_part_15');?>
 
