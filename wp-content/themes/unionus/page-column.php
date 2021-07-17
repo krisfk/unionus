@@ -102,7 +102,7 @@ get_header();
 
             <div class="row mt-6">
 
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 fadeleft-ele">
 
 
                     <div class="d-flex align-center gold">
@@ -165,7 +165,7 @@ get_header();
 
 
                 </div>
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 faderight-ele">
 
 
                     <div class="d-flex align-center gold">
@@ -228,7 +228,7 @@ get_header();
 
 
                 </div>
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 fadeleft-ele">
 
 
                     <div class="d-flex align-center gold">
@@ -291,7 +291,7 @@ get_header();
 
 
                 </div>
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 faderight-ele">
 
 
                     <div class="d-flex align-center gold">
