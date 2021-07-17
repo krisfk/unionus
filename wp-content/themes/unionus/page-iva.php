@@ -204,7 +204,7 @@ get_header();
                 </div>
 
 
-                <div class="row gx-5 justify-content-center mt-6">
+                <div class="row gx-5 justify-content-center mt-6 fadein-ele">
 
                     <div class="col-12 position-relative gold-table-div-wrapper-col">
                         <div class="gold-table-div-wrapper">
