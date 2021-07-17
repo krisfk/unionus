@@ -448,8 +448,7 @@ get_header();
 
 
 
-                <li class="fadein-ele wow fadeInUp animated"
-                    style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class="fadein-ele wow  animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
 
                     <?php echo get_field('content_part_25');?>
 
