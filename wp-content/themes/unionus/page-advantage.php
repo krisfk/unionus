@@ -125,9 +125,9 @@ get_header();
         </div>
 
 
-        <div class="mt-6 text-center fadein-ele">
-            <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
-                alt="">
+        <div class="mt-6 text-center ">
+            <img class="flo-icon fadeindown-ele"
+                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt="">
 
             <h2 class="mt-3 gold text-center fadeinup-ele">
                 <?php echo get_field('content_part_10');?>
