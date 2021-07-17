@@ -1191,10 +1191,12 @@ h2 {
     border-radius: 46px;
     padding: 13px 30px;
     float: right;
+    transition: 0.2s all;
 }
 
 .know-more-btn:hover {
     color: #fff;
+    opacity: 0.85;
 }
 
 .know-more-btn p {
