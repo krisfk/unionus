@@ -54,25 +54,27 @@ get_header();
             合資格企業為二○二○年六月三十日前已最少營運三個月，並自去年二月份起任何一個單月營業額較該單月前於二○一九年初至二○二○年中的任何一個季度的平均每月營業額下跌三成或以上。每家企業最高貸款額提高至18個月僱員薪金及租金的總和，或600萬港元。以較低者為準。同時，特惠貸款的最長還款期增加至八年，而還息不還本的安排則增加至最多18個月。 -->
 
         </div>
-        <div class="inner-container mx-auto mt-6  fadein-ele">
+        <div class="inner-container mx-auto mt-6  ">
 
 
-            <?php echo get_field('content_part_2'); ?>
+            <div class="fadein-ele">
+                <?php echo get_field('content_part_2'); ?>
+            </div>
             <!-- <img class="w-100" src="https://unionus.com.hk/wp-content/uploads/2021/06/sem-graph.png" alt=""> -->
 
 
             <div class="mt-6">
-                <img class="flo-icon" src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
-                    alt="">
+                <img class="flo-icon fadeindown-ele"
+                    src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt="">
 
-                <h2 class="mt-3 gold text-center">
+                <h2 class="mt-3 gold text-center fadein-ele">
                     <?php echo get_field('content_part_3'); ?>
 
                     <!-- 「百分百擔保特惠貸款計劃」<br>
                     為我提供多少資金？ -->
                 </h2>
 
-                <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">
+                <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center fadein-ele">
                     <?php echo get_field('content_part_4'); ?>
 
                     <!-- 百分百擔保特惠貸款的申請最高金額為600萬港元，或者公司員工的每月薪金加每月租金乘以18的總和，以數值最低者為準。 -->
