@@ -465,6 +465,10 @@ $(function() {
 
             });
 
+            $('.iframe').css({
+                'left': '15%'
+            });
+
         } else {
 
             $('.rolling-slogan').css({
@@ -474,6 +478,12 @@ $(function() {
                     'px',
 
             });
+
+
+            $('.iframe').css({
+                'left': '0'
+            });
+
         }
 
     }
