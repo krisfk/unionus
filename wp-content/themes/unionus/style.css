@@ -745,6 +745,7 @@ section {
     /* float: left; */
     background: none;
     top: 3px;
+    opacity: 1 !important;
 }
 
 .top-menu-div .top-menu li .lang-div {
