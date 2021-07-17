@@ -179,7 +179,7 @@ get_header();
 
 
 
-        <div class="text-center mt-5">
+        <div class="text-center mt-5 fadein-ele">
             <?php echo get_field('content_part_5');?>
 
             <!-- 由於會計的最終責任在於董事身上，作為董事最好學習一下基本會計知識，這樣才能於公司賬目有失誤時及早察覺並更正。 -->
