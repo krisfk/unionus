@@ -26,13 +26,13 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold">專欄</h1>
+            <h1 class="mx-auto gold fadeindown-ele">專欄</h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center">
+        <div class="inner-container mx-auto mt-5 text-center fadeinup-ele">
 
             <h2 class="gold">最新文章</h2>
 
