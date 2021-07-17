@@ -71,7 +71,7 @@ get_header();
         </div>
 
 
-        <div class="text-center mt-7">
+        <div class="text-center mt-7 fadein-ele">
 
             <div class="little-gold-bar mx-auto"></div>
             <h2 class="gold mt-5">
@@ -83,12 +83,13 @@ get_header();
 
 
 
-        <div class="mt-6 text-center">
-            <div><img class="flo-icon" src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
-                    alt=""></div>
+        <div class="mt-6 text-center ">
+            <div><img class="flo-icon fadeindown-ele"
+                    src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt=""></div>
 
-            <?php echo get_field('content_part_4');?>
-
+            <div class="fadein-ele">
+                <?php echo get_field('content_part_4');?>
+            </div>
 
             <!-- <h2 class="gold text-center">
 
@@ -96,8 +97,9 @@ get_header();
                 預計時間(由提出申請日起計)
             </h2> -->
 
-            <?php echo get_field('content_part_5');?>
-
+            <div class="fadein-ele">
+                <?php echo get_field('content_part_5');?>
+            </div>
             <!-- <h2 class="mt-5"><span class="gold">第</span>1<span class="gold">階段</span></h2>
 
             <div class="mt-5">債務人帶備有關債項及入息等資料進行IVA債務重組諮詢及分析，得到我們接納辦理後， 由代名人爾聯會計師擬定還款建議書
@@ -162,7 +164,7 @@ get_header();
 
             <h2><span class="gold">第</span>3<span class="gold">階段</span></h2> -->
 
-            <div class="inner-container2 mx-auto">
+            <div class="inner-container2 mx-auto fadein-ele">
                 <div>
                     <?php echo get_field('content_part_6');?>
 
