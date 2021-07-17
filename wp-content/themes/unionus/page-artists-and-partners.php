@@ -37,9 +37,9 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5   text-center fadeinup-ele">
+        <div class="inner-container mx-auto mt-5   text-center ">
 
-            <h2 class="gold fadein-ele">
+            <h2 class="gold fadeinup-ele">
                 <?php echo get_field('content_part_1'); ?>
 
                 <!-- Master Mic -->
