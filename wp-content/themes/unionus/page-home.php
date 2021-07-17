@@ -444,7 +444,7 @@ $(function() {
         adjust_slogan();
     }, 1000);
 
-    $(window).change(function() {
+    $(window).resize(function() {
 
         adjust_slogan();
 
