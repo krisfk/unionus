@@ -25,7 +25,7 @@ get_header();
 
     <div class="container">
 
-        <div class="text-center">
+        <div class="text-center  fadeindown-ele">
             <h1 class="mx-auto gold">
                 <?php echo get_field('content_part_0');?>
                 <!-- IVA 個人自願安排/債務重組 -->
@@ -35,7 +35,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container2 mx-auto mt-5 text-start">
+        <div class="inner-container2 mx-auto mt-5 text-start fadeinup-ele">
             <?php echo get_field('content_part_1');?>
 
             <!-- 根據破產條例第6章第20條，個人自願安排 (Individual Voluntary Arrangement，IVA 債務重組)
