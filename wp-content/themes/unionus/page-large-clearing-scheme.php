@@ -44,7 +44,7 @@ get_header();
 
 
 
-        <div class="row gx-5 justify-content-center mt-6">
+        <div class="row gx-5 justify-content-center mt-6 fadein-ele">
 
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 position-relative gold-table-div-wrapper-col">
                 <div class="gold-table-div-wrapper">
