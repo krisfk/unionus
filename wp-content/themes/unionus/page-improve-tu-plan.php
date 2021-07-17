@@ -48,7 +48,7 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5 fadein-ele">
+            <h2 class="gold mt-5 fadeinup-ele">
                 <?php echo get_field('content_part_1');?>
                 <!-- 信貸評分因素 -->
             </h2>
