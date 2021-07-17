@@ -132,7 +132,7 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">
+            <h2 class="gold mt-5 fadeinup-ele">
                 <?php echo get_field('content_part_7');?>
 
                 <!-- 常見問題 -->
@@ -141,7 +141,7 @@ get_header();
 
         <div class="inner-container2 mx-auto">
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_8');?>
 
                 <!-- <div class="big-size gold">1.我要支付多少服務費？</div>
@@ -149,7 +149,7 @@ get_header();
                 </div> -->
             </div>
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_9');?>
 
                 <!-- <div class="big-size gold">2.我的利息支出減少多少？</div>
@@ -158,7 +158,7 @@ get_header();
                 </div> -->
             </div>
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_10');?>
 
                 <!-- <div class="big-size gold">3.整個過程需要多長時間？
@@ -167,7 +167,7 @@ get_header();
 
                 </div> -->
             </div>
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_11');?>
 
                 <!-- <div class="big-size gold">4.是否會影響我的信用信譽？
@@ -177,7 +177,7 @@ get_header();
 
                 </div> -->
             </div>
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_12');?>
 
                 <!-- <div class="big-size gold">5.如果申請IDRP遭到拒絕，我還有其他選擇嗎？
