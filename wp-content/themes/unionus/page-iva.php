@@ -434,7 +434,7 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">
+            <h2 class="gold mt-5 fadeinup-ele">
                 <?php echo get_field('content_part_24');?>
 
                 <!-- IVA 個人自願安排/債務重組 <br>
