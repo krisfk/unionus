@@ -154,7 +154,7 @@ get_header();
 
 
                     <div class="mt-6">
-                        <img class="flo-icon"
+                        <img class="flo-icon fadeindown-ele"
                             src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt="">
 
                         <h2 class="mt-3 gold text-center fadeinup-ele">
@@ -166,7 +166,7 @@ get_header();
                         <br>
 
 
-                        <div>
+                        <div class="fadein-ele">
                             <?php echo get_field('content_part_9'); ?>
 
                             <!-- 由香港按證公司列出百分百擔保特惠貸款的主要統計數據，按證保險公司百分百擔保特惠貸款已批出28,000宗, 合供450億港元！ <br> <br>
@@ -176,13 +176,15 @@ get_header();
                         </div>
                     </div>
 
-                    <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+                    <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 fadein-ele">
                         <?php echo get_field('content_part_10'); ?>
 
                         <!-- 事實上，香港有很多中小企業申請「百分百擔保特惠貸款」時，即使符合申請條件，他們還是很容易遇上各種困難，例如： -->
                     </div>
 
-                    <?php echo get_field('content_part_11'); ?>
+                    <div class="fadein-ele">
+                        <?php echo get_field('content_part_11'); ?>
+                    </div>
                     <!-- <ul class="mt-lg-5 mt-md-5 mt-sm-4 mt-4  gold p-0">
 
                         <li class="d-inline-block me-4">．不擅長處理文書工作</li>
