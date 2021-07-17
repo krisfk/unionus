@@ -45,11 +45,11 @@ get_header();
         </div>
 
 
-        <div class="text-center mt-7 fadein-ele">
+        <div class="text-center mt-7 fadeinup-ele">
 
             <div class="little-gold-bar mx-auto"></div>
 
-            <div class="fadein-ele">
+            <div class="">
                 <?php echo get_field('content_part_2');?>
             </div>
             <!-- <h2 class="gold mt-5"> -->
