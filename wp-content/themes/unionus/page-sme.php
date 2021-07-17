@@ -298,7 +298,7 @@ get_header();
                 src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
 
-        <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+        <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 fadein-ele">
             <!-- content part 19 -->
 
             <?php
