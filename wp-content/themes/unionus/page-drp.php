@@ -151,7 +151,7 @@ get_header();
         </div>
 
 
-        <div class="inner-container2 mx-auto">
+        <div class="inner-container2 mx-auto fadein-ele">
 
             <?php echo get_field('content_part_5');?>
 
