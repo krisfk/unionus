@@ -36,7 +36,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center">
+        <div class="inner-container mx-auto mt-5 text-center fadein-ele">
             <?php echo get_field('content_part_1');?>
 
             <!-- 根據香港法例第622
@@ -56,7 +56,7 @@ get_header();
 
         <div class="row gx-5">
 
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative gold-table-div-wrapper-col">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative gold-table-div-wrapper-col fadeleft-ele">
                 <div class="gold-table-div-wrapper">
 
                     <img class="table-head-th-img"
