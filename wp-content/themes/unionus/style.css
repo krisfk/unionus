@@ -2158,6 +2158,9 @@ p {
 @media only screen and (max-width: 1280px) {
     .rolling-slogan {
         font-size: 40px;
+        background: #21212b9c;
+        padding: 30px;
+        border-radius: 36px;
     }
     .top-menu-div li:first-child {
         display: block !important;
