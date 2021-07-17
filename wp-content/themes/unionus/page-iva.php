@@ -293,7 +293,7 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">
+            <h2 class="gold mt-5 fadeinup-ele">
                 <?php echo get_field('content_part_11');?>
 
                 <!-- IVA的常見問題 -->
@@ -303,13 +303,13 @@ get_header();
 
         <div class="inner-container mx-auto">
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_12');?>
 
                 <!-- <div class="gold big-size">1.申請IVA的過程需時多久？</div>
                 一般來說，由簽署文件，宣誓，排期上庭直到開債權人會議，約需三個月時間，全程會由具我們會計師與律師跟進，保障閣下的私隱。 -->
             </div>
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_13');?>
 
                 <!-- <div class="gold big-size">2.辦理IVA會否通知其僱主或家人？</div>
@@ -317,7 +317,7 @@ get_header();
             </div>
 
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_14');?>
 
                 <!-- <div class="gold big-size">3.有物業可否辦理IVA？</div>
@@ -326,7 +326,7 @@ get_header();
 
 
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_15');?>
 
                 <!-- <div class="gold big-size">4.自僱人士能否辦理IVA？</div>
@@ -334,7 +334,7 @@ get_header();
 
             </div>
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_16');?>
 
                 <!-- <div class="gold big-size">5.申請IVA期間債務人需要繼續償還債權人之欠款嗎？</div>
@@ -342,7 +342,7 @@ get_header();
 
             </div>
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_17');?>
 
                 <!-- <div class="gold big-size">6.根據法例規定，怎樣為之正式通過IVA申請？</div>
@@ -351,7 +351,7 @@ get_header();
 
 
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_18');?>
 
                 <!-- <div class="gold big-size">7.IVA供款期間可否借貸？</div>
@@ -362,7 +362,7 @@ get_header();
 
 
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_19');?>
 
                 <!-- <div class="gold big-size">8.IVA 的費用是怎計算的?可分期支付嗎?</div>
@@ -372,7 +372,7 @@ get_header();
 
 
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_20');?>
 
                 <!-- <div class="gold big-size">9.諮詢IVA過程是否需要收費？</div>
@@ -382,7 +382,7 @@ get_header();
 
 
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_21');?>
 
                 <!-- <div class="gold big-size">10.IVA供款期間如遇失業或減薪應怎樣處理？</div>
@@ -393,7 +393,7 @@ get_header();
 
 
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_22');?>
 
                 <!-- <div class="gold big-size">11.我們都可於高等法院的網頁上查閱有關紀錄？</div>
@@ -404,7 +404,7 @@ get_header();
 
 
 
-            <div class="mt-5">
+            <div class="mt-5 fadeleft-ele">
                 <?php echo get_field('content_part_23');?>
 
                 <!-- <div class="gold big-size">12.IVA，DRP及IDRP有何分別？</div>
