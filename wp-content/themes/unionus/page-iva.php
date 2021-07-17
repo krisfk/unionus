@@ -562,8 +562,7 @@ get_header();
                     </div> -->
                 </li>
 
-                <li class="fadein-ele wow fadeInUp animated"
-                    style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class="fadein-ele wow animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <?php echo get_field('content_part_26');?>
 
                     <!-- <div class="name">
@@ -632,8 +631,7 @@ get_header();
 
                     </div> -->
                 </li>
-                <li class="fadein-ele wow fadeInUp animated"
-                    style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class="fadein-ele wow animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
 
                     <?php echo get_field('content_part_27');?>
 
@@ -731,8 +729,7 @@ get_header();
 
                     </div> -->
                 </li>
-                <li class="fadein-ele wow fadeInUp animated"
-                    style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class="fadein-ele wow animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <?php echo get_field('content_part_28');?>
 
                     <!-- <div class="name">
@@ -865,8 +862,7 @@ get_header();
                         </div>
                     </div> -->
                 </li>
-                <li class="fadein-ele wow fadeInUp animated"
-                    style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class="fadein-ele wow animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
                     <?php echo get_field('content_part_29');?>
 
                     <!-- <div class="name">
