@@ -175,7 +175,7 @@ get_header();
 
             <!-- 申請方法 -->
         </h2>
-        <img class="w-100 mt-5 steps-img fadein-ele"
+        <img class="w-100 mt-5 steps-img fadeleft-ele"
             src="<?php echo get_template_directory_uri(); ?>/assets/images/steps-img.png" alt="">
 
         <div class="row">
