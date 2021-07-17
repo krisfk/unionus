@@ -360,8 +360,8 @@ get_header();
             <div class="text-center mt-7">
 
                 <div class="little-gold-bar mx-auto"></div>
-                <div class=" mt-5">全部文章</div>
-                <h2 class="gold mt-2">文章列表</h2>
+                <div class=" mt-5 fadeinup-ele">全部文章</div>
+                <h2 class="gold mt-2 fadeinup-ele">文章列表</h2>
             </div>
 
 
@@ -374,7 +374,7 @@ get_header();
             for($i=0;$i<8;$i++)
             {
                 ?>
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-5">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-5  fadein-ele">
                     <div class="news">
                         <div class="post-image-div w-50 d-inline-block float-start px-3"><img class="w-100"
                                 src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
