@@ -25,7 +25,7 @@ get_header();
 
     <div class="container">
 
-        <div class="text-center fadeinup-ele">
+        <div class="text-center fadeindown-ele">
             <h1 class="mx-auto gold">
                 <?php echo get_field('content_part_0');?>
                 <!-- 破產 -->
@@ -36,7 +36,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 fadein-ele">
+        <div class="inner-container mx-auto mt-5 fadeinup-ele">
             <?php echo get_field('content_part_1');?>
 
             <!-- 因為破產對個人信貸紀錄影響深遠及會為生活帶來一定限制，一般來說的確是最壞打算。但若果真的無力償還債務，又未能符合到申請債務舒緩(DRP)或個人自願安排(IVA)的條件，迫不得已下還是只好向法院提交破產呈請。申請人可以自行提交破產呈請或由專業人士代辦。
