@@ -241,15 +241,15 @@ get_header();
             <div><img class="flo-icon fadeindown-ele"
                     src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt=""></div>
 
-            <div class="row inner-container2 justify-content-center mx-auto fadein-ele">
+            <div class="row inner-container2 justify-content-center mx-auto">
                 <div class="col-12 staff-col">
-                    <h2 class="gold mt-4">
+                    <h2 class="gold mt-4 fadeindown-ele">
                         <?php echo get_field('content_part_19');?>
                         <!-- Gary Li -->
 
                     </h2>
                     <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
-                    <div class="gold big-size">
+                    <div class="gold big-size fadeinup-ele">
                         <?php echo get_field('content_part_20');?>
                         <!-- Master of Laws, Master of Accounting, MMed.Sc., M.Sc
 
@@ -260,7 +260,7 @@ get_header();
 
 
                     </div>
-                    <div class="mt-3">
+                    <div class="mt-3 fadein-ele">
                         <?php echo get_field('content_part_21');?>
 
                         <!-- 在李律師曾在2000年至2007年出任執業大律師,並由2009年成為執業律師至今，現任Unionus爾聯的法律顧問，豐富的經驗令李律師得以完善解決客戶目前面對的問題。 -->
@@ -269,12 +269,12 @@ get_header();
 
 
                     </div>
-                    <div class="gold mt-4 big-size">
+                    <div class="gold mt-4 big-size fadein-ele">
                         <?php echo get_field('content_part_22');?>
                         <!-- 主要服務項目： -->
                     </div>
 
-                    <div class="mt-3 d-flex justify-content-center">
+                    <div class="mt-3 d-flex justify-content-center fadein-ele">
                         <?php echo get_field('content_part_23');?>
 
                         <!-- <ul class="gold d-inline-block text-start">
