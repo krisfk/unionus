@@ -411,7 +411,10 @@ $(function() {
 
 
 
+    $('.know-more-btn').click(function() {
 
+        $('.dot1.dot').click();
+    });
 
 
 
