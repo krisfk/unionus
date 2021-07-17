@@ -208,10 +208,13 @@ get_header();
             **因為審計及會計必須是一年帶一年的做，如遺失了以前的報稅及會計記錄，可去信稅局要求寄回先前的文件遞交記錄(需支付相關費用) -->
         </div>
 
-        <div class="text-center mt-7">
+        <div class="text-center mt-7 ">
 
             <div class="little-gold-bar mx-auto"></div>
-            <?php echo get_field('content_part_11');?>
+
+            <div class="fadeinup-ele">
+                <?php echo get_field('content_part_11');?>
+            </div>
             <!-- 
 
             <h2 class="gold mt-5">報稅後</h2>
