@@ -141,7 +141,7 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">
+            <h2 class="gold mt-5 fadeinup-ele">
                 <?php echo get_field('content_part_6');?>
 
                 <!-- 報稅需要提交什麼？ -->
@@ -151,7 +151,7 @@ get_header();
 
         <div class="row mt-6 gx-5">
 
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12  text-center mb-5">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12  text-center mb-5 fadeleft-ele">
 
                 <?php echo get_field('content_part_7');?>
 
@@ -169,7 +169,7 @@ get_header();
 
 
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12 text-center mb-5">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 text-center mb-5 fadein-ele">
                 <?php echo get_field('content_part_8');?>
 
                 <!-- 
@@ -187,7 +187,7 @@ get_header();
                 </div> -->
 
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12 text-center mb-5">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 text-center mb-5 faderight-ele">
 
                 <?php echo get_field('content_part_9');?>
 
