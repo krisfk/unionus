@@ -25,7 +25,7 @@ get_header();
 
     <div class="container">
 
-        <div class="text-center">
+        <div class="text-center fadeindown-ele">
             <h1 class="mx-auto gold">
                 <?php echo get_field('content_part_0');?>
                 <!-- 什麼是IDRP（牽頭式債務舒緩）？ -->
@@ -36,8 +36,9 @@ get_header();
             <div class="sep mx-auto mt-3"> <img class="sep-flo"
                     src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-            <?php echo get_field('content_part_1');?>
-
+            <div class="fadeinup-ele">
+                <?php echo get_field('content_part_1');?>
+            </div>
 
             <!-- <div class="inner-container mx-auto mt-5 text-center">
                 <span class="big-size">IDRP</span>
