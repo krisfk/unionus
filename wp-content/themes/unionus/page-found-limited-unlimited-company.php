@@ -180,7 +180,7 @@ get_header();
 
         <div class="row">
 
-            <div class="col-lg-3 col-md-12 col-sm-12 col-12  step-col step-col-1">
+            <div class="col-lg-3 col-md-12 col-sm-12 col-12  step-col step-col-1  fadeinup-ele">
 
                 <?php echo get_field('content_part_4');?>
 
@@ -200,7 +200,7 @@ get_header();
             </div>
 
 
-            <div class="col-lg-3 col-md-12 col-sm-12 col-12 step-col step-col-2">
+            <div class="col-lg-3 col-md-12 col-sm-12 col-12 step-col step-col-2 fadeinup-ele">
                 <?php echo get_field('content_part_5');?>
 
                 <!-- <div class="step-name">
@@ -219,7 +219,7 @@ get_header();
             </div>
 
 
-            <div class="col-lg-3 col-md-12 col-sm-12 col-12 step-col step-col-3">
+            <div class="col-lg-3 col-md-12 col-sm-12 col-12 step-col step-col-3  fadeinup-ele">
                 <?php echo get_field('content_part_6');?>
                 <!-- 
                 <div class="step-name">
@@ -241,7 +241,7 @@ get_header();
             </div>
 
 
-            <div class="col-lg-3 col-md-12 col-sm-12 col-12 step-col step-col-4">
+            <div class="col-lg-3 col-md-12 col-sm-12 col-12 step-col step-col-4  fadeinup-ele">
                 <?php echo get_field('content_part_7');?>
 
                 <!-- <div class="step-name">
