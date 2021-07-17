@@ -39,14 +39,14 @@ get_header();
         </div>
 
 
-        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center fadein-ele">
+        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center ">
 
-            <h2 class="gold">
+            <h2 class="gold fadeinup-ele">
                 <?php echo get_field('content_part_1');?>
                 <!-- 童叟無欺 -->
             </h2>
 
-            <div class="mt-4">
+            <div class="mt-4 fadein-ele">
                 <?php echo get_field('content_part_2');?>
 
                 <!-- 爾聯 Unionus 由創辦人成立至今保持一貫公開且透明的服務,良好的信譽是我們的宗旨。
@@ -58,12 +58,14 @@ get_header();
 
         <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center fadein-ele">
 
-            <h2 class="gold">
+            <h2 class="gold fadeinup-ele">
                 <?php echo get_field('content_part_3');?>
                 <!-- 我們承諾: -->
             </h2>
 
-            <?php echo get_field('content_part_4');?>
+            <div class="fadein-ele">
+                <?php echo get_field('content_part_4');?>
+            </div>
             <!-- <ul class="d-inline-block text-start p-0">
                 <li>不成功不收費</li>
                 <li>以客為本</li>
@@ -80,7 +82,7 @@ get_header();
             <img class="flo-icon fadeindown-ele"
                 src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt="">
 
-            <h2 class="mt-3 gold text-center fadein-ele">
+            <h2 class="mt-3 gold text-center fadeinup-ele">
                 <?php echo get_field('content_part_5');?>
                 <!-- 效率性 -->
             </h2>
@@ -97,7 +99,7 @@ get_header();
             <img class="flo-icon fadeindown-ele"
                 src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt="">
 
-            <h2 class="mt-3 gold text-center fadein-ele">
+            <h2 class="mt-3 gold text-center fadeinup-ele">
                 <?php echo get_field('content_part_7');?>
                 <!-- 專業認可 -->
 
@@ -127,7 +129,7 @@ get_header();
             <img class="flo-icon" src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png"
                 alt="">
 
-            <h2 class="mt-3 gold text-center">
+            <h2 class="mt-3 gold text-center fadeinup-ele">
                 <?php echo get_field('content_part_10');?>
                 <!-- 分期付款 -->
 
@@ -135,7 +137,7 @@ get_header();
             </h2>
 
 
-            <div class="mt-4">
+            <div class="mt-4 fadein-ele">
                 <?php echo get_field('content_part_11');?>
                 <!-- 所有服務項目爾聯Unionus盡可能為您的生活/工作減輕壓力,我們希望可以為閣下提供分期形式付費，以此達成雙方共識. -->
 
