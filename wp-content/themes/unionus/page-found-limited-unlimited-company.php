@@ -36,7 +36,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 fadein-ele">
+        <div class="inner-container mx-auto mt-5 fadeinup-ele">
             <?php echo get_field('content_part_1');?>
 
             <!-- 根據《商業登記條例》（第 310
