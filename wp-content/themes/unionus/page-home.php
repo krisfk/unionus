@@ -441,16 +441,40 @@ $(function() {
         }, 1000);
 
 
-
+        adjust_slogan();
     }, 1000);
 
-    $('.rolling-slogan').css({
-        'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
-        'opacity': '1',
-        'margin-left': ($(window).width() - $('.rolling-slogan').width()) / 2 +
-            'px',
+    $(window).change(function() {
 
-    });
+        adjust_slogan();
+
+    })
+
+    function adjust_slogan() {
+
+        if ($(window).width() > 1280) {
+
+            $('.rolling-slogan').css({
+                'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
+                'opacity': '1',
+                'margin-left': ($(window).width() / 2 - $('.rolling-slogan').width()) / 2 +
+                    'px',
+
+            });
+
+        } else {
+
+            $('.rolling-slogan').css({
+                'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
+                'opacity': '1',
+                'margin-left': ($(window).width() - $('.rolling-slogan').width()) / 2 +
+                    'px',
+
+            });
+        }
+
+    }
+
 
 
     function changeDot() {
