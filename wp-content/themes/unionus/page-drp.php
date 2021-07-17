@@ -192,7 +192,7 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">
+            <h2 class="gold mt-5 fadeinup-ele">
                 <?php echo get_field('content_part_6');?>
 
                 <!-- DRP債務舒緩成功案例 -->
@@ -202,7 +202,8 @@ get_header();
 
         <div class="mt-5 drp-case-div">
             <ul>
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadein-ele animated"
+                    style="opacity: 1; visibility: visible; opacity: 1; visibility: visible;">
 
                     <?php echo get_field('content_part_7');?>
 
@@ -291,7 +292,8 @@ get_header();
         </div>
     </div> -->
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadein-ele animated"
+                    style="opacity: 1; visibility: visible; opacity: 1; visibility: visible;">
 
                     <?php echo get_field('content_part_8');?>
 
@@ -404,7 +406,8 @@ get_header();
                         </div>
                     </div> -->
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadein-ele animated"
+                    style="opacity: 1; visibility: visible; opacity: 1; visibility: visible;">
 
                     <?php echo get_field('content_part_9');?>
 
@@ -477,7 +480,8 @@ get_header();
                         </div>
                     </div> -->
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadein-ele animated"
+                    style="opacity: 1; visibility: visible; opacity: 1; visibility: visible;">
 
                     <?php echo get_field('content_part_10');?>
 
@@ -553,7 +557,8 @@ get_header();
                 </li>
 
 
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadein-ele animated"
+                    style="opacity: 1; visibility: visible; opacity: 1; visibility: visible;">
 
                     <?php echo get_field('content_part_11');?>
 
@@ -653,7 +658,7 @@ get_header();
                 </li>
 
                 <!--
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadein-ele animated" style="opacity: 1; visibility: visible; opacity: 1; visibility: visible;">
                     <div class="name">職業：Office　月入：$17,915 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -751,7 +756,7 @@ get_header();
                     </div>
                 </li>
 
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadein-ele animated" style="opacity: 1; visibility: visible; opacity: 1; visibility: visible;">
                     <div class="name">職業：Salon　月入：$10,000 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -809,7 +814,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadein-ele animated" style="opacity: 1; visibility: visible; opacity: 1; visibility: visible;">
                     <div class="name">職業：CS　月入：$16,600 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -893,7 +898,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadein-ele animated" style="opacity: 1; visibility: visible; opacity: 1; visibility: visible;">
                     <div class="name">職業：Designer　月入：$22,800 </div>
                     <div class="nr">
                         <table cellspacing="0px">
@@ -1016,7 +1021,7 @@ get_header();
                         </dl>
                     </div>
                 </li>
-                <li class=" wow fadeInUp animated" style="opacity: 1; visibility: visible; animation-name: fadeInUp;">
+                <li class=" wow fadein-ele animated" style="opacity: 1; visibility: visible; opacity: 1; visibility: visible;">
                     <div class="name">職業：Accounting　月入：$42,000 </div>
                     <div class="nr">
                         <table cellspacing="0px">
