@@ -46,7 +46,7 @@ get_header();
 
         </div>
 
-        <div class="mt-5 inner-container2 mx-auto">
+        <div class="mt-5 inner-container2 mx-auto fadein-ele">
             <?php echo get_field('content_part_2');?>
 
             <!-- <h2 class="gold">申請資格</h2>
