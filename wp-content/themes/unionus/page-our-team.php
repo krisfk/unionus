@@ -156,21 +156,21 @@ get_header();
             <div><img class="flo-icon fadeindown-ele"
                     src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt=""></div>
 
-            <div class="row inner-container2 justify-content-center mx-auto fadein-ele">
+            <div class="row inner-container2 justify-content-center mx-auto ">
                 <div class="col-12 staff-col">
-                    <h2 class="gold mt-4">
+                    <h2 class="gold mt-4 fadeindown-ele">
                         <?php echo get_field('content_part_12');?>
                         <!-- Solicitor -->
                     </h2>
                     <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
-                    <div class="gold big-size">
+                    <div class="gold big-size fadeinup-ele">
                         <?php echo get_field('content_part_13');?>
 
                         <!-- LLB法律學士 -->
 
 
                     </div>
-                    <div class="mt-3">
+                    <div class="mt-3 fadein-ele">
                         <?php echo get_field('content_part_14');?>
 
                         <!-- 在法律事務有豐富的經驗並為註冊律師,同時擔任爾聯Unionus的榮譽法律顧問，並與客戶和其他相關專業人士建立了廣泛的網絡。他經常受個人和企業客戶委託處理破產與IVA個人自願安排，住宅，工業和商業房地產有關的各種法律服務，包括
