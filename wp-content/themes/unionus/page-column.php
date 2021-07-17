@@ -32,9 +32,9 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center fadeinup-ele">
+        <div class="inner-container mx-auto mt-5 text-center ">
 
-            <h2 class="gold">最新文章</h2>
+            <h2 class="gold fadeinup-ele">最新文章</h2>
 
 
 
