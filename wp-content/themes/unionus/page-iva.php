@@ -164,14 +164,14 @@ get_header();
 
             <h2><span class="gold">第</span>3<span class="gold">階段</span></h2> -->
 
-            <div class="inner-container2 mx-auto fadein-ele">
-                <div>
+            <div class="inner-container2 mx-auto">
+                <div class="fadein-ele">
                     <?php echo get_field('content_part_6');?>
 
                     <!-- 獲出席和投票的債權人或其代表以大多數通過決議（即佔出席及投票債權人所持債款總值75%以上），債務重組實行，每月依時繳交還款，再由代名人安排還款予債權人。 -->
                 </div>
 
-                <div class="mt-5 text-start">
+                <div class="mt-5 text-start fadeinup-ele">
                     <?php echo get_field('content_part_7');?>
 
                     <!-- <h2 class="gold">
@@ -181,7 +181,7 @@ get_header();
                     </div> -->
                 </div>
 
-                <div class="mt-5 text-end">
+                <div class="mt-5 text-end fadeinup-ele">
                     <?php echo get_field('content_part_8');?>
 
                     <!-- <h2 class="gold">
@@ -192,7 +192,7 @@ get_header();
                         讓債務人依新方案將債項完全清還，一般還款利息可較原先降低達70%，避免破產，重新開展新生活。 </div> -->
                 </div>
 
-                <div class="mt-5 text-start">
+                <div class="mt-5 text-start fadeinup-ele">
                     <?php echo get_field('content_part_9');?>
 
                     <!-- <h2 class="gold">
@@ -214,7 +214,7 @@ get_header();
                                 alt="">
 
 
-                            <div class="gold-table-div gold" style="">
+                            <div class="gold-table-div gold  fadeinup-ele" style="">
 
                                 <?php echo get_field('content_part_10');?>
 
