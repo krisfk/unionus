@@ -67,7 +67,7 @@ get_header();
                 <img class="flo-icon fadeindown-ele"
                     src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt="">
 
-                <h2 class="mt-3 gold text-center fadein-ele">
+                <h2 class="mt-3 gold text-center fadeinup-ele">
                     <?php echo get_field('content_part_3'); ?>
 
                     <!-- 「百分百擔保特惠貸款計劃」<br>
@@ -79,7 +79,9 @@ get_header();
 
                     <!-- 百分百擔保特惠貸款的申請最高金額為600萬港元，或者公司員工的每月薪金加每月租金乘以18的總和，以數值最低者為準。 -->
 
-                    <?php echo get_field('content_part_5'); ?>
+                    <div class="fadein-ele">
+                        <?php echo get_field('content_part_5'); ?>
+                    </div>
                     <!-- <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">例子一：</h2>
 
                     X公司是一間中小企業，員工有15人，平均月薪為$20,000港元；而每月租金為$30,000港元，A公司成功申請SFGS100時，能獲取的金額為
@@ -98,7 +100,7 @@ get_header();
 
 
 
-                    <div class="gold-table-div-wrapper mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+                    <div class="gold-table-div-wrapper mt-lg-5 mt-md-5 mt-sm-4 mt-4  fadein-ele">
 
                         <img class="table-head-th-img"
                             src="<?php echo get_template_directory_uri(); ?>/assets/images/table-head-th.png" alt="">
@@ -155,7 +157,7 @@ get_header();
                         <img class="flo-icon"
                             src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt="">
 
-                        <h2 class="mt-3 gold text-center">
+                        <h2 class="mt-3 gold text-center fadeinup-ele">
 
                             <?php echo get_field('content_part_8'); ?>
                             <!-- 「百分百擔保特惠貸款」難唔難申請？ -->
