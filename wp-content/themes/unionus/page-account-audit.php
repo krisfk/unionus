@@ -117,7 +117,7 @@ get_header();
 
                 </div>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative faderight-ele">
                 <div class="gold-table-div-wrapper">
 
                     <img class="table-head-th-img"
