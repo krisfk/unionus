@@ -319,7 +319,7 @@ get_header();
         </div>
 
 
-        <div class="inner-container2 text-center mx-auto">
+        <div class="inner-container2 text-center mx-auto fadein-ele">
             <?php echo get_field('content_part_14');?>
 
             <!-- 除本年度稅項外，大家每年也需要支付「暫繳稅」(即預付下一年的稅)。 <br>
@@ -336,7 +336,7 @@ get_header();
                     src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/table-head-th.png" alt="">
 
 
-                <div class="gold-table-div w-100">
+                <div class="gold-table-div w-100 fadein-ele">
 
                     <?php echo get_field('content_part_15');?>
 
@@ -394,7 +394,7 @@ get_header();
 
             </div>
 
-            <div class="mt-4">
+            <div class="mt-4 fadein-ele">
                 <?php echo get_field('content_part_16');?>
 
                 <!-- 
@@ -414,7 +414,7 @@ get_header();
 
 
 
-<section class="sec5 pt-const">
+<section class="sec5 pt-const fadein-ele">
 
 
 
