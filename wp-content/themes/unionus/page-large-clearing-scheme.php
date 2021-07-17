@@ -174,7 +174,7 @@ get_header();
 
         </div>
 
-        <div class="text-center mt-4 fadeinup-ele">
+        <div class="text-center mt-4 fadein-ele">
 
             <?php echo get_field('content_part_8');?>
 
