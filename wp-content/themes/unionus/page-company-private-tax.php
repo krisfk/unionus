@@ -25,7 +25,7 @@ get_header();
 
     <div class="container">
 
-        <div class="text-center fadeinup-ele">
+        <div class="text-center fadeindown-ele">
             <h1 class="mx-auto gold">
                 <?php echo get_field('content_part_0');?>
                 <!-- 公司報稅 -->
@@ -35,7 +35,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center fadein-ele">
+        <div class="inner-container mx-auto mt-5 text-center fadeinup-ele">
             <?php echo get_field('content_part_1');?>
             <!-- 任何公司都需要申報稅務，但無限公司一般只需要在個人報稅表上申報，有限公司則需要審計核數並遞交獨立報稅表。 -->
         </div>
