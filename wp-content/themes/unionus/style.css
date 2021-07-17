@@ -2075,6 +2075,9 @@ p {
     nav.dot-menu {
         display: none;
     }
+    .know-more-btn {
+        float: none;
+    }
     html[lang='en-US'] .promise-pt-4 p:first-child {
         padding: 0 28px 0 68px;
         text-align: left;
