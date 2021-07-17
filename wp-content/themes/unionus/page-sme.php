@@ -202,10 +202,10 @@ get_header();
 
                 <div class="mt-6">
 
-                    <img class="flo-icon " src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png"
-                        alt="">
+                    <img class="flo-icon fadeindown-ele"
+                        src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt="">
 
-                    <h2 class="mt-3 gold text-center">
+                    <h2 class="mt-3 gold text-center fadeinup-ele">
                         <?php echo get_field('content_part_12'); ?>
 
                         <!-- 無人際關係，不懂財務知識及文書處理， <br>
@@ -213,7 +213,7 @@ get_header();
 
                     </h2>
 
-                    <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+                    <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4  fadein-ele">
                         <?php echo get_field('content_part_13'); ?>
 
                         <!-- 放心，我們和各大銀行合作，並在短短數月成功協助數百個中小企老闆的申請，立即預約我們的融資顧問，幫你立即解決生意上的煩惱！成為成功申請嘅一份子啦！ -->
@@ -221,7 +221,7 @@ get_header();
                 </div>
 
 
-                <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+                <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 fadein-ele">
                     <h2 class="gold mt-lg-5 mt-md-5 mt-sm-4 mt-4  text-center">
                         <?php echo get_field('content_part_14'); ?>
 
@@ -229,7 +229,7 @@ get_header();
                     </h2>
 
                     <div class="row mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
-                        <div class="col-4 text-center">
+                        <div class="col-4 text-center fadein-ele">
                             <?php echo get_field('content_part_15'); ?>
 
                             <!-- <img class="sme-icon"
@@ -238,7 +238,7 @@ get_header();
                                 協助客戶預備貸款文件
                             </div> -->
                         </div>
-                        <div class="col-4 text-center">
+                        <div class="col-4 text-center fadein-ele">
                             <?php echo get_field('content_part_16'); ?>
 
                             <!-- <img class="sme-icon"
@@ -248,7 +248,7 @@ get_header();
 
                             </div> -->
                         </div>
-                        <div class="col-4 text-center">
+                        <div class="col-4 text-center fadein-ele">
                             <?php echo get_field('content_part_17'); ?>
 
                             <!-- <img class="sme-icon"
@@ -259,7 +259,7 @@ get_header();
                         </div>
                     </div>
 
-                    <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+                    <div class="mt-lg-5 mt-md-5 mt-sm-4 mt-4 fadein-ele">
                         <?php echo get_field('content_part_18'); ?>
                         <!-- 我們會安排專人協助準備所需文件如商業登記、營運證明、營業數據等資料，並可快速為客戶配對合適銀行，提高申請成功率，加快整個申請過程，順利完成申請。 -->
 
