@@ -2509,6 +2509,15 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .rolling-slogan {
+        font-size: 30px;
+        background: #21212b9c;
+        padding: 16px;
+        border-radius: 36px;
+    }
+    .rolling-slogan .logo {
+        height: 85px;
+    }
     html[lang='en-US'] .promise-pt-ul {
         text-align: center;
         position: relative;
