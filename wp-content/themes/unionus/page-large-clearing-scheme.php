@@ -149,7 +149,7 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">
+            <h2 class="gold mt-5 fadeinup-ele">
                 <?php echo get_field('content_part_6');?>
 
 
@@ -158,7 +158,7 @@ get_header();
         </div>
 
 
-        <div class="breadcrumb-ui">
+        <div class="breadcrumb-ui fadeleft-ele">
 
             <?php echo get_field('content_part_7');?>
 
@@ -174,7 +174,7 @@ get_header();
 
         </div>
 
-        <div class="text-center mt-4">
+        <div class="text-center mt-4 fadeinup-ele">
 
             <?php echo get_field('content_part_8');?>
 
