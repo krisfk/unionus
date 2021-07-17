@@ -48,7 +48,7 @@ get_header();
 
         </div>
 
-        <div class="mt-5 inner-container2 mx-auto">
+        <div class="mt-5 inner-container2 mx-auto fadein-ele">
 
             <?php echo get_field('content_part_2');?>
 
@@ -72,7 +72,7 @@ get_header();
 
 
 
-        <div class="row gx-5 justify-content-center mt-6">
+        <div class="row gx-5 justify-content-center mt-6 fadein-ele">
 
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 position-relative gold-table-div-wrapper-col">
                 <div class="gold-table-div-wrapper">
@@ -143,7 +143,7 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <h2 class="gold mt-5">
+            <h2 class="gold mt-5 fadeinup-ele">
                 <?php echo get_field('content_part_4');?>
 
                 <!-- DRP債務減免與IVA債務重組的比較 -->
