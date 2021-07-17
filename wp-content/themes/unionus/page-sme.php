@@ -23,7 +23,8 @@ get_header();
     <div class="container">
 
 
-        <img class="sme-logo" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
+        <img class="sme-logo fadein-ele" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png"
+            alt="">
 
 
         <div class="text-center fadeindown-ele">
