@@ -176,7 +176,7 @@ get_header();
                         <!-- 在法律事務有豐富的經驗並為註冊律師,同時擔任爾聯Unionus的榮譽法律顧問，並與客戶和其他相關專業人士建立了廣泛的網絡。他經常受個人和企業客戶委託處理破產與IVA個人自願安排，住宅，工業和商業房地產有關的各種法律服務，包括
                         : -->
                     </div>
-                    <div class="mt-3">
+                    <div class="mt-3 fadein-ele">
                         <?php echo get_field('content_part_15');?>
 
                         <!-- <ul class="gold d-inline-block text-start">
