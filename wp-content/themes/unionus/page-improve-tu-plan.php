@@ -147,7 +147,7 @@ get_header();
 
 
         <div class="mt-5">
-            <div class="breadcrumb-ui fadein-ele">
+            <div class="breadcrumb-ui fadeleft-ele">
 
                 <?php echo get_field('content_part_9');?>
 
