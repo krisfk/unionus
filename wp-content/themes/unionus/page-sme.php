@@ -324,7 +324,7 @@ echo '聯絡我們';
         </h2>
 
 
-        <div class="contact-form-div container">
+        <div class="contact-form-div container fadein-ele">
 
 
 
