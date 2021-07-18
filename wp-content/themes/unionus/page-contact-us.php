@@ -84,14 +84,14 @@ get_header();
                 src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
 
-        <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 ">
+        <h2 class="gold text-center mt-lg-5 mt-md-5 mt-sm-4 mt-4 fadeinup-ele">
             <?php echo get_field('content_part_2');?>
 
             <!-- 聯絡我們 -->
         </h2>
 
 
-        <div class="contact-form-div container">
+        <div class="contact-form-div container fadein-ele">
 
 
 
