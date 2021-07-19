@@ -2100,6 +2100,10 @@ p {
 }
 
 .news:hover {
+    color: #fff;
+}
+
+.news:hover {
     text-decoration: none;
 }
 
