@@ -467,7 +467,7 @@ $(function() {
             });
 
         } else {
-            alert(6);
+            // alert(6);
 
             $('.rolling-slogan').css({
                 'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
