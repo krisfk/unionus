@@ -2110,15 +2110,26 @@ p {
 .footer-menu {
     padding: 0;
     margin: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .footer-menu li {
     display: inline-block;
+    /* margin: 0 10px; */
+    border-right: 1px solid #676767;
+    height: 19px;
+    font-size: 13px;
+    justify-content: center;
+    margin: 0 0 10px 0;
 }
 
 .footer-menu li a {
     text-decoration: none;
     color: #fff;
+    padding: 0 10px;
 }
 
 @media only screen and (max-width: 1500px) {
