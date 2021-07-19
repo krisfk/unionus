@@ -104,7 +104,7 @@ get_header();
                 <?php
                 
                 
-                $categories =  get_categories();
+                $categories =  wp_get_post_categories();
                 print_r($categories);
                 ?>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 fadeleft-ele">
