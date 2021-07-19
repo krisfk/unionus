@@ -160,23 +160,22 @@
         <?php
 //         echo 999;
 // $lang_code='zh-hant';
-switch ($lang_code)
-{
-    case 'zh-hant':
+// switch ($lang_code)
+// {
+    // case 'zh-hant':
         $main_menu = wp_get_menu_array('main menu');
-        // $top_menu = wp_get_menu_array('top menu');
 
-        break;
-        case 'cn':
-            $main_menu = wp_get_menu_array('main menu cn');
+//         break;
+//         case 'cn':
+//             $main_menu = wp_get_menu_array('main menu cn');
 
 
-        break;
-            case 'en':
-                $main_menu = wp_get_menu_array('main menu en');
+//         break;
+//             case 'en':
+//                 $main_menu = wp_get_menu_array('main menu en');
 
-        break;
-}
+//         break;
+// }
 ?>
 
 
