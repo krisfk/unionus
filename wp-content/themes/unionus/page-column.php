@@ -55,7 +55,7 @@ get_header();
             while ( $the_query->have_posts() ) {
                 $the_query->the_post();
 ?>
-                <div class="news">
+                <a class="news" href="<?php echo get_permalink();?>">
                     <div class="post-image-div w-50 d-inline-block float-start px-3"><img class="w-100"
                             src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt="">
                     </div>
@@ -70,7 +70,7 @@ get_header();
 
                         <a href="#" class="gold read-more-btn float-end mt-5">Read More</a>
                     </div>
-                </div>
+                </a>
                 <?php
             }
             ?>
