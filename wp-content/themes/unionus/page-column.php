@@ -247,7 +247,7 @@ get_header();
                         <div class="date gold mt-3"><?php echo get_the_date();?></div>
 
 
-                        <div class="mt-3"><?php 
+                        <div class="mt-3 content"><?php 
                             echo get_the_excerpt();
                             ?>
                         </div>
