@@ -112,13 +112,84 @@ get_header();
                 //   print_r($categories);
                   foreach($categories as $category) { 
                     //  echo 1; 
-                    echo $category->name;
+                    // echo $category->name;
                     // print_r($category);
+
+                    ?>
+
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 fadeleft-ele">
+
+
+                    <div class="d-flex align-center gold">
+                        <img class="news-flo-icon me-3"
+                            src="<?php echo get_template_directory_uri();?>/assets/images/flo-icon.png" alt="">
+                        <?php echo $category->name;?>
+                    </div>
+
+                    <div class="category-description mt-3">
+
+                        <h2 class="gold text-start">
+                            <!-- 成立公司，相關注意，創業社創方向 -->
+                            <?php echo $category->description;?>
+
+                        </h2>
+
+
+                        <div class="gold-table-div-wrapper">
+
+                            <img class="table-head-th-img"
+                                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/table-head-th.png"
+                                alt="">
+
+
+                            <div class="gold-table-div gold">
+                                <table class="gold-table">
+
+
+                                    <tbody>
+
+                                        <tr>
+                                            <td class="p-0">
+
+
+
+                                                <img class="w-100"
+                                                    src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png"
+                                                    alt="">
+                                                <h3 class="article-title gold text-start mt-3 px-3">
+
+                                                    【破產流程】申請個人破產 提交 破產呈請 破產的4個影響</h3>
+
+                                                <div class="date gold mt-5 mb-4 text-end px-3">2021-06-15</div>
+                                            </td>
+                                        </tr>
+
+
+
+
+                                    </tbody>
+
+                                </table>
+                            </div>
+
+                            <img class="table-foot-th-img"
+                                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/table-foot.png"
+                                alt="">
+
+
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+                <?php
                     }
                     
                 
                 ?>
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 fadeleft-ele">
+                <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 fadeleft-ele">
 
 
                     <div class="d-flex align-center gold">
@@ -367,24 +438,24 @@ get_header();
                         </div>
 
                     </div>
+ -->
 
-
-                </div>
             </div>
+        </div>
 
 
-            <div class="text-center mt-7">
+        <div class="text-center mt-7">
 
-                <div class="little-gold-bar mx-auto"></div>
-                <div class=" mt-5 fadeinup-ele">全部文章</div>
-                <h2 class="gold mt-2 fadeinup-ele">文章列表</h2>
-            </div>
-
-
-            <div class="row all-articles-list mt-5">
+            <div class="little-gold-bar mx-auto"></div>
+            <div class=" mt-5 fadeinup-ele">全部文章</div>
+            <h2 class="gold mt-2 fadeinup-ele">文章列表</h2>
+        </div>
 
 
-                <?php
+        <div class="row all-articles-list mt-5">
+
+
+            <?php
             $args = array(
                 'posts_per_page'   => -1,
                 'post_type'        => 'post',
@@ -393,46 +464,46 @@ get_header();
             while ( $the_query->have_posts() ) {
                 $the_query->the_post();
                 ?>
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-5  fadein-ele">
-                    <div class="news">
-                        <div class="post-image-div w-50 d-inline-block float-start px-3">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-5  fadein-ele">
+                <div class="news">
+                    <div class="post-image-div w-50 d-inline-block float-start px-3">
 
 
-                            <img class="w-100" src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt="">
+                        <img class="w-100" src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt="">
 
 
-                        </div>
-                        <div class="post-txt-div w-50 text-start  d-inline-block float-start  px-3">
-                            <h3 class="article-title gold">
-                                <?php echo get_the_title();?>
-                            </h3>
+                    </div>
+                    <div class="post-txt-div w-50 text-start  d-inline-block float-start  px-3">
+                        <h3 class="article-title gold">
+                            <?php echo get_the_title();?>
+                        </h3>
 
-                            <div class="date gold mt-3"><?php echo get_the_date();?></div>
+                        <div class="date gold mt-3"><?php echo get_the_date();?></div>
 
 
-                            <div class="mt-3"><?php 
+                        <div class="mt-3"><?php 
                             echo get_the_excerpt();
                             ?>
-                            </div>
-
-                            <a href="#" class="gold read-more-btn float-end mt-5">Read More</a>
                         </div>
+
+                        <a href="#" class="gold read-more-btn float-end mt-5">Read More</a>
                     </div>
                 </div>
+            </div>
 
 
-                <?php
+            <?php
 
 
               }
             ?>
 
-                <?php
+            <?php
             
             // for($i=0;$i<8;$i++)
             // {
                 ?>
-                <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-5  fadein-ele">
+            <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-5  fadein-ele">
                     <div class="news">
                         <div class="post-image-div w-50 d-inline-block float-start px-3"><img class="w-100"
                                 src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
@@ -453,7 +524,7 @@ get_header();
                 </div> -->
 
 
-                <?php
+            <?php
             // }
             ?>
 
@@ -461,33 +532,33 @@ get_header();
 
 
 
-            </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
 </section>
 
 
