@@ -387,10 +387,12 @@ get_header();
                                 <?php echo get_the_title();?>
                             </h3>
 
-                            <div class="date gold mt-3">2021-06-15</div>
+                            <div class="date gold mt-3"><?php echo get_the_date();?></div>
 
 
-                            <div class="mt-3">申請破產無疑對個人信貸紀錄影響深遠，亦會使生活受到一定法律限制，一般而言的確是最壞選擇。可是，若果實在無能力償還債務，又
+                            <div class="mt-3"><?php 
+                            echo get_the_excerpt();
+                            ?>
                             </div>
 
                             <a href="#" class="gold read-more-btn float-end mt-5">Read More</a>
