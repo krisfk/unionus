@@ -111,7 +111,8 @@ get_header();
                     
                 //   print_r($categories);
                   foreach($categories as $category) { 
-                     echo 1; 
+                    //  echo 1; 
+                    print_r($category);
                     }
                     
                 
