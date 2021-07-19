@@ -167,16 +167,16 @@ get_header();
                                                 <?php 
                                             $cat_id = $category->term_id;
                                             $args=array(
-                                                'posts_per_page' => 1, 
+                                                // 'posts_per_page' => 1, 
                                                 'cat' => $cat_id,
                                             );
                                             $wp_query = new WP_Query( $args );
                                         
-                                            //    if($the_query->have_posts())
-                                            //    {
-                                            //        $the_query->the_post();
-                                            //         echo 1;
-                                            //    } 
+                                               if($wp_query->have_posts())
+                                               {
+                                                   $wp_query->the_post();
+                                                    echo 1;
+                                               } 
 
                                             
                                         ?>
