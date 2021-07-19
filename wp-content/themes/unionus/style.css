@@ -1939,6 +1939,10 @@ h2 .smaller {
     color: #ddbd8a;
 }
 
+.news-container a:hover {
+    color: #ddbd8a;
+}
+
 .read-more-btn {
     text-decoration: none;
     color: #ddbd8a;
