@@ -1934,6 +1934,10 @@ h2 .smaller {
     line-height: 1.5;
 }
 
+.news-container a {
+    text-decoration: none;
+}
+
 .read-more-btn {
     text-decoration: none;
     color: #ddbd8a;
