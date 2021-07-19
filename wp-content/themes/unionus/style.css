@@ -2072,6 +2072,10 @@ p {
     animation-delay: 0.5s;
 }
 
+.screen-reader-text {
+    display: none;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         display: none;
