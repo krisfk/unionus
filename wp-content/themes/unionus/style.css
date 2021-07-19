@@ -2107,6 +2107,15 @@ p {
     text-decoration: none;
 }
 
+.footer-menu li {
+    display: inline-block;
+}
+
+.footer-menu li a {
+    text-decoration: none;
+    color: #fff;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         display: none;

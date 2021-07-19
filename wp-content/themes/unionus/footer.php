@@ -22,7 +22,7 @@
 <footer id="colophon" class="site-footer pt-const2" role="contentinfo">
 
 
-    <ul class="top-menu">
+    <ul class="footer-menu">
 
         <li><a class="level-1 our-team " href="https://unionus.com.hk/our-team/">Unionus團隊</a></li>
         <li><a class="level-1 advantage " href="https://unionus.com.hk/advantage/">優勢</a></li>
