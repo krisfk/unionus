@@ -2094,6 +2094,14 @@ p {
     font-size: 32px !important;
 }
 
+.news {
+    text-decoration: none;
+}
+
+.news:hover {
+    text-decoration: none;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         display: none;
