@@ -103,9 +103,18 @@ get_header();
             <div class="row mt-6">
                 <?php
                 
+                $cat_args=array(
+                    'orderby' => 'name',
+                    'order' => 'ASC'
+                     );
+                  $categories=get_categories($cat_args);
+                    
+                  print_r($categories);
+                //   foreach($categories as $category) { 
+                      
+                //     }
+                    
                 
-                $categories =  wp_get_post_categories();
-                print_r($categories);
                 ?>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 fadeleft-ele">
 
