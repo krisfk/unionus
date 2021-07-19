@@ -22,6 +22,7 @@
 <footer id="colophon" class="site-footer pt-const2" role="contentinfo">
 
     <?php
+    print_r($main_menu);
         // $main_menu = wp_get_menu_array('main menu');
 
 // foreach ($main_menu as $menu_item) {
