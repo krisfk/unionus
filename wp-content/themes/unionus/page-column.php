@@ -123,11 +123,11 @@ get_header();
 
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 
                 <?php if($idx %2 ==0) {
-                    echo 'fadeleft-ele'
+                    echo 'fadeleft-ele';
                 }
                 else
                 {
-                    echo 'faderight-ele'
+                    echo 'faderight-ele';
    
                 } ?>
                 ">
