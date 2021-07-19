@@ -379,8 +379,12 @@ get_header();
                 ?>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-5  fadein-ele">
                     <div class="news">
-                        <div class="post-image-div w-50 d-inline-block float-start px-3"><img class="w-100"
-                                src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
+                        <div class="post-image-div w-50 d-inline-block float-start px-3">
+
+
+                            <img class="w-100" src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt="">
+
+
                         </div>
                         <div class="post-txt-div w-50 text-start  d-inline-block float-start  px-3">
                             <h3 class="article-title gold">
