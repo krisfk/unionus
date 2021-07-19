@@ -18,6 +18,8 @@
 
 <?php get_template_part( 'template-parts/footer/footer-widgets' ); ?>
 
+
+<div>fdsf</div>
 <footer id="colophon" class="site-footer pt-const2" role="contentinfo">
 
     <div class="mt-5 text-center pb-5">
