@@ -110,14 +110,27 @@ get_header();
                   $categories=get_categories($cat_args);
                     
                 //   print_r($categories);
+                
+
+                $idx=0;
                   foreach($categories as $category) { 
                     //  echo 1; 
                     // echo $category->name;
                     // print_r($category);
 
+
                     ?>
 
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 fadeleft-ele">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 
+                <?php if($idx %2 ==0) {
+                    echo 'fadeleft-ele'
+                }
+                else
+                {
+                    echo 'faderight-ele'
+   
+                } ?>
+                ">
 
 
                     <div class="d-flex align-center gold">
@@ -185,6 +198,7 @@ get_header();
 
                 </div>
                 <?php
+                $idx++;
                     }
                     
                 
