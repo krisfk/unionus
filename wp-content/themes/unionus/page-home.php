@@ -441,7 +441,7 @@ $(function() {
 
         $('.rolling-slogan').animate({
             'opacity': '1'
-        }, 1000);
+        }, 2000);
 
 
     }, 1000);
