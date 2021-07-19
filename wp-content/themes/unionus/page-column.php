@@ -164,7 +164,10 @@ get_header();
                                         <tr>
                                             <td class="p-0">
 
-
+                                                <?php 
+                                            $cat = $category->id;
+                                            echo $cat; 
+                                        ?>
 
                                                 <img class="w-100"
                                                     src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png"
