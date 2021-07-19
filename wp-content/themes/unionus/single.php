@@ -43,7 +43,7 @@ get_header();
             </div>
 
 
-            <div class="inner-container2 mt-5 mx-auto text-start">
+            <div class="inner-container2 mt-5 mx-auto text-start fadein-ele">
 
                 <?php echo get_the_content();?>
             </div>
