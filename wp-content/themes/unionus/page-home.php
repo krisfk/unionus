@@ -439,9 +439,9 @@ $(function() {
 
     setTimeout(() => {
 
-        // $('.rolling-slogan').animate({
-        //     'opacity': '1'
-        // }, 2000);
+        $('.rolling-slogan').animate({
+            'opacity': '1'
+        }, 1000);
 
 
     }, 1000);
@@ -459,7 +459,7 @@ $(function() {
 
             $('.rolling-slogan').css({
                 'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
-                'opacity': '1',
+                // 'opacity': '1',
                 'margin-left': ($(window).width() / 2 - $('.rolling-slogan').width()) / 2 +
                     'px',
 
@@ -473,7 +473,7 @@ $(function() {
 
             $('.rolling-slogan').css({
                 'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
-                'opacity': '1',
+                // 'opacity': '1',
                 'margin-left': ($(window).width() - $('.rolling-slogan').width()) / 2 +
                     'px',
 
