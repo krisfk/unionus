@@ -56,7 +56,7 @@ get_header();
                 $the_query->the_post();
 ?>
                 <div class="news">
-                    <a href="#">
+                    <a href="<?php echo get_permalink();?>">
                         <div class="post-image-div w-50 d-inline-block float-start px-3"><img class="w-100"
                                 src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt="">
                         </div>
