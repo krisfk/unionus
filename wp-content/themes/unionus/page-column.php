@@ -116,7 +116,7 @@ get_header();
                   foreach($categories as $category) { 
                     //  echo 1; 
                     // echo $category->name;
-                    // print_r($category);
+                    print_r($category);
 
 
                     ?>
