@@ -439,9 +439,9 @@ $(function() {
 
     setTimeout(() => {
 
-        $('.rolling-slogan').animate({
-            'opacity': '1'
-        }, 2000);
+        // $('.rolling-slogan').animate({
+        //     'opacity': '1'
+        // }, 2000);
 
 
     }, 1000);
