@@ -165,8 +165,20 @@ get_header();
                                             <td class="p-0">
 
                                                 <?php 
-                                            $cat = $category->term_id;
-                                            echo $cat; 
+                                            $cat_id = $category->term_id;
+                                            $args=array(
+                                                'posts_per_page' => 1, 
+                                                'cat' => $cat_id,
+                                            );
+                                            $wp_query = new WP_Query( $args );
+                                        
+                                               if($the_query->have_posts())
+                                               {
+                                                   $the_query->the_post();
+                                                    echo 1;
+                                               } 
+
+                                            
                                         ?>
 
                                                 <img class="w-100"
