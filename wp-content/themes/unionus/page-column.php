@@ -368,6 +368,17 @@ get_header();
             <div class="row all-articles-list mt-5">
 
 
+                <?php
+            $args = array(
+                'posts_per_page'   => -1,
+                'post_type'        => 'post',
+            );
+            $the_query = new WP_Query( $args );
+            while ( $the_query->have_posts() ) {
+
+                echo 1;
+              }
+            ?>
 
                 <?php
             
