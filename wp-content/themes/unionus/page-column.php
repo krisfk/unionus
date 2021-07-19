@@ -56,20 +56,22 @@ get_header();
                 $the_query->the_post();
 ?>
                 <div class="news">
-                    <div class="post-image-div w-50 d-inline-block float-start px-3"><img class="w-100"
-                            src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt="">
-                    </div>
-                    <div class="post-txt-div w-50 text-start  d-inline-block float-start  px-3">
-                        <h3 class="article-title gold"><?php echo get_the_title();?></h3>
-
-                        <div class="date gold mt-3"><?php echo get_the_date();?></div>
-
-
-                        <div class="mt-3"><?php echo get_the_excerpt(); ?>
+                    <a href="#">
+                        <div class="post-image-div w-50 d-inline-block float-start px-3"><img class="w-100"
+                                src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt="">
                         </div>
+                        <div class="post-txt-div w-50 text-start  d-inline-block float-start  px-3">
+                            <h3 class="article-title gold"><?php echo get_the_title();?></h3>
 
-                        <a href="#" class="gold read-more-btn float-end mt-5">Read More</a>
-                    </div>
+                            <div class="date gold mt-3"><?php echo get_the_date();?></div>
+
+
+                            <div class="mt-3"><?php echo get_the_excerpt(); ?>
+                            </div>
+
+                            <a href="#" class="gold read-more-btn float-end mt-5">Read More</a>
+                        </div>
+                    </a>
                 </div>
                 <?php
             }
