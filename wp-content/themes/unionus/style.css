@@ -2134,6 +2134,11 @@ p {
     text-decoration: none;
     color: #fff;
     padding: 0 10px;
+    transition: 0.2s all;
+}
+
+.footer-menu li a:hover {
+    opacity: 0.85;
 }
 
 .pb-6 {
