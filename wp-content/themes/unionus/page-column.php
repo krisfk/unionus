@@ -75,40 +75,7 @@ get_header();
             }
             ?>
 
-                <!-- <div class="news">
-                    <div class="post-image-div w-50 d-inline-block float-start px-3"><img class="w-100"
-                            src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
-                    </div>
-                    <div class="post-txt-div w-50 text-start  d-inline-block float-start  px-3">
-                        <h3 class="article-title gold">
-                            【破產流程】申請個人破產 提交破產呈請 破產的4個影響</h3>
 
-                        <div class="date gold mt-3">2021-06-15</div>
-
-
-                        <div class="mt-3">申請破產無疑對個人信貸紀錄影響深遠，亦會使生活受到一定法律限制，一般而言的確是最壞選擇。可是，若果實在無能力償還債務，又
-                        </div>
-
-                        <a href="#" class="gold read-more-btn float-end mt-5">Read More</a>
-                    </div>
-                </div>
-                <div class="news">
-                    <div class="post-image-div w-50 d-inline-block float-start px-3"><img class="w-100"
-                            src="https://unionus.com.hk/wp-content/uploads/2021/06/newspaper.png" alt="">
-                    </div>
-                    <div class="post-txt-div w-50 text-start  d-inline-block float-start  px-3">
-                        <h3 class="article-title gold">
-                            【破產流程】申請個人破產 提交破產呈請 破產的4個影響</h3>
-
-                        <div class="date gold mt-3">2021-06-15</div>
-
-
-                        <div class="mt-3">申請破產無疑對個人信貸紀錄影響深遠，亦會使生活受到一定法律限制，一般而言的確是最壞選擇。可是，若果實在無能力償還債務，又
-                        </div>
-
-                        <a href="#" class="gold read-more-btn float-end mt-5">Read More</a>
-                    </div>
-                </div> -->
 
 
             </div>
@@ -125,14 +92,12 @@ get_header();
                      );
                   $categories=get_categories($cat_args);
                     
-                //   print_r($categories);
                 
 
                 $idx=0;
                   foreach($categories as $category) { 
-                    //  echo 1; 
-                    // echo $category->name;
-                    // print_r($category);
+                   
+                    
 
 
                     ?>
