@@ -231,7 +231,7 @@ get_header();
                 $the_query->the_post();
                 ?>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-5  fadein-ele">
-                <div class="news">
+                <a class="news" href="<?php echo get_permalink();?>">
                     <div class="post-image-div w-50 d-inline-block float-start px-3">
 
 
@@ -254,7 +254,7 @@ get_header();
 
                         <a href="#" class="gold read-more-btn float-end mt-5">Read More</a>
                     </div>
-                </div>
+                </a>
             </div>
 
 
