@@ -49,7 +49,7 @@ get_header();
                 'posts_per_page'   => 5,
                 'post_type'        => 'post',
                 'orderby' => 'publish_date',
-                'order' => 'ASC',
+                'order' => 'DESC',
             );
             $the_query = new WP_Query( $args );
             while ( $the_query->have_posts() ) {
