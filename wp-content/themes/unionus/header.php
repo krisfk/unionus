@@ -181,7 +181,6 @@
 
         <ul class="top-menu">
 
-            <!-- <li class="mobile-menu-btn-li"><a href="javascript:void(0)" class="mobile-menu-btn"></a></li> -->
             <li>
                 <a href="<?php echo get_site_url();?>" class="mobile-menu-logo-a position-relative">
                     <img class="mobile-menu-logo"
@@ -220,18 +219,7 @@ foreach ($main_menu as $menu_item) {
     
     if(count($menu_item['children']))
     {
-        // $sub_slugs='';
-        // foreach ($menu_item['children'] as $sub_menu_item) 
-        // {
-        //     $sub_url = $sub_menu_item['url'];
-        //     $sub_temp_arr=explode(get_site_url(),$sub_url);
-    
-        //     $sub_slug=str_replace('/en/','',$sub_temp_arr[1]);
-        //     $sub_slug=str_replace('/cn/','',$sub_slug);
-        //     $sub_slug=str_replace('/','',$sub_slug);
-    
-        //     $sub_slugs.=$sub_slug.' ';
-        // }
+      
         echo '<li><a class="level-1 parent '.$class.'" href="'.$url.'">'.$title.'</a>';
     
      
@@ -266,7 +254,6 @@ foreach ($main_menu as $menu_item) {
     
     $langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to=');
 
-    // print_r($langs);
     ?>
 
             <li>
