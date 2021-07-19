@@ -382,7 +382,7 @@ get_header();
                         <div class="post-image-div w-50 d-inline-block float-start px-3">
 
 
-                            <img class="w-100" src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt="">
+                            <!-- <img class="w-100" src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt=""> -->
 
 
                         </div>
