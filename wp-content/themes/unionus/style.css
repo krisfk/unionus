@@ -2145,6 +2145,26 @@ p {
     padding-bottom: 6rem !important;
 }
 
+.fadein-ele {
+    opacity: 0;
+}
+
+.fadeinup-ele {
+    opacity: 0;
+}
+
+.fadeindown-ele {
+    opacity: 0;
+}
+
+.fadeleft-ele {
+    opacity: 0;
+}
+
+.faderight-ele {
+    opacity: 0;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         display: none;
