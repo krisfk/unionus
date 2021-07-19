@@ -37,7 +37,10 @@ get_header();
             <h2 class="gold fadeinup-ele"><?php echo get_the_title();?></h2>
 
 
-            <img class="w-100" src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt="">
+            <div class="inner-container2 mt-5">
+                <img class="w-100" src="<?php echo get_the_post_thumbnail_url(null,'full');?>" alt="">
+
+            </div>
 
 
 
