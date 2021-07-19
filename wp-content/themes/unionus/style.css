@@ -2126,6 +2126,10 @@ p {
     margin: 0 0 10px 0;
 }
 
+.footer-menu li:last-child {
+    border-right: none;
+}
+
 .footer-menu li a {
     text-decoration: none;
     color: #fff;
