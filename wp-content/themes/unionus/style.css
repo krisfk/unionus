@@ -2096,6 +2096,7 @@ p {
 
 .news {
     text-decoration: none;
+    color: #fff;
 }
 
 .news:hover {
