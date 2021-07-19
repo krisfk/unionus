@@ -2077,6 +2077,10 @@ p {
     display: none;
 }
 
+.category-description h2 {
+    font-size: 32px !important;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         display: none;
