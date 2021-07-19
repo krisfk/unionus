@@ -116,7 +116,7 @@ get_header();
                   foreach($categories as $category) { 
                     //  echo 1; 
                     // echo $category->name;
-                    print_r($category);
+                    // print_r($category);
 
 
                     ?>
@@ -165,7 +165,7 @@ get_header();
                                             <td class="p-0">
 
                                                 <?php 
-                                            $cat = $category->id;
+                                            $cat = $category->term_id;
                                             echo $cat; 
                                         ?>
 
