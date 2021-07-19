@@ -172,11 +172,11 @@ get_header();
                                             );
                                             $wp_query = new WP_Query( $args );
                                         
-                                               if($the_query->have_posts())
-                                               {
-                                                   $the_query->the_post();
-                                                    echo 1;
-                                               } 
+                                            //    if($the_query->have_posts())
+                                            //    {
+                                            //        $the_query->the_post();
+                                            //         echo 1;
+                                            //    } 
 
                                             
                                         ?>
