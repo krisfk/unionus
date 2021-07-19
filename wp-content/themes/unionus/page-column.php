@@ -109,10 +109,10 @@ get_header();
                      );
                   $categories=get_categories($cat_args);
                     
-                  print_r($categories);
-                //   foreach($categories as $category) { 
-                      
-                //     }
+                //   print_r($categories);
+                  foreach($categories as $category) { 
+                     echo 1; 
+                    }
                     
                 
                 ?>
