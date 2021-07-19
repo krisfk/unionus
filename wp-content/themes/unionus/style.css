@@ -1939,6 +1939,10 @@ h2 .smaller {
     color: #ddbd8a;
 }
 
+.news-container a .content {
+    color: #fff;
+}
+
 .news-container a:hover {
     color: #ddbd8a;
 }
