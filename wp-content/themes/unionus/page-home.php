@@ -459,7 +459,7 @@ $(function() {
 
             $('.rolling-slogan').css({
                 'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
-                'margin-left': ($(window).width() / 2 - $('.rolling-slogan').width()) / 2 + 'px'
+                'margin-left': ($(window).width() / 2 - $('.rolling-slogan').outerWidth()) / 2 + 'px'
             });
 
             $('.iframe').css({
@@ -471,7 +471,7 @@ $(function() {
 
             $('.rolling-slogan').css({
                 'margin-top': ($(window).height() - $('.rolling-slogan').height()) / 2 + 'px',
-                'margin-left': ($(window).width() - $('.rolling-slogan').width()) / 2 +
+                'margin-left': ($(window).width() - $('.rolling-slogan').outerWidth()) / 2 +
                     'px'
 
             });
