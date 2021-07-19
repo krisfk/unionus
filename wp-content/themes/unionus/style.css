@@ -1939,7 +1939,7 @@ h2 .smaller {
     color: #ddbd8a;
 }
 
-.news-container a .content {
+.news-container .content a {
     color: #fff;
 }
 
