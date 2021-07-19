@@ -2132,6 +2132,10 @@ p {
     padding: 0 10px;
 }
 
+.pb-6 {
+    padding-bottom: 6rem !important;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         display: none;
