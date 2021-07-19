@@ -22,7 +22,7 @@
 <footer id="colophon" class="site-footer pt-const2" role="contentinfo">
 
     <?php
-        $main_menu = wp_get_menu_array('main menu');
+        // $main_menu = wp_get_menu_array('main menu');
 ?>
 
 
