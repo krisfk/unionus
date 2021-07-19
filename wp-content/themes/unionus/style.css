@@ -2072,7 +2072,8 @@ p {
     animation-delay: 0.5s;
 }
 
-.screen-reader-text {
+.screen-reader-text,
+.more-link {
     display: none;
 }
 
