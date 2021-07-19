@@ -158,6 +158,7 @@
 
 
         <?php
+        echo 999;
 $lang_code='zh-hant';
 switch ($lang_code)
 {
