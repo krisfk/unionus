@@ -131,7 +131,7 @@ get_header();
                         </h2>
 
 
-                        <div class="gold-table-div-wrapper">
+                        <a class="gold-table-div-wrapper" href="<?php echo get_permalink();?>">
 
                             <img class="table-head-th-img"
                                 src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/table-head-th.png"
@@ -193,7 +193,7 @@ get_header();
 
 
 
-                        </div>
+                        </a>
 
                     </div>
 
