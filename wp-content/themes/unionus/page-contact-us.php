@@ -37,7 +37,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center fadeinup-ele">
+        <div class="inner-container mx-auto mt-lg-5 mt-md-5 mt-sm-5 mt-4 text-center fadeinup-ele">
 
             <?php echo get_field('content_part_1');?>
 
