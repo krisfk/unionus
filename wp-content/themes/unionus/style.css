@@ -2610,6 +2610,9 @@ p {
     .sec2 {
         padding-top: 50px;
     }
+    .sec5.pt-const {
+        padding: 0 !important;
+    }
     .rolling-slogan {
         font-size: 30px;
         background: #21212b9c;
