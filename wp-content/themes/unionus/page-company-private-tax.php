@@ -35,7 +35,7 @@ get_header();
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/sep-flo.png" alt=""></div>
 
-        <div class="inner-container mx-auto mt-5 text-center fadeinup-ele">
+        <div class="inner-container mx-auto mt-5 text-center fadeinup g-ele">
             <?php echo get_field('content_part_1');?>
             <!-- 任何公司都需要申報稅務，但無限公司一般只需要在個人報稅表上申報，有限公司則需要審計核數並遞交獨立報稅表。 -->
         </div>
@@ -450,7 +450,7 @@ get_header();
             </tr>
         </tbody>
     </table> -->
-    <div class="sep2 mx-auto mt-5">
+    <div class="sep2 mx-auto mt-lg-5 mt-md-5 mt-sm-5 mt-4">
     </div>
 
 
