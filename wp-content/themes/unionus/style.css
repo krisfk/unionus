@@ -2672,6 +2672,20 @@ p {
         left: -71px;
         top: -16px;
     }
+    .home-tran-bg-1 {
+        width: 42%;
+        height: auto;
+        position: absolute;
+        top: -65px;
+        left: 0;
+    }
+    .home-tran-bg-2 {
+        width: 41%;
+        height: auto;
+        position: absolute;
+        top: 86%;
+        right: 0px;
+    }
     .promise-pt-ul .small-shape {
         position: absolute;
         top: -20px;
