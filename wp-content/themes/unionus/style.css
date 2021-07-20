@@ -2608,7 +2608,7 @@ p {
 
 @media only screen and (max-width: 480px) {
     .sec1 .mt-const {
-        padding: 0;
+        margin-top: 0 !important;
     }
     .sec2 {
         padding-top: 50px;
