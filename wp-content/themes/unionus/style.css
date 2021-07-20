@@ -2608,6 +2608,9 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .pt-const-half {
+        padding: 30px 0 0 0;
+    }
     .sec1 .mt-const {
         margin-top: 0 !important;
     }

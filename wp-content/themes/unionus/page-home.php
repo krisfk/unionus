@@ -359,7 +359,7 @@ get_header();
             </td>
         </tr>
     </table> -->
-    <div class="sep2 mx-auto mt-5">
+    <div class="sep2 mx-auto mt-lg-5 mt-md-5 mt-sm-5 mt-4 ">
     </div>
 
 
