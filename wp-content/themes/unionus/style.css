@@ -2607,6 +2607,9 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .sec2 {
+        padding-top: 50px;
+    }
     .rolling-slogan {
         font-size: 30px;
         background: #21212b9c;
