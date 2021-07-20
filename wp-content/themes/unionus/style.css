@@ -2571,6 +2571,7 @@ p {
     .bottom-table tr td {
         display: block;
         text-align: center;
+        padding: 0 !important;
     }
     .bottom-table tr td .gold.text-end {
         text-align: center !important;
