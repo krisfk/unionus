@@ -58,6 +58,7 @@
 
 
     <script type="text/javascript">
+    alert(6);
     var browser = (function() {
         var test = function(regexp) {
             return regexp.test(window.navigator.userAgent);
