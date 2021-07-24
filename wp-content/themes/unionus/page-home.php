@@ -479,6 +479,15 @@ $(function() {
                 'left': '0'
             });
 
+        } else {
+            $('.rolling-slogan').css({
+                'margin-top': 'auto',
+                'margin-left': 'auto'
+
+            });
+            $('.iframe').css({
+                'left': '0'
+            });
         }
 
     }
