@@ -59,6 +59,7 @@ $(function() {
             if (scroll > $(window).height()) {
                 $('.mobile-menu-logo-a').css({ display: 'block' });
                 $('.mobile-menu-logo-a').css({ opacity: '0' });
+                $('.logo-a').fadeOut(500);
                 $('.mobile-menu-logo-a').addClass('animated');
                 $('.mobile-menu-logo-a').animate({ opacity: '1' }, 500);
 
