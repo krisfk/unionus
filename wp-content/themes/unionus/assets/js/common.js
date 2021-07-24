@@ -61,7 +61,7 @@ $(function() {
                 $('.mobile-menu-logo-a').css({ opacity: '0' });
                 // $('.logo-a').fadeOut(500);
                 $('.mobile-menu-logo-a').addClass('animated');
-                $('.mobile-menu-logo-a').animate({ opacity: '1' }, 500);
+                $('.mobile-menu-logo-a').animate({ opacity: '1' }, 200);
 
                 // $('.mobile-menu-logo-a').fadeIn(500);
 
