@@ -2171,6 +2171,7 @@ p {
 }
 
 .mobile-know-more-btn {
+    display: none;
     position: absolute;
     bottom: 0;
     color: #fff;
@@ -2631,6 +2632,9 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .mobile-know-more-btn {
+        display: block;
+    }
     .sec1 {
         position: relative;
         margin: 0 0 0 0 !important;
