@@ -12,6 +12,12 @@ $.fn.isInViewport = function() {
 };
 
 $(function() {
+    if ($(window).width() <= 1280 && $(window).scrollTop() == 0) {
+        $('.mobile-menu-logo-a').fadeOut(0);
+    } else {
+        $('.mobile-menu-logo-a').fadeIn(0);
+    }
+
     $(
         '.fadeleft-ele , .faderight-ele, .fadein-ele,.fadeinup-ele,.fadeindown-ele,.fadeinup-ele2,.sep-flo,.circular-info,.little-gold-bar'
     ).css({
