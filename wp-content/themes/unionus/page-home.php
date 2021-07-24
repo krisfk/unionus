@@ -486,7 +486,7 @@ $(function() {
 
             });
             $('.iframe').css({
-                'left': '0'
+                'left': '15%'
             });
         }
 
@@ -560,7 +560,8 @@ $(function() {
     $(window).resize(function() {
 
 
-        $('.home-banner-div').width($(window).width());
+        if ($(window).width)
+            $('.home-banner-div').width($(window).width());
         $('.home-banner-div').height($(window).height());
 
 
