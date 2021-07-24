@@ -2271,6 +2271,7 @@ p {
     .top-menu-div li:first-child {
         display: block !important;
         /* !important; */
+        margin: 0 0 40px 0;
     }
     .top-menu-div li {
         /* display: none !important; */
@@ -2320,7 +2321,7 @@ p {
         text-indent: 25px;
     }
     .top-menu-div .top-menu li .lang-div {
-        margin: 0 0 0 32px;
+        margin: 0 0 0 20px;
         display: inline-flex;
         position: relative;
         top: 2px;
@@ -2331,7 +2332,7 @@ p {
         background: rgb(33 34 45 / 92%);
         /* height: 100%; */
         overflow: scroll;
-        1px border: solid;
+        /* 1px border: solid; */
         border: 1;
         border-bottom: 1px solid #ffffff24;
     }
@@ -2343,7 +2344,7 @@ p {
         width: 100%;
     }
     .top-menu-div .top-menu li a {
-        padding: 10px 40px;
+        padding: 10px 25px;
         display: block;
         /* width: 100%; */
         /* border-bottom: 1px solid #ffffff24; */
@@ -2356,9 +2357,9 @@ p {
         line-height: 1;
         display: unset;
         border-radius: 46px;
-        padding: 6px 20px !important;
+        padding: 6px 15px !important;
         /* float: right; */
-        margin: 18px 36px;
+        margin: 18px 25px;
         display: block;
         width: fit-content;
     }
