@@ -20,7 +20,7 @@ $(function() {
             $('.mobile-menu-logo-a').fadeIn(0);
         }
     } else {
-        $('.mobile-menu-logo-a').fadeIn(0);
+        $('.mobile-menu-logo-a').css({ display: 'block' });
     }
 
     $(
