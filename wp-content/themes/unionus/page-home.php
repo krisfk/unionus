@@ -464,7 +464,7 @@ $(function() {
                 'left': '15%'
             });
 
-        } else {
+        } else if ($(window).width() > 480) {
             // alert(6);
 
             $('.rolling-slogan').css({
