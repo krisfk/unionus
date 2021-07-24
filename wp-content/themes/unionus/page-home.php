@@ -409,6 +409,9 @@ $(function() {
 
 
 
+    if ($(window).width() <= 1280 && $(window).scrollTop() == 0) {
+        $('.mobile-menu-logo-a').fadeOut(0);
+    }
 
 
     $('.know-more-btn').click(function() {
