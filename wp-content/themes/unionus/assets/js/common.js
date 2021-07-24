@@ -15,7 +15,7 @@ $(function() {
     // alert(7);
     if ($('body').hasClass('page-home')) {
         if ($(window).width() <= 1280 && $(window).scrollTop() == 0) {
-            $('.mobile-menu-logo-a').fadeOut(0);
+            // $('.mobile-menu-logo-a').fadeOut(0);
         } else {
             $('.mobile-menu-logo-a').fadeIn(0);
         }
