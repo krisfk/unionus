@@ -51,13 +51,15 @@ $(function() {
         });
 
         var scroll = $(window).scrollTop();
-        // if ($('body').hasClass('home')) {
-        //     if (scroll > 100) {
-        //         $('.top-menu-logo-a').fadeIn(500);
-        //     } else {
-        //         $('.top-menu-logo-a').fadeOut(500);
-        //     }
-        // }
+        if ($('body').hasClass('page-home')) {
+            if (scroll > 100) {
+                $('.mobile-menu-logo-a').css({ display: 'block' });
+
+                // $('.top-menu-logo-a').fadeIn(500);
+            } else {
+                // $('.top-menu-logo-a').fadeOut(500);
+            }
+        }
 
         // if (scroll > 100) {
         if ($(window).width() < 991 && scroll > 100) {
