@@ -173,7 +173,7 @@ html[lang='en-US'] .rolling-slogan {
 .home-banner-div {
     position: relative;
     max-width: 1920px;
-    height: 70vh;
+    height: 100vh;
     /* width: 100%; */
     /* margin: 0 auto; */
 }
@@ -2619,7 +2619,7 @@ p {
 @media only screen and (max-width: 480px) {
     .sec1 {
         position: relative;
-        margin: -185px 0 0 0 !important;
+        margin: 0 0 0 0 !important;
     }
     .know-more-btn {
         display: none;
