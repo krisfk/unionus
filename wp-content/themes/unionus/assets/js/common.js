@@ -51,8 +51,8 @@ $(function() {
         });
 
         var scroll = $(window).scrollTop();
-        if ($('body').hasClass('page-home')) {
-            if (scroll > 100) {
+        if ($('body').hasClass('page-home') && $(window).width() < 1280) {
+            if (scroll > $(window).height()) {
                 $('.mobile-menu-logo-a').css({ display: 'block' });
 
                 // $('.top-menu-logo-a').fadeIn(500);
