@@ -2285,7 +2285,7 @@ p {
     .top-menu-div .top-menu li .lang-div span {
         top: 0;
     }
-    .mobile-menu-logo-a {
+    .top-menu-div .top-menu li a.mobile-menu-logo-a {
         padding: 0 0 20px 20px !important;
         display: none;
         /* !important; */
