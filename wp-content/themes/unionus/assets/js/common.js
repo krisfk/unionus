@@ -53,8 +53,11 @@ $(function() {
         var scroll = $(window).scrollTop();
         if ($('body').hasClass('page-home') && $(window).width() < 1280) {
             if (scroll > $(window).height()) {
-                // $('.mobile-menu-logo-a').css({ display: 'block' });
-                $('.mobile-menu-logo-a').fadeIn(500);
+                $('.mobile-menu-logo-a').css({ display: 'block' });
+                $('.mobile-menu-logo-a').css({ opacity: '0' });
+                $('.mobile-menu-logo-a').animate({ opacity: '1' }, 500);
+
+                // $('.mobile-menu-logo-a').fadeIn(500);
 
                 // $('.top-menu-logo-a').fadeIn(500);
             } else {
