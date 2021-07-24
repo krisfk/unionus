@@ -2279,7 +2279,7 @@ p {
     .mobile-menu-btn {
         display: block;
         border: none !important;
-        margin: 0px 0 0 0;
+        margin: 10px 0 0 0;
         position: absolute;
     }
     .top-menu-div .top-menu li .lang-div span {
@@ -2291,7 +2291,7 @@ p {
         /* !important; */
     }
     .mobile-menu-logo {
-        height: 50px;
+        height: 70px;
         display: block;
     }
     .top-menu-logo-a {
