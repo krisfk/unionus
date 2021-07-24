@@ -56,7 +56,7 @@ $(function() {
             $(window).width() < 1280 &&
             !$('.mobile-menu-logo-a').hasClass('animated')
         ) {
-            if (scroll > $(window).height() / 2) {
+            if (scroll > $(window).height() / 3) {
                 $('.mobile-menu-logo-a').css({ display: 'block' });
                 $('.mobile-menu-logo-a').css({ opacity: '0' });
                 // $('.logo-a').fadeOut(500);
