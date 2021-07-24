@@ -2166,6 +2166,10 @@ p {
     opacity: 0;
 }
 
+.mobile-know-more-btn img {}
+
+.mobile-know-more-btn {}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         display: none;
