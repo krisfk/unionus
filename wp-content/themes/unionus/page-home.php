@@ -20,6 +20,16 @@ get_header();
 
 <div class="home-banner-div">
 
+
+    <div class="mobile-zh-slogan">
+        <div>
+            爾<br>汝<br>相<br>聯
+        </div>
+        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/unionus-logo-2.png" alt="">
+        <div class="gold">同<br>生<br>共<br>濟</div>
+
+
+    </div>
     <div class="rolling-slogan">
 
         <a href="<?php echo get_site_url();?>" class="logo-a"> <img class="logo"
