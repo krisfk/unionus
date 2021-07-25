@@ -2172,6 +2172,10 @@ p {
     width: 20px;
 }
 
+.mobile-know-more-btn:hover {
+    color: #fff;
+}
+
 .mobile-know-more-btn {
     display: none;
     position: absolute;
