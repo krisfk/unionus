@@ -781,11 +781,12 @@ section {
 
 nav {
     position: fixed;
-    top: 30%;
-    bottom: 30%;
+    top: 50%;
+    /* bottom: 30%; */
     right: 28px;
     width: 60px;
     z-index: 400;
+    transform: translate(0, -50%);
 }
 
 nav ul {
@@ -2632,6 +2633,15 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    nav {
+        position: fixed;
+        top: 50%;
+        /* bottom: 30%; */
+        right: 28px;
+        width: 60px;
+        z-index: 400;
+        transform: translate(0, -50%);
+    }
     nav.dot-menu {
         height: 400px;
         right: 28px;
