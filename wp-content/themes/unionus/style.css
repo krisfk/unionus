@@ -2175,7 +2175,7 @@ p {
 .mobile-know-more-btn {
     display: none;
     position: absolute;
-    bottom: 0;
+    bottom: 15px;
     color: #fff;
     text-decoration: none;
     text-align: center;
