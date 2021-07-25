@@ -2290,6 +2290,9 @@ p {
     nav {
         right: 12px;
     }
+    html[lang='en-US'] .mobile-zh-slogan {
+        display: none;
+    }
     .mobile-zh-slogan {
         display: inline-block;
         position: absolute;
