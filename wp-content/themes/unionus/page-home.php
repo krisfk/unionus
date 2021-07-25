@@ -428,7 +428,7 @@ $(function() {
 
 
 
-    $('.know-more-btn').click(function() {
+    $('.know-more-btn,.mobile-know-more-btn').click(function() {
 
         $('.dot1.dot').click();
     });
