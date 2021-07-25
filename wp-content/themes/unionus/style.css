@@ -2651,6 +2651,7 @@ p {
         font-size: 22px;
         line-height: 1.5;
         background: #21212b9c;
+        padding: 15px 0 15px 0;
         z-index: 200;
     }
     .mobile-zh-slogan img {
