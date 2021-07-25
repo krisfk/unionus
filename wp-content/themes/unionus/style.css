@@ -2643,6 +2643,17 @@ p {
 @media only screen and (max-width: 480px) {
     .mobile-zh-slogan {
         display: inline-block;
+        position: absolute;
+        top: 50%;
+        transform: translate(0, -50%);
+        text-align: center;
+        left: 5%;
+        font-size: 22px;
+        line-height: 1.5;
+    }
+    .mobile-zh-slogan img {
+        height: 80px;
+        margin: 20px 0 20px 0;
     }
     .rolling-slogan {
         display: none;
