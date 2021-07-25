@@ -114,7 +114,7 @@
                 <a href="tel:98888135" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-1.png" alt="">
                     <div>
-                        <?php echo ($lang_code == 'zh-hant') ? '與我們聯絡':'Contact Us'; ?>
+                        <?php echo ($lang_code == 'zh-hant') ? '與我們聯絡':'Contact'; ?>
 
                     </div>
                 </a>
