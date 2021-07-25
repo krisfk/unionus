@@ -687,7 +687,7 @@ footer {
 .top-menu-div {
     position: fixed;
     right: 0;
-    z-index: 300;
+    z-index: 500;
     top: 40px;
     font-size: 20px;
     width: 100%;
