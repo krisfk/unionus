@@ -2650,6 +2650,8 @@ p {
         left: 5%;
         font-size: 22px;
         line-height: 1.5;
+        background: #21212b9c;
+        z-index: 200;
     }
     .mobile-zh-slogan img {
         height: 80px;
