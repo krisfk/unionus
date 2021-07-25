@@ -258,7 +258,7 @@ $(function() {
     });
 
     $('.top-menu-div').mouseenter(function() {
-        $(this).css({ background: 'rgba(33, 34, 45, 0.7)' });
+        $(this).css({ background: 'rgba(33, 34, 45, 0.8)' });
     });
     $('.mobile-menu-submenu').mouseleave(function() {
         if ($(window).width() > 1280) {
