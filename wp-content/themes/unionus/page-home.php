@@ -550,7 +550,7 @@ $(function() {
 
         // $(this).addClass('active')
         $('body, html').animate({
-            scrollTop: $(goToSection).offset().top + 1,
+            scrollTop: $(goToSection).offset().top,
         }, {
             duration: (browser == 'Apple Safari') ? 500 : 0, //0
             easing: "easeInOutQuart",
