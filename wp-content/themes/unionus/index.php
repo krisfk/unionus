@@ -195,7 +195,7 @@ get_header();
 
 
 
-<div class="position-relative mt-7">
+<div class="position-relative mt-6-5">
     <img class="home-tran-bg-1" src="<?php echo get_template_directory_uri(); ?>/assets/images/home-tran-bg-1.png"
         alt="">
     <img class="home-tran-bg-2" src="<?php echo get_template_directory_uri(); ?>/assets/images/home-tran-bg-2.png"
