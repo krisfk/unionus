@@ -783,7 +783,7 @@ nav {
     position: fixed;
     top: 30%;
     bottom: 30%;
-    right: 40px;
+    right: 28px;
     width: 60px;
     z-index: 400;
 }
@@ -798,8 +798,8 @@ nav ul {
 }
 
 nav li {
-    width: 30px;
-    height: 30px;
+    width: 15px;
+    height: 15px;
     border-radius: 50%;
     background-color: black;
     list-style-type: none;
@@ -2632,6 +2632,18 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    nav.dot-menu {
+        height: 400px;
+        right: 28px;
+        height: 200px;
+    }
+    nav li {
+        width: 15px;
+        height: 15px;
+    }
+    .dot-menu-page-txt {
+        display: none;
+    }
     .mobile-know-more-btn {
         display: block;
     }
