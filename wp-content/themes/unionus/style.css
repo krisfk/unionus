@@ -785,6 +785,7 @@ nav {
     /* bottom: 30%; */
     right: 28px;
     width: 60px;
+    height: 200px;
     z-index: 400;
     transform: translate(0, -50%);
 }
@@ -2282,6 +2283,9 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
+    nav {
+        right: 12px;
+    }
     .rolling-slogan {
         font-size: 40px;
         background: #21212b9c;
