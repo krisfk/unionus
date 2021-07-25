@@ -93,6 +93,12 @@
 
 <body <?php body_class(); ?>>
     <?php wp_body_open(); ?>
+    <?php
+     if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+        $lang_code = ICL_LANGUAGE_CODE;
+      }
+
+    ?>
 
     <table class="bottom-fix-nav">
         <tr>
@@ -100,14 +106,17 @@
                 <a href="https://api.whatsapp.com/send?phone=85298888135" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/wts-icon.png" alt="">
                     <div>
-                        WhatsApp</div>
+                        <?php echo ($lang_code == 'zh-hant') ? 'WhatsApp':'WhatsApp'; ?>
+                    </div>
                 </a>
             </td>
             <td>
                 <a href="tel:98888135" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-1.png" alt="">
                     <div>
-                        與我們聯絡</div>
+                        <?php echo ($lang_code == 'zh-hant') ? '與我們聯絡':'Contact Us'; ?>
+
+                    </div>
                 </a>
             </td>
             <td>
@@ -115,7 +124,10 @@
                 <a href="mailto:unionusgroup@gmail.com" target="_blank"> <img
                         src="<?php echo get_template_directory_uri(); ?>/assets/images/bottom-icon-2.png" alt="">
                     <div>
-                        郵箱 </div>
+                        <?php echo ($lang_code == 'zh-hant') ? '郵箱':'Email'; ?>
+
+
+                    </div>
                 </a>
             </td>
             <td>
