@@ -519,10 +519,19 @@ $(function() {
             'background': 'rgb(33 34 45 / 70%)'
         })
         const scrollValue = $(window).scrollTop();
-        const heightSec2 = $('.sec2').offset().top;
-        const heightSec3 = $('.sec3').offset().top;
-        const heightSec4 = $('.sec4').offset().top;
-        const heightSec5 = $('.sec5').offset().top;
+
+        var to_pos_y;
+        if ($(window).width > 1280) {
+            offset_pos_y = 0
+        } else {
+            offset_pos_y = -50
+
+        }
+
+        const heightSec2 = $('.sec2').offset().top + offset_pos_y;
+        const heightSec3 = $('.sec3').offset().top + offset_pos_y;
+        const heightSec4 = $('.sec4').offset().top + offset_pos_y;
+        const heightSec5 = $('.sec5').offset().top + offset_pos_y;
 
 
         if (scrollValue < heightSec2) {
