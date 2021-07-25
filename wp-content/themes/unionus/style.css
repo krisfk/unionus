@@ -2182,6 +2182,10 @@ p {
     transform: translate(-50%, 0px);
 }
 
+.mobile-zh-slogan {
+    display: none;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         /* display: none; */
@@ -2633,7 +2637,9 @@ p {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
-    .mobile-zh-slogan {}
+    .mobile-zh-slogan {
+        display: inline-block;
+    }
     .rolling-slogan {
         display: none;
     }
