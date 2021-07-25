@@ -2183,7 +2183,7 @@ p {
 
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
-        display: none;
+        /* display: none; */
     }
     .know-more-btn {
         float: none;
