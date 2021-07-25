@@ -466,7 +466,7 @@ $(function() {
     function changeDot() {
 
         $('.top-menu-div').css({
-            'background': 'rgb(33 34 45 / 70%)'
+            'background': 'rgb(33 34 45 / 90%)'
         })
         const scrollValue = $(window).scrollTop();
         const heightSec2 = $('.sec2').offset().top;
