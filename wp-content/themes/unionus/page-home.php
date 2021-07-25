@@ -524,7 +524,7 @@ $(function() {
         if ($(window).width > 1280) {
             offset_pos_y = 0
         } else {
-            offset_pos_y = -80
+            offset_pos_y = -100
 
         }
 
@@ -562,7 +562,7 @@ $(function() {
         if ($(window).width > 1280) {
             to_pos_y = $(goToSection).offset().top
         } else {
-            to_pos_y = $(goToSection).offset().top - 80
+            to_pos_y = $(goToSection).offset().top - 100
 
         }
 
