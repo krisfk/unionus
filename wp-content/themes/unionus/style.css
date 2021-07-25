@@ -1756,7 +1756,7 @@ a.normal:hover {
     bottom: 0;
     width: 100%;
     background: rgb(33 39 50 / 90%);
-    z-index: 100;
+    z-index: 500;
     text-align: center;
     border-top: 1px solid #21222b;
     table-layout: fixed;
