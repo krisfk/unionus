@@ -2293,6 +2293,23 @@ p {
     html[lang='en-US'] .mobile-zh-slogan {
         display: none;
     }
+    .mobile-en-slogan {
+        display: inline-block;
+        position: absolute;
+        top: 50%;
+        transform: translate(0, -50%);
+        text-align: center;
+        left: 5%;
+        font-size: 22px;
+        line-height: 1.5;
+        background: #21212b9c;
+        padding: 15px 0 15px 0;
+        z-index: 200;
+    }
+    .mobile-en-slogan img {
+        height: 80px;
+        margin: 20px 0 20px 0;
+    }
     .mobile-zh-slogan {
         display: inline-block;
         position: absolute;
