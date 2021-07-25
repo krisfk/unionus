@@ -549,8 +549,16 @@ $(function() {
         const goToSection = '.s' + $(this).attr('id');
 
         // $(this).addClass('active')
+        var to_pos_y;
+        if ($(window).width > 1280) {
+            to_pos_y = $(goToSection).offset().top
+        } else {
+            to_pos_y = $(goToSection).offset().top - 50
+
+        }
+
         $('body, html').animate({
-            scrollTop: $(goToSection).offset().top,
+            scrollTop: to_pos_y,
         }, {
             duration: (browser == 'Apple Safari') ? 500 : 0, //0
             easing: "easeInOutQuart",
