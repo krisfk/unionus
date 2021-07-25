@@ -495,7 +495,7 @@ $(function() {
 
             });
             $('.iframe').css({
-                'left': '15%'
+                'left': '0'
             });
         }
 
