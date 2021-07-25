@@ -408,15 +408,19 @@ $(function() {
                 'px'
         })
 
-        // $('.company-intro-content-2').css({
-        //     'bottom': $('.company-intro-row-div').height() / 2 - $(
-        //             '.company-intro-content-2')
-        //         .height() -
-        //         30 +
-        //         'px'
-        // })
         $('.company-intro-content-2').css({
-            'bottom': '-30px'
+            'bottom': $('.company-intro-row-div').height() / 2 - $(
+                    '.company-intro-content-2')
+                .height() -
+                30 +
+                'px'
+        })
+        $('.company-intro-content-2').css({
+            'bottom': $('.company-intro-row-div').height() / 2 - $(
+                    '.company-intro-content-2')
+                .height() -
+                30 +
+                'px'
         })
     });
 
