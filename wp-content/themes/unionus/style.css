@@ -687,7 +687,7 @@ footer {
 .top-menu-div {
     position: fixed;
     right: 0;
-    z-index: 500;
+    z-index: 300;
     top: 40px;
     font-size: 20px;
     width: 100%;
@@ -2381,7 +2381,7 @@ p {
         background: url(./assets/images/arrow-down.png);
         background-size: auto 11px;
         background-repeat: no-repeat;
-        background-position: 100% center;
+        background-position: 102.5% center;
     }
     .top-menu-div .top-menu li a.service-btn.open {
         background: url(./assets/images/arrow-up.png);
@@ -2419,7 +2419,7 @@ p {
         width: 100%;
     }
     .top-menu-div .top-menu li a {
-        padding: 3px 25px;
+        padding: 3px 25px 0 25px;
         display: block;
         /* width: 100%; */
         /* border-bottom: 1px solid #ffffff24; */
