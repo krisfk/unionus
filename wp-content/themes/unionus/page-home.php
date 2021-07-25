@@ -67,6 +67,7 @@ get_header();
             <?php
           if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
             $lang_code = ICL_LANGUAGE_CODE;
+          }
 
             if($lang_code=='en')
             {
