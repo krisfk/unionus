@@ -2315,7 +2315,7 @@ p {
         border-radius: 15px;
     }
     .mobile-en-slogan img {
-        height: 100px;
+        height: 75px;
         margin: 20px 0 10px 0;
     }
     .mobile-zh-slogan {
@@ -2333,7 +2333,7 @@ p {
         border-radius: 15px;
     }
     .mobile-zh-slogan img {
-        height: 80px;
+        height: 75px;
         margin: 20px 0 20px 0;
     }
     .rolling-slogan {
@@ -2707,7 +2707,7 @@ p {
         border-radius: 12px;
     }
     .mobile-zh-slogan img {
-        height: 100px;
+        /* height: 75px; */
         margin: 20px 0 20px 0;
     }
     .rolling-slogan {
