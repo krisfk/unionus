@@ -63,7 +63,26 @@ get_header();
 
     <a href="javascript:void(0);" class="mobile-know-more-btn">
 
-        <div>了解緊多</div>
+        <div>
+            <?php
+          if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+            $lang_code = ICL_LANGUAGE_CODE;
+
+            if($lang_code=='en')
+            {
+                ?>
+            Learn More
+            <?php
+            }
+            if($lang_code=='zh-hant')
+            {
+                ?>
+            了解緊多
+            <?php
+            }
+            
+        ?>
+        </div>
 
 
         <img src="https://unionus.com.hk/wp-content/uploads/2021/07/down-arrow.png" alt="">
