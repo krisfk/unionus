@@ -2192,7 +2192,7 @@ p {
         /* display: none; */
     }
     .know-more-btn {
-        float: none;
+        float: right;
     }
     html[lang='en-US'] .promise-pt-4 p:first-child {
         padding: 0 28px 0 68px;
@@ -2286,11 +2286,29 @@ p {
     nav {
         right: 12px;
     }
+    .mobile-zh-slogan {
+        display: inline-block;
+        position: absolute;
+        top: 50%;
+        transform: translate(0, -50%);
+        text-align: center;
+        left: 5%;
+        font-size: 22px;
+        line-height: 1.5;
+        background: #21212b9c;
+        padding: 15px 0 15px 0;
+        z-index: 200;
+    }
+    .mobile-zh-slogan img {
+        height: 80px;
+        margin: 20px 0 20px 0;
+    }
     .rolling-slogan {
         font-size: 40px;
         background: #21212b9c;
         padding: 30px;
         border-radius: 36px;
+        display: none;
     }
     .top-menu-div li:first-child {
         display: block !important;
