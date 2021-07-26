@@ -2240,6 +2240,7 @@ p {
 
 .scroll-read-more {
     font-size: 14px;
+    text-align: right;
 }
 
 .scroll-read-more img {
