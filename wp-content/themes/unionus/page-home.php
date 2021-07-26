@@ -199,11 +199,11 @@ get_header();
                 <h2 class="gold">
                     <?php echo get_field('content_part_3');?>
                 </h2>
-                <div class="mt-4">
+                <div class="mt-4 text-start">
 
                     <?php echo get_field('content_part_2m');?>
                 </div>
-                <div class="mt-4">
+                <div class="mt-4 text-start">
                     <?php echo get_field('content_part_4');?>
                 </div>
             </div>
