@@ -2341,7 +2341,7 @@ p {
         max-width: 300px;
     }
     .footer-menu {
-        display: none;
+        display: block;
     }
     nav {
         right: 12px;
