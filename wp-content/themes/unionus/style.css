@@ -1150,6 +1150,10 @@ html[lang='en-US'] .promise-pt-5 p:first-child {
     content: '- ';
 }
 
+.service-promise-ul li li:before {
+    content: '';
+}
+
 h2 {
     font-size: 38px !important;
     line-height: 1.3;
