@@ -26,7 +26,7 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold fadeindown-ele">專欄</h1>
+            <h1 class="mx-auto gold fadeindown-ele"><?php echo get_the_title();?></h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
@@ -34,7 +34,19 @@ get_header();
 
         <div class="inner-container mx-auto mt-5 text-center ">
 
-            <h2 class="gold fadeinup-ele">最新文章</h2>
+            <h2 class="gold fadeinup-ele">
+                <?php
+                   if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+                    $lang_code = ICL_LANGUAGE_CODE;
+                  }
+                  
+                  echo ($lang_code=='zh-hant') ? '最新文章':'Latest Articles';
+
+
+                  
+                ?>
+
+            </h2>
 
 
 
