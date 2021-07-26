@@ -225,8 +225,18 @@ get_header();
         <div class="text-center mt-7">
 
             <div class="little-gold-bar mx-auto"></div>
-            <div class=" mt-5 fadeinup-ele">全部文章</div>
-            <h2 class="gold mt-2 fadeinup-ele">文章列表</h2>
+            <div class=" mt-5 fadeinup-ele">
+                <?php
+                              echo ($lang_code=='zh-hant') ? '全部文章':'All Articles';
+
+            ?>
+            </div>
+            <h2 class="gold mt-2 fadeinup-ele">
+                <?php
+                                          echo ($lang_code=='zh-hant') ? '文章列表':'Articles List';
+
+            ?>
+            </h2>
         </div>
 
 
