@@ -454,6 +454,7 @@ const skrollrObj = skrollr.init();
 </script>
 
 <script type="text/javascript">
+var offsety_const = -100;
 $(function() {
 
 
@@ -554,7 +555,7 @@ $(function() {
         if ($(window).width > 1280) {
             offset_pos_y = 0
         } else {
-            offset_pos_y = -100
+            offset_pos_y = offsety_const
 
         }
 
@@ -592,7 +593,7 @@ $(function() {
         if ($(window).width > 1280) {
             to_pos_y = $(goToSection).offset().top
         } else {
-            to_pos_y = $(goToSection).offset().top - 100
+            to_pos_y = $(goToSection).offset().top + offsety_const
 
         }
 
