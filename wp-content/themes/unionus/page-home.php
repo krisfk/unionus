@@ -120,7 +120,7 @@ get_header();
                     <?php echo get_field('content_part_3');?>
                 </h2>
                 <div class="mt-4">
-                    <?php echo get_field('content_part_2');?>fff
+                    <?php echo get_field('content_part_2');?>
                 </div>
                 <div class="mt-4">
                     <?php echo get_field('content_part_4');?>
