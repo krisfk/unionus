@@ -589,7 +589,7 @@ $(function() {
 
         // $(this).addClass('active')
         var to_pos_y;
-        if ($(window).width > 1280) {
+        if ($(window).width() > 1280) {
             to_pos_y = $(goToSection).offset().top
         } else {
             to_pos_y = $(goToSection).offset().top - 100
