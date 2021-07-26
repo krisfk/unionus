@@ -81,25 +81,27 @@
 
         <select name="" class="footer-pulldown-menu wpcf7-form-control wpcf7-select form-control" aria-invalid="false">
             <option value="">Other Pages</option>
-            <option value="https://unionus.com.hk/our-team/">About Us</option>
-            <option value="https://unionus.com.hk/advantage/">Our Advantages</option>
-            <option value="https://unionus.com.hk/sme/">SME Financing Guaranteed Scheme 100 Per cent Guaranteed
+            <option value="https://unionus.com.hk/en/our-team/">About Us</option>
+            <option value="https://unionus.com.hk/en/advantage/">Our Advantages</option>
+            <option value="https://unionus.com.hk/en/sme/">SME Financing Guaranteed Scheme 100 Per cent Guaranteed
                 Preferential loans</option>
-            <option value="https://unionus.com.hk/drp/">Debt relief program (DRP)</option>
-            <option value="https://unionus.com.hk/iva/">Individual voluntary arrangement (IVA)</option>
-            <option value="https://unionus.com.hk/idrp/">Interbank Debt Relief Plan（IDRP）</option>
-            <option value="https://unionus.com.hk/bankrupt/">Bankruptcy</option>
-            <option value="https://unionus.com.hk/improve-tu-plan/">TU ( Personal Trans-union credit report) Improvement
+            <option value="https://unionus.com.hk/en/drp/">Debt relief program (DRP)</option>
+            <option value="https://unionus.com.hk/en/iva/">Individual voluntary arrangement (IVA)</option>
+            <option value="https://unionus.com.hk/en/idrp/">Interbank Debt Relief Plan（IDRP）</option>
+            <option value="https://unionus.com.hk/en/bankrupt/">Bankruptcy</option>
+            <option value="https://unionus.com.hk/en/improve-tu-plan/">TU ( Personal Trans-union credit report)
+                Improvement
                 scenario</option>
-            <option value="https://unionus.com.hk/large-clearing-scheme/">Big amount clearance program
+            <option value="https://unionus.com.hk/en/large-clearing-scheme/">Big amount clearance program
                 company</option>
-            <option value="https://unionus.com.hk/found-limited-unlimited-company/">Setting up a limited/unlimited
+            <option value="https://unionus.com.hk/en/found-limited-unlimited-company/">Setting up a limited/unlimited
                 company</option>
-            <option value="https://unionus.com.hk/company-private-tax/">Company / Personal taxation declaration</option>
-            <option value="https://unionus.com.hk/account-audit/">Accounting and auditing</option>
-            <option value="https://unionus.com.hk/column/">Column</option>
-            <option value="https://unionus.com.hk/artists-and-partners/">Artist Cooperation and Partnership</option>
-            <option value="https://unionus.com.hk/contact-us/">Contact us</option>
+            <option value="https://unionus.com.hk/en/company-private-tax/">Company / Personal taxation declaration
+            </option>
+            <option value="https://unionus.com.hk/en/account-audit/">Accounting and auditing</option>
+            <option value="https://unionus.com.hk/en/column/">Column</option>
+            <option value="https://unionus.com.hk/en/artists-and-partners/">Artist Cooperation and Partnership</option>
+            <option value="https://unionus.com.hk/en/contact-us/">Contact us</option>
 
         </select>
 
