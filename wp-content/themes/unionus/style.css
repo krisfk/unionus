@@ -2146,7 +2146,7 @@ p {
     margin: 0;
     text-align: center;
     /* display: flex; */
-    display: none;
+    display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
@@ -2328,7 +2328,7 @@ p {
 
 @media only screen and (max-width: 1280px) {
     .footer-menu {
-        display: flex;
+        display: none;
     }
     .form-control.footer-pulldown-menu {
         display: block;
