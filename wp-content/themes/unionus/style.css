@@ -878,6 +878,10 @@ nav li {
     /* gold-line-bg.png */
 }
 
+html[lang='en-US'] .company-intro-row-div {
+    margin-top: 2rem !important;
+}
+
 .company-intro-content-1 {
     position: absolute;
     top: 0;
