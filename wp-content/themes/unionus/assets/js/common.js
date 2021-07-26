@@ -12,7 +12,13 @@ $.fn.isInViewport = function() {
 };
 
 $(function() {
-    // alert(7);
+    $('.footer-pulldown-menu').change(function() {
+        var url = $(this).val();
+        if (url) {
+            window.location = url;
+        }
+    });
+
     if ($('body').hasClass('page-home')) {
         if ($(window).width() <= 1280 && $(window).scrollTop() == 0) {
             // $('.mobile-menu-logo-a').fadeOut(0);
