@@ -2330,6 +2330,9 @@ p {
     .footer-menu {
         display: none;
     }
+    .pt-const2 {
+        padding: 100px 0 0 0;
+    }
     .form-control.footer-pulldown-menu {
         display: block;
     }
