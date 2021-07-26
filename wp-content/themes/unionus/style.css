@@ -2333,6 +2333,9 @@ p {
     .form-control.footer-pulldown-menu {
         display: block;
     }
+    html[lang='en-US'] .form-control.footer-pulldown-menu {
+        max-width: 300px;
+    }
     .footer-menu {
         display: none;
     }
