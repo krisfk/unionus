@@ -2241,6 +2241,7 @@ p {
 .scroll-read-more {
     font-size: 14px;
     text-align: right;
+    display: none;
 }
 
 .scroll-read-more img {
@@ -2348,6 +2349,9 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
+    .scroll-read-more {
+        display: block;
+    }
     .form-control.footer-pulldown-menu {
         display: block;
         max-width: 300px;
