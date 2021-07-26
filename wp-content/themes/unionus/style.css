@@ -2246,7 +2246,7 @@ p {
 
 .scroll-read-more img {
     height: 12px !important;
-    margin: 0 5px 0 0;
+    margin: -1px 5px 0 0;
 }
 
 @media only screen and (max-width: 1500px) {
