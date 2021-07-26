@@ -41,7 +41,7 @@
             <option value="https://unionus.com.hk/idrp/">IDRP 牽頭式債務舒緩</option>
             <option value="https://unionus.com.hk/bankrupt/">破產</option>
             <option value="https://unionus.com.hk/improve-tu-plan/">TU（個人環聯信貸報告）改善方案</option>
-            <option value="https://unionus.com.hk/found-limited-unlimited-company/">大額清數方案</option>
+            <option value="https://unionus.com.hk/large-clearing-scheme/">大額清數方案</option>
             <option value="https://unionus.com.hk/found-limited-unlimited-company/">開立有限/無限公司</option>
             <option value="https://unionus.com.hk/company-private-tax/">公司/私人報稅</option>
             <option value="https://unionus.com.hk/account-audit/">會計審核</option>
@@ -78,6 +78,31 @@
   else
   {
       ?>
+
+        <select name="" class="footer-pulldown-menu wpcf7-form-control wpcf7-select form-control" aria-invalid="false">
+            <option value="">Other Pages</option>
+            <option value="https://unionus.com.hk/our-team/">About Us</option>
+            <option value="https://unionus.com.hk/advantage/">Our Advantages</option>
+            <option value="https://unionus.com.hk/sme/">SME Financing Guaranteed Scheme 100 Per cent Guaranteed
+                Preferential loans</option>
+            <option value="https://unionus.com.hk/drp/">Debt relief program (DRP)</option>
+            <option value="https://unionus.com.hk/iva/">Individual voluntary arrangement (IVA)</option>
+            <option value="https://unionus.com.hk/idrp/">Interbank Debt Relief Plan（IDRP）</option>
+            <option value="https://unionus.com.hk/bankrupt/">Bankruptcy</option>
+            <option value="https://unionus.com.hk/improve-tu-plan/">TU ( Personal Trans-union credit report) Improvement
+                scenario</option>
+            <option value="https://unionus.com.hk/large-clearing-scheme/">Big amount clearance program
+                company</option>
+            <option value="https://unionus.com.hk/found-limited-unlimited-company/">Setting up a limited/unlimited
+                company</option>
+            <option value="https://unionus.com.hk/company-private-tax/">Company / Personal taxation declaration</option>
+            <option value="https://unionus.com.hk/account-audit/">Accounting and auditing</option>
+            <option value="https://unionus.com.hk/column/">Column</option>
+            <option value="https://unionus.com.hk/artists-and-partners/">Artist Cooperation and Partnership</option>
+            <option value="https://unionus.com.hk/contact-us/">Contact us</option>
+
+        </select>
+
         <ul class="footer-menu">
 
             <li><a class="level-1 our-team " href="https://unionus.com.hk/en/our-team/">About Us</a></li>
