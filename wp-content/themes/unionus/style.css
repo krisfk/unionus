@@ -2226,6 +2226,10 @@ p {
     display: none;
 }
 
+.footer-pulldown-menu {
+    display: none;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         /* display: none; */
@@ -2322,6 +2326,9 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
+    .footer-pulldown-menu {
+        display: block;
+    }
     nav {
         right: 12px;
     }

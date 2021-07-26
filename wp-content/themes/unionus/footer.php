@@ -31,7 +31,7 @@
   if($lang_code=='zh-hant')
   {
         ?>
-        <select name="ask-service" class="wpcf7-form-control wpcf7-select form-control" aria-invalid="false">
+        <select name="" class="footer-pulldown-menu wpcf7-form-control wpcf7-select form-control" aria-invalid="false">
             <option value="">其他頁面</option>
             <option value="https://unionus.com.hk/our-team/">Unionus團隊</option>
             <option value="https://unionus.com.hk/advantage/">優勢</option>
