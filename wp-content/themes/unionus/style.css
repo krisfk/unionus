@@ -2238,6 +2238,15 @@ p {
     display: block;
 }
 
+.scroll-read-more {
+    font-size: 14px;
+}
+
+.scroll-read-more img {
+    height: 12px !important;
+    margin: 0 5px 0 0;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         /* display: none; */
