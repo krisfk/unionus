@@ -16,6 +16,10 @@
 
 get_header();
 
+if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+    $lang_code = ICL_LANGUAGE_CODE;
+  }
+  
 ?>
 
 
@@ -26,7 +30,12 @@ get_header();
     <div class="container">
 
         <div class="text-center">
-            <h1 class="mx-auto gold fadeindown-ele">專欄</h1>
+            <h1 class="mx-auto gold fadeindown-ele">
+                <?php
+                              echo ($lang_code=='zh-hant') ? '專欄':'Column';
+
+            ?>
+            </h1>
         </div>
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
