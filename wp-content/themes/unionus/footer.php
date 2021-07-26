@@ -24,19 +24,12 @@
 
     <div class="container">
         <?php
-        $the_slug = 'footer-menu';
-        $args = array(
-          'name'        => $the_slug,
-          'post_type'   => 'post',
-          'post_status' => 'publish',
-          'numberposts' => 1
-        );
-        $footer = get_posts($args);
-        if( $footer ) 
-        {
-echo 1;
-        }
-        echo 999;
+   if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+    $lang_code = ICL_LANGUAGE_CODE;
+  }
+
+  if($lang_code=='zh-hant')
+  {
         ?>
         <ul class="footer-menu">
 
@@ -60,6 +53,39 @@ echo 1;
             <li><a class="level-1 contact-us " href="https://unionus.com.hk/contact-us/">聯絡我們</a></li>
 
         </ul>
+        <?php
+  }
+  else
+  {
+      ?>
+        <ul class="footer-menu">
+
+            <li><a class="level-1 our-team " href="https://unionus.com.hk/en/our-team/">Unionus團隊</a></li>
+            <li><a class="level-1 advantage " href="https://unionus.com.hk/en/advantage/">優勢</a></li>
+            <li><a class="sme" href="https://unionus.com.hk/en/sme/">中小企融資擔保計劃 百分百擔保特惠貸款</a></li>
+            <li><a class="drp" href="https://unionus.com.hk/en/drp/">DRP債務重組</a></li>
+            <li><a class="iva" href="https://unionus.com.hk/en/iva/">IVA 個人自願安排</a></li>
+            <li><a class="idrp" href="https://unionus.com.hk/en/idrp/">IDRP 牽頭式債務舒緩</a></li>
+            <li><a class="bankrupt" href="https://unionus.com.hk/en/bankrupt/">破產</a></li>
+            <li><a class="improve-tu-plan" href="https://unionus.com.hk/en/improve-tu-plan/">TU（個人環聯信貸報告）改善方案</a></li>
+            <li><a class="large-clearing-scheme" href="https://unionus.com.hk/en/large-clearing-scheme/">大額清數方案</a>
+            </li>
+            <li><a class="found-limited-unlimited-company"
+                    href="https://unionus.com.hk/en/found-limited-unlimited-company/">開立有限/無限公司</a></li>
+            <li><a class="company-private-tax" href="https://unionus.com.hk/en/company-private-tax/">公司/私人報稅</a></li>
+            <li><a class="account-audit" href="https://unionus.com.hk/en/account-audit/">會計審核</a></li>
+            <li><a class="level-1 column " href="https://unionus.com.hk/en/column/">專欄</a></li>
+            <li><a class="level-1 artists-and-partners "
+                    href="https://unionus.com.hk/en/artists-and-partners/">藝人與合作伙伴</a>
+            </li>
+            <li><a class="level-1 contact-us " href="https://unionus.com.hk/en/contact-us/">聯絡我們</a></li>
+
+        </ul>
+        <?php
+  }
+
+?>
+
     </div>
 
 
