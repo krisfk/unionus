@@ -2329,6 +2329,9 @@ p {
     .form-control.footer-pulldown-menu {
         display: block;
     }
+    .footer-menu {
+        display: none;
+    }
     nav {
         right: 12px;
     }
