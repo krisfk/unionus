@@ -994,7 +994,7 @@ html[lang='en-US'] .promise-pt-4 p:first-child {
 }
 
 html[lang='en-US'] .promise-pt-5 p:first-child {
-    padding: 0 55px 0 64px;
+    padding: 0 0 0 90px;
     text-align: left;
 }
 
@@ -2253,6 +2253,10 @@ p {
         padding: 0 5px 0 63px;
         text-align: left;
     }
+    html[lang='en-US'] .promise-pt-5 p:first-child {
+        padding: 0 28px 0 68px;
+        text-align: left;
+    }
     /* .promise-pt-ul .small-shape {
         position: absolute;
         top: -30px;
@@ -2328,9 +2332,6 @@ p {
 @media only screen and (max-width: 1280px) {
     .form-control.footer-pulldown-menu {
         display: block;
-    }
-    html[lang='en-US'] .form-control.footer-pulldown-menu {
-        max-width: 300px;
     }
     .footer-menu {
         display: none;
