@@ -19,7 +19,8 @@
 <?php get_template_part( 'template-parts/footer/footer-widgets' ); ?>
 
 
-<footer id="colophon" class="site-footer pt-const2" role="contentinfo">
+<!-- <footer id="colophon" class="site-footer pt-const2" role="contentinfo"> -->
+<footer id="colophon" class="site-footer pt-5" role="contentinfo">
 
 
     <div class="container">
