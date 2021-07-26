@@ -2336,6 +2336,7 @@ p {
 @media only screen and (max-width: 1280px) {
     .form-control.footer-pulldown-menu {
         display: block;
+        max-width: 300px;
     }
     html[lang='en-US'] .form-control.footer-pulldown-menu {
         max-width: 300px;
