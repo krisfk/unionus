@@ -23,6 +23,21 @@
 
 
     <div class="container">
+        <?php
+        $the_slug = 'footer-menu';
+        $args = array(
+          'name'        => $the_slug,
+          'post_type'   => 'post',
+          'post_status' => 'publish',
+          'numberposts' => 1
+        );
+        $footer = get_posts($args);
+        if( $footer ) 
+        {
+echo 1;
+        }
+        
+        ?>
         <ul class="footer-menu">
 
             <li><a class="level-1 our-team " href="https://unionus.com.hk/our-team/">Unionus團隊</a></li>
