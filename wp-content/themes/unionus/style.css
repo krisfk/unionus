@@ -1688,7 +1688,7 @@ footer select:focus {
     color: #ddbd8a !important;
     background: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='gold' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='0' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
     border: 2px solid #ddbd8a !important;
-    opacity: 0.6 !important;
+    opacity: 1 !important;
     /* Firefox */
     border-radius: 6px !important;
     background-repeat: no-repeat;
