@@ -454,7 +454,7 @@ const skrollrObj = skrollr.init();
 </script>
 
 <script type="text/javascript">
-var offsety_const = -$(window).width() / 5
+var offsety_const = -$(window).width() / 4
 // -100;
 $(function() {
 
