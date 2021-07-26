@@ -2226,7 +2226,7 @@ p {
     display: none;
 }
 
-.footer-pulldown-menu {
+.form-control.footer-pulldown-menu {
     display: none;
 }
 
@@ -2326,7 +2326,7 @@ p {
 }
 
 @media only screen and (max-width: 1280px) {
-    .footer-pulldown-menu {
+    .form-control.footer-pulldown-menu {
         display: block;
     }
     nav {
