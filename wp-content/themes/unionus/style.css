@@ -2449,6 +2449,7 @@ p {
     .top-menu-div .top-menu li .lang-div span {
         top: 0;
     }
+    .top-menu-div .top-menu li.sm-icon-li a {}
     .top-menu-div .top-menu li a.mobile-menu-logo-a {
         padding: 0 0 0px 20px !important;
         display: none;
