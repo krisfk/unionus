@@ -2266,6 +2266,14 @@ p {
     height: 22px;
 }
 
+footer .sm-icon-li img {
+    height: 25px;
+}
+
+footer .sm-icon-li a {
+    margin: 0 2px;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         /* display: none; */
