@@ -140,7 +140,7 @@
 
 ?>
 
-        <ul class="p-0">
+        <ul class="p-0 text-center">
             <li class="sm-icon-li m-0">
                 <a href="https://www.facebook.com/UnionUs-爾聯會計-101328275551918/" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sm-icon-1.png" alt="">
