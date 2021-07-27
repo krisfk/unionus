@@ -2249,7 +2249,22 @@ p {
     margin: -1px 5px 0 0;
 }
 
-.sm-icon-li img {}
+.sm-icon-li {
+    display: inline-block;
+    /* width:160px; */
+    margin: 0 0 0 10px;
+    position: relative;
+    top: -2px;
+}
+
+.sm-icon-li a {
+    display: inline-block;
+    padding: 0 !important;
+}
+
+.sm-icon-li img {
+    height: 27px;
+}
 
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
