@@ -2254,7 +2254,7 @@ p {
     /* width:160px; */
     margin: 0 0 0 10px;
     position: relative;
-    top: -2px;
+    top: -3px;
 }
 
 .sm-icon-li a {
@@ -2263,7 +2263,7 @@ p {
 }
 
 .sm-icon-li img {
-    height: 27px;
+    height: 22px;
 }
 
 @media only screen and (max-width: 1500px) {
