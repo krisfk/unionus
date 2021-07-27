@@ -2449,7 +2449,13 @@ p {
     .top-menu-div .top-menu li .lang-div span {
         top: 0;
     }
-    .top-menu-div .top-menu li.sm-icon-li a {}
+    .top-menu-div .top-menu li.sm-icon-li {
+        margin: 10px 0 0 24px;
+    }
+    .top-menu-div .top-menu li.sm-icon-li a {
+        display: inline-block;
+        margin: 0 5px 0px 0;
+    }
     .top-menu-div .top-menu li a.mobile-menu-logo-a {
         padding: 0 0 0px 20px !important;
         display: none;
