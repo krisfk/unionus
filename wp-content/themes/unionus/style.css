@@ -1788,13 +1788,15 @@ footer select:focus {
 .bottom-fix-nav {
     display: none;
     position: fixed;
-    bottom: 0;
-    width: 100%;
+    bottom: 10px;
+    width: 96%;
     background: #897b56;
     z-index: 500;
     text-align: center;
-    border-top: 1px solid #21222b;
+    border-top: 0;
     table-layout: fixed;
+    border-radius: 100px;
+    left: 2%;
 }
 
 .bottom-fix-nav td {
