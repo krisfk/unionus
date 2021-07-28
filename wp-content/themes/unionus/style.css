@@ -1795,7 +1795,7 @@ footer select:focus {
     text-align: center;
     border-top: 0;
     table-layout: fixed;
-    border-radius: 100px;
+    border-radius: 20px;
     left: 2%;
 }
 
