@@ -1953,12 +1953,14 @@ h2 .smaller {
 }
 
 .partner-logo-a img {
-    width: 200px;
+    width: 120px;
 }
 
 .partner-logo-a {
     display: inline-block;
-    margin: 0 30px;
+    margin: 0 30px 30px 0;
+    background: #fff;
+    border-radius: 20px;
 }
 
 .article-title {
@@ -2795,6 +2797,13 @@ footer .sm-icon-li a {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .partner-logo-a {
+        margin: 0 10px;
+        /*         padding: 0 10px */
+    }
+    .partner-logo-a img {
+        width: 100px;
+    }
     .mobile-zh-slogan {
         display: inline-block;
         position: absolute;
