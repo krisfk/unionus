@@ -2213,8 +2213,16 @@ p {
     opacity: 0;
 }
 
+.mobile-know-more-btn {
+    display: inline-block;
+    background: #897b55;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
 .mobile-know-more-btn img {
     width: 20px;
+    display: none;
 }
 
 .mobile-know-more-btn:hover {
