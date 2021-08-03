@@ -78,7 +78,7 @@ get_header();
             if($lang_code=='zh-hant')
             {
                 ?>
-            了解緊多
+            了解更多
             <?php
             }
             
