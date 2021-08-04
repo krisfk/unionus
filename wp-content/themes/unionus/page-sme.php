@@ -448,13 +448,13 @@ echo '聯絡我們';
 
 
 <style type="text/css">
-.top-menu-div {
+/* .top-menu-div {
     display: none;
 }
 
 .top-menu-logo-a {
     display: none;
-}
+} */
 </style>
 
 
