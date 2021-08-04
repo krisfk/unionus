@@ -18,14 +18,13 @@ get_header();
 
 ?>
 
-<section class="sec1 pt-5">
+<section class="sec1 pt-const2">
 
     <div class="container">
 
         <!-- 
         <img class="sme-logo fadein-ele" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png"
             alt=""> -->
-
 
         <div class="text-center fadeindown-ele">
             <h1 class="mx-auto gold">
