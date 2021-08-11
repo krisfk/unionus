@@ -713,6 +713,7 @@ footer {
 .top-menu-div .top-menu li a {
     color: #fff;
     text-decoration: none;
+    outline: none;
     padding: 0 15px;
     transition: 0.2s all;
 }
@@ -2562,6 +2563,7 @@ footer .sm-icon-li a {
     .top-menu-div .top-menu li a {
         padding: 3px 25px 0 25px;
         display: block;
+        outline: none;
         /* width: 100%; */
         /* border-bottom: 1px solid #ffffff24; */
     }
