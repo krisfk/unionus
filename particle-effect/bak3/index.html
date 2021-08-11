@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Interactive Particles | Codrops</title>
+    <meta name="description" content="Demo of a tutorial on how to draw a large number of particles with Three.js and make them interactive." />
+    <meta name="keywords" content="three.js, tutorial, particles, interactive, javascript, webgl" />
+    <meta name="author" content="Bruno Imbrizi for Codrops" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="css/base.css" />
+    <link rel="stylesheet" type="text/css" href="css/demo1.css" />
+    <script>
+        document.documentElement.className = 'js';
+        var supportsCssVars = function() {
+            var e,
+                t = document.createElement('style');
+            return (
+                (t.innerHTML = 'root: { --tmp-var: bold; }'),
+                document.head.appendChild(t),
+                (e = !!(
+                    window.CSS &&
+                    window.CSS.supports &&
+                    window.CSS.supports('font-weight', 'var(--tmp-var)')
+                )),
+                t.parentNode.removeChild(t),
+                e
+            );
+        };
+        supportsCssVars() ||
+            alert(
+                'Please view this demo in a modern browser that supports CSS Variables.'
+            );
+    </script>
+</head>
+
+<body class="demo-1">
+    <div class="container"></div>
+    <div class="blue-gradient"></div>
+    <div class="blue-gradient-2"></div>
+
+    <style>
+        .test-txt {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+        }
+        
+        #controlKit .panel {
+            display: none;
+        }
+        
+        .blue-gradient {
+            width: 300px;
+            position: absolute;
+            height: 100%;
+            /* background: #000; */
+            background: url(blue-gradient.png);
+            background-size: 100% 100%;
+            top: 0;
+            display: block;
+            left: 0;
+            z-index: 1000;
+        }
+        
+        .blue-gradient-2 {
+            width: 100%;
+            display: none;
+            position: absolute;
+            height: 300px;
+            /* background: #000; */
+            background: url(blue-gradient-2.png);
+            background-size: 100% 100%;
+            bottom: 0;
+            left: 0;
+            z-index: 1000;
+        }
+        
+        @media only screen and (max-width: 768px) {
+            .blue-gradient {
+                display: none;
+            }
+            .blue-gradient-2 {
+                display: none;
+            }
+        }
+    </style>
+    <script type="text/javascript" src="scripts/index.0a5b5f30b04cd8441542.js"></script>
+</body>
+
+</html>
