@@ -50,7 +50,7 @@ $(function() {
     // console.log(2);
 
     $(window).on('scroll', function() {
-        console.log($(window).scrollTop());
+        // console.log($(window).scrollTop());
 
         $('.top-menu-div').css({
             background: 'rgb(33 34 45 / 92%)',
