@@ -466,11 +466,21 @@ get_header();
 
 <style type="text/css">
 .bg-shape-1 {
-    display: none;
+    left: -300px;
+    display: block;
+    opacity: 0.;
+    top: 3300px;
+    x: ;
+    opacity: 0.1;
 }
 
 .bg-shape-2 {
-    display: none;
+    left: -300px;
+    display: block;
+    opacity: 0.;
+    top: 3300px;
+    x: ;
+    opacity: 0.1;
 }
 
 .white-light-bg {
