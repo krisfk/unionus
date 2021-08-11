@@ -20,11 +20,14 @@ get_header();
 <img class="bg-shape-3" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-3.png" alt="">
 <img class="bg-shape-4" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-4.png" alt="">
 
-<img src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
+<img class="white-light-bg white-light-bg-1"
+    src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
 
-<img src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
+<img class="white-light-bg white-light-bg-2"
+    src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
 
-<img src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
+<img class="white-light-bg white-light-bg-3"
+    src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
 
 <div class="home-banner-div">
 
@@ -467,6 +470,22 @@ get_header();
 }
 
 .bg-shape-2 {
+    display: none;
+}
+
+.white-light-bg {
+    position: absolute;
+}
+
+.white-light-bg-1 {
+    display: none;
+}
+
+.white-light-bg-2 {
+    display: none;
+}
+
+.white-light-bg-3 {
     display: none;
 }
 </style>
