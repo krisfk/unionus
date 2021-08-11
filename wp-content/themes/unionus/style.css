@@ -119,6 +119,7 @@ html {
 }
 
 iframe {
+    outline: none;
     position: absolute;
     top: 0;
     left: 15%;
@@ -2521,6 +2522,7 @@ footer .sm-icon-li a {
         background-size: auto 11px;
         background-repeat: no-repeat;
         background-position: 100% center;
+        outline: none;
     }
     .top-menu-div .top-menu li a.service-btn.open {
         background: url(./assets/images/arrow-up.png);
