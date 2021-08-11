@@ -22,13 +22,13 @@ get_header();
 <img class="bg-shape-4" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-4.png" alt=""
     data-2000="opacity:0" data-2800="opacity:0.8">
 
-<img class="white-light-bg white-light-bg-1" data-400="opacity:0" data-1200="opacity:0.1"
+<img class="white-light-bg white-light-bg-1" data-700="opacity:0" data-1500="opacity:0.1"
     src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
 
-<img class="white-light-bg white-light-bg-2" data-1500="opacity:0" data-2000="opacity:0.1"
+<img class="white-light-bg white-light-bg-2" data-1800="opacity:0" data-2300="opacity:0.1"
     src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
 
-<img class="white-light-bg white-light-bg-3" data-2500="opacity:0" data-3200="opacity:0.1"
+<img class="white-light-bg white-light-bg-3" data-2600="opacity:0" data-3500="opacity:0.1"
     src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
 
 <div class="home-banner-div">
