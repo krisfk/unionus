@@ -466,21 +466,11 @@ get_header();
 
 <style type="text/css">
 .bg-shape-1 {
-    left: -300px;
-    display: block;
-    opacity: 0.;
-    top: 3300px;
-    x: ;
-    opacity: 0.1;
+    display: none;
 }
 
 .bg-shape-2 {
-    left: -300px;
-    display: block;
-    opacity: 0.;
-    top: 3300px;
-    x: ;
-    opacity: 0.1;
+    display: none;
 }
 
 .white-light-bg {
@@ -488,16 +478,20 @@ get_header();
 }
 
 .white-light-bg-1 {
-    display: none;
+    display: block;
+    top: 3300px;
+    left: -200px;
+    opacity: 0.2;
 }
 
 .white-light-bg-2 {
-    display: none;
+    display: block;
+    top: 3300px;
+    left: -200px;
+    opacity: 0.2;
 }
 
-.white-light-bg-3 {
-    display: none;
-}
+.white-light-bg-3 {}
 </style>
 
 <script type="text/javascript">
