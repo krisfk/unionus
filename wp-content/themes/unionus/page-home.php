@@ -491,7 +491,10 @@ get_header();
     opacity: 0.1;
 }
 
-.white-light-bg-3 {}
+.white-light-bg-3 {
+
+    display: none;
+}
 </style>
 
 <script type="text/javascript">
