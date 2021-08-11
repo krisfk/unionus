@@ -2406,6 +2406,9 @@ footer .sm-icon-li a {
 }
 
 @media only screen and (max-width: 1280px) {
+    html {
+        overflow: scroll !important;
+    }
     .scroll-read-more {
         display: block;
     }
