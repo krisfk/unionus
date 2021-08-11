@@ -492,8 +492,11 @@ get_header();
 }
 
 .white-light-bg-3 {
-
-    display: none;
+    display: block;
+    position: absolute;
+    top: 1200px;
+    opacity: 0.1;
+    left: 0;
 }
 </style>
 
