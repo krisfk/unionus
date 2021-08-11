@@ -20,6 +20,11 @@ get_header();
 <img class="bg-shape-3" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-3.png" alt="">
 <img class="bg-shape-4" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-4.png" alt="">
 
+<img src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
+
+<img src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
+
+<img src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
 
 <div class="home-banner-div">
 
