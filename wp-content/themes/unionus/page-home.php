@@ -481,14 +481,14 @@ get_header();
     display: block;
     top: 3300px;
     left: -200px;
-    opacity: 0.2;
+    opacity: 0.1;
 }
 
 .white-light-bg-2 {
     display: block;
-    top: 3300px;
-    left: -200px;
-    opacity: 0.2;
+    top: 2200px;
+    right: -239px;
+    opacity: 0.1;
 }
 
 .white-light-bg-3 {}
