@@ -2541,7 +2541,7 @@ footer .sm-icon-li a {
         padding: 20px 0 0 0;
         background: rgb(33 34 45 / 92%);
         /* height: 100%; */
-        /* overflow: scroll; */
+        overflow: scroll;
         /* 1px border: solid; */
         border: 1;
         border-bottom: 1px solid #ffffff24;
