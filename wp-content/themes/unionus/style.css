@@ -2485,6 +2485,7 @@ footer .sm-icon-li a {
         border: none !important;
         margin: 10px 0 0 0;
         position: absolute;
+        right: 18px;
     }
     .top-menu-div .top-menu li .lang-div span {
         top: 0;
@@ -2516,7 +2517,7 @@ footer .sm-icon-li a {
         background: url(./assets/images/arrow-down.png);
         background-size: auto 11px;
         background-repeat: no-repeat;
-        background-position: 102.5% center;
+        background-position: 100% center;
     }
     .top-menu-div .top-menu li a.service-btn.open {
         background: url(./assets/images/arrow-up.png);
