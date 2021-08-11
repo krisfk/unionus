@@ -28,7 +28,7 @@ get_header();
 <img class="white-light-bg white-light-bg-2" data-1800="opacity:0" data-2300="opacity:0.1"
     src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
 
-<img class="white-light-bg white-light-bg-3" data-500="opacity:0" data-1000="opacity:0.1"
+<img class="white-light-bg white-light-bg-3" data-500="opacity:0" data-1300="opacity:0.1"
     src="<?php echo get_template_directory_uri(); ?>/assets/images/white-light-bg-1.png" alt="">
 
 <div class="home-banner-div">
