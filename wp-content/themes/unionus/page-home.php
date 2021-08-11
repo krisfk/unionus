@@ -17,6 +17,9 @@
 get_header();
 
 ?>
+<img class="bg-shape-3" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-3.png" alt="">
+<img class="bg-shape-4" src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-shape-4.png" alt="">
+
 
 <div class="home-banner-div">
 
@@ -453,7 +456,15 @@ get_header();
     </ul>
 </nav> -->
 
+<style type="text/css">
+.bg-shape-1 {
+    display: none;
+}
 
+.bg-shape-2 {
+    display: none;
+}
+</style>
 
 <script type="text/javascript">
 const skrollrObj = skrollr.init();
