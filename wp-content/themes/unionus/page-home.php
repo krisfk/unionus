@@ -57,15 +57,28 @@ get_header();
 
     </div>
 
-
     <div class="mobile-en-slogan">
+
+        <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/unionus-logo-2.png" alt=""> -->
+
+        <span class="d-inline-block">
+            Connect Us,</span>
+        <span class="gold d-inline-block ms-3">Aid and Assist</span>
+
+
+
+    </div>
+
+
+
+    <!-- <div class="mobile-en-slogan">
 
         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/unionus-logo-2.png" alt="">
 
         <div>Connect Us,</div>
         <div class="gold">Aid and Assist</div>
 
-    </div>
+    </div> -->
     <div class="rolling-slogan">
 
         <a href="<?php echo get_site_url();?>" class="logo-a"> <img class="logo"
