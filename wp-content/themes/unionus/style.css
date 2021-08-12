@@ -2436,16 +2436,19 @@ footer .sm-icon-li a {
     .mobile-en-slogan {
         display: inline-block;
         position: absolute;
-        top: 50%;
-        transform: translate(0, -50%);
+        /* top: 50%; */
+        transform: translate(-50%, 0);
         text-align: center;
-        left: 5%;
-        font-size: 18px;
+        left: 50%;
+        font-size: 22px;
+        /* width: 100%; */
         line-height: 1.8;
         background: #21212b9c;
         padding: 15px;
         z-index: 200;
         border-radius: 15px;
+        bottom: 75px;
+        padding: 5px 20px;
     }
     .mobile-en-slogan img {
         height: 75px;
@@ -2842,6 +2845,9 @@ footer .sm-icon-li a {
 @media only screen and (max-width: 640px) {}
 
 @media only screen and (max-width: 480px) {
+    .mobile-en-slogan {
+        width: 100%;
+    }
     .top-menu-div {
         overflow: scroll;
     }
