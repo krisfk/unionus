@@ -2452,13 +2452,13 @@ footer .sm-icon-li a {
         margin: 20px 0 10px 0;
     }
     .mobile-zh-slogan {
-        display: block;
+        display: inline-block;
         position: absolute;
         /* top: 50%; */
         transform: translate(-50%, -50%);
         text-align: center;
         left: 5%;
-        font-size: 22px;
+        font-size: 40px;
         line-height: 1.5;
         /* background: #21212b9c; */
         /* padding: 15px; */
@@ -2466,7 +2466,11 @@ footer .sm-icon-li a {
         /* border-radius: 15px; */
         bottom: 60px;
         left: 50%;
-        width: 100%;
+        width: auto;
+        z-index: 200;
+        background: rgb(32 32 43 / 50%);
+        padding: 5px 20px;
+        border-radius: 20px;
     }
     .mobile-zh-slogan img {
         height: 75px;
@@ -2854,13 +2858,15 @@ footer .sm-icon-li a {
         /* transform: translate(0, -50%); */
         /* text-align: center; */
         /* left: 5%; */
-        /* font-size: 22px; */
+        font-size: 22px;
         /* line-height: 1.5; */
         /* background: #21212b9c; */
+        padding: 0 !important;
         /* padding: 15px; */
         /* z-index: 200; */
         /* border-radius: 12px; */
         /* padding: 0; */
+        width: 100%;
         /* position: absolute; */
         /* bottom: 0 !important; */
     }
