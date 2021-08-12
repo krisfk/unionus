@@ -2252,7 +2252,7 @@ p {
 .mobile-know-more-btn {
     display: none;
     position: absolute;
-    bottom: 20px;
+    bottom: 25px;
     color: #fff;
     text-decoration: none;
     text-align: center;
@@ -2452,18 +2452,21 @@ footer .sm-icon-li a {
         margin: 20px 0 10px 0;
     }
     .mobile-zh-slogan {
-        display: inline-block;
+        display: block;
         position: absolute;
-        top: 50%;
-        transform: translate(0, -50%);
+        /* top: 50%; */
+        transform: translate(-50%, -50%);
         text-align: center;
         left: 5%;
         font-size: 22px;
         line-height: 1.5;
-        background: #21212b9c;
-        padding: 15px;
-        z-index: 200;
-        border-radius: 15px;
+        /* background: #21212b9c; */
+        /* padding: 15px; */
+        /* z-index: 200; */
+        /* border-radius: 15px; */
+        bottom: 60px;
+        left: 50%;
+        width: 100%;
     }
     .mobile-zh-slogan img {
         height: 75px;
@@ -2846,18 +2849,20 @@ footer .sm-icon-li a {
         width: 100px;
     }
     .mobile-zh-slogan {
-        display: inline-block;
-        position: absolute;
-        top: 50%;
-        transform: translate(0, -50%);
-        text-align: center;
-        left: 5%;
-        font-size: 22px;
-        line-height: 1.5;
-        background: #21212b9c;
-        padding: 15px;
-        z-index: 200;
-        border-radius: 12px;
+        /* display: inline-block; */
+        /* position: absolute; */
+        /* transform: translate(0, -50%); */
+        /* text-align: center; */
+        /* left: 5%; */
+        /* font-size: 22px; */
+        /* line-height: 1.5; */
+        /* background: #21212b9c; */
+        /* padding: 15px; */
+        /* z-index: 200; */
+        /* border-radius: 12px; */
+        /* padding: 0; */
+        /* position: absolute; */
+        /* bottom: 0 !important; */
     }
     .mobile-zh-slogan img {
         /* height: 75px; */
