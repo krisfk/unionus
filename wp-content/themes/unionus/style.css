@@ -2853,23 +2853,11 @@ footer .sm-icon-li a {
         width: 100px;
     }
     .mobile-zh-slogan {
-        /* display: inline-block; */
-        /* position: absolute; */
-        /* transform: translate(0, -50%); */
-        /* text-align: center; */
-        /* left: 5%; */
-        font-size: 30px;
-        /* line-height: 1.5; */
-        /* background: #21212b9c; */
+        font-size: 26px;
+        letter-spacing: 5px;
         padding: 0 !important;
-        /* padding: 15px; */
-        /* z-index: 200; */
-        /* border-radius: 12px; */
-        /* padding: 0; */
-        bottom: 51px;
+        bottom: 56px;
         width: 100%;
-        /* position: absolute; */
-        /* bottom: 0 !important; */
     }
     .mobile-zh-slogan img {
         /* height: 75px; */
