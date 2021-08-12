@@ -197,7 +197,7 @@
             <li>
                 <a href="<?php echo get_site_url();?>" class="mobile-menu-logo-a position-relative">
                     <img class="mobile-menu-logo"
-                        src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="">
+                        src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-2.png" alt="">
                 </a>
                 <button class="mobile-menu-btn"
                     onclick="this.classList.toggle('opened');this.setAttribute('aria-expanded', this.classList.contains('opened'))"
