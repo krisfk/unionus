@@ -35,7 +35,7 @@ get_header();
 
 
 
-    <div class="mobile-zh-slogan">
+    <!-- <div class="mobile-zh-slogan">
         <div>
             爾<br>汝<br>相<br>聯
         </div>
@@ -43,7 +43,20 @@ get_header();
         <div class="gold">同<br>生<br>共<br>濟</div>
 
 
+    </div> -->
+
+    <div class="mobile-zh-slogan">
+        <div class-="d-inline-block">
+            爾汝相聯</div>
+        <div class="gold d-inline-block">同<br>生<br>共<br>濟</div>
+
+
+
+        <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/unionus-logo-2.png" alt=""> -->
+
+
     </div>
+
 
     <div class="mobile-en-slogan">
 
