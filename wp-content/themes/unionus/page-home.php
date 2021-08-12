@@ -52,7 +52,6 @@ get_header();
 
 
 
-        <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/unionus-logo-2.png" alt=""> -->
 
 
     </div>
@@ -85,6 +84,19 @@ get_header();
 
     <iframe allowtransparency="true" class="iframe" src="/particle-effect/" style="">
     </iframe>
+
+
+    <div class="mobile-zh-slogan">
+        <span class="d-inline-block">
+            爾汝相聯</span>
+        <span class="gold d-inline-block">同生共濟</span>
+
+
+
+
+
+    </div>
+
 
 
     <a href="javascript:void(0);" class="mobile-know-more-btn">
