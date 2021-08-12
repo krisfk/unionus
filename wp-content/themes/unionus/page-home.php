@@ -45,64 +45,64 @@ get_header();
 
     </div> -->
 
-    <div class="mobile-zh-slogan">
+    <!-- <div class="mobile-zh-slogan">
         <span class="d-inline-block">
             爾汝相聯</span>
-        <span class="gold d-inline-block">同生共濟</span>
+        <span class="gold d-inline-block">同生共濟</span> -->
 
 
 
 
 
+</div>
+
+
+<div class="mobile-en-slogan">
+
+    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/unionus-logo-2.png" alt="">
+
+    <div>Connect Us,</div>
+    <div class="gold">Aid and Assist</div>
+
+</div>
+<div class="rolling-slogan">
+
+    <a href="<?php echo get_site_url();?>" class="logo-a"> <img class="logo"
+            src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/logo.png" alt="">
+    </a>
+    <div class="mt-3">
+        <?php echo get_field('content_part_0');?>
+        <!-- 爾汝相聯，同生共濟 -->
     </div>
 
-
-    <div class="mobile-en-slogan">
-
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/unionus-logo-2.png" alt="">
-
-        <div>Connect Us,</div>
-        <div class="gold">Aid and Assist</div>
-
-    </div>
-    <div class="rolling-slogan">
-
-        <a href="<?php echo get_site_url();?>" class="logo-a"> <img class="logo"
-                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/logo.png" alt="">
-        </a>
-        <div class="mt-3">
-            <?php echo get_field('content_part_0');?>
-            <!-- 爾汝相聯，同生共濟 -->
-        </div>
-
-        <div> <a href="javascript:void(0)" class="know-more-btn">
-                <?php echo get_field('content_part_1');?>
-                <!-- 了解更多 -->
-            </a> </div>
-    </div>
+    <div> <a href="javascript:void(0)" class="know-more-btn">
+            <?php echo get_field('content_part_1');?>
+            <!-- 了解更多 -->
+        </a> </div>
+</div>
 
 
-    <iframe allowtransparency="true" class="iframe" src="/particle-effect/" style="">
-    </iframe>
+<iframe allowtransparency="true" class="iframe" src="/particle-effect/" style="">
+</iframe>
 
 
-    <div class="mobile-zh-slogan">
-        <span class="d-inline-block">
-            爾汝相聯</span>
-        <span class="gold d-inline-block">同生共濟</span>
+<div class="mobile-zh-slogan">
+    <span class="d-inline-block">
+        爾汝相聯</span>
+    <span class="gold d-inline-block ms-3">同生共濟</span>
 
 
 
 
 
-    </div>
+</div>
 
 
 
-    <a href="javascript:void(0);" class="mobile-know-more-btn">
+<a href="javascript:void(0);" class="mobile-know-more-btn">
 
-        <div>
-            <?php
+    <div>
+        <?php
           if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
             $lang_code = ICL_LANGUAGE_CODE;
           }
@@ -110,22 +110,22 @@ get_header();
             if($lang_code=='en')
             {
                 ?>
-            Learn More
-            <?php
+        Learn More
+        <?php
             }
             if($lang_code=='zh-hant')
             {
                 ?>
-            了解更多
-            <?php
+        了解更多
+        <?php
             }
             
         ?>
-        </div>
+    </div>
 
 
-        <img src="https://unionus.com.hk/wp-content/uploads/2021/07/down-arrow.png" alt="">
-    </a>
+    <img src="https://unionus.com.hk/wp-content/uploads/2021/07/down-arrow.png" alt="">
+</a>
 </div>
 
 
