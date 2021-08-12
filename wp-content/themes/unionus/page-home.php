@@ -48,7 +48,7 @@ get_header();
     <div class="mobile-zh-slogan">
         <span class="d-inline-block">
             爾汝相聯</span>
-        <span class="gold d-inline-block">同生共濟</span>
+        <span class="gold d-inline-block ms-3">同生共濟</span>
 
 
 
