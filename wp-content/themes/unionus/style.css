@@ -189,8 +189,10 @@ html[lang='en-US'] .rolling-slogan {
 }
 
 html[lang='en-US'] .site-content {
-    text-align: justify;
+    text-align: justify !important;
 }
+
+html[lang='en-US'] .site-content p {}
 
 .home-section h2 {
     display: inline-block;
@@ -886,6 +888,11 @@ nav li {
 
 html[lang='en-US'] .company-intro-row-div {
     margin-top: 2rem !important;
+    text-align: justify;
+}
+
+html[lang='en-US'] .company-intro-row-div p {
+    text-align: justify;
 }
 
 .company-intro-content-1 {
@@ -1281,6 +1288,7 @@ h1 {
 
 .inner-container2 {
     max-width: 900px !important;
+    text-align: justify !important;
 }
 
 .inner-container3 {
