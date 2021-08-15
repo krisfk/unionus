@@ -188,6 +188,10 @@ html[lang='en-US'] .rolling-slogan {
     padding: 0 5px;
 }
 
+html[lang='en-US'] .site-content {
+    text-align: justify;
+}
+
 .home-section h2 {
     display: inline-block;
 }
