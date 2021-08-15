@@ -892,7 +892,7 @@ html[lang='en-US'] .company-intro-row-div {
 }
 
 html[lang='en-US'] .company-intro-row-div p {
-    text-align: justify;
+    /* text-align: justify; */
 }
 
 .company-intro-content-1 {
