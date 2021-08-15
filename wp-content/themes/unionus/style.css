@@ -892,7 +892,11 @@ html[lang='en-US'] .company-intro-row-div {
 }
 
 html[lang='en-US'] .company-intro-row-div p {
-    /* text-align: justify; */
+    text-align: justify;
+}
+
+html[lang='en-US'] .company-intro-row-div h2 p {
+    text-align: center !important;
 }
 
 .company-intro-content-1 {
