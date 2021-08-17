@@ -103,7 +103,7 @@
     <table class="bottom-fix-nav">
         <tr>
             <td>
-                <a href="https://api.whatsapp.com/send?phone=85298888135" target="_blank">
+                <a href="https://api.whatsapp.com/send?phone=85295888032" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/wts-icon.png" alt="">
                     <div>
                         <?php echo ($lang_code == 'zh-hant') ? 'WhatsApp':'WhatsApp'; ?>
