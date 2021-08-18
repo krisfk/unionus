@@ -724,6 +724,10 @@ footer {
     transition: 0.2s all;
 }
 
+.top-menu-div .mobile-menu-submenu li:nth-child(2n + 1) a {
+    color: #ddbd8a;
+}
+
 .top-menu-div .top-menu li a:hover {
     opacity: 0.85;
 }
