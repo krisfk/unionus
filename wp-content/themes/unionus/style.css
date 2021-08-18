@@ -2328,6 +2328,10 @@ footer .sm-icon-li a {
     margin: 0 2px;
 }
 
+html[lang='en-US'] .service-points li:nth-child(2n+1) {
+    color: #ddbd8a;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         /* display: none; */
