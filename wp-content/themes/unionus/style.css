@@ -2328,7 +2328,7 @@ footer .sm-icon-li a {
     margin: 0 2px;
 }
 
-html[lang='en-US'] .service-points li:nth-child(2n+1) {
+html[lang='en-US'] .service-points li:nth-child(2n) {
     color: #ddbd8a;
 }
 
