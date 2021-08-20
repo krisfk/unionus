@@ -1830,6 +1830,7 @@ footer select:focus {
     position: fixed;
     bottom: 10px;
     width: 92%;
+    max-width: 500px;
     background: #897b56;
     z-index: 500;
     text-align: center;
@@ -2689,6 +2690,9 @@ html[lang='en-US'] .service-points li:nth-child(2n) {
 }
 
 @media only screen and (max-width: 991px) {
+    .bottom-fix-nav {
+        width: 92%;
+    }
     .bankrupt-steps-ul li.text-end {
         text-align: center !important;
     }
