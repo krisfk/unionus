@@ -85,6 +85,12 @@ $(function() {
         } else {
             $('.bottom-fix-nav').fadeOut(0);
         }
+
+        if ($(window).width() >= 991 && scroll > 100) {
+            $('.bottom-fix-nav').fadeIn(0);
+            $('.bottom-fix-nav').css({ display: 'inline-table' });
+        }
+
         // console.log(888);
         // }
         checkvisible();
