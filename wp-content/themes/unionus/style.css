@@ -1838,7 +1838,8 @@ footer select:focus {
     table-layout: fixed;
     /* font-size: 10px !important; */
     border-radius: 20px;
-    left: 4%;
+    left: 50%;
+    transform: translate(-50%, 0);
 }
 
 .bottom-fix-nav td {
