@@ -1633,7 +1633,7 @@ a.normal:hover {
 }
 
 .drp-case-div .gold-table-div {
-    overflow: scroll;
+    overflow: auto;
     min-width: 1000px;
 }
 
@@ -1961,7 +1961,7 @@ h2 .smaller {
 
 .drp-case-div .nr {
     margin-top: 1rem;
-    overflow: scroll;
+    overflow: auto;
 }
 
 .drp-case-div table th,
