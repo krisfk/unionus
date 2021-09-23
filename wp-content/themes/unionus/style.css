@@ -109,6 +109,7 @@ body {
     background: #21212b !important;
     /* background-size: cover; */
     color: #fff !important;
+    -webkit-tap-highlight-color: transparent;
 }
 
 body,
