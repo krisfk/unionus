@@ -530,6 +530,10 @@ get_header();
 .logo {
     opacity: 0;
 }
+
+.top-menu-logo {
+    opacity: 0;
+}
 </style>
 
 <script type="text/javascript">
@@ -556,7 +560,7 @@ $(function() {
     // })
     $(window).on('load', function() {
 
-        $('.logo').animate({
+        $('.logo,.top-menu-logo').animate({
             'opacity': '1'
         }, 1000)
     });
