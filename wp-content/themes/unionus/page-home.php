@@ -558,9 +558,14 @@ $(function() {
     //     console.log('load')
 
     // })
-    $(window).on('load', function() {
+    $('.logo').on('load', function() {
+        $(this).animate({
+            'opacity': '1'
+        }, 1000)
+    });
 
-        $('.logo,.top-menu-logo').animate({
+    $('.top-menu-logo').on('load', function() {
+        $(this).animate({
             'opacity': '1'
         }, 1000)
     });
