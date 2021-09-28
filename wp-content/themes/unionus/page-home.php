@@ -539,12 +539,12 @@ const skrollrObj = skrollr.init();
 <script type="text/javascript">
 $(function() {
 
-    $('.logo').load(function() {
+    // $('.logo').load(function() {
 
-        // $(this).animate({
-        //     'opacity': '1'
-        // }, 1000);
-    })
+    //     // $(this).animate({
+    //     //     'opacity': '1'
+    //     // }, 1000);
+    // })
 
 
 
