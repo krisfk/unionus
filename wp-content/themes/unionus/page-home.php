@@ -543,21 +543,6 @@ const skrollrObj = skrollr.init();
 <script type="text/javascript">
 $(function() {
 
-    // $('.logo').load(function() {
-
-    //     // $(this).animate({
-    //     //     'opacity': '1'
-    //     // }, 1000);
-    // })
-
-    // $(".logo").load(function() {
-    // Handler for .load() called.
-    // });
-
-    // $(window).load(function() {
-    //     console.log('load')
-
-    // })
     $('.logo').on('load', function() {
         $(this).animate({
             'opacity': '1'
@@ -570,6 +555,15 @@ $(function() {
         }, 1000)
     });
 
+
+    setTimeout(() => {
+
+        $('.logo,.top-menu-logo').animate({
+            'opacity': '1'
+        }, 1000);
+
+
+    }, 2000);
 
 
 
