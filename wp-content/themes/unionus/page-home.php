@@ -554,6 +554,13 @@ $(function() {
     //     console.log('load')
 
     // })
+    $(window).on('load', function() {
+
+        $('.logo').animate({
+            'opacity': '1'
+        }, 1000)
+    });
+
 
 
 
