@@ -541,9 +541,9 @@ $(function() {
 
     $('.logo').load(function() {
 
-        $(this).animate({
-            'opacity': '1'
-        }, 1000);
+        // $(this).animate({
+        //     'opacity': '1'
+        // }, 1000);
     })
 
 
