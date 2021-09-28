@@ -550,6 +550,11 @@ $(function() {
     // Handler for .load() called.
     // });
 
+    $(window).load(function() {
+        console.log('load')
+
+    })
+
 
 
 
