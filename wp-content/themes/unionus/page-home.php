@@ -555,15 +555,12 @@ $(function() {
         }, 1000)
     });
 
-
-    setTimeout(() => {
-
+    $(window).on('load', function() {
         $('.logo,.top-menu-logo').animate({
             'opacity': '1'
         }, 1000);
 
-
-    }, 2000);
+    })
 
 
 
