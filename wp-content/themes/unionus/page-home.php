@@ -534,6 +534,10 @@ get_header();
 .top-menu-logo {
     opacity: 0;
 }
+
+.mobile-menu-logo {
+    opacity: 0;
+}
 </style>
 
 <script type="text/javascript">
@@ -555,8 +559,15 @@ $(function() {
         }, 1000)
     });
 
+    $('.mobile-menu-logo').on('load', function() {
+        $(this).animate({
+            'opacity': '1'
+        }, 1000)
+    });
+
+
     $(window).on('load', function() {
-        $('.logo,.top-menu-logo').animate({
+        $('.logo,.top-menu-logo,.mobile-menu-logo').animate({
             'opacity': '1'
         }, 1000);
 
