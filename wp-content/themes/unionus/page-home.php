@@ -526,6 +526,10 @@ get_header();
     opacity: 0.1;
     left: 0;
 }
+
+.logo {
+    opacity: 0;
+}
 </style>
 
 <script type="text/javascript">
