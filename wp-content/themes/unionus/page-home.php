@@ -546,9 +546,9 @@ $(function() {
     //     // }, 1000);
     // })
 
-    $(".logo").load(function() {
-        // Handler for .load() called.
-    });
+    // $(".logo").load(function() {
+    // Handler for .load() called.
+    // });
 
 
 
