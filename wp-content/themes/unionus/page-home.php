@@ -546,6 +546,11 @@ $(function() {
     //     // }, 1000);
     // })
 
+    $(".logo").load(function() {
+        // Handler for .load() called.
+    });
+
+
 
 
     $('.know-more-btn,.mobile-know-more-btn').click(function() {
