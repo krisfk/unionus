@@ -99,6 +99,7 @@
       }
 
     ?>
+    <div id="wptime-plugin-preloader"></div>
 
     <table class="bottom-fix-nav">
         <tr>
