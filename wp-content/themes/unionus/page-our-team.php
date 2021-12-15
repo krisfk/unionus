@@ -237,7 +237,7 @@ get_header();
 
 
 
-        <div class="mt-6">
+        <div class="mt-5">
             <div><img class="flo-icon fadeindown-ele"
                     src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt=""></div>
 
