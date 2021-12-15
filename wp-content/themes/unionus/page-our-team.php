@@ -152,7 +152,7 @@ get_header();
 
 
 
-        <div class="mt-6">
+        <!-- <div class="mt-6">
             <div><img class="flo-icon fadeindown-ele"
                     src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/flo-icon.png" alt=""></div>
 
@@ -160,26 +160,26 @@ get_header();
                 <div class="col-12 staff-col">
                     <h2 class="gold mt-4 fadeindown-ele">
                         <?php echo get_field('content_part_12');?>
-                        <!-- Solicitor -->
+                        Solicitor
                     </h2>
                     <div class="little-gold-bar mx-auto mt-3 mb-3"></div>
                     <div class="gold big-size fadeinup-ele">
                         <?php echo get_field('content_part_13');?>
 
-                        <!-- LLB法律學士 -->
+                        LLB法律學士
 
 
                     </div>
                     <div class="mt-3 fadein-ele">
                         <?php echo get_field('content_part_14');?>
 
-                        <!-- 在法律事務有豐富的經驗並為註冊律師,同時擔任爾聯Unionus的榮譽法律顧問，並與客戶和其他相關專業人士建立了廣泛的網絡。他經常受個人和企業客戶委託處理破產與IVA個人自願安排，住宅，工業和商業房地產有關的各種法律服務，包括
-                        : -->
+                        在法律事務有豐富的經驗並為註冊律師,同時擔任爾聯Unionus的榮譽法律顧問，並與客戶和其他相關專業人士建立了廣泛的網絡。他經常受個人和企業客戶委託處理破產與IVA個人自願安排，住宅，工業和商業房地產有關的各種法律服務，包括
+                        :
                     </div>
                     <div class="mt-3 fadein-ele">
                         <?php echo get_field('content_part_15');?>
 
-                        <!-- <ul class="gold d-inline-block text-start">
+                        <ul class="gold d-inline-block text-start">
                             <li>破產</li>
                             <li>債務重組 DRP</li>
                             <li>債務舒緩 IVA</li>
@@ -189,11 +189,11 @@ get_header();
                             <li>關於出售和購買房地產的融資</li>
                             <li>修訂房屋批地</li>
 
-                        </ul> -->
+                        </ul>
 
                         <?php echo get_field('content_part_16');?>
 
-                        <!-- <ul class="gold d-inline-block  text-start">
+                        <ul class="gold d-inline-block  text-start">
 
                             <li>私人土地招標文件和代表</li>
                             <li>處理租賃、租約和牌照</li>
@@ -204,27 +204,27 @@ get_header();
                             <li>買賣協議</li>
                             <li>處理以禮物轉讓房地產的文件及建議</li>
 
-                        </ul> -->
+                        </ul>
 
 
                     </div>
 
                     <div class="mt-3 fadein-ele">
                         <?php echo get_field('content_part_17');?>
-                        <!-- 此外，林律師還擁有（a）一般商業和企業諮詢工作;及（b）處理本地及海外客戶稅務、信託及遺囑的經驗，包括： -->
+                        此外，林律師還擁有（a）一般商業和企業諮詢工作;及（b）處理本地及海外客戶稅務、信託及遺囑的經驗，包括：
                     </div>
 
                     <div class="mt-3 fadein-ele">
                         <?php echo get_field('content_part_18');?>
 
-                        <!-- <ul class="gold d-inline-block  text-start">
+                        <ul class="gold d-inline-block  text-start">
                             <li>遺產管理及分配</li>
                             <li>遺產規劃</li>
                             <li>房地產授產安排</li>
                             <li>遺囑認證和遺產管理書</li>
                             <li>信託安排和酌情信託</li>
                             <li>遺囑起草</li>
-                        </ul> -->
+                        </ul>
 
 
 
@@ -233,7 +233,7 @@ get_header();
 
             </div>
 
-        </div>
+        </div> -->
 
 
 
