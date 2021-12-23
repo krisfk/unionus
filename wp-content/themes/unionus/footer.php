@@ -142,7 +142,7 @@
 
         <ul class="p-0 text-center mt-4">
             <li class="sm-icon-li m-0">
-                <a href="https://www.facebook.com/UnionUs-爾聯會計-101328275551918/" target="_blank">
+                <a href="https://www.facebook.com/hkunionus" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sm-icon-1.png" alt="">
                 </a>
 
@@ -150,7 +150,7 @@
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sm-icon-2.png" alt="">
                 </a>
 
-                <a href="https://youtube.com/channel/UCvVmJKAFmRaYFsaE58FkhIg" target="_blank">
+                <a href="https://www.youtube.com/channel/UCvVmJKAFmRaYFsaE58FkhIg" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sm-icon-3.png" alt="">
                 </a>
 

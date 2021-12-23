@@ -281,7 +281,7 @@ foreach ($main_menu as $menu_item) {
 
 
             <li class="sm-icon-li">
-                <a href="https://www.facebook.com/UnionUs-爾聯會計-101328275551918/" target="_blank">
+                <a href="https://www.facebook.com/hkunionus" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sm-icon-1.png" alt="">
                 </a>
 
@@ -289,7 +289,7 @@ foreach ($main_menu as $menu_item) {
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sm-icon-2.png" alt="">
                 </a>
 
-                <a href="https://youtube.com/channel/UCvVmJKAFmRaYFsaE58FkhIg" target="_blank">
+                <a href="https://www.youtube.com/channel/UCvVmJKAFmRaYFsaE58FkhIg" target="_blank">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sm-icon-3.png" alt="">
                 </a>
 
