@@ -857,6 +857,7 @@ nav li {
     height: 80px;
     margin: 0 auto;
     display: inherit;
+    opacity: 0;
 }
 
 .sep {
