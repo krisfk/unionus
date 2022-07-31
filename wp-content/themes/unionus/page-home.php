@@ -82,7 +82,7 @@ get_header();
     <div class="rolling-slogan">
 
         <a href="<?php echo get_site_url();?>" class="logo-a"> <img class="logo"
-                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/logo.png" alt="">
+                src="https://unionus.com.hk/wp-content/themes/unionus/assets/images/logo-2.png" alt="">
         </a>
         <div class="mt-3">
             <?php echo get_field('content_part_0');?>
