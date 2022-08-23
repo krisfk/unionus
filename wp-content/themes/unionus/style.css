@@ -2363,7 +2363,7 @@ html[lang='en-US'] .service-points li:nth-child(2n) {
 .iva-benefits-animation-div .layer-2 {
     background: url(https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-2.png);
     z-index: 50;
-    transform: rotate(1deg);
+    transform: rotate(0deg);
     transition: 1s all;
 }
 
@@ -2374,6 +2374,12 @@ html[lang='en-US'] .service-points li:nth-child(2n) {
 .iva-benefits-animation-div .layer-3 {
     background: url(https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-3.png);
     z-index: 30;
+    transform: rotate(0deg);
+    transition: 1s all;
+}
+
+.iva-benefits-animation-div .layer-3.rotate {
+    transform: rotate(360deg);
 }
 
 .iva-benefits-animation-div .layer-4 {
