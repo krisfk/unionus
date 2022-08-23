@@ -2409,7 +2409,9 @@ html[lang='en-US'] .layer-6 {
 }
 
 .consult-btn-a img {
-    height: 30px;
+    height: 50px;
+    margin: 0 auto;
+    display: block;
 }
 
 @media only screen and (max-width: 1500px) {
