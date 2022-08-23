@@ -119,7 +119,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
         <div class="text-center mt-7 fadein-ele">
 
 
-            <div>
+            <div class="mb-5">
                 <?php
     if($lang_code=='en')
     {
@@ -500,7 +500,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
         <div class="text-center mt-7">
 
 
-            <div>
+            <div class="mb-5">
                 <?php
     if($lang_code=='en')
     {
