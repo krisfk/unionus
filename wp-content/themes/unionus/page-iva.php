@@ -36,7 +36,20 @@ get_header();
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
 
 
-        <div>fdsf</div>
+        <div class="text-center">
+
+
+            <div class="iva-benefits-animation-div">
+
+                <div class="layer-1"></div>
+                <div class="layer-2"></div>
+                <div class="layer-3"></div>
+                <div class="layer-4"></div>
+            </div>
+
+        </div>
+
+
         <div class="inner-container2 mx-auto mt-5 text-start fadeinup-ele">
             <?php echo get_field('content_part_1');?>
 

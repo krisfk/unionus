@@ -2337,6 +2337,20 @@ html[lang='en-US'] .service-points li:nth-child(2n) {
     color: #ddbd8a;
 }
 
+.iva-benefits-animation-div {
+    display: block;
+    width: 801px;
+    height: 807px;
+}
+
+.iva-benefits-animation-div .layer-1 {}
+
+.iva-benefits-animation-div .layer-2 {}
+
+.iva-benefits-animation-div .layer-3 {}
+
+.iva-benefits-animation-div .layer-4 {}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         /* display: none; */
