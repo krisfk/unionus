@@ -41,7 +41,7 @@ get_header();
 
             <div class="iva-benefits-animation-div">
 
-                <img style="opacity:0;" class="w-100"
+                <img class="load-img" style="opacity:0;" class="w-100"
                     src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-5.png" alt="">
                 <div class="layer layer-1"></div>
                 <div class="layer layer-2"></div>
@@ -53,6 +53,20 @@ get_header();
             </div>
 
         </div>
+
+        <img class="load-img d-none" style="opacity:0;" class="w-100"
+            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-1-3.png" alt="">
+        <img class="load-img d-none" style="opacity:0;" class="w-100"
+            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-2.png" alt="">
+        <img class="load-img d-none" style="opacity:0;" class="w-100"
+            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-3.png" alt="">
+        <img class="load-img d-none" style="opacity:0;" class="w-100"
+            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-4-1.png" alt="">
+        <img class="load-img d-none" style="opacity:0;" class="w-100"
+            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-5.png" alt="">
+        <img class="load-img d-none" style="opacity:0;" class="w-100"
+            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-6.png" alt="">
+
 
 
         <div class="inner-container2 mx-auto mt-5 text-start fadeinup-ele">
