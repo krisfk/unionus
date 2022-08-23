@@ -117,7 +117,7 @@ $(function() {
                 $('.iva-benefits-animation-div .layer-3').fadeIn(0);
 
                 $('.iva-benefits-animation-div .layer-3').addClass('rotate');
-            }, 2000);
+            }, 1500);
         }
 
         for (i = 0; i < $('.fadeleft-ele').length; i++) {
