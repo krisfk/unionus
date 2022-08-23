@@ -97,6 +97,15 @@ $(function() {
     });
 
     function checkvisible() {
+        if (
+            $('.iva-benefits-animation-div').isInViewport() &&
+            !$('.iva-benefits-animation-div').hasClass('animate__animated')
+        ) {
+            $('.iva-benefits-animation-div').addClass('animate__animated');
+
+            alert(4);
+        }
+
         for (i = 0; i < $('.fadeleft-ele').length; i++) {
             if (
                 $('.fadeleft-ele').eq(i).isInViewport() &&
