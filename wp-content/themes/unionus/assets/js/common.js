@@ -103,7 +103,19 @@ $(function() {
         ) {
             $('.iva-benefits-animation-div').addClass('animate__animated');
 
-            $($('.iva-benefits-animation-div .layer-1')).fadeIn(2000);
+            $('.iva-benefits-animation-div .layer').fadeOut(0);
+            $('.iva-benefits-animation-div .layer-1').fadeIn(2000);
+
+            $('.iva-benefits-animation-div .layer-2').fadeIn(0);
+            // transform
+            $('.iva-benefits-animation-div .layer-2').css({
+                transform: 'rotate(1deg)',
+            });
+            $('.iva-benefits-animation-div .layer-2').animate({
+                    transform: 'rotate(360deg)',
+                },
+                1000
+            );
         }
 
         for (i = 0; i < $('.fadeleft-ele').length; i++) {
