@@ -103,6 +103,7 @@ $(function() {
         ) {
             $('.load-img').one('load', function() {
                 // do stuff
+                alert(7);
 
                 $('.iva-benefits-animation-div').addClass('animate__animated');
 
