@@ -2414,6 +2414,14 @@ html[lang='en-US'] .layer-6 {
     display: block;
 }
 
+.consult-btn {
+    transition: 0.2s all;
+}
+
+.consult-btn:hover {
+    opacity: 0.85;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         /* display: none; */
