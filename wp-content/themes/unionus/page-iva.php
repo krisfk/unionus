@@ -41,10 +41,10 @@ get_header();
 
             <div class="iva-benefits-animation-div">
 
-                <div class="layer-1"></div>
-                <div class="layer-2"></div>
-                <div class="layer-3"></div>
-                <div class="layer-4"></div>
+                <div class="layer layer-1"></div>
+                <div class="layer layer-2"></div>
+                <div class="layer layer-3"></div>
+                <div class="layer layer-4"></div>
             </div>
 
         </div>
