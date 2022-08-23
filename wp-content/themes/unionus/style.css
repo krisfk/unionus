@@ -2358,7 +2358,7 @@ html[lang='en-US'] .service-points li:nth-child(2n) {
 
 .iva-benefits-animation-div .layer-1 {
     background: url(https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-1-3.png);
-    z-index: 100;
+    z-index: 200;
 }
 
 .iva-benefits-animation-div .layer-2 {
@@ -2385,7 +2385,7 @@ html[lang='en-US'] .service-points li:nth-child(2n) {
 
 .iva-benefits-animation-div .layer-4 {
     background: url(https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-4.gif);
-    z-index: 1000;
+    z-index: 100;
 }
 
 .iva-benefits-animation-div .layer-5 {
