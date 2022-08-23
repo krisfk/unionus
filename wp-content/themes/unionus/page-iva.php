@@ -27,6 +27,7 @@ get_header();
     src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-3.png" alt="">
 <img id="load-img-4" class="load-img d-none" style="opacity:0;" class="w-100"
     src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-4-1.png" alt="">
+
 <img id="load-img-5" class="load-img d-none" style="opacity:0;" class="w-100"
     src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-5.png" alt="">
 <img id="load-img-6" class="load-img d-none" style="opacity:0;" class="w-100"
@@ -35,6 +36,9 @@ get_header();
     src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-5-en.png" alt="">
 <img id="load-img-8" class="load-img d-none" style="opacity:0;" class="w-100"
     src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-6-en.png" alt="">
+
+<img id="load-img-9" class="load-img d-none" style="opacity:0;" class="w-100"
+    src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-4.gif" alt="">
 
 
 
