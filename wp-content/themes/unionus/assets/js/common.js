@@ -118,6 +118,10 @@ $(function() {
 
                 $('.iva-benefits-animation-div .layer-3').addClass('rotate');
             }, 1500);
+
+            setTimeout(() => {
+                $('.iva-benefits-animation-div .layer-4').fadeIn(0);
+            }, 2000);
         }
 
         for (i = 0; i < $('.fadeleft-ele').length; i++) {
