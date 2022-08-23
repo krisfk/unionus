@@ -478,6 +478,9 @@ get_header();
 
         <div class="text-center mt-7">
 
+            <div>button</div>
+
+
             <div class="little-gold-bar mx-auto"></div>
             <h2 class="gold mt-5 fadeinup-ele">
                 <?php echo get_field('content_part_24');?>
@@ -1067,6 +1070,9 @@ $(function() {
 
 });
 </script>
+
+<div>button</div>
+
 <?php
 
 get_footer();
