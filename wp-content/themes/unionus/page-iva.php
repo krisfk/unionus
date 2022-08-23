@@ -64,7 +64,7 @@ get_header();
 
             <div class="iva-benefits-animation-div">
 
-                <img class="load-img" style="opacity:0;" class="w-100"
+                <img class="load-img w-100" style="opacity:0;"
                     src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-5.png" alt="">
                 <div class="layer layer-1"></div>
                 <div class="layer layer-2"></div>
