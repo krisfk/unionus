@@ -1074,8 +1074,8 @@ $(function() {
 </script>
 
 <div>
-
-    <a href="#" class="consult-btn-a"> <img class="consult-btn"
+    <!-- https://unionus.com.hk/contact-us/ -->
+    <a href="<?php echo get_site_url().'/'.$lang_code.'/contact-us';?>" class="consult-btn-a"> <img class="consult-btn"
             src="https://unionus.com.hk/wp-content/uploads/2022/08/consult-btn.png" alt=""></a>
 </div>
 
