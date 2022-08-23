@@ -101,8 +101,7 @@ $(function() {
             $('.iva-benefits-animation-div').isInViewport() &&
             !$('.iva-benefits-animation-div').hasClass('animate__animated')
         ) {
-            $('.load-img').one('load', function() {
-                // do stuff
+            $('#load-img-1').load(function() {
                 alert(7);
 
                 $('.iva-benefits-animation-div').addClass('animate__animated');
