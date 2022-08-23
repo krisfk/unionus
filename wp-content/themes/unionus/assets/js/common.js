@@ -104,24 +104,24 @@ $(function() {
             $('.iva-benefits-animation-div').addClass('animate__animated');
 
             $('.iva-benefits-animation-div .layer').fadeOut(0);
-            $('.iva-benefits-animation-div .layer-1').fadeIn(1000);
+            $('.iva-benefits-animation-div .layer-1').fadeIn(800);
 
             // transform
             setTimeout(() => {
                 $('.iva-benefits-animation-div .layer-2').fadeIn(0);
 
                 $('.iva-benefits-animation-div .layer-2').addClass('rotate');
-            }, 1000);
+            }, 800);
 
             setTimeout(() => {
                 $('.iva-benefits-animation-div .layer-3').fadeIn(0);
 
                 $('.iva-benefits-animation-div .layer-3').addClass('rotate');
-            }, 1500);
+            }, 1300);
 
             setTimeout(() => {
                 $('.iva-benefits-animation-div .layer-4').fadeIn(2000);
-            }, 2000);
+            }, 1800);
         }
 
         for (i = 0; i < $('.fadeleft-ele').length; i++) {
