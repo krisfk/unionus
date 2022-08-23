@@ -2339,8 +2339,8 @@ html[lang='en-US'] .service-points li:nth-child(2n) {
 
 .iva-benefits-animation-div {
     display: block;
-    width: 801px;
-    height: 807px;
+    /* width: 801px;
+    height: 807px; */
     position: relative;
     margin: 5rem auto 0 auto;
 }
