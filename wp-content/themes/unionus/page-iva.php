@@ -113,9 +113,10 @@ get_header();
 
         </div>
 
-        <div>button</div>
 
         <div class="text-center mt-7 fadein-ele">
+
+            <div>button</div>
 
             <div class="little-gold-bar mx-auto"></div>
             <h2 class="gold mt-5">
