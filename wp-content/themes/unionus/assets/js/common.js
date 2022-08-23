@@ -120,7 +120,7 @@ $(function() {
             }, 1500);
 
             setTimeout(() => {
-                $('.iva-benefits-animation-div .layer-4').fadeIn(0);
+                $('.iva-benefits-animation-div .layer-4').fadeIn(1000);
             }, 2000);
         }
 
