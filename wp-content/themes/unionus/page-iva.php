@@ -118,8 +118,27 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 
         <div class="text-center mt-7 fadein-ele">
 
-            <div>button</div>
 
+            <div>
+                <?php
+    if($lang_code=='en')
+    {
+?>
+                <a href="<?php echo get_site_url().'/'.$lang_code.'/contact-us';?>" class="consult-btn-a fadein-ele">
+                    <img class="consult-btn" src="https://unionus.com.hk/wp-content/uploads/2022/08/consult-btn-en.png"
+                        alt=""></a>
+                <?php
+    }
+    else{
+ ?>
+                <a href="<?php echo get_site_url().'/'.$lang_code.'/contact-us';?>" class="consult-btn-a fadein-ele">
+                    <img class="consult-btn" src="https://unionus.com.hk/wp-content/uploads/2022/08/consult-btn.png"
+                        alt=""></a>
+                <?php       
+    }
+    ?>
+
+            </div>
             <div class="little-gold-bar mx-auto"></div>
             <h2 class="gold mt-5">
                 <?php echo get_field('content_part_3');?>
@@ -480,8 +499,27 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 
         <div class="text-center mt-7">
 
-            <div>button</div>
 
+            <div>
+                <?php
+    if($lang_code=='en')
+    {
+?>
+                <a href="<?php echo get_site_url().'/'.$lang_code.'/contact-us';?>" class="consult-btn-a fadein-ele">
+                    <img class="consult-btn" src="https://unionus.com.hk/wp-content/uploads/2022/08/consult-btn-en.png"
+                        alt=""></a>
+                <?php
+    }
+    else{
+ ?>
+                <a href="<?php echo get_site_url().'/'.$lang_code.'/contact-us';?>" class="consult-btn-a fadein-ele">
+                    <img class="consult-btn" src="https://unionus.com.hk/wp-content/uploads/2022/08/consult-btn.png"
+                        alt=""></a>
+                <?php       
+    }
+    ?>
+
+            </div>
 
             <div class="little-gold-bar mx-auto"></div>
             <h2 class="gold mt-5 fadeinup-ele">
