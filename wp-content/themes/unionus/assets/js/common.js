@@ -122,6 +122,13 @@ $(function() {
             setTimeout(() => {
                 $('.iva-benefits-animation-div .layer-4').fadeIn(2000);
             }, 1800);
+            setTimeout(() => {
+                $('.iva-benefits-animation-div .layer-5').fadeIn(2000);
+            }, 2300);
+
+            setTimeout(() => {
+                $('.iva-benefits-animation-div .layer-6').fadeIn(2000);
+            }, 2800);
         }
 
         for (i = 0; i < $('.fadeleft-ele').length; i++) {
