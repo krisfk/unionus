@@ -19,6 +19,21 @@ get_header();
 ?>
 
 
+<img id="load-img-1" class="load-img d-none" style="opacity:0;" class="w-100"
+    src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-1-3.png" alt="">
+<img id="load-img-2" class="load-img d-none" style="opacity:0;" class="w-100"
+    src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-2.png" alt="">
+<img id="load-img-3" class="load-img d-none" style="opacity:0;" class="w-100"
+    src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-3.png" alt="">
+<img id="load-img-4" class="load-img d-none" style="opacity:0;" class="w-100"
+    src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-4-1.png" alt="">
+<img id="load-img-5" class="load-img d-none" style="opacity:0;" class="w-100"
+    src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-5.png" alt="">
+<img id="load-img-6" class="load-img d-none" style="opacity:0;" class="w-100"
+    src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-6.png" alt="">
+
+
+
 
 
 <section class="sec1 pt-const2">
@@ -53,20 +68,6 @@ get_header();
             </div>
 
         </div>
-
-        <img id="load-img-1" class="load-img d-none" style="opacity:0;" class="w-100"
-            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-1-3.png" alt="">
-        <img id="load-img-2" class="load-img d-none" style="opacity:0;" class="w-100"
-            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-2.png" alt="">
-        <img id="load-img-3" class="load-img d-none" style="opacity:0;" class="w-100"
-            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-3.png" alt="">
-        <img id="load-img-4" class="load-img d-none" style="opacity:0;" class="w-100"
-            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-4-1.png" alt="">
-        <img id="load-img-5" class="load-img d-none" style="opacity:0;" class="w-100"
-            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-5.png" alt="">
-        <img id="load-img-6" class="load-img d-none" style="opacity:0;" class="w-100"
-            src="https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-6.png" alt="">
-
 
 
         <div class="inner-container2 mx-auto mt-5 text-start fadeinup-ele">
