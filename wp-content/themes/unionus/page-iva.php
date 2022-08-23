@@ -15,7 +15,9 @@
  */
 
 get_header();
-
+if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+    $lang_code = ICL_LANGUAGE_CODE;
+  }
 ?>
 
 
@@ -1071,7 +1073,11 @@ $(function() {
 });
 </script>
 
-<div>button</div>
+<div>
+
+    <a href="consult-btn-a"> <img class="consult-btn"
+            src="https://unionus.com.hk/wp-content/uploads/2022/08/consult-btn.png" alt=""></a>
+</div>
 
 <?php
 

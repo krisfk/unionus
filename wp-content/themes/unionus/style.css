@@ -2408,6 +2408,10 @@ html[lang='en-US'] .layer-6 {
     z-index: 1000;
 }
 
+.consult-btn-a img {
+    height: 30px;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         /* display: none; */
