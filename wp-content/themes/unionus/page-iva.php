@@ -1075,7 +1075,7 @@ $(function() {
 
 <div>
 
-    <a href="consult-btn-a"> <img class="consult-btn"
+    <a href="#" class="consult-btn-a"> <img class="consult-btn"
             src="https://unionus.com.hk/wp-content/uploads/2022/08/consult-btn.png" alt=""></a>
 </div>
 
