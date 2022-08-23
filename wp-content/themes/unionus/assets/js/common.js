@@ -104,7 +104,7 @@ $(function() {
             $('.iva-benefits-animation-div').addClass('animate__animated');
 
             $('.iva-benefits-animation-div .layer').fadeOut(0);
-            $('.iva-benefits-animation-div .layer-1').fadeIn(2000);
+            $('.iva-benefits-animation-div .layer-1').fadeIn(1000);
 
             // transform
             setTimeout(() => {
