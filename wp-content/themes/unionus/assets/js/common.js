@@ -103,7 +103,7 @@ $(function() {
         ) {
             $('.iva-benefits-animation-div').addClass('animate__animated');
 
-            alert(4);
+            $($('.iva-benefits-animation-div .layer-1')).fadeIn(200);
         }
 
         for (i = 0; i < $('.fadeleft-ele').length; i++) {

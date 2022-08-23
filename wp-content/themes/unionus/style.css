@@ -2346,7 +2346,7 @@ html[lang='en-US'] .service-points li:nth-child(2n) {
 }
 
 .iva-benefits-animation-div .layer {
-    display: block;
+    display: none;
     position: absolute;
     top: 0;
     left: 0;
