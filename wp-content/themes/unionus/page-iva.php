@@ -1074,9 +1074,22 @@ $(function() {
 </script>
 
 <div>
-    <!-- https://unionus.com.hk/contact-us/ -->
-    <a href="<?php echo get_site_url().'/'.$lang_code.'/contact-us';?>" class="consult-btn-a"> <img class="consult-btn"
-            src="https://unionus.com.hk/wp-content/uploads/2022/08/consult-btn.png" alt=""></a>
+    <?php
+    if($lang_code=='en')
+    {
+?>
+    <a href="<?php echo get_site_url().'/'.$lang_code.'/contact-us';?>" class="consult-btn-a fadein-ele"> <img
+            class="consult-btn" src="https://unionus.com.hk/wp-content/uploads/2022/08/consult-btn-en.png" alt=""></a>
+    <?php
+    }
+    else{
+ ?>
+    <a href="<?php echo get_site_url().'/'.$lang_code.'/contact-us';?>" class="consult-btn-a fadein-ele"> <img
+            class="consult-btn" src="https://unionus.com.hk/wp-content/uploads/2022/08/consult-btn.png" alt=""></a>
+    <?php       
+    }
+    ?>
+
 </div>
 
 <?php
