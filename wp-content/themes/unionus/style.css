@@ -2361,17 +2361,17 @@ html[lang='en-US'] .service-points li:nth-child(2n) {
 
 .iva-benefits-animation-div .layer-2 {
     background: url(https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-2.png);
-    z-index: 200;
+    z-index: 50;
 }
 
 .iva-benefits-animation-div .layer-3 {
     background: url(https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-3.png);
-    z-index: 300;
+    z-index: 30;
 }
 
 .iva-benefits-animation-div .layer-4 {
     background: url(https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-4-1.png);
-    z-index: 400;
+    z-index: 1000;
 }
 
 @media only screen and (max-width: 1500px) {
