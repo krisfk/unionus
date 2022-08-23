@@ -2387,6 +2387,16 @@ html[lang='en-US'] .service-points li:nth-child(2n) {
     z-index: 1000;
 }
 
+.iva-benefits-animation-div .layer-5 {
+    background: url(https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-5.png);
+    z-index: 1000;
+}
+
+.iva-benefits-animation-div .layer-6 {
+    background: url(https://unionus.com.hk/wp-content/uploads/2022/08/iva-layer-6.png);
+    z-index: 1000;
+}
+
 @media only screen and (max-width: 1500px) {
     nav.dot-menu {
         /* display: none; */

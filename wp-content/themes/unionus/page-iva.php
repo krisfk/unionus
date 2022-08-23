@@ -45,6 +45,9 @@ get_header();
                 <div class="layer layer-2"></div>
                 <div class="layer layer-3"></div>
                 <div class="layer layer-4"></div>
+                <div class="layer layer-5"></div>
+                <div class="layer layer-6"></div>
+
             </div>
 
         </div>
