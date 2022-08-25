@@ -3191,3 +3191,9 @@ html[lang='en-US'] .layer-6 {
     -o-animation: rotating 2s linear infinite;
     animation: rotating 2s linear infinite;
 }
+
+.aligncenter {
+    clear: both;
+    display: block;
+    margin: 0 auto;
+}
