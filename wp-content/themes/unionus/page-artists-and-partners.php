@@ -134,7 +134,7 @@ get_header();
 
         <div class="sep mx-auto mt-3"> <img class="sep-flo"
                 src="<?php echo get_template_directory_uri(); ?>/assets/images/sep-flo.png" alt=""></div>
-
+        test
 
     </div>
     </div>
