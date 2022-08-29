@@ -159,33 +159,7 @@ get_header();
                 </div>
 
 
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-start mt-lg-5 mt-md-0 mt-sm-0 mt-0 fadeleft-ele">
 
-                    <?php echo get_field('content_part_4'); ?>
-
-
-                    <!-- <div class="mt-3">
-                        除此之外，更如不同界別的歌手合作製作音樂，<br>
-                        如流行歌手容祖兒、方皓玟、張繼聰、關楚耀、鍾達茵R&B歌手J.J LIN，獨立樂隊TONICK及獨立歌手萱寧。<br>
-                        其中和關楚耀合作單曲《佔領》最高更獲吒叱903專業推介冠軍位置。
-                    </div>
-                    <div class="mt-3">
-                        MASTAMIC仍有多次大型演出的經驗，<br>
-                        如側田紅館演唱會，CONCERT YY黃偉文作品展演唱會和鄭秀文合唱及本地樂隊野仔九展演唱會嘉賓。<br>
-                        其他包括陳冠希、 MC HOTDOG、RUBBERBAND、太極樂隊、及梁漢文，更獲邀到馬來西亞與台灣著名歌手曹格一同演出。
-                    </div> -->
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative mt-5 faderight-ele">
-
-                    <?php echo get_field('content_part_5'); ?>
-
-                    <!-- <iframe class="w-100 start-0 position-relative" src="https://www.youtube.com/embed/L_9JELdtjDQ"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe> -->
-
-                </div>
             </div>
 
         </div>
