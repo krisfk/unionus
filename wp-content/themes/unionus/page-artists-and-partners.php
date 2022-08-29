@@ -137,7 +137,7 @@ get_header();
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-start  faderight-ele">
 
-                    <?php echo get_field('content_part_3'); ?>
+                    <?php echo get_field('content_part_7'); ?>
 
 
                     <!-- <div>
