@@ -109,6 +109,10 @@ get_header();
                 </div>
             </div>
 
+
+        </div>
+        <div class="inner-container mx-auto mt-5   text-center ">
+
             <div class="text-center mt-7 fadein-ele">
 
                 <div class="little-gold-bar mx-auto"></div>
@@ -132,7 +136,7 @@ get_header();
 
         </div>
 
-        test
+
 
 
     </div>
