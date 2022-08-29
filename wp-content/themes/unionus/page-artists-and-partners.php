@@ -128,7 +128,7 @@ get_header();
 
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 fadeleft-ele ">
 
-                    <?php echo get_field('content_part_2'); ?>
+                    <?php echo get_field('content_part_8'); ?>
 
 
                     <!-- <img class="w-100"
