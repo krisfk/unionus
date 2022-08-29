@@ -120,7 +120,9 @@ get_header();
 
             <h2 class="gold fadeinup-ele">
                 <?php //echo get_field('content_part_1'); ?>
-                致敬吳孟達先生
+                <!-- 致敬吳孟達先生 -->
+                <?php echo get_field('content_part_9'); ?>
+
                 <!-- Master Mic -->
             </h2>
 
